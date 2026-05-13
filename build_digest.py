@@ -356,13 +356,15 @@ def build_markdown(
 
 
 def send_email(markdown_path: Path, markdown_text: str) -> None:
-    host = os.environ["SMTP_HOST"]
-    username = os.environ["SMTP_USER"]
-    password = os.environ["SMTP_PASSWORD"]
+    host = required_env("SMTP_HOST")
+    username = required_env("SMTP_USER")
+    password = required_env("SMTP_PASSWORD")
     use_ssl = os.environ.get("SMTP_SSL", "false").lower() in {"1", "true", "yes"}
     port = int(os.environ.get("SMTP_PORT") or ("465" if use_ssl else "587"))
     sender = os.environ.get("EMAIL_FROM") or username
-    recipients = [x.strip() for x in os.environ["EMAIL_TO"].split(",") if x.strip()]
+    recipients = [x.strip() for x in required_env("EMAIL_TO").split(",") if x.strip()]
+    if not recipients:
+        raise RuntimeError("EMAIL_TO is set, but no recipient address was found.")
     subject_prefix = os.environ.get("EMAIL_SUBJECT_PREFIX") or "Weekly Journal RSS Digest"
 
     msg = EmailMessage()
@@ -386,6 +388,16 @@ def send_email(markdown_path: Path, markdown_text: str) -> None:
             smtp.starttls(context=ssl.create_default_context())
             smtp.login(username, password)
             smtp.send_message(msg)
+
+
+def required_env(name: str) -> str:
+    value = os.environ.get(name, "").strip()
+    if not value:
+        raise RuntimeError(
+            f"Missing required environment variable {name}. "
+            f"Add a GitHub Actions repository secret named {name}."
+        )
+    return value
 
 
 def main() -> int:
