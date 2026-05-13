@@ -1,0 +1,118 @@
+{
+  "feed_preference": "online_first",
+  "request_delay_seconds": 1.0,
+  "journals": [
+    {
+      "name": "Journal of Management",
+      "publisher": "SAGE",
+      "field": "ETHICS-CSR-MAN",
+      "ajg_2024": "4*",
+      "sage_code": "jom",
+      "sage_feed_jc": "joma"
+    },
+    {
+      "name": "Journal of Marketing",
+      "publisher": "SAGE",
+      "field": "MKT",
+      "ajg_2024": "4*",
+      "sage_code": "jmx",
+      "sage_feed_jc": "jmxa"
+    },
+    {
+      "name": "Psychological Science",
+      "publisher": "SAGE",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4*",
+      "sage_code": "pss",
+      "sage_feed_jc": "pssa"
+    },
+    {
+      "name": "American Sociological Review",
+      "publisher": "SAGE",
+      "field": "SOC SCI",
+      "ajg_2024": "4*",
+      "sage_code": "asr",
+      "sage_feed_jc": "asra"
+    },
+    {
+      "name": "Work, Employment and Society",
+      "publisher": "SAGE",
+      "field": "HRM&EMP",
+      "ajg_2024": "4",
+      "sage_code": "wes",
+      "sage_feed_jc": "wesa"
+    },
+    {
+      "name": "Human Relations",
+      "publisher": "SAGE",
+      "field": "ORG STUD",
+      "ajg_2024": "4",
+      "sage_code": "hum",
+      "sage_feed_jc": "huma"
+    },
+    {
+      "name": "Organization Studies",
+      "publisher": "SAGE",
+      "field": "ORG STUD",
+      "ajg_2024": "4",
+      "sage_code": "oss",
+      "sage_feed_jc": "ossa"
+    },
+    {
+      "name": "Organizational Research Methods",
+      "publisher": "SAGE",
+      "field": "ORG STUD",
+      "ajg_2024": "4",
+      "sage_code": "orm",
+      "sage_feed_jc": "orma"
+    },
+    {
+      "name": "Current Directions in Psychological Science",
+      "publisher": "SAGE",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4",
+      "sage_code": "cdp",
+      "sage_feed_jc": "cdpa"
+    },
+    {
+      "name": "Personality and Social Psychology Bulletin",
+      "publisher": "SAGE",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4",
+      "sage_code": "psp",
+      "sage_feed_jc": "pspa"
+    },
+    {
+      "name": "Journal of Service Research",
+      "publisher": "SAGE",
+      "field": "SECTOR",
+      "ajg_2024": "4",
+      "sage_code": "jsr",
+      "sage_feed_jc": "jsra"
+    },
+    {
+      "name": "Journal of Travel Research",
+      "publisher": "SAGE",
+      "field": "SECTOR",
+      "ajg_2024": "4",
+      "sage_code": "jtr",
+      "sage_feed_jc": "jtra"
+    },
+    {
+      "name": "Environment and Planning D: Society and Space",
+      "publisher": "SAGE",
+      "field": "SOC SCI",
+      "ajg_2024": "4",
+      "sage_code": "epd",
+      "sage_feed_jc": "epda"
+    },
+    {
+      "name": "Sociology",
+      "publisher": "SAGE",
+      "field": "SOC SCI",
+      "ajg_2024": "4",
+      "sage_code": "soc",
+      "sage_feed_jc": "soca"
+    }
+  ]
+}
