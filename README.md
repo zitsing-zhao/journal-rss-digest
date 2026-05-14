@@ -1,11 +1,14 @@
-# Weekly SAGE AJG 4*/4 RSS Digest
+# Weekly AJG 4*/4 Journal Digest
 
-This project collects new articles from selected SAGE journals rated AJG 4* or 4, writes a weekly Markdown digest, and can email the digest through SMTP.
+This project collects new articles from AJG 2024 journals rated 4* or 4, writes a weekly Markdown digest with full abstracts where available, and can email the digest through SMTP.
+
+The configured list excludes `BUS HIST & ECON HIST` and `SECTOR`.
 
 ## Files
 
-- `config/journals.json`: journal list and SAGE journal codes
-- `build_digest.py`: fetch, deduplicate, write Markdown, and optionally email
+- `config/journals.json`: AJG 4*/4 journal list, ISSNs, fields, publishers, and source hints
+- `build_digest.py`: fetch, deduplicate, enrich abstracts, write Markdown, and optionally email
+- `tools/update_journal_config.py`: regenerate the AJG 4*/4 list from the public AJG table
 - `digests/`: generated weekly Markdown files
 - `state/seen_articles.json`: article IDs already included in previous runs
 - `.github/workflows/weekly-rss-digest.yml`: weekly GitHub Actions schedule
@@ -61,6 +64,12 @@ The included GitHub Actions workflow runs every Monday at 08:00 UTC. Add the ema
 
 The action commits the generated digest and updated `state/seen_articles.json` back to the repository.
 
+## Sources
+
+SAGE journals use SAGE RSS feeds where configured. Other publishers use Crossref by ISSN as a fallback because publishers do not share one consistent RSS URL pattern.
+
+The script also enriches shortened RSS abstracts by looking up the article DOI in Crossref before trying the article page.
+
 ## Notes
 
-The script first tries to discover each RSS URL from the SAGE "Keep up to date" page. If discovery fails, it falls back to SAGE's standard RSS endpoint using the configured journal code.
+The first successful run after expanding the journal list may be large because `state/seen_articles.json` is empty. Later weekly runs only include articles that have not been seen before.

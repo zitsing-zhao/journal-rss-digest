@@ -13,7 +13,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import datetime, timezone
 from email.message import EmailMessage
 from email.utils import parsedate_to_datetime
@@ -27,6 +27,7 @@ DEFAULT_STATE = ROOT / "state" / "seen_articles.json"
 DEFAULT_DIGEST_DIR = ROOT / "digests"
 
 SAGE_BASE = "https://journals.sagepub.com"
+CROSSREF_BASE = "https://api.crossref.org"
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -45,7 +46,7 @@ class Article:
     summary: str
     ajg_2024: str
     field: str
-    feed_url: str
+    source_url: str
 
 
 def read_json(path: Path, default: Any) -> Any:
@@ -226,6 +227,88 @@ def sage_feed_url(feed_jc: str, preference: str) -> str:
     return f"{SAGE_BASE}/action/showFeed?{query}"
 
 
+def crossref_journal_url(issn: str, rows: int) -> str:
+    query = urllib.parse.urlencode(
+        {
+            "filter": "type:journal-article",
+            "sort": "published",
+            "order": "desc",
+            "rows": str(rows),
+            "mailto": os.environ.get("CROSSREF_MAILTO", ""),
+        }
+    )
+    return f"{CROSSREF_BASE}/journals/{urllib.parse.quote(issn)}/works?{query}"
+
+
+def parse_crossref_date(item: dict[str, Any]) -> str:
+    for key in ("published-online", "published-print", "published", "issued", "created"):
+        parts = item.get(key, {}).get("date-parts")
+        if parts and parts[0]:
+            values = [str(value).zfill(2) for value in parts[0]]
+            if len(values) >= 3:
+                return f"{values[0]}-{values[1]}-{values[2]}"
+            if len(values) == 2:
+                return f"{values[0]}-{values[1]}"
+            return values[0]
+    return ""
+
+
+def parse_crossref_authors(item: dict[str, Any]) -> list[str]:
+    authors: list[str] = []
+    for author in item.get("author", []):
+        given = author.get("given", "")
+        family = author.get("family", "")
+        name = clean_text(f"{given} {family}".strip() or author.get("name", ""))
+        if name:
+            authors.append(name)
+    return authors
+
+
+def fetch_crossref_articles(journal: dict[str, Any], rows: int) -> list[Article]:
+    issn = journal.get("issn") or journal.get("ISSN")
+    if not issn:
+        raise KeyError("missing ISSN for Crossref source")
+
+    source_url = crossref_journal_url(str(issn), rows)
+    data = json.loads(fetch_text(source_url))
+    items = data.get("message", {}).get("items", [])
+    articles: list[Article] = []
+
+    for item in items:
+        title = clean_text((item.get("title") or ["Untitled"])[0])
+        doi = clean_text(item.get("DOI", ""))
+        link = item.get("URL") or (f"https://doi.org/{doi}" if doi else "")
+        abstract = clean_text(item.get("abstract", ""))
+        article_id = doi or link or title
+        if not article_id:
+            continue
+        articles.append(
+            Article(
+                article_id=article_id,
+                journal=journal["name"],
+                title=title,
+                link=link,
+                published=parse_crossref_date(item),
+                authors=parse_crossref_authors(item),
+                summary=abstract,
+                ajg_2024=journal.get("ajg_2024", ""),
+                field=journal.get("field", ""),
+                source_url=source_url,
+            )
+        )
+
+    return articles
+
+
+def fetch_crossref_abstract_by_doi(doi: str) -> str:
+    doi = doi.strip()
+    if not doi.lower().startswith("10."):
+        return ""
+    url = f"{CROSSREF_BASE}/works/{urllib.parse.quote(doi, safe='')}"
+    data = json.loads(fetch_text(url))
+    return clean_text(data.get("message", {}).get("abstract", ""))
+
+
 def parse_feed(feed_xml: str, journal: dict[str, Any], feed_url: str) -> list[Article]:
     root = ET.fromstring(feed_xml)
 
@@ -275,7 +358,7 @@ def parse_feed(feed_xml: str, journal: dict[str, Any], feed_url: str) -> list[Ar
                 summary=summary,
                 ajg_2024=journal.get("ajg_2024", ""),
                 field=journal.get("field", ""),
-                feed_url=feed_url,
+                source_url=feed_url,
             )
         )
 
@@ -285,6 +368,7 @@ def parse_feed(feed_xml: str, journal: dict[str, Any], feed_url: str) -> list[Ar
 def collect_articles(config: dict[str, Any]) -> tuple[list[Article], list[str]]:
     preference = config.get("feed_preference", "online_first")
     request_delay_seconds = float(config.get("request_delay_seconds", 1.0))
+    max_articles_per_journal = int(config.get("max_articles_per_journal", 30))
     articles: list[Article] = []
     errors: list[str] = []
 
@@ -292,14 +376,105 @@ def collect_articles(config: dict[str, Any]) -> tuple[list[Article], list[str]]:
         if index:
             time.sleep(request_delay_seconds)
         try:
-            feed_url = discover_sage_feed_url(journal, preference)
-            feed_xml = fetch_text(feed_url)
-            articles.extend(parse_feed(feed_xml, journal, feed_url))
-            print(f"Fetched {journal['name']}: {feed_url}")
+            if journal.get("feed_url") or journal.get("sage_feed_jc") or journal.get("source") == "sage_rss":
+                feed_url = discover_sage_feed_url(journal, preference)
+                feed_xml = fetch_text(feed_url)
+                journal_articles = parse_feed(feed_xml, journal, feed_url)
+                print(f"Fetched {journal['name']}: {feed_url}")
+            else:
+                journal_articles = fetch_crossref_articles(journal, max_articles_per_journal)
+                print(f"Fetched {journal['name']}: Crossref ISSN {journal.get('issn')}")
+            articles.extend(journal_articles[:max_articles_per_journal])
         except (urllib.error.URLError, ET.ParseError, KeyError, TimeoutError) as exc:
             errors.append(f"{journal.get('name', 'Unknown journal')}: {exc}")
 
     return articles, errors
+
+
+def needs_abstract_enrichment(summary: str) -> bool:
+    text = summary.strip()
+    if not text:
+        return True
+    return text.endswith("...") or text.endswith("...") or text.endswith("…")
+
+
+def extract_meta_content(html_text: str, names: list[str]) -> str:
+    for name in names:
+        pattern = (
+            r"<meta[^>]+(?:name|property)=['\"]"
+            + re.escape(name)
+            + r"['\"][^>]+content=['\"]([^'\"]+)['\"][^>]*>"
+        )
+        match = re.search(pattern, html_text, flags=re.IGNORECASE)
+        if match:
+            return clean_text(match.group(1))
+        reverse_pattern = (
+            r"<meta[^>]+content=['\"]([^'\"]+)['\"][^>]+(?:name|property)=['\"]"
+            + re.escape(name)
+            + r"['\"][^>]*>"
+        )
+        match = re.search(reverse_pattern, html_text, flags=re.IGNORECASE)
+        if match:
+            return clean_text(match.group(1))
+    return ""
+
+
+def extract_article_page_abstract(html_text: str) -> str:
+    meta = extract_meta_content(
+        html_text,
+        [
+            "citation_abstract",
+            "dc.Description",
+            "description",
+            "og:description",
+            "twitter:description",
+        ],
+    )
+    if meta:
+        return meta
+
+    for pattern in (
+        r"<section[^>]+class=['\"][^'\"]*abstract[^'\"]*['\"][^>]*>(.*?)</section>",
+        r"<div[^>]+class=['\"][^'\"]*abstract[^'\"]*['\"][^>]*>(.*?)</div>",
+        r"<div[^>]+id=['\"][^'\"]*abstract[^'\"]*['\"][^>]*>(.*?)</div>",
+    ):
+        match = re.search(pattern, html_text, flags=re.IGNORECASE | re.DOTALL)
+        if match:
+            abstract = clean_text(match.group(1))
+            abstract = re.sub(r"^Abstract\s*", "", abstract, flags=re.IGNORECASE).strip()
+            if abstract:
+                return abstract
+    return ""
+
+
+def enrich_article_abstracts(
+    articles: list[Article],
+    request_delay_seconds: float,
+) -> list[Article]:
+    enriched: list[Article] = []
+    for index, article in enumerate(articles):
+        if not needs_abstract_enrichment(article.summary) or not article.link:
+            enriched.append(article)
+            continue
+        if index:
+            time.sleep(request_delay_seconds)
+        try:
+            crossref_abstract = fetch_crossref_abstract_by_doi(article.article_id)
+            if len(crossref_abstract) > len(article.summary):
+                enriched.append(replace(article, summary=crossref_abstract))
+                continue
+        except Exception:
+            pass
+        try:
+            page_html = fetch_text(article.link, timeout=30, retries=1)
+            page_abstract = extract_article_page_abstract(page_html)
+            if len(page_abstract) > len(article.summary):
+                enriched.append(replace(article, summary=page_abstract))
+            else:
+                enriched.append(article)
+        except Exception:
+            enriched.append(article)
+    return enriched
 
 
 def build_markdown(
@@ -309,7 +484,7 @@ def build_markdown(
 ) -> str:
     title_date = generated_at.strftime("%Y-%m-%d")
     lines = [
-        f"# Weekly SAGE AJG 4*/4 Journal Digest - {title_date}",
+        f"# Weekly AJG 4*/4 Journal Digest - {title_date}",
         "",
         f"Generated at: {generated_at.strftime('%Y-%m-%d %H:%M UTC')}",
         f"New articles: {len(new_articles)}",
@@ -342,8 +517,11 @@ def build_markdown(
                 if item.published:
                     lines.append(f"  - Published: {item.published}")
                 if item.summary:
-                    summary = item.summary[:700].rstrip()
-                    lines.append(f"  - Summary: {summary}")
+                    lines.append("  - Abstract:")
+                    for paragraph in re.split(r"\n{2,}", item.summary):
+                        paragraph = paragraph.strip()
+                        if paragraph:
+                            lines.append(f"    {paragraph}")
                 lines.append("")
 
     if errors:
@@ -433,10 +611,16 @@ def main() -> int:
     else:
         new_articles = [article for article_id, article in unique.items() if article_id not in seen]
 
+    if config.get("enrich_abstracts", True):
+        new_articles = enrich_article_abstracts(
+            new_articles,
+            float(config.get("article_page_delay_seconds", config.get("request_delay_seconds", 1.0))),
+        )
+
     generated_at = datetime.now(timezone.utc)
     markdown_text = build_markdown(new_articles, errors, generated_at)
     args.output_dir.mkdir(parents=True, exist_ok=True)
-    output_path = args.output_dir / f"{generated_at.strftime('%Y-%m-%d')}_sage_ajg_digest.md"
+    output_path = args.output_dir / f"{generated_at.strftime('%Y-%m-%d')}_ajg_digest.md"
     output_path.write_text(markdown_text, encoding="utf-8")
 
     if not args.dry_run:
