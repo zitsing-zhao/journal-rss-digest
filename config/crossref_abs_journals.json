@@ -1,0 +1,1258 @@
+{
+  "source_note": "ABS/AJG 2024 rows with AJG2024 equal to 4* or 4. Generated from local workbook ABS Journal Ranking 2024 (4_ and 4).xlsx.",
+  "crossref_mailto": "ziqing.zhao@dauphine.eu",
+  "app_name": "ABSJournalMonitor/1.0",
+  "journals": [
+    {
+      "name": "Journal of Business Venturing",
+      "issn": "1873-2003",
+      "publisher": "Elsevier",
+      "field": "ENT-SBM",
+      "ajg_2024": "4*",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Entrepreneurship Theory and Practice",
+      "issn": "1540-6520",
+      "publisher": "Wiley-Blackwell",
+      "field": "ENT-SBM",
+      "ajg_2024": "4*",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Strategic Management Journal",
+      "issn": "1097-0266",
+      "publisher": "Wiley-Blackwell",
+      "field": "STRAT",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Annual Review of Sociology",
+      "issn": "1545-2115",
+      "publisher": "Annual Reviews Inc.",
+      "field": "SOC SCI",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "American Sociological Review",
+      "issn": "1939-8271",
+      "publisher": "SAGE",
+      "field": "SOC SCI",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "American Journal of Sociology",
+      "issn": "1537-5390",
+      "publisher": "University of Chicago Press",
+      "field": "SOC SCI",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Public Administration Review",
+      "issn": "1540-6210",
+      "publisher": "Wiley-Blackwell",
+      "field": "PUB SEC",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Personnel Psychology",
+      "issn": "1744-6570",
+      "publisher": "Wiley-Blackwell",
+      "field": "PSYCH (WOP-OB)",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Applied Psychology",
+      "issn": "1939-1854",
+      "publisher": "APA",
+      "field": "PSYCH (WOP-OB)",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Psychological Science",
+      "issn": "1467-9280",
+      "publisher": "SAGE",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Organization Science",
+      "issn": "1526-5455",
+      "publisher": "Institute for Operations Research and the Management Sciences",
+      "field": "ORG STUD",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Operations Research",
+      "issn": "1526-5463",
+      "publisher": "Institute for Operations Research and the Management Sciences",
+      "field": "OR&MANSCI",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Management Science",
+      "issn": "1526-5501",
+      "publisher": "Institute for Operations Research and the Management Sciences",
+      "field": "OR&MANSCI",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of Operations Management",
+      "issn": "1873-1317",
+      "publisher": "Wiley-Blackwell",
+      "field": "OPS&TECH",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Marketing Science",
+      "issn": "1526-548X",
+      "publisher": "Institute for Operations Research and the Management Sciences",
+      "field": "MKT",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of the Academy of Marketing Science",
+      "issn": "1552-7824",
+      "publisher": "Springer Nature",
+      "field": "MKT",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of Marketing Research",
+      "issn": "1547-7193",
+      "publisher": "American Marketing Association",
+      "field": "MKT",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of Marketing",
+      "issn": "1547-7185",
+      "publisher": "SAGE",
+      "field": "MKT",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of Consumer Research",
+      "issn": "1537-5277",
+      "publisher": "Oxford University Press",
+      "field": "MKT",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of Consumer Psychology",
+      "issn": "1532-7663",
+      "publisher": "Wiley-Blackwell",
+      "field": "MKT",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Academy of Management Learning and Education",
+      "issn": "1944-9585",
+      "publisher": "George Washington University",
+      "field": "MDEV&EDU",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Research Policy",
+      "issn": "1873-7625",
+      "publisher": "Elsevier",
+      "field": "INNOV",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "MIS Quarterly: Management Information Systems",
+      "issn": "2162-9730",
+      "publisher": "University of Minnesota",
+      "field": "INFO MAN",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of the Association for Information Systems",
+      "issn": "1558-3457",
+      "publisher": "Association for Information Systems",
+      "field": "INFO MAN",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Information Systems Research",
+      "issn": "1526-5536",
+      "publisher": "Institute for Operations Research and the Management Sciences",
+      "field": "INFO MAN",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of International Business Studies",
+      "issn": "1478-6990",
+      "publisher": "Springer Nature",
+      "field": "IB&AREA",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Human Resource Management Journal (UK)",
+      "issn": "1748-8583",
+      "publisher": "Wiley-Blackwell",
+      "field": "HRM&EMP",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Review of Financial Studies",
+      "issn": "1465-7368",
+      "publisher": "Oxford University Press",
+      "field": "FINANCE",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of Financial Economics",
+      "issn": "0304-405X",
+      "publisher": "Elsevier",
+      "field": "FINANCE",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of Finance",
+      "issn": "1540-6261",
+      "publisher": "Wiley-Blackwell",
+      "field": "FINANCE",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of Management",
+      "issn": "1557-1211",
+      "publisher": "SAGE",
+      "field": "ETHICS-CSR-MAN",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Administrative Science Quarterly",
+      "issn": "1930-3815",
+      "publisher": "Cornell University Press",
+      "field": "ETHICS-CSR-MAN",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Academy of Management Review",
+      "issn": "1930-3807",
+      "publisher": "Academy of Management",
+      "field": "ETHICS-CSR-MAN",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Academy of Management Journal",
+      "issn": "1948-0989",
+      "publisher": "Academy of Management",
+      "field": "ETHICS-CSR-MAN",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Academy of Management Annals",
+      "issn": "1941-6067",
+      "publisher": "Academy of Management",
+      "field": "ETHICS-CSR-MAN",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Review of Economic Studies",
+      "issn": "1467-937X",
+      "publisher": "Oxford University Press",
+      "field": "ECON",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Quarterly Journal of Economics",
+      "issn": "1531-4650",
+      "publisher": "Oxford University Press",
+      "field": "ECON",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of Political Economy",
+      "issn": "1537-534X",
+      "publisher": "University of Chicago Press",
+      "field": "ECON",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Econometrica",
+      "issn": "1468-0262",
+      "publisher": "Wiley-Blackwell",
+      "field": "ECON",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Annals of Statistics",
+      "issn": "2168-8966",
+      "publisher": "Institute of Mathematical Statistics",
+      "field": "ECON",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "American Economic Review",
+      "issn": "1944-7981",
+      "publisher": "American Economic Association",
+      "field": "ECON",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of Accounting Research",
+      "issn": "1475-679X",
+      "publisher": "Wiley-Blackwell",
+      "field": "ACCOUNT",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Journal of Accounting and Economics",
+      "issn": "1879-1980",
+      "publisher": "Elsevier",
+      "field": "ACCOUNT",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Accounting, Organizations and Society",
+      "issn": "1873-6289",
+      "publisher": "Elsevier",
+      "field": "ACCOUNT",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Accounting Review",
+      "issn": "1558-7967",
+      "publisher": "American Accounting Association",
+      "field": "ACCOUNT",
+      "ajg_2024": "4*",
+      "ajg_2021": "4*",
+      "ajg_2018": "4*"
+    },
+    {
+      "name": "Long Range Planning",
+      "issn": "1873-1872",
+      "publisher": "Elsevier",
+      "field": "STRAT",
+      "ajg_2024": "4.0",
+      "ajg_2021": "3.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Socio-Economic Review",
+      "issn": "1475-147X",
+      "publisher": "Oxford University Press",
+      "field": "SOC SCI",
+      "ajg_2024": "4.0",
+      "ajg_2021": "3.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Global Strategy Journal",
+      "issn": "2042-5805",
+      "publisher": "Wiley-Blackwell",
+      "field": "STRAT",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Sociology",
+      "issn": "1469-8684",
+      "publisher": "SAGE",
+      "field": "SOC SCI",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Social Science and Medicine",
+      "issn": "1873-5347",
+      "publisher": "Elsevier",
+      "field": "SOC SCI",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Risk Analysis",
+      "issn": "1539-6924",
+      "publisher": "Wiley-Blackwell",
+      "field": "SOC SCI",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Environment and Planning D: Society and Space",
+      "issn": "1472-3433",
+      "publisher": "SAGE",
+      "field": "SOC SCI",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Transportation Research, Series B: Methodological",
+      "issn": "1879-2367",
+      "publisher": "Elsevier",
+      "field": "SECTOR",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Tourism Management",
+      "issn": "1879-3193",
+      "publisher": "Elsevier",
+      "field": "SECTOR",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Travel Research",
+      "issn": "1552-6763",
+      "publisher": "SAGE",
+      "field": "SECTOR",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Service Research",
+      "issn": "1552-7379",
+      "publisher": "SAGE",
+      "field": "SECTOR",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Annals of Tourism Research",
+      "issn": "1873-7722",
+      "publisher": "Elsevier",
+      "field": "SECTOR",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Regional Studies",
+      "issn": "1360-0591",
+      "publisher": "Taylor & Francis",
+      "field": "REGIONAL STUDIES, PLANNING AND ENVIRONMENT",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Journal of Economic Geography",
+      "issn": "1468-2710",
+      "publisher": "Oxford University Press",
+      "field": "REGIONAL STUDIES, PLANNING AND ENVIRONMENT",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Economic Geography",
+      "issn": "1944-8287",
+      "publisher": "Taylor & Francis",
+      "field": "REGIONAL STUDIES, PLANNING AND ENVIRONMENT",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Public Management Review",
+      "issn": "1471-9045",
+      "publisher": "Taylor & Francis",
+      "field": "PUB SEC",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Public Administration",
+      "issn": "1467-9299",
+      "publisher": "Wiley-Blackwell",
+      "field": "PUB SEC",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Public Administration Research and Theory",
+      "issn": "1477-9803",
+      "publisher": "Oxford University Press",
+      "field": "PUB SEC",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Governance",
+      "issn": "1468-0491",
+      "publisher": "Wiley-Blackwell",
+      "field": "PUB SEC",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Work and Stress",
+      "issn": "1464-5335",
+      "publisher": "Taylor & Francis",
+      "field": "PSYCH (WOP-OB)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Organizational Behavior and Human Decision Processes",
+      "issn": "1095-9920",
+      "publisher": "Elsevier",
+      "field": "PSYCH (WOP-OB)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Vocational Behavior",
+      "issn": "1095-9084",
+      "publisher": "Elsevier",
+      "field": "PSYCH (WOP-OB)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Organizational Behavior",
+      "issn": "1099-1379",
+      "publisher": "Wiley-Blackwell",
+      "field": "PSYCH (WOP-OB)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Occupational Health Psychology",
+      "issn": "1939-1307",
+      "publisher": "APA",
+      "field": "PSYCH (WOP-OB)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Occupational and Organizational Psychology",
+      "issn": "2044-8325",
+      "publisher": "Wiley-Blackwell",
+      "field": "PSYCH (WOP-OB)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Psychological Review",
+      "issn": "1939-1471",
+      "publisher": "APA",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Psychological Bulletin",
+      "issn": "1939-1455",
+      "publisher": "APA",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Personality and Social Psychology Bulletin",
+      "issn": "1552-7433",
+      "publisher": "SAGE",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Personality and Social Psychology",
+      "issn": "1939-1315",
+      "publisher": "APA",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Experimental Social Psychology",
+      "issn": "1096-0465",
+      "publisher": "Elsevier",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Experimental Psychology: General",
+      "issn": "1939-2222",
+      "publisher": "APA",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Experimental Psychology: Applied",
+      "issn": "1939-2192",
+      "publisher": "APA",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Current Directions in Psychological Science",
+      "issn": "1467-8721",
+      "publisher": "SAGE",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Cognition",
+      "issn": "1873-7838",
+      "publisher": "Elsevier",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Behavioral and Brain Sciences",
+      "issn": "1469-1825",
+      "publisher": "Cambridge University Press",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Annual Review of Psychology",
+      "issn": "1545-2085",
+      "publisher": "Annual Reviews Inc.",
+      "field": "PSYCH (GENERAL)",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Organizational Research Methods",
+      "issn": "1552-7425",
+      "publisher": "SAGE",
+      "field": "ORG STUD",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Organization Studies",
+      "issn": "1741-3044",
+      "publisher": "SAGE",
+      "field": "ORG STUD",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Leadership Quarterly",
+      "issn": "1873-3409",
+      "publisher": "Elsevier",
+      "field": "ORG STUD",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Human Relations",
+      "issn": "1741-282X",
+      "publisher": "SAGE",
+      "field": "ORG STUD",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Mathematical Programming",
+      "issn": "1436-4646",
+      "publisher": "Springer Nature",
+      "field": "OR&MANSCI",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "IEEE Transactions on Evolutionary Computation",
+      "issn": "1941-0026",
+      "publisher": "IEEE",
+      "field": "OR&MANSCI",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "European Journal of Operational Research",
+      "issn": "1872-6860",
+      "publisher": "Elsevier",
+      "field": "OR&MANSCI",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Production and Operations Management",
+      "issn": "1937-5956",
+      "publisher": "Wiley-Blackwell",
+      "field": "OPS&TECH",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Supply Chain Management",
+      "issn": "1745-493X",
+      "publisher": "Wiley-Blackwell",
+      "field": "OPS&TECH",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "International Journal of Operations and Production Management",
+      "issn": "1758-6593",
+      "publisher": "Emerald",
+      "field": "OPS&TECH",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Retailing",
+      "issn": "1873-3271",
+      "publisher": "Elsevier",
+      "field": "MKT",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "International Journal of Research in Marketing",
+      "issn": "1873-8001",
+      "publisher": "Elsevier",
+      "field": "MKT",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Product Innovation Management",
+      "issn": "1540-5885",
+      "publisher": "Wiley-Blackwell",
+      "field": "INNOV",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Strategic Information Systems",
+      "issn": "1873-1198",
+      "publisher": "Elsevier",
+      "field": "INFO MAN",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Journal of Management Information Systems",
+      "issn": "1557-928X",
+      "publisher": "Taylor & Francis",
+      "field": "INFO MAN",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Information Technology",
+      "issn": "1466-4437",
+      "publisher": "Springer Nature",
+      "field": "INFO MAN",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Information Systems Journal",
+      "issn": "1365-2575",
+      "publisher": "Wiley-Blackwell",
+      "field": "INFO MAN",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "European Journal of Information Systems",
+      "issn": "1476-9344",
+      "publisher": "Taylor & Francis",
+      "field": "INFO MAN",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Journal of World Business",
+      "issn": "1878-5573",
+      "publisher": "Elsevier",
+      "field": "IB&AREA",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Work, Employment and Society",
+      "issn": "1469-8722",
+      "publisher": "SAGE",
+      "field": "HRM&EMP",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Industrial Relations",
+      "issn": "1468-232X",
+      "publisher": "Wiley-Blackwell",
+      "field": "HRM&EMP",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Human Resource Management (USA)",
+      "issn": "1099-050X",
+      "publisher": "Wiley-Blackwell",
+      "field": "HRM&EMP",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "British Journal of Industrial Relations",
+      "issn": "1467-8543",
+      "publisher": "Wiley-Blackwell",
+      "field": "HRM&EMP",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Review of Finance",
+      "issn": "1573-692X",
+      "publisher": "Oxford University Press",
+      "field": "FINANCE",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Money, Credit and Banking",
+      "issn": "1538-4616",
+      "publisher": "Wiley-Blackwell",
+      "field": "FINANCE",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Financial Intermediation",
+      "issn": "1096-0473",
+      "publisher": "Elsevier",
+      "field": "FINANCE",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Financial and Quantitative Analysis",
+      "issn": "1756-6916",
+      "publisher": "Cambridge University Press",
+      "field": "FINANCE",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Corporate Finance",
+      "issn": "1872-6313",
+      "publisher": "Elsevier",
+      "field": "FINANCE",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Management Studies",
+      "issn": "1467-6486",
+      "publisher": "Wiley-Blackwell",
+      "field": "ETHICS-CSR-MAN",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "British Journal of Management",
+      "issn": "1467-8551",
+      "publisher": "Wiley-Blackwell",
+      "field": "ETHICS-CSR-MAN",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Academy of Management Perspectives",
+      "issn": "1558-9080",
+      "publisher": "Academy of Management",
+      "field": "ETHICS-CSR-MAN",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Strategic Entrepreneurship Journal",
+      "issn": "1932-443X",
+      "publisher": "Wiley-Blackwell",
+      "field": "ENT-SBM",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Theoretical Economics",
+      "issn": "1555-7561",
+      "publisher": "Wiley-Blackwell",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Review of Economics and Statistics",
+      "issn": "1530-9142",
+      "publisher": "MIT Press",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "RAND Journal of Economics",
+      "issn": "1756-2171",
+      "publisher": "Wiley-Blackwell",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Quantitative Economics",
+      "issn": "1759-7331",
+      "publisher": "Wiley-Blackwell",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Journal of the Royal Statistical Society. Series B: Statistical Methodology",
+      "issn": "1467-9868",
+      "publisher": "Wiley-Blackwell",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of the European Economic Association",
+      "issn": "1542-4774",
+      "publisher": "Wiley-Blackwell",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of the American Statistical Association",
+      "issn": "1537-274X",
+      "publisher": "Taylor & Francis",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Monetary Economics",
+      "issn": "1873-1295",
+      "publisher": "Elsevier",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Labor Economics",
+      "issn": "1537-5307",
+      "publisher": "University of Chicago Press",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of International Economics",
+      "issn": "1873-0353",
+      "publisher": "Elsevier",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Economic Theory",
+      "issn": "1095-7235",
+      "publisher": "Elsevier",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Economic Perspectives",
+      "issn": "1944-7965",
+      "publisher": "American Economic Association",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Economic Literature",
+      "issn": "2328-8175",
+      "publisher": "American Economic Association",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Econometrics",
+      "issn": "1872-6895",
+      "publisher": "Elsevier",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Journal of Business and Economic Statistics",
+      "issn": "1537-2707",
+      "publisher": "Taylor & Francis",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "International Economic Review",
+      "issn": "1468-2354",
+      "publisher": "Wiley-Blackwell",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Economic Journal",
+      "issn": "1468-0297",
+      "publisher": "Wiley-Blackwell",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Econometric Theory",
+      "issn": "1469-4360",
+      "publisher": "Cambridge University Press",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Biometrika",
+      "issn": "1464-3510",
+      "publisher": "Oxford University Press",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "American Economic Journal: Macroeconomics",
+      "issn": "1945-7715",
+      "publisher": "American Economic Association",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "American Economic Journal: Applied Economics",
+      "issn": "1945-7790",
+      "publisher": "American Economic Association",
+      "field": "ECON",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Economic History Review",
+      "issn": "1468-0289",
+      "publisher": "Wiley-Blackwell",
+      "field": "BUS HIST & ECON HIST",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Business History Review",
+      "issn": "2044-768X",
+      "publisher": "Cambridge University Press",
+      "field": "BUS HIST & ECON HIST",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Business History",
+      "issn": "1743-7938",
+      "publisher": "Taylor & Francis",
+      "field": "BUS HIST & ECON HIST",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "3.0"
+    },
+    {
+      "name": "Review of Accounting Studies",
+      "issn": "1573-7136",
+      "publisher": "Springer Nature",
+      "field": "ACCOUNT",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    },
+    {
+      "name": "Contemporary Accounting Research",
+      "issn": "1911-3846",
+      "publisher": "Wiley-Blackwell",
+      "field": "ACCOUNT",
+      "ajg_2024": "4.0",
+      "ajg_2021": "4.0",
+      "ajg_2018": "4.0"
+    }
+  ]
+}
