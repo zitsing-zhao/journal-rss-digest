@@ -19,6 +19,30 @@ This workflow searches Crossref every day for new records in ABS/AJG 2024 4* and
 
 Use `--mode published` if you want the date filter to mean publication date rather than newly created Crossref record date.
 
+## Adjust The Journal List
+
+Edit `config/crossref_abs_journals.json` directly to add, remove, or change journals. Each journal needs at least:
+
+```json
+{
+  "name": "Strategic Management Journal",
+  "issn": "1097-0266",
+  "publisher": "Wiley-Blackwell",
+  "field": "STRAT",
+  "ajg_2024": "4*",
+  "ajg_2021": "4*",
+  "ajg_2018": "4*"
+}
+```
+
+The `issn` field is the key field Crossref uses. Keep it in `NNNN-NNNN` format when possible.
+
+To regenerate the config from a new Excel list:
+
+```powershell
+& '.venv\Scripts\python.exe' 'tools\update_crossref_abs_config.py' 'C:\path\to\ABS Journal Ranking.xlsx'
+```
+
 ## Local Email Run
 
 ```powershell
