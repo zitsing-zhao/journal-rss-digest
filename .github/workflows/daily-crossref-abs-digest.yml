@@ -1,0 +1,75 @@
+name: Daily ABS Crossref Digest
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Berlin send window
+        id: send_window
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          hour="$(TZ=Europe/Berlin date +%H)"
+          if [ "$hour" = "08" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.send_window.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.send_window.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Build and email daily digest
+        if: steps.send_window.outputs.run == 'true'
+        env:
+          TZ: Europe/Berlin
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO || vars.CROSSREF_MAILTO }}
+          CROSSREF_APP_NAME: ${{ secrets.CROSSREF_APP_NAME || vars.CROSSREF_APP_NAME }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST || vars.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT || vars.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER || vars.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_SSL: ${{ secrets.SMTP_SSL || vars.SMTP_SSL }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM || vars.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO || vars.EMAIL_TO }}
+          EMAIL_SUBJECT_PREFIX: ${{ secrets.EMAIL_SUBJECT_PREFIX || vars.EMAIL_SUBJECT_PREFIX }}
+        run: |
+          missing=0
+          for name in SMTP_HOST SMTP_USER SMTP_PASSWORD EMAIL_TO; do
+            if [ -z "${!name}" ]; then
+              echo "::error::$name is empty. Add it under Settings > Secrets and variables > Actions."
+              missing=1
+            fi
+          done
+          if [ "$missing" -ne 0 ]; then
+            exit 1
+          fi
+
+          python build_crossref_abs_digest.py --send-email --days 1 --mode created
+
+      - name: Commit digest and state
+        if: steps.send_window.outputs.run == 'true'
+        run: |
+          git config user.name "crossref-abs-digest-bot"
+          git config user.email "crossref-abs-digest-bot@example.com"
+          git add digests state outputs
+          git commit -m "Add daily ABS Crossref digest" || echo "No changes to commit"
+          git push
