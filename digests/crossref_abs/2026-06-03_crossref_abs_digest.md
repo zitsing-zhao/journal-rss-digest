@@ -1,9 +1,9 @@
 # Daily ABS 4*/4 Crossref Digest - 2026-06-03
 
-Generated at: 2026-06-03 14:53 UTC
+Generated at: 2026-06-03 15:57 UTC
 Crossref date mode: `created`
 Window: `2026-06-02` to `2026-06-03`
-New papers: 48
+New papers: 49
 
 ## AJG 4*
 
@@ -173,7 +173,20 @@ New papers: 48
   - Published: 2026-06-02
   - Crossref journal: Public Administration Review
 
-## AJG 4.0
+### Review of Economic Studies
+- Field: ECON
+- Articles: 1
+
+- [Income Inequality and Job Creation](https://doi.org/10.1093/restud/rdag053)
+  - DOI: 10.1093/restud/rdag053
+  - Authors: Sebastian Doerr; Thomas Drechsel; Donggyu Lee
+  - Affiliations: Bank for International Settlements and CEPR; University of Maryland, NBER and CEPR; Federal Reserve Bank of New York
+  - Published: 2026-06-03
+  - Crossref journal: Review of Economic Studies
+  - Abstract:
+    Abstract We propose a novel channel through which rising income inequality affects job creation and macroeconomic outcomes. High-income households save relatively more in stocks and bonds but less in bank deposits. A rising top income share thereby increases the relative financing cost for bank-dependent firms, which in turn create fewer jobs compared to other firms. Exploiting variation in top income shares across US states and an instrumental variable strategy, we provide evidence for this channel. We then build a general equilibrium macroeconomic model with heterogeneous households and heterogeneous firms and calibrate it to our empirical estimates. The model shows that the secular rise in top incomes accounts for 13% of the decline in the employment share of small firms since 1980. Through the new channel, rising inequality also reduces the labor share and aggregate output. Model experiments show that ignoring the link between inequality and job creation understates welfare effects of income redistribution.
+
+## AJG 4
 
 ### British Journal of Industrial Relations
 - Field: HRM&EMP

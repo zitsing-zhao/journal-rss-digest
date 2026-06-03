@@ -198,6 +198,24 @@
     "abs_ajg2018": "4*"
   },
   {
+    "doi": "10.1093/restud/rdag053",
+    "title": "Income Inequality and Job Creation",
+    "authors": "Sebastian Doerr; Thomas Drechsel; Donggyu Lee",
+    "affiliations": "Bank for International Settlements and CEPR; University of Maryland, NBER and CEPR; Federal Reserve Bank of New York",
+    "abstract": "Abstract We propose a novel channel through which rising income inequality affects job creation and macroeconomic outcomes. High-income households save relatively more in stocks and bonds but less in bank deposits. A rising top income share thereby increases the relative financing cost for bank-dependent firms, which in turn create fewer jobs compared to other firms. Exploiting variation in top income shares across US states and an instrumental variable strategy, we provide evidence for this channel. We then build a general equilibrium macroeconomic model with heterogeneous households and heterogeneous firms and calibrate it to our empirical estimates. The model shows that the secular rise in top incomes accounts for 13% of the decline in the employment share of small firms since 1980. Through the new channel, rising inequality also reduces the labor share and aggregate output. Model experiments show that ignoring the link between inequality and job creation understates welfare effects of income redistribution.",
+    "journal": "Review of Economic Studies",
+    "published_date": "2026-06-03",
+    "crossref_type": "journal-article",
+    "url": "https://doi.org/10.1093/restud/rdag053",
+    "source_issn": "1467-937X",
+    "abs_journal_title": "Review of Economic Studies",
+    "abs_field": "ECON",
+    "abs_publisher": "Oxford University Press",
+    "abs_ajg2024": "4*",
+    "abs_ajg2021": "4*",
+    "abs_ajg2018": "4*"
+  },
+  {
     "doi": "10.1086/742421",
     "title": "Mis(sed) Diagnosis: Physician Decision Making and ADHD",
     "authors": "Kelli Marquardt",
@@ -355,8 +373,8 @@
     "abs_journal_title": "Global Strategy Journal",
     "abs_field": "STRAT",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
     "abs_ajg2018": "3.0"
   },
   {
@@ -373,9 +391,9 @@
     "abs_journal_title": "Risk Analysis",
     "abs_field": "SOC SCI",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/risa.70271",
@@ -391,9 +409,9 @@
     "abs_journal_title": "Risk Analysis",
     "abs_field": "SOC SCI",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/risa.70277",
@@ -409,9 +427,9 @@
     "abs_journal_title": "Risk Analysis",
     "abs_field": "SOC SCI",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/risa.70276",
@@ -427,9 +445,9 @@
     "abs_journal_title": "Risk Analysis",
     "abs_field": "SOC SCI",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/risa.70278",
@@ -445,9 +463,9 @@
     "abs_journal_title": "Risk Analysis",
     "abs_field": "SOC SCI",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/risa.70260",
@@ -463,9 +481,9 @@
     "abs_journal_title": "Risk Analysis",
     "abs_field": "SOC SCI",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/padm.70068",
@@ -481,9 +499,9 @@
     "abs_journal_title": "Public Administration",
     "abs_field": "PUB SEC",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/gove.70136",
@@ -499,8 +517,8 @@
     "abs_journal_title": "Governance",
     "abs_field": "PUB SEC",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
     "abs_ajg2018": "3.0"
   },
   {
@@ -517,9 +535,9 @@
     "abs_journal_title": "Journal of Organizational Behavior",
     "abs_field": "PSYCH (WOP-OB)",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1002/job.70058",
@@ -535,9 +553,9 @@
     "abs_journal_title": "Journal of Organizational Behavior",
     "abs_field": "PSYCH (WOP-OB)",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1108/ijopm-10-2025-0977",
@@ -553,9 +571,9 @@
     "abs_journal_title": "International Journal of Operations and Production Management",
     "abs_field": "OPS&TECH",
     "abs_publisher": "Emerald",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/jpim.70046",
@@ -571,9 +589,9 @@
     "abs_journal_title": "Journal of Product Innovation Management",
     "abs_field": "INNOV",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/isj.70050",
@@ -589,8 +607,8 @@
     "abs_journal_title": "Information Systems Journal",
     "abs_field": "INFO MAN",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
     "abs_ajg2018": "3.0"
   },
   {
@@ -607,8 +625,8 @@
     "abs_journal_title": "Information Systems Journal",
     "abs_field": "INFO MAN",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
     "abs_ajg2018": "3.0"
   },
   {
@@ -625,9 +643,9 @@
     "abs_journal_title": "Industrial Relations",
     "abs_field": "HRM&EMP",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/bjir.70066",
@@ -643,9 +661,9 @@
     "abs_journal_title": "British Journal of Industrial Relations",
     "abs_field": "HRM&EMP",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/joms.70112",
@@ -661,9 +679,9 @@
     "abs_journal_title": "Journal of Management Studies",
     "abs_field": "ETHICS-CSR-MAN",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/1467-8551.70083",
@@ -679,9 +697,9 @@
     "abs_journal_title": "British Journal of Management",
     "abs_field": "ETHICS-CSR-MAN",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1080/01621459.2026.2677739",
@@ -697,9 +715,9 @@
     "abs_journal_title": "Journal of the American Statistical Association",
     "abs_field": "ECON",
     "abs_publisher": "Taylor & Francis",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1080/01621459.2026.2681994",
@@ -715,9 +733,9 @@
     "abs_journal_title": "Journal of the American Statistical Association",
     "abs_field": "ECON",
     "abs_publisher": "Taylor & Francis",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1080/01621459.2026.2681993",
@@ -733,9 +751,9 @@
     "abs_journal_title": "Journal of the American Statistical Association",
     "abs_field": "ECON",
     "abs_publisher": "Taylor & Francis",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/iere.70081",
@@ -751,9 +769,9 @@
     "abs_journal_title": "International Economic Review",
     "abs_field": "ECON",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1111/ehr.70129",
@@ -769,9 +787,9 @@
     "abs_journal_title": "Economic History Review",
     "abs_field": "BUS HIST & ECON HIST",
     "abs_publisher": "Wiley-Blackwell",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1017/s0007680526101834",
@@ -787,9 +805,9 @@
     "abs_journal_title": "Business History Review",
     "abs_field": "BUS HIST & ECON HIST",
     "abs_publisher": "Cambridge University Press",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1017/s000768052610169x",
@@ -805,9 +823,9 @@
     "abs_journal_title": "Business History Review",
     "abs_field": "BUS HIST & ECON HIST",
     "abs_publisher": "Cambridge University Press",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1017/s0007680526101810",
@@ -823,9 +841,9 @@
     "abs_journal_title": "Business History Review",
     "abs_field": "BUS HIST & ECON HIST",
     "abs_publisher": "Cambridge University Press",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
-    "abs_ajg2018": "4.0"
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
+    "abs_ajg2018": "4"
   },
   {
     "doi": "10.1080/00076791.2026.2679137",
@@ -841,8 +859,8 @@
     "abs_journal_title": "Business History",
     "abs_field": "BUS HIST & ECON HIST",
     "abs_publisher": "Taylor & Francis",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
     "abs_ajg2018": "3.0"
   },
   {
@@ -859,8 +877,8 @@
     "abs_journal_title": "Business History",
     "abs_field": "BUS HIST & ECON HIST",
     "abs_publisher": "Taylor & Francis",
-    "abs_ajg2024": "4.0",
-    "abs_ajg2021": "4.0",
+    "abs_ajg2024": "4",
+    "abs_ajg2021": "4",
     "abs_ajg2018": "3.0"
   }
 ]
