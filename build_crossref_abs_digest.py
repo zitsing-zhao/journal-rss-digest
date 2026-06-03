@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import html
 import json
 import os
 import smtplib
@@ -192,6 +193,181 @@ def build_markdown(
     return "\n".join(lines).rstrip() + "\n"
 
 
+def h(value: str) -> str:
+    return html.escape(value or "", quote=True)
+
+
+def group_records(records: list[dict[str, str]]) -> dict[str, dict[str, list[dict[str, str]]]]:
+    grouped: dict[str, dict[str, list[dict[str, str]]]] = {}
+    for record in sort_records(records):
+        rating = record.get("abs_ajg2024") or "Unrated"
+        journal = record.get("abs_journal_title") or record.get("journal") or "Unknown journal"
+        grouped.setdefault(rating, {}).setdefault(journal, []).append(record)
+    return grouped
+
+
+def short_text(value: str, limit: int = 900) -> str:
+    value = " ".join((value or "").split())
+    if len(value) <= limit:
+        return value
+    return value[: limit - 1].rstrip() + "..."
+
+
+def build_html_email(
+    records: list[dict[str, str]],
+    errors: list[str],
+    generated_at: datetime,
+    start_date: str,
+    end_date: str,
+    mode: str,
+) -> str:
+    total = len(records)
+    abstract_count = sum(bool(record.get("abstract")) for record in records)
+    affiliation_count = sum(bool(record.get("affiliations")) for record in records)
+    rating_counts: dict[str, int] = {}
+    for record in records:
+        rating = record.get("abs_ajg2024") or "Unrated"
+        rating_counts[rating] = rating_counts.get(rating, 0) + 1
+
+    stat_cards = [
+        ("New papers", str(total)),
+        ("AJG 4*", str(rating_counts.get("4*", 0))),
+        ("AJG 4", str(rating_counts.get("4", 0))),
+        ("With abstracts", str(abstract_count)),
+        ("With affiliations", str(affiliation_count)),
+    ]
+    stat_html = "".join(
+        f"""
+        <td style="padding:0 8px 12px 0;">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
+                 style="background:#ffffff;border:1px solid #d9e2ec;border-radius:8px;">
+            <tr><td style="padding:12px 14px 4px;font:12px Arial,sans-serif;color:#5b6b7a;">{h(label)}</td></tr>
+            <tr><td style="padding:0 14px 12px;font:700 24px Arial,sans-serif;color:#0f2f4a;">{h(value)}</td></tr>
+          </table>
+        </td>
+        """
+        for label, value in stat_cards
+    )
+
+    if not records:
+        content_html = """
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
+               style="background:#ffffff;border:1px solid #d9e2ec;border-radius:8px;">
+          <tr><td style="padding:22px;font:15px Arial,sans-serif;color:#314154;">
+            No new papers were found for this run.
+          </td></tr>
+        </table>
+        """
+    else:
+        sections: list[str] = []
+        grouped = group_records(records)
+        for rating in sorted(grouped, key=lambda x: (x != "4*", x)):
+            journal_blocks: list[str] = []
+            for journal in sorted(grouped[rating]):
+                items = grouped[rating][journal]
+                sample = items[0]
+                paper_blocks: list[str] = []
+                for item in items:
+                    title = item.get("title") or "(untitled)"
+                    url = item.get("url", "").strip()
+                    linked_title = (
+                        f'<a href="{h(url)}" style="color:#0b5cab;text-decoration:none;">{h(title)}</a>'
+                        if url
+                        else h(title)
+                    )
+                    meta_parts = [
+                        item.get("published_date", ""),
+                        f"DOI: {item.get('doi', '')}" if item.get("doi") else "",
+                        item.get("journal", ""),
+                    ]
+                    meta = " | ".join(part for part in meta_parts if part)
+                    abstract = short_text(item.get("abstract", ""))
+                    paper_blocks.append(
+                        f"""
+                        <tr>
+                          <td style="padding:16px 0;border-top:1px solid #edf2f7;">
+                            <div style="font:700 16px Arial,sans-serif;line-height:1.35;color:#14324a;">{linked_title}</div>
+                            {f'<div style="margin-top:6px;font:12px Arial,sans-serif;color:#637487;">{h(meta)}</div>' if meta else ''}
+                            {f'<div style="margin-top:10px;font:13px Arial,sans-serif;line-height:1.45;color:#314154;"><strong>Authors:</strong> {h(item.get("authors", ""))}</div>' if item.get("authors") else ''}
+                            {f'<div style="margin-top:6px;font:13px Arial,sans-serif;line-height:1.45;color:#314154;"><strong>Affiliations:</strong> {h(short_text(item.get("affiliations", ""), 450))}</div>' if item.get("affiliations") else ''}
+                            {f'<div style="margin-top:10px;padding:10px 12px;background:#f6f8fb;border-left:3px solid #2b7bbb;font:13px Arial,sans-serif;line-height:1.5;color:#314154;">{h(abstract)}</div>' if abstract else ''}
+                          </td>
+                        </tr>
+                        """
+                    )
+                journal_blocks.append(
+                    f"""
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
+                           style="margin:0 0 14px;background:#ffffff;border:1px solid #d9e2ec;border-radius:8px;">
+                      <tr>
+                        <td style="padding:15px 18px 4px;">
+                          <div style="font:700 17px Arial,sans-serif;color:#0f2f4a;">{h(journal)}</div>
+                          <div style="margin-top:5px;font:12px Arial,sans-serif;color:#637487;">
+                            Field: {h(sample.get("abs_field", ""))} | Articles: {len(items)}
+                          </div>
+                        </td>
+                      </tr>
+                      <tr><td style="padding:0 18px 2px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0">{''.join(paper_blocks)}</table></td></tr>
+                    </table>
+                    """
+                )
+            sections.append(
+                f"""
+                <tr><td style="padding:22px 0 8px;font:700 20px Arial,sans-serif;color:#0f2f4a;">AJG {h(rating)}</td></tr>
+                <tr><td>{''.join(journal_blocks)}</td></tr>
+                """
+            )
+        content_html = f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0">{"".join(sections)}</table>'
+
+    error_html = ""
+    if errors:
+        items = "".join(f"<li>{h(error)}</li>" for error in errors)
+        error_html = f"""
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
+               style="margin-top:16px;background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;">
+          <tr><td style="padding:16px 18px;font:13px Arial,sans-serif;line-height:1.5;color:#7c2d12;">
+            <strong>Crossref errors</strong>
+            <ul style="margin:8px 0 0 18px;padding:0;">{items}</ul>
+          </td></tr>
+        </table>
+        """
+
+    return f"""<!doctype html>
+<html>
+  <body style="margin:0;padding:0;background:#eef3f7;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#eef3f7;">
+      <tr>
+        <td align="center" style="padding:24px 12px;">
+          <table role="presentation" width="760" cellpadding="0" cellspacing="0"
+                 style="max-width:760px;width:100%;background:#f8fafc;border-radius:12px;overflow:hidden;">
+            <tr>
+              <td style="padding:28px 30px;background:#0f2f4a;color:#ffffff;">
+                <div style="font:700 24px Arial,sans-serif;line-height:1.25;">Daily ABS 4*/4 Crossref Digest</div>
+                <div style="margin-top:8px;font:14px Arial,sans-serif;line-height:1.45;color:#dbeafe;">
+                  {h(start_date)} to {h(end_date)} | mode: {h(mode)} | generated {h(generated_at.strftime('%Y-%m-%d %H:%M UTC'))}
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:22px 22px 8px;">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>{stat_html}</tr></table>
+              </td>
+            </tr>
+            <tr><td style="padding:0 22px 24px;">{content_html}{error_html}</td></tr>
+            <tr>
+              <td style="padding:16px 24px;background:#e7eef5;font:12px Arial,sans-serif;line-height:1.45;color:#536475;">
+                The Markdown and CSV versions are attached. Abstracts and affiliations appear only when Crossref supplies them.
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+"""
+
+
 def required_env(name: str) -> str:
     value = os.environ.get(name, "").strip()
     if not value:
@@ -202,7 +378,12 @@ def required_env(name: str) -> str:
     return value
 
 
-def send_email(markdown_path: Path, markdown_text: str, csv_path: Path | None = None) -> None:
+def send_email(
+    markdown_path: Path,
+    markdown_text: str,
+    csv_path: Path | None = None,
+    html_text: str | None = None,
+) -> None:
     host = required_env("SMTP_HOST")
     username = required_env("SMTP_USER")
     password = required_env("SMTP_PASSWORD")
@@ -219,6 +400,8 @@ def send_email(markdown_path: Path, markdown_text: str, csv_path: Path | None = 
     msg["From"] = sender
     msg["To"] = ", ".join(recipients)
     msg.set_content(markdown_text)
+    if html_text:
+        msg.add_alternative(html_text, subtype="html")
     msg.add_attachment(
         markdown_text.encode("utf-8"),
         maintype="text",
@@ -336,10 +519,13 @@ def main() -> int:
     generated_at = datetime.now(timezone.utc)
     args.digest_dir.mkdir(parents=True, exist_ok=True)
     digest_path = args.digest_dir / f"{generated_at.strftime('%Y-%m-%d')}_crossref_abs_digest.md"
+    html_path = args.digest_dir / f"{generated_at.strftime('%Y-%m-%d')}_crossref_abs_digest.html"
     csv_path = args.digest_dir / f"{generated_at.strftime('%Y-%m-%d')}_crossref_abs_digest.csv"
 
     markdown = build_markdown(new_records, errors, generated_at, start_date, end_date, args.mode)
+    html_text = build_html_email(new_records, errors, generated_at, start_date, end_date, args.mode)
     digest_path.write_text(markdown, encoding="utf-8")
+    html_path.write_text(html_text, encoding="utf-8")
     write_csv(new_records, csv_path)
     write_outputs(records, args.output_dir, start_date, end_date, args.mode)
 
@@ -361,9 +547,10 @@ def main() -> int:
         write_json(args.state, state)
 
     if args.send_email and not args.dry_run:
-        send_email(digest_path, markdown, csv_path)
+        send_email(digest_path, markdown, csv_path, html_text)
 
     print(f"Wrote {digest_path}")
+    print(f"Wrote {html_path}")
     print(f"Wrote {csv_path}")
     print(f"Fetched records: {len(records)}")
     print(f"New records after state filter: {len(new_records)}")
