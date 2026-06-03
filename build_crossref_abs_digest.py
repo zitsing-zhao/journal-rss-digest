@@ -20,6 +20,7 @@ from coding.crossref_abs_journal_monitor import (
     Journal,
     dedupe_by_doi,
     fetch_journal_works,
+    normalize_ajg_rating,
     parse_paper,
     write_outputs,
 )
@@ -49,9 +50,9 @@ def config_journal_to_dataclass(item: dict[str, Any]) -> Journal:
         field=str(item.get("field", "")).strip(),
         title=str(item.get("name", "")).strip(),
         publisher=str(item.get("publisher", "")).strip(),
-        ajg2024=str(item.get("ajg_2024", "")).strip(),
-        ajg2021=str(item.get("ajg_2021", "")).strip(),
-        ajg2018=str(item.get("ajg_2018", "")).strip(),
+        ajg2024=normalize_ajg_rating(item.get("ajg_2024", "")),
+        ajg2021=normalize_ajg_rating(item.get("ajg_2021", "")),
+        ajg2018=normalize_ajg_rating(item.get("ajg_2018", "")),
     )
 
 

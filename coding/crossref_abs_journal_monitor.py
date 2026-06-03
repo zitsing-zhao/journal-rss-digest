@@ -44,6 +44,13 @@ def normalize_issn(value: Any) -> str:
     return str(value or "").strip().upper()
 
 
+def normalize_ajg_rating(value: Any) -> str:
+    text = str(value or "").strip()
+    if text in {"4.0", "4"}:
+        return "4"
+    return text
+
+
 def cell_ref_to_col_index(cell_ref: str) -> int:
     letters = re.match(r"[A-Z]+", cell_ref.upper())
     if not letters:
@@ -136,9 +143,9 @@ def load_journals(path: Path) -> list[Journal]:
                 field=row.get("FIELD", ""),
                 title=row.get("TITLE", ""),
                 publisher=row.get("PUBLISHER", ""),
-                ajg2024=row.get("AJG2024", ""),
-                ajg2021=row.get("AJG2021", ""),
-                ajg2018=row.get("AJG2018", ""),
+                ajg2024=normalize_ajg_rating(row.get("AJG2024", "")),
+                ajg2021=normalize_ajg_rating(row.get("AJG2021", "")),
+                ajg2018=normalize_ajg_rating(row.get("AJG2018", "")),
             )
         )
     return journals
