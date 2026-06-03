@@ -9,6 +9,9 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -22,8 +25,11 @@ jobs:
             exit 0
           fi
 
-          hour="$(TZ=Europe/Berlin date +%H)"
-          if [ "$hour" = "08" ]; then
+          scheduled_utc_hour="$(printf '%s\n' '${{ github.event.schedule }}' | awk '{print $2}')"
+          local_hour="$(TZ=Europe/Berlin date -d "$(date -u +%Y-%m-%d) ${scheduled_utc_hour}:00 UTC" +%H)"
+          echo "Scheduled UTC hour: ${scheduled_utc_hour}; Europe/Berlin hour: ${local_hour}"
+
+          if [ "$local_hour" = "08" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"

@@ -1,6 +1,6 @@
 # Daily ABS Crossref Digest
 
-This workflow searches Crossref every day for new records in ABS/AJG 2024 4* and 4 journals, writes a Markdown/CSV/JSON digest, and emails the Markdown digest with the CSV attached.
+This workflow searches Crossref every day for new records in ABS/AJG 2024 4* and 4 journals, writes a Markdown/CSV/JSON digest, and emails a formatted HTML digest with Markdown and CSV attachments.
 
 ## Files
 
@@ -9,7 +9,17 @@ This workflow searches Crossref every day for new records in ABS/AJG 2024 4* and
 - `coding/crossref_abs_journal_monitor.py`: reusable Crossref client/parser
 - `.github/workflows/daily-crossref-abs-digest.yml`: GitHub Actions schedule
 - `state/crossref_abs_seen_papers.json`: generated after the first non-dry run
-- `digests/crossref_abs/`: generated Markdown and CSV digests
+- `digests/crossref_abs/`: generated HTML, Markdown, and CSV digests
+
+## Email Layout
+
+The email is sent as multipart text plus HTML. Mail clients that support HTML show:
+
+- a compact header with the date window and Crossref filter mode
+- summary cards for total papers, AJG 4*, AJG 4, abstracts, and affiliations
+- grouped sections by AJG rating and journal
+- paper cards with title link, DOI, authors, affiliations, publication date, journal, and abstract
+- saved HTML, Markdown, and CSV digest files for archiving or further analysis
 
 ## Local Dry Run
 
