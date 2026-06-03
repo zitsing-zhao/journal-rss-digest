@@ -846,12 +846,271 @@
       "abs_journal_title": "IEEE Transactions on Evolutionary Computation",
       "published_date": "2026-01-01",
       "first_seen": "2026-06-02T08:25:36.275098+00:00"
+    },
+    "10.1111/risa.70277": {
+      "title": "Viewing the Risk Concept as a Boundary Object: Implications for Theory and Practice",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-03",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/risa.70278": {
+      "title": "Redesigning Risk Assessments in the Age of AI: Emergence of the Opacity Risk Dimension",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-03",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1108/ijopm-10-2025-0977": {
+      "title": "Refugee entrepreneurs, orchestration and improvisational supply chain resilience: contesting spatial boundaries and reshaping economies",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-06-03",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/bjir.70066": {
+      "title": "Theorising the Impacts of Polycrisis on Employment Relations: Complexity and Diversity at a Global Scale",
+      "journal": "British Journal of Industrial Relations",
+      "abs_journal_title": "British Journal of Industrial Relations",
+      "published_date": "2026-06-03",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/ehr.70129": {
+      "title": "Regional and local divergence in welfare provision in England and Wales, 1776–1815",
+      "journal": "The Economic History Review",
+      "abs_journal_title": "Economic History Review",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/risa.70271": {
+      "title": "Temporal Analysis of Highly Pathogenic Avian Influenza H5N1 in Commercial and Non‐Commercial Flocks in the United States; 2022–2025",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/risa.70260": {
+      "title": "Development and Application of a Novel Dose–Response Model for the Quantification of\n                    <i>Clostridioides difficile</i>\n                    Infection Risks",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/risa.70279": {
+      "title": "Aligning Uncertainty and Ambiguity in Decision Analysis With Contemporary Risk Conceptualizations: Insights From the Ellsberg Paradox and Related Concepts",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/risa.70276": {
+      "title": "A Discontinuity Analysis of the 2015 Introduction of Bushfire Prone Area Maps",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1080/01621459.2026.2681994": {
+      "title": "Weight-calibrated estimation for factor models of high-dimensional time series*",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1080/01621459.2026.2677739": {
+      "title": "Rate Optimality and Phase Transition for User-Level Local Differential Privacy",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1080/01621459.2026.2681993": {
+      "title": "Dirichlet process mixtures of block\n                    <i>g</i>\n                    priors for model selection and prediction in linear models",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1002/job.70058": {
+      "title": "Issue Information",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1002/job.70096": {
+      "title": "Different Levels, Same Relations? A Meta‐Analysis on the Homology of the Nomological Network of (Daily) Work Engagement",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/joms.70112": {
+      "title": "Understanding and Addressing the Disruptive Impacts of Contemporary Climate Crises",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/isj.70047": {
+      "title": "How Information Systems Practitioners Think in Action: Instantiating Donald A. Schön's General Theory of the ‘Reflective Practitioner’",
+      "journal": "Information Systems Journal",
+      "abs_journal_title": "Information Systems Journal",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/isj.70050": {
+      "title": "Accelerating Platform User Growth: Pinduoduo's Multi‐Motivational Selfish Referral Strategy",
+      "journal": "Information Systems Journal",
+      "abs_journal_title": "Information Systems Journal",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1002/gsj.70021": {
+      "title": "Beyond political risk: Toward a holistic understanding of multinational enterprise resilience in the era of cascading crises",
+      "journal": "Global Strategy Journal",
+      "abs_journal_title": "Global Strategy Journal",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1080/00076791.2026.2679137": {
+      "title": "The power of peasant Consumers: The material culture of food in the late medieval kingdom of Valencia",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1080/00076791.2026.2680853": {
+      "title": "Luxury Brand Management and Heritage Revival, Case Studies from the Swiss Watch Industry",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/puar.70144": {
+      "title": "The Politics of Collaborative Public Management: A Primer. By RobertAgranoff and AlexeiKolpakov, New York: Routledge, 2023. 278 pp. $55.99 (hardback). ISBN: 978‐1‐03‐247362‐8",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/puar.70151": {
+      "title": "Rethinking Budgeting? An Analysis of Budget Theory and Reform for Modernizing Municipal Practice",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1111/puar.70145": {
+      "title": "Governing Street‐Level Bureaucracies: The Organizational Shaping of Caseworkers. By KerstinJacobsson and HåkanJohansson, London: Routledge, 2025. 166 pp. $160.00 (hardcover) ISBN: 978‐1‐03‐233194‐2",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1287/orsc.2024.19974": {
+      "title": "Shareholder Activism and Corporate Political Activity: A Governance Systems Perspective",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1287/mnsc.2024.07804": {
+      "title": "Selecting and Testing Asset-Pricing Models: A Stepwise Approach",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1287/mnsc.2023.02827": {
+      "title": "Estimation Errors as Regret Lower Bounds for Linear Contextual Bandits",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1287/mnsc.2023.02573": {
+      "title": "Dropping Standardized Testing for Admissions Trades Off Information and Access",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1086/742423": {
+      "title": "The Effect of Education Policy on Crime: An Intergenerational Perspective",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1086/742422": {
+      "title": "Rent Guarantee Insurance",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1086/742418": {
+      "title": "Optimal Tests Following Sequential Experiments",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1086/742421": {
+      "title": "Mis(sed) Diagnosis: Physician Decision Making and ADHD",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1086/742420": {
+      "title": "Markups: A Search-Theoretic Perspective",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1086/742435": {
+      "title": "Illiquid Lemon Markets and the Macroeconomy",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1086/742434": {
+      "title": "From Doubt to Devotion: Trials and Learning-Based Pricing",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1086/742424": {
+      "title": "Debiasing and T-Tests for Synthetic Control Inference on Average Causal Effects",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1057/s41267-026-00877-4": {
+      "title": "Forecasting under uncertainty: import penetration and analysts’ cultural advantage",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
+    },
+    "10.1287/isre.2023.0626": {
+      "title": "The Impact of Threatening Cybersecurity Situations on Employees: A Conceptualization of Security Perplexity",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-06-02",
+      "first_seen": "2026-06-03T13:10:13.124607+00:00"
     }
   },
-  "last_run": "2026-06-02T08:38:21.007646+00:00",
+  "last_run": "2026-06-03T13:10:13.124607+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-01",
-    "end_date": "2026-06-02"
+    "start_date": "2026-06-02",
+    "end_date": "2026-06-03"
   }
 }
