@@ -36,7 +36,7 @@ DEFAULT_OUTPUT_DIR = ROOT / "outputs" / "crossref_abs_monitor"
 def read_json(path: Path, default: Any) -> Any:
     if not path.exists():
         return default
-    return json.loads(path.read_text(encoding="utf-8"))
+    return json.loads(path.read_text(encoding="utf-8-sig"))
 
 
 def write_json(path: Path, data: Any) -> None:
