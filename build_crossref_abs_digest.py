@@ -461,6 +461,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--digest-dir", type=Path, default=DEFAULT_DIGEST_DIR)
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR)
     parser.add_argument("--send-email", action="store_true", help="Email the digest using SMTP env vars.")
+    parser.add_argument("--skip-empty-email", action="store_true", help="Do not send email when no new records remain after the state filter.")
     parser.add_argument("--include-seen", action="store_true", help="Include DOI records already in state.")
     parser.add_argument("--dry-run", action="store_true", help="Do not update state or send email.")
     parser.add_argument("--days", type=int, default=1, help="Days back from today, inclusive.")
@@ -547,7 +548,9 @@ def main() -> int:
         state["last_window"] = {"start_date": start_date, "end_date": end_date}
         write_json(args.state, state)
 
-    if args.send_email and not args.dry_run:
+    if args.send_email and not args.dry_run and args.skip_empty_email and not new_records:
+        print("Skipping email because no new records remain after the state filter.")
+    elif args.send_email and not args.dry_run:
         send_email(digest_path, markdown, csv_path, html_text)
 
     print(f"Wrote {digest_path}")

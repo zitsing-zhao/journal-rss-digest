@@ -88,4 +88,4 @@ Optional Crossref overrides:
 - `CROSSREF_MAILTO`
 - `CROSSREF_APP_NAME`
 
-The workflow schedules two UTC checks and only sends when the current time in `Europe/Berlin` is 08:00, so it remains aligned with Berlin daylight saving time.
+The workflow schedules several off-the-hour UTC checks and only sends when the scheduled slot maps to the 08:00 hour in `Europe/Berlin`, so it remains aligned with Berlin daylight saving time. This avoids GitHub Actions' less reliable top-of-hour scheduling. Later retry slots use `--skip-empty-email`, so after one successful send updates the seen-state file, the remaining slots do not send duplicate empty emails.

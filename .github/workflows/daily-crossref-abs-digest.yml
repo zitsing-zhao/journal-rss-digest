@@ -2,8 +2,8 @@ name: Daily ABS Crossref Digest
 
 on:
   schedule:
-    - cron: "0 6 * * *"
-    - cron: "0 7 * * *"
+    - cron: "7,27,47 6 * * *"
+    - cron: "7,27,47 7 * * *"
   workflow_dispatch:
 
 permissions:
@@ -25,9 +25,10 @@ jobs:
             exit 0
           fi
 
+          scheduled_utc_minute="$(printf '%s\n' '${{ github.event.schedule }}' | awk '{print $1}' | cut -d, -f1)"
           scheduled_utc_hour="$(printf '%s\n' '${{ github.event.schedule }}' | awk '{print $2}')"
-          local_hour="$(TZ=Europe/Berlin date -d "$(date -u +%Y-%m-%d) ${scheduled_utc_hour}:00 UTC" +%H)"
-          echo "Scheduled UTC hour: ${scheduled_utc_hour}; Europe/Berlin hour: ${local_hour}"
+          local_hour="$(TZ=Europe/Berlin date -d "$(date -u +%Y-%m-%d) ${scheduled_utc_hour}:${scheduled_utc_minute} UTC" +%H)"
+          echo "Scheduled UTC: ${scheduled_utc_hour}:${scheduled_utc_minute}; Europe/Berlin hour: ${local_hour}"
 
           if [ "$local_hour" = "08" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
@@ -69,7 +70,7 @@ jobs:
             exit 1
           fi
 
-          python build_crossref_abs_digest.py --send-email --days 1 --mode created
+          python build_crossref_abs_digest.py --send-email --skip-empty-email --days 1 --mode created
 
       - name: Commit digest and state
         if: steps.send_window.outputs.run == 'true'
