@@ -699,12 +699,19 @@
       "abs_journal_title": "European Journal of Information Systems",
       "published_date": "2026-06-05",
       "first_seen": "2026-06-06T08:42:30.849929+00:00"
+    },
+    "10.1177/10422587261450569": {
+      "title": "From Personal to Collective Powers: Towards Gender Inclusivity in Entrepreneurial Ecosystems",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-06-07",
+      "first_seen": "2026-06-07T09:27:27.169295+00:00"
     }
   },
-  "last_run": "2026-06-06T08:42:30.849929+00:00",
+  "last_run": "2026-06-07T09:27:27.169295+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-05",
-    "end_date": "2026-06-06"
+    "start_date": "2026-06-06",
+    "end_date": "2026-06-07"
   }
 }
