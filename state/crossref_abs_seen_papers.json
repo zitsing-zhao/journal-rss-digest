@@ -755,12 +755,96 @@
       "abs_journal_title": "International Economic Review",
       "published_date": "2026-06-07",
       "first_seen": "2026-06-08T11:12:39.196649+00:00"
+    },
+    "10.1080/00076791.2026.2643049": {
+      "title": "Making an Industrial Revolution: Skill, knowledge, community and innovation",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-06-09",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
+    },
+    "10.1287/mnsc.2023.03991": {
+      "title": "The Value of Last-Mile Delivery in Online Retail",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-08",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
+    },
+    "10.1287/mnsc.2024.05036": {
+      "title": "Liquidity Support in Financial Institutions",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-08",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
+    },
+    "10.1177/10422587261450579": {
+      "title": "Institutional Space-Making for Equity in Entrepreneurial Ecosystems: Evidence from U.S. Cities",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-06-08",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
+    },
+    "10.1111/risa.70274": {
+      "title": "A Novel Framework for Quantitative Evaluation of Resilience Performance of Sea Lanes of Communication",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-08",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
+    },
+    "10.1080/14719037.2026.2685252": {
+      "title": "Unleashing the potential of participative budgeting practices in Public Healthcare Organizations: The drivers of psychology-based budgeting research",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-06-08",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
+    },
+    "10.1080/14719037.2026.2684320": {
+      "title": "Paradoxical tensions as catalysts: a phenomenon-based study of employee-driven innovation in the civil service",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-06-08",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
+    },
+    "10.1111/padm.70071": {
+      "title": "<scp>AI</scp>\n                    Public Value Creation: Data Encoding, Aggregation, and Algorithmic Computation",
+      "journal": "Public Administration",
+      "abs_journal_title": "Public Administration",
+      "published_date": "2026-06-08",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
+    },
+    "10.1080/01621459.2026.2685045": {
+      "title": "Modelling Spatial Density: Data, Methods, and R Applications in Statistics, Econometrics, and Machine Learning.",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-08",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
+    },
+    "10.1080/01621459.2026.2682540": {
+      "title": "Development of Public Health Policy by Digital Twin Microsimulation and Q-learning: A COVID-19 Booster Case Study",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-08",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
+    },
+    "10.1002/job.70106": {
+      "title": "Do Men Who Spill the Tea in Teams Get Burned? Gender Differences in Perceived Competence and Leadership Emergence of Team Members Who Gossip",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-06-08",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
+    },
+    "10.1111/joms.70121": {
+      "title": "Keeping Up With the Times? Rethinking Social Evaluations Research Under Contemporary Technological and Sociopolitical Forces",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-06-08",
+      "first_seen": "2026-06-09T10:01:33.625347+00:00"
     }
   },
-  "last_run": "2026-06-08T11:12:39.196649+00:00",
+  "last_run": "2026-06-09T10:01:33.625347+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-07",
-    "end_date": "2026-06-08"
+    "start_date": "2026-06-08",
+    "end_date": "2026-06-09"
   }
 }
