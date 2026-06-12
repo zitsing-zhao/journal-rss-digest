@@ -1154,12 +1154,117 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-06-10",
       "first_seen": "2026-06-11T10:51:34.612440+00:00"
+    },
+    "10.1002/sej.70032": {
+      "title": "Hatching and fledging? A meta‐analysis of the performance effects of business incubators",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1177/10591478261461916": {
+      "title": "EXPRESS: Are Buyers Strategic in Online B2B Reviews?",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1111/jpim.70029": {
+      "title": "Issue Information",
+      "journal": "Journal of Product Innovation Management",
+      "abs_journal_title": "Journal of Product Innovation Management",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1002/job.70103": {
+      "title": "An Interdisciplinary Review of the Gaslighting Literature and Future Research Agenda",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1287/mnsc.2025.01690": {
+      "title": "Fund Flows, Liquidity, and Asset Prices",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-11",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1037/apl0001389": {
+      "title": "Transformational leadership in context: A meta-analysis of 40 years of research.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-06-11",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1287/isre.2021.0601": {
+      "title": "Strategic Release and Co-creation: Empirical Insights for Managing Open-Source Software",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-06-11",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.5465/amj.2023.1101": {
+      "title": "Trauma at Work: Reframing Experiences to Sustain Engagement",
+      "journal": "Academy of Management Journal",
+      "abs_journal_title": "Academy of Management Journal",
+      "published_date": "2026-06-11",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1111/risa.70290": {
+      "title": "Risk Measures: An Introduction to the Mathematical Theory",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-11",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1111/risa.70288": {
+      "title": "How Hazards Turn Into Disasters: Perspectives of Emergency Responders",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-11",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1080/14719037.2026.2686411": {
+      "title": "Did populist governance change corruption risks during crises across European countries?",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-06-11",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1080/01621459.2026.2685341": {
+      "title": "Optimal Network-Guided Covariate Selection for High-Dimensional Data Integration",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-11",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1080/01621459.2026.2685359": {
+      "title": "Bayesian Transfer Learning for Enhanced Estimation and Inference",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-11",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1080/00076791.2026.2681486": {
+      "title": "Recycling waste byproducts and restructuring in the UK animal feed industry, 1859–1914: Exploring the historical emergence of the circular economy",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-06-11",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1080/00076791.2020.1838487.99": {
+      "title": "From Monsanto to ‘Monsatan’: Ownership and control of history as a strategic resource",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-06-11",
+      "first_seen": "2026-06-12T10:28:32.659727+00:00"
     }
   },
-  "last_run": "2026-06-11T10:51:34.612440+00:00",
+  "last_run": "2026-06-12T10:28:32.659727+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-10",
-    "end_date": "2026-06-11"
+    "start_date": "2026-06-11",
+    "end_date": "2026-06-12"
   }
 }
