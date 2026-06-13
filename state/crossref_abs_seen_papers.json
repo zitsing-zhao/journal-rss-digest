@@ -1259,12 +1259,173 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-06-11",
       "first_seen": "2026-06-12T10:28:32.659727+00:00"
+    },
+    "10.1287/orsc.2025.20702": {
+      "title": "The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1287/opre.2025.2240": {
+      "title": "The Curious Price of Distributional Robustness in Reinforcement Learning with a Generative Model",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1287/mnsc.2024.04717": {
+      "title": "The AI Democratization Paradox: Evidence from Decentralized Knowledge Communities",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1287/mnsc.2025.01348": {
+      "title": "Fast and Simple Adaptive Elicitations",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1287/mnsc.2024.04703": {
+      "title": "Driving Merchant Adoption of Digital Payment Solutions Through Customer Success Management",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1287/mnsc.2024.07033": {
+      "title": "Decentralized Autonomous Organization Governance",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1287/mnsc.2025.00564": {
+      "title": "Climate Transition Beliefs",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1287/isre.2023.0581": {
+      "title": "Navigating the Influencer Marketplace: Long-Tail Effects and Content Strategies",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1287/isre.2022.0379": {
+      "title": "Influencer Authenticity Cues, Connectedness, and Purchase Decisions",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1287/isre.2024.1339": {
+      "title": "Anticipating the Digital: How Interpretive Debt and Layered Architectural Framing Shape Innovation Pathways",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.5465/amj.2024.0314": {
+      "title": "The Social Attribution of Innovation: Uncovering the Heads Behind the Guillotine",
+      "journal": "Academy of Management Journal",
+      "abs_journal_title": "Academy of Management Journal",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.5465/amj.2024.0536": {
+      "title": "ChatGPT, a Hype That Teaches: Generative AI and the Collective Accumulation of Technology Literacy on Social Media",
+      "journal": "Academy of Management Journal",
+      "abs_journal_title": "Academy of Management Journal",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.5465/annals.2024.0055": {
+      "title": "Lost in Translation: Where Is the Relational Context in Negotiation Research?",
+      "journal": "Academy of Management Annals",
+      "abs_journal_title": "Academy of Management Annals",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1080/14719037.2026.2686412": {
+      "title": "Co-creation in commissioning complex public services: towards an adaptive system for continuous improvement",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1007/s10107-026-02384-8": {
+      "title": "Preface",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1007/s10107-026-02378-6": {
+      "title": "Balancing notions of equity: trade-offs between fair portfolio sizes and achievable guarantees",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1080/01621459.2026.2654876": {
+      "title": "Variational Nonparametric Inference in Stochastic Block Models with Functional Covariates",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1080/01621459.2026.2687693": {
+      "title": "Online Change Rate Learning for Functional Data",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1080/01621459.2026.2686441": {
+      "title": "Deconfounding via Profiled Transfer Learning",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1177/02683962261460071": {
+      "title": "Prediction, hype, and fear: Advancing Information Systems research in “the AI age”",
+      "journal": "Journal of Information Technology",
+      "abs_journal_title": "Journal of Information Technology",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1177/02683962261458374": {
+      "title": "AI systems are not information systems. Should we care?",
+      "journal": "Journal of Information Technology",
+      "abs_journal_title": "Journal of Information Technology",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1002/gsj.70022": {
+      "title": "Geopolitics and global strategy: Making money under anarchy",
+      "journal": "Global Strategy Journal",
+      "abs_journal_title": "Global Strategy Journal",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1111/1467-8551.70080": {
+      "title": "Towards a More Responsible Business School? Early Career Academics, Moral Identity Work and the Performative (Re)Constitution of the ‘Successful Academic’",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-06-12",
+      "first_seen": "2026-06-13T09:28:29.202628+00:00"
     }
   },
-  "last_run": "2026-06-12T10:28:32.659727+00:00",
+  "last_run": "2026-06-13T09:28:29.202628+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-11",
-    "end_date": "2026-06-12"
+    "start_date": "2026-06-12",
+    "end_date": "2026-06-13"
   }
 }
