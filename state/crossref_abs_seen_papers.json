@@ -1420,12 +1420,26 @@
       "abs_journal_title": "British Journal of Management",
       "published_date": "2026-06-12",
       "first_seen": "2026-06-13T09:28:29.202628+00:00"
+    },
+    "10.1080/14719037.2026.2684283": {
+      "title": "Anchoring during a storm: unveiling the role of Anchor institutions in place-based public service ecosystems during disruption",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-06-14",
+      "first_seen": "2026-06-14T09:48:37.519728+00:00"
+    },
+    "10.1177/00018392261453818": {
+      "title": "The Politicization of Wage Setting",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-06-13",
+      "first_seen": "2026-06-14T09:48:37.519728+00:00"
     }
   },
-  "last_run": "2026-06-13T09:28:29.202628+00:00",
+  "last_run": "2026-06-14T09:48:37.519728+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-12",
-    "end_date": "2026-06-13"
+    "start_date": "2026-06-13",
+    "end_date": "2026-06-14"
   }
 }
