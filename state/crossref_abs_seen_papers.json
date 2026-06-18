@@ -1917,12 +1917,103 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-06-16",
       "first_seen": "2026-06-17T11:11:21.564029+00:00"
+    },
+    "10.1111/ehr.70132": {
+      "title": "Elite persistence in family: The role of adoption in prewar Japan",
+      "journal": "The Economic History Review",
+      "abs_journal_title": "Economic History Review",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1111/risa.70282": {
+      "title": "Modeling Systemic Risk Propagation in Public Assembly Fire Accidents: A Causal Network Approach Based on Apriori Analysis",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1111/1467-8551.70087": {
+      "title": "Leveraging Alliance Management Capability for Sustainable Performance: The Mediating Role of Business Model Innovation",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1287/mnsc.2024.08833": {
+      "title": "Do Hedge Funds Strategically Misreport Their Holdings? Evidence from 13F Restatements",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-17",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1287/isre.2024.1124": {
+      "title": "Strategic Throttling in Large Cloud Computing Platforms",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-06-17",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1177/09500170261453271": {
+      "title": "Book Review: Troy Heffernan,\n                    <i>Academy of the Oppressed: Paulo Freire and How Academics Lost Control of the University</i>\n                    HeffernanTroyAcademy of the Oppressed: Paulo Freire and How Academics Lost Control of the UniversityLondon: Emerald Publishing, 2024, £75 hbk, (ISBN: 9781804553176), 152 pp.",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-06-17",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1111/1756-2171.70063": {
+      "title": "Output Quality, Productivity, and Demand: Evidence from the Chinese Steel Industry",
+      "journal": "The RAND Journal of Economics",
+      "abs_journal_title": "RAND Journal of Economics",
+      "published_date": "2026-06-17",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1177/00380385261454306": {
+      "title": "Book Review: Yasmin Y Ortiga,\n                    <i>Stuck at Home: Pandemic Immobilities in the Nation of Emigration</i>\n                    OrtigaYasmin Y, Stuck at Home: Pandemic Immobilities in the Nation of Emigration. Stanford, CA: Stanford University Press, 2025, $105.00 hbk (ISBN: 9781503641846), 202 pp.",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-06-17",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1177/00380385261450828": {
+      "title": "Book Review: Carlo Bordoni,\n                    <i>The Society of Dividuals: Virtualization of Existence</i>\n                    BordoniCarlo. The Society of Dividuals: Virtualization of Existence. Cambridge: Polity Press, 2026, £15.99 pbk, (ISBN: 978-1509572793), 224 pp.",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-06-17",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1080/01621459.2026.2689641": {
+      "title": "Structured Mixture of Continuation-ratio Logits Models for Ordinal Regression",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-17",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1080/01621459.2026.2691322": {
+      "title": "Channeling Multimodality Through a Unimodalizing Transport: Warp-U Sampler and Stochastic Bridge Sampling Estimator",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-06-17",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1080/0960085x.2026.2684708": {
+      "title": "Sustainable energy technologies use: understanding social drivers and humanistic outcomes in four EU countries",
+      "journal": "European Journal of Information Systems",
+      "abs_journal_title": "European Journal of Information Systems",
+      "published_date": "2026-06-17",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1080/00076791.2026.2681464": {
+      "title": "The business of central banking in Sweden, 1924–1939: Regime change and adaptation",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-06-17",
+      "first_seen": "2026-06-18T10:42:40.829885+00:00"
     }
   },
-  "last_run": "2026-06-17T11:11:21.564029+00:00",
+  "last_run": "2026-06-18T10:42:40.829885+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-16",
-    "end_date": "2026-06-17"
+    "start_date": "2026-06-17",
+    "end_date": "2026-06-18"
   }
 }
