@@ -2008,12 +2008,180 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-06-17",
       "first_seen": "2026-06-18T10:42:40.829885+00:00"
+    },
+    "10.1111/1756-2171.70067": {
+      "title": "Peer Learning, Enforcement, and Reputation",
+      "journal": "The RAND Journal of Economics",
+      "abs_journal_title": "RAND Journal of Economics",
+      "published_date": "2026-06-19",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1111/1756-2171.70062": {
+      "title": "Buyer's Hidden Search With Continuous Intensity: The Seller‐Optimal Mechanism and a Perverse Effect",
+      "journal": "The RAND Journal of Economics",
+      "abs_journal_title": "RAND Journal of Economics",
+      "published_date": "2026-06-19",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1007/s10107-026-02371-z": {
+      "title": "Projection onto hyperbolicity cones and beyond: a dual Frank-Wolfe approach",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-06-19",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1002/joom.70053": {
+      "title": "Bridging Fragmentation in Digital Transformation Research: Building an Interface Between Operations Management and Information Systems",
+      "journal": "Journal of Operations Management",
+      "abs_journal_title": "Journal of Operations Management",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1177/01492063261448457": {
+      "title": "Leveraging the Reputation of Being Socially Responsible: Evidence from Firms’ Online Job Postings",
+      "journal": "Journal of Management",
+      "abs_journal_title": "Journal of Management",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1057/s41267-026-00872-9": {
+      "title": "The two Coases of green governance: multinational enterprises and the internalization of environmental externalities through green innovation",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1037/apl0001396": {
+      "title": "Scoring employment interviews with large language models: Evaluation design components, validity investigations, and best practice recommendations.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1037/apl0001382": {
+      "title": "A profile analysis of leader interpersonal emotion management strategies.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1177/10422587261453879": {
+      "title": "Toward a Relational Perspective on Hybrid Entrepreneurship: Institutional Complexity and the Co-Construction of Liminal Space in Hybrid Female Entrepreneurship",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1111/1756-2171.70056": {
+      "title": "Preemptive Entry and Technology Diffusion: The Market for Drive‐In Theaters",
+      "journal": "The RAND Journal of Economics",
+      "abs_journal_title": "RAND Journal of Economics",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1162/rest.a.1813": {
+      "title": "The Role of Information in Pharmaceutical Advertising: Theory and Evidence",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1162/rest.a.1819": {
+      "title": "The Hidden Cost of Firearm Violence on Infants in Utero",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1162/rest.a.1815": {
+      "title": "Robust Design and Evaluation of Predictive Algorithms under Unobserved Confounding",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1162/rest.a.1816": {
+      "title": "Managing Export Complexity: The Role of Service Outsourcing",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1162/rest.a.1814": {
+      "title": "Investments and Innovation with Non-Rival Inputs: Evidence from Chinese Artificial Intelligence Startups",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1162/rest.a.1818": {
+      "title": "Innovation, Patenting and Appropriability: Survey Evidence from a Nationally Representative Sample of U.S. Firms",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1162/rest.a.1822": {
+      "title": "Impulse Response Analysis of Structural Nonlinear Time Series Models",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1162/rest.a.1817": {
+      "title": "Do Elite Universities Overpay Their Faculty?",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1162/rest.a.1820": {
+      "title": "Court Capture, Local Protectionism, and Economic Integration: Evidence from China",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1162/rest.a.1821": {
+      "title": "Bounding the Effect of Persuasion with Monotonicity Assumptions: Reassessing the Impact of TV Debates",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1002/job.70099": {
+      "title": "Workaholics Anonymous? Proself Attributions of Workaholism Increase Coworker Work Effort and Badmouthing",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1002/job.70108": {
+      "title": "Psychological Contracts With Purpose: A Review and Path Forward",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1002/job.70109": {
+      "title": "In Tune for Impact: Top Management Team–Employee Congruence in Attributions of Corporate Social Responsibility and Employee Socially Responsible Behaviors",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
+    },
+    "10.1111/iere.70084": {
+      "title": "Entrepreneurship and Financial Deregulation",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-06-18",
+      "first_seen": "2026-06-19T10:49:49.429152+00:00"
     }
   },
-  "last_run": "2026-06-18T10:42:40.829885+00:00",
+  "last_run": "2026-06-19T10:49:49.429152+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-17",
-    "end_date": "2026-06-18"
+    "start_date": "2026-06-18",
+    "end_date": "2026-06-19"
   }
 }
