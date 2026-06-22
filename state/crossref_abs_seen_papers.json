@@ -2316,12 +2316,89 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-06-20",
       "first_seen": "2026-06-21T09:59:41.456697+00:00"
+    },
+    "10.1111/ehr.70131": {
+      "title": "Private money and money market integration: The role of payments infrastructure in nineteenth‐century Switzerland",
+      "journal": "The Economic History Review",
+      "abs_journal_title": "Economic History Review",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-22T12:22:36.695279+00:00"
+    },
+    "10.1007/s10107-026-02388-4": {
+      "title": "Totally $$\\Delta $$-modular IPs with two non-zeros in most rows",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-22T12:22:36.695279+00:00"
+    },
+    "10.1111/isj.70052": {
+      "title": "Entangling and Coalescing on Social Media: A Study of Issue Boundary Spanning in Movement of Movements",
+      "journal": "Information Systems Journal",
+      "abs_journal_title": "Information Systems Journal",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-22T12:22:36.695279+00:00"
+    },
+    "10.1111/1467-8551.70090": {
+      "title": "Thriving or Drained? The Dual Effects of AI‐autonomy on Workers’ Performance Outcomes",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-22T12:22:36.695279+00:00"
+    },
+    "10.1111/bjir.70067": {
+      "title": "When Jobs Change: Skills Mismatch and the Value of Training",
+      "journal": "British Journal of Industrial Relations",
+      "abs_journal_title": "British Journal of Industrial Relations",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-22T12:22:36.695279+00:00"
+    },
+    "10.1111/puar.70159": {
+      "title": "Reclaiming Weber: Bureaucracy as Democracy's Last Line of Defense",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-06-21",
+      "first_seen": "2026-06-22T12:22:36.695279+00:00"
+    },
+    "10.1057/s41267-026-00873-8": {
+      "title": "Reclaiming history in IB research: expanding interdisciplinary inquiry through historical contextualization",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-06-21",
+      "first_seen": "2026-06-22T12:22:36.695279+00:00"
+    },
+    "10.1057/s41267-026-00884-5": {
+      "title": "Emerging government export support programs: synergistic interaction with traditional programs and export performance consequences",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-06-21",
+      "first_seen": "2026-06-22T12:22:36.695279+00:00"
+    },
+    "10.1057/s41267-026-00883-6": {
+      "title": "Collective reputations, the trust premium, and corporate misconduct",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-06-21",
+      "first_seen": "2026-06-22T12:22:36.695279+00:00"
+    },
+    "10.1111/padm.70074": {
+      "title": "The Disconnection of Advocacy and Analysis in Public Administration: A Critique of Robust Governance",
+      "journal": "Public Administration",
+      "abs_journal_title": "Public Administration",
+      "published_date": "2026-06-21",
+      "first_seen": "2026-06-22T12:22:36.695279+00:00"
+    },
+    "10.1080/0960085x.2026.2688221": {
+      "title": "When information systems go political: a research approach for political IS discourse",
+      "journal": "European Journal of Information Systems",
+      "abs_journal_title": "European Journal of Information Systems",
+      "published_date": "2026-06-21",
+      "first_seen": "2026-06-22T12:22:36.695279+00:00"
     }
   },
-  "last_run": "2026-06-21T09:59:41.456697+00:00",
+  "last_run": "2026-06-22T12:22:36.695279+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-20",
-    "end_date": "2026-06-21"
+    "start_date": "2026-06-21",
+    "end_date": "2026-06-22"
   }
 }
