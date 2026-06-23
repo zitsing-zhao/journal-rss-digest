@@ -2393,12 +2393,103 @@
       "abs_journal_title": "European Journal of Information Systems",
       "published_date": "2026-06-21",
       "first_seen": "2026-06-22T12:22:36.695279+00:00"
+    },
+    "10.1108/ijopm-02-2024-0107": {
+      "title": "A typology of crises and innovation configurations: a paradoxical perspective",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-06-24",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1111/puar.70156": {
+      "title": "Stimulating Pro‐Environmental Behavior Using Management Control: Survey Evidence From a City Government",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-06-23",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1287/opre.2025.1936": {
+      "title": "Online Selection with Uncertain Disruption",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1287/mnsc.2024.04778": {
+      "title": "The Spillover Effect of Social Capital Along the Supply Chain: Evidence from the Cost of Debt",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1037/apl0001398": {
+      "title": "Grateful leaders and attentive followers: How grateful attention transmits the cascade of gratitude expressions to strengthen coworker relationships.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1111/1756-2171.70058": {
+      "title": "Price Discrimination With Manipulable Observables",
+      "journal": "The RAND Journal of Economics",
+      "abs_journal_title": "RAND Journal of Economics",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1111/1756-2171.70064": {
+      "title": "Cleaner but Volatile Energy? The Effect of Coal Plant Retirement on Market Competition in the Wholesale Electricity Market",
+      "journal": "The RAND Journal of Economics",
+      "abs_journal_title": "RAND Journal of Economics",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1007/s10107-026-02380-y": {
+      "title": "Sensor network localization has a benign landscape after low-dimensional relaxation",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1007/s10107-026-02385-7": {
+      "title": "Recoverable robust optimization with commitment",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1080/07350015.2026.2691740": {
+      "title": "Extremal local linear quantile regression for heavy-tailed time series with near epoch dependence",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "abs_journal_title": "Journal of Business and Economic Statistics",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1111/iere.70085": {
+      "title": "Money Shortages and Complementary Currencies in Small Local Economies",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1080/00130095.2026.2673883": {
+      "title": "Universities’ Offshore Campuses as a Geopolitical Strategy Under the Knowledge-Based Economy",
+      "journal": "Economic Geography",
+      "abs_journal_title": "Economic Geography",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
+    },
+    "10.1080/00076791.2026.2681474": {
+      "title": "Towards a new understanding of occupational liberalisation, the lifting of entry requirements to the craft trades in Norway during the 1980s",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-06-22",
+      "first_seen": "2026-06-23T10:01:32.570072+00:00"
     }
   },
-  "last_run": "2026-06-22T12:22:36.695279+00:00",
+  "last_run": "2026-06-23T10:01:32.570072+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-21",
-    "end_date": "2026-06-22"
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-23"
   }
 }
