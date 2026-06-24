@@ -1,0 +1,227 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-06-24
+
+Generated at: 2026-06-24 09:47 UTC
+Crossref date mode: `created`
+Window: `2026-06-23` to `2026-06-24`
+New papers: 21
+
+## AJG 4*
+
+### Entrepreneurship Theory and Practice
+- Field: ENT-SBM
+- Articles: 1
+
+- [Resource Orchestration, Team Faultlines, and Entrepreneurial Resilience](https://doi.org/10.1177/10422587261453883)
+  - DOI: 10.1177/10422587261453883
+  - Authors: Jian Guan; Shengyuan Lin; Justin Tan; Jiamin Dong
+  - Affiliations: Central South University, Changsha, China; York University, Toronto, ON, Canada
+  - Published: 2026-06-23
+  - Crossref journal: Entrepreneurship Theory and Practice
+  - Abstract:
+    This study develops an integrated resource orchestration framework to examine how internal resource configurations shape entrepreneurial resilience in new ventures under crisis conditions. Specifically, we focus on bundles of social and technological resource slack and constraints and conceptualize entrepreneurial resilience as comprising two dimensions: stability (severity of loss) and flexibility (time to recovery). We argue that stability is primarily driven by a resource compensation logic, whereas flexibility is driven by a crisis-induced resource reconfiguration logic. Extending resource orchestration theory (ROT), we conceptualize entrepreneurial teams as the central actors of resource orchestration and introduce entrepreneurial team task-related faultlines (ETTF) as a key structural mechanism shaping how effectively resources are mobilized under disruption. Using a sample of 345 Chinese listed new ventures, we find that dual resource slack reduces severity of loss but slows recovery, whereas among constrained bundles, social resource slack combined with technological constraints enables both lower loss and faster recovery. Response surface analyses further show that greater misalignment between social and technological resources increases loss severity but shortens recovery time. In addition, ETTF moderates the effects of resource bundles on resilience outcomes by strengthening both compensatory coordination and reconfiguration capacity. This study advances ROT by showing that internal resource configurations shape entrepreneurial resilience through both bundle composition and misalignment, contingent on team structural conditions.
+
+### Information Systems Research
+- Field: INFO MAN
+- Articles: 3
+
+- [The Evolution of Digital Platform Ecosystems: An Identity Domain Perspective](https://doi.org/10.1287/isre.2024.1022)
+  - DOI: 10.1287/isre.2024.1022
+  - Authors: Panos Constantinides; Carmelo Cennamo; Aleksi Aaltonen
+  - Affiliations: Alliance Manchester Business School, University of Manchester, Manchester MP15 6PB, United Kingdom; and House of Innovation, Stockholm School of Economics, 113 83 Stockholm, Sweden; Department of Strategy & Innovation, Copenhagen Business School, 2000 Frederiksberg, Denmark; and School of Management, SDA Bocconi, 20136 Milan, Italy; Stevens Institute of Technology, Hoboken, New Jersey 07030
+  - Published: 2026-06-23
+  - Crossref journal: Information Systems Research
+  - Abstract:
+    For managers, this research demonstrates that the long-term success of digital platform ecosystems requires identity-coherent orchestration. For example, Apple iOS’s identity domain around a seamless, premium user experience on the iOS ecosystem legitimizes Apple’s “walled garden” and vertical integration approach. Conversely, Google Android’s identity domain of data ubiquity drives Google’s horizontal scaling and proprietary control points. Platform sponsors are cautioned that deviating from their identity domain or appearing as incoherent to their partners and users—as seen in the failures of BlackBerry and Windows Phone—creates strategic dissonance that confuses participants and erodes competitive distinctiveness. For policymakers, this research challenges “one-size-fits-all” regulations, such as the European Union’s Digital Markets Act. Ex ante mandates may disproportionately undermine vertically integrated, privacy-centric models, like iOS, while leaving data-driven ecosystems, like Android, relatively unscathed. Effective antitrust policy must move beyond size thresholds (i.e., gatekeeper status classifications) to consider how the enforcement of ex ante and ex post regulatory approaches can account for the dynamic evolution of digital platform ecosystems as informed by their unique identity domain.
+
+- [Culture Priming of Multicultural Individuals on Localized Websites: A Cultural Frame Switching Perspective](https://doi.org/10.1287/isre.2024.1665)
+  - DOI: 10.1287/isre.2024.1665
+  - Authors: Muller Y. M. Cheung; Weiyin Hong; James Y. L. Thong
+  - Affiliations: Deakin Business School, Deakin University, Victoria 3125, Australia; Department of Information Systems, Business Statistics and Operations Management, School of Business and Management, Hong Kong University of Science and Technology, Kowloon, Hong Kong
+  - Published: 2026-06-23
+  - Crossref journal: Information Systems Research
+  - Abstract:
+    As businesses expand globally, effective website localization becomes crucial, especially in countries where consumers have diverse cultural backgrounds. Traditional website localization strategies focus on tailoring its content and design to the dominant culture of a country. Our research investigates the complexities of localizing websites for countries with multicultural consumers who identify with more than one culture. We found that successful website localization involves priming multicultural consumers with cultural cues (in the forms of language and image) to activate specific cultural identities, for example, individualism or collectivism. The activated culture of multicultural consumers can interact with various website design and content elements to affect multicultural consumers’ trust in the website and crowdfunding support. Our findings offer actionable insights for global businesses. By strategically implementing these insights in website localization, global companies can better navigate diverse consumer landscapes and foster stronger connections with multicultural consumers.
+
+- [Buy Online, Pick Up, or Deliver from Store: Why Would an Online Retail Platform with Third-Party Sellers Offer It?](https://doi.org/10.1287/isre.2025.1869)
+  - DOI: 10.1287/isre.2025.1869
+  - Authors: Ping Tang; Jianqing Chen; Srinivasan Raghunathan
+  - Affiliations: Computer Information Systems, Bentley University, Waltham, Massachusetts 02452; Jindal School of Management, The University of Texas at Dallas, Richardson, Texas 75080
+  - Published: 2026-06-23
+  - Crossref journal: Information Systems Research
+  - Abstract:
+    Digital technologies are enabling online retail platforms to connect consumers not only to sellers’ online offerings but also to sellers’ physical stores through options such as local pickup and store-based delivery, which we refer to as local selling. This study examines why a platform would adopt such a strategy even when it gives up fulfillment-related revenue. We show that local selling can still increase platform profits by raising sales commission revenue. By allowing some consumers to pick up orders locally, the platform reveals geographic differences among consumers that traditional online fulfillment masks. This can soften price competition between sellers, increase prices, and benefit both the platform and sellers. Consumers, however, do not necessarily benefit, even when they are offered more fulfillment options. The findings suggest that local selling is not merely a service innovation that improves convenience. It can also be a strategic tool that helps platforms manage seller competition and extract surplus. For practice, the results indicate that platforms should tailor local-selling strategies to product and market conditions rather than apply them uniformly. For policy, the study highlights that expanding consumer choice does not necessarily improve consumer welfare, and that platform innovations should also be evaluated based on their effects on competition, pricing, and surplus allocation.
+
+### Organization Science
+- Field: ORG STUD
+- Articles: 1
+
+- [Technology (Non)Emergence: How System Interdependencies Among Activities by Heterogeneous Actors Shaped Alternative Solar Technology Trajectories](https://doi.org/10.1287/orsc.2022.17185)
+  - DOI: 10.1287/orsc.2022.17185
+  - Authors: Mara Guerra; Rajshree Agarwal
+  - Affiliations: Bayes Business School, City St. George’s, University of London, London EC1Y 8TZ, United Kingdom; Department of Management and Organization, University of Maryland, College Park, Maryland 20742
+  - Published: 2026-06-23
+  - Crossref journal: Organization Science
+  - Abstract:
+    We examine industry and technology (non)emergence by integrating actor-centric and systems perspective literature streams. We use historical methods to analyze rich data tracking investments by actors spanning private, public, and academic sectors in the solar photovoltaics context. The industry took several decades after commercialization to emerge; moreover, silicon and thin film technologies experienced divergent fates despite firm takeoff. By uncovering critical interdependencies across activities by different actors, we show that, whereas attention by all actors to developing various elements of technological systems is necessary for emergence, it may not be sufficient. The industry emerged after activities by technology producers, industry associations, and government agencies ensured stable institutional support that stimulated latent demand (by utilities and end consumers) and created reinforcing loops among activities by technology producers and research institutes for solar technologies to become a viable alternative to fossil fuels. Moreover, silicon experienced additional reinforcing loops in demand-side and supply-side ecosystems, wherein technology producers and equipment manufacturers leveraged adjacent mature supply chains to meet demand-side scale and reliability requirements in fast growing markets. In contrast, thin film experienced balancing loops wherein nascent firm-specific supply side alliances could not address these demand side needs. These findings showcase how dominant designs may emerge even when there is no ex ante competitive dynamics among technology producers: Although silicon may have benefited from first mover advantage at the technology level, our study highlights that ecosystem first mover advantages of silicon relative to thin film were particularly salient in their divergent fates. Supplemental Material: The online appendices are available at https://doi.org/10.1287/orsc.2022.17185 .
+
+### Public Administration Review
+- Field: PUB SEC
+- Articles: 1
+
+- [Does Size Matter for the Relationship Between Politics and Administration?](https://doi.org/10.1111/puar.70158)
+  - DOI: 10.1111/puar.70158
+  - Authors: Hilde Bjørnå; Troy Saghaug Broderstad
+  - Affiliations: UiT The Arctic University of Norway Tromsø Norway
+  - Published: 2026-06-23
+  - Crossref journal: Public Administration Review
+  - Abstract:
+    ABSTRACT Owing to public administrations' expansion of their roles in policy design and coordination, concerns about bureaucratic power have reemerged across democratic systems. However, little is known concerning how elected politicians experience and interpret administrative influence, particularly in local governments, in which administrative capacity often rivals political authority. This study examined how local politicians perceive administrative influence and how these perceptions vary across organizational scales and party affiliations. Using survey data from Norwegian municipal politicians, this study found that administrative influence is perceived as a normal, bounded aspect of governance, rather than bureaucratic domination. However, perceptions vary systematically by municipal size; politicians in larger municipalities report stronger administrative influence, reflecting greater specialization and delegation. These perceptions were further conditioned by political interpretations. Elite skeptical representatives evaluated administrative influence more negatively, particularly in larger jurisdictions, demonstrating how administrative power is institutionally structured and politically interpreted, offering insights relevant to governance systems globally.
+
+## AJG 4
+
+### British Journal of Management
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [Measuring New Venture Legitimacy: A Multi‐dimensional Approach Using Computational Textual Analysis](https://doi.org/10.1111/1467-8551.70089)
+  - DOI: 10.1111/1467-8551.70089
+  - Authors: Ali Ghods; Antonin Ricard; Bénédicte Aldebert; Eric W. Schoon
+  - Affiliations: Aix Marseille Univ, IAE, CERGAM Aix‐en‐Provence France; The Ohio State University Columbus OH USA
+  - Published: 2026-06-24
+  - Crossref journal: British Journal of Management
+  - Abstract:
+    Abstract Legitimacy is critical for the growth, survival and performance of ventures, yet efforts to measure legitimacy empirically typically focus on a single dimension of this multi‐dimensional construct. In this article, we develop a multi‐dimensional framework for measuring legitimacy using computational text analysis. We begin by elaborating the theoretical foundations of our multi‐dimensional approach, situating it in relation to influential multi‐level perspectives on legitimacy. Using dyads as our unit of analysis, we show how our approach enables simultaneous measurement of multiple dimensions of legitimacy across multiple audiences at scale. This approach provides a methodological bridge between dominant uni‐dimensional approaches to the empirical study of legitimacy, generating both a composite measure of legitimacy and indicators for each dimension individually, which can be incorporated into empirical analyses. We validate the measure using both expert evaluations and by demonstrating its predictive power for venture failure. Our study offers both a methodological advance for legitimacy research and a foundation for new theory building on how legitimacy emerges, evolves and influences outcomes not only across multiple levels but also across multiple dimensions.
+
+### Business History
+- Field: BUS HIST & ECON HIST
+- Articles: 1
+
+- [Breakneck: China’s quest to engineer the future](https://doi.org/10.1080/00076791.2026.2692172)
+  - DOI: 10.1080/00076791.2026.2692172
+  - Authors: Stanislas Kihm
+  - Affiliations: ISTEC Business School
+  - Published: 2026-06-23
+  - Crossref journal: Business History
+
+### Economic History Review
+- Field: BUS HIST & ECON HIST
+- Articles: 3
+
+- [Two paths to prosperity: Culture and institutions in Europe and China, 1000–2000AvnerGreif, JoelMokyr, and GuidoTabellini, (Princeton University Press, 2025. Pp. 533. ISBN 9780691265940. Hbk £35).](https://doi.org/10.1111/ehr.70135)
+  - DOI: 10.1111/ehr.70135
+  - Authors: Graham Brownlow
+  - Affiliations: Queen's University of Belfast Belfast UK
+  - Published: 2026-06-24
+  - Crossref journal: The Economic History Review
+
+- [Economic warfare and sanctions since 1688StephenBroadberry and MarkHarrison, Eds., (Cambridge University Press, 2025. Pp. 298. ISBN 9781009474863. PbK £28).](https://doi.org/10.1111/ehr.70137)
+  - DOI: 10.1111/ehr.70137
+  - Authors: Eric Golson
+  - Affiliations: University of Surrey Guildford UK
+  - Published: 2026-06-24
+  - Crossref journal: The Economic History Review
+
+- [An economic history of Europe: Knowledge, institutions and welfare, prehistory to the presentKarl GunnarPersson, PaulSharp, and MarkusLampe, (3rd edition, Cambridge University Press, 2026. Pp. 314. ISBN 9781009613989. Sbk £35).](https://doi.org/10.1111/ehr.70136)
+  - DOI: 10.1111/ehr.70136
+  - Authors: Christopher L. Colvin
+  - Affiliations: Queen's University Belfast Belfast UK
+  - Published: 2026-06-24
+  - Crossref journal: The Economic History Review
+
+### Journal of Management Studies
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [Middle Managers' Interface Work: Exploring Micro‐Practices for Co‐Adoption of Emerging Ecosystem Value Propositions](https://doi.org/10.1111/joms.70124)
+  - DOI: 10.1111/joms.70124
+  - Authors: Krithika Randhawa; Wim Vanhaverbeke; Mariano L. M. Heyden; Paavo Ritala
+  - Affiliations: University of Sydney; University of Antwerp; Monash University; LUT University
+  - Published: 2026-06-23
+  - Crossref journal: Journal of Management Studies
+  - Abstract:
+    Abstract Emerging ecosystem value propositions require collective co‐adoption by heterogeneous stakeholders. Focusing on middle managers (MMs) in ecosystem emergence, we introduce the notion of MM interface work: a form of social‐symbolic work comprising discursive, relational, and material micro‐practices within and across cognitive, behavioural, regulatory, and political interfaces. Drawing on rich primary and secondary data collected over 5 years from six technology providers in the healthcare sector, we explain how these micro‐practices underpin the co‐adoption of an emerging ecosystem value proposition. Two key mechanisms drive this process: the integration of micro‐practices within each interface and the synergistic alignment of the micro‐practices across interfaces. Our study advances ecosystem and strategic leadership literatures by explaining how MMs may influence co‐adoption of an emerging ecosystem value proposition ‘from the middle‐out’.
+
+### Journal of the American Statistical Association
+- Field: ECON
+- Articles: 4
+
+- [Optimally adaptive test for high dimensional hypotheses via minimax deficiency](https://doi.org/10.1080/01621459.2026.2692074)
+  - DOI: 10.1080/01621459.2026.2692074
+  - Authors: Jingkun Qiu; Song Xi Chen; Yumou Qiu
+  - Affiliations: Guanghua School of Management, Peking University; Department of Statistics and Data Science, Tsinghua University; School of Mathematical Sciences and Center for Statistical Science, Peking University
+  - Published: 2026-06-23
+  - Crossref journal: Journal of the American Statistical Association
+
+- [Interpretable Scalar-on-Image Linear Regression Models via the Generalized Dantzig Selector](https://doi.org/10.1080/01621459.2026.2690121)
+  - DOI: 10.1080/01621459.2026.2690121
+  - Authors: Sijia Liao; Xiaoxiao Sun; Ning Hao; Hao Helen Zhang
+  - Affiliations: Statistics & Data Science GIDP, University of Arizona; Department of Epidemiology and Biostatistics, University of Arizona; Department of Mathematics, University of Arizona
+  - Published: 2026-06-23
+  - Crossref journal: Journal of the American Statistical Association
+
+- [Causal Inference with Generative Artificial Intelligence: Application to Texts as Treatments*](https://doi.org/10.1080/01621459.2026.2689629)
+  - DOI: 10.1080/01621459.2026.2689629
+  - Authors: Kosuke Imai; Kentaro Nakamura
+  - Affiliations: Professor, Department of Government and Department of Statistics, Harvard University; Ph.D. student, John F. Kennedy School of Government, Harvard University
+  - Published: 2026-06-23
+  - Crossref journal: Journal of the American Statistical Association
+
+- [Anytime-Valid Inference in Linear Models with Applications to Regression-Adjusted Causal Inference](https://doi.org/10.1080/01621459.2026.2692052)
+  - DOI: 10.1080/01621459.2026.2692052
+  - Authors: Michael Lindon; Dae Woong Ham; Martin Tingley; Iavor Bojinov
+  - Affiliations: Netflix, Los Gatos, CA; Ross School of Business; Microsoft; Harvard School of Business
+  - Published: 2026-06-23
+  - Crossref journal: Journal of the American Statistical Association
+
+### RAND Journal of Economics
+- Field: ECON
+- Articles: 2
+
+- [What Causes Geographic Variation in Drug Prescribing? Evidence from Physician Migration](https://doi.org/10.1111/1756-2171.70069)
+  - DOI: 10.1111/1756-2171.70069
+  - Authors: David Beheshti; Seth Neller
+  - Affiliations: Department of Economics University of Texas San Antonio Texas USA; Department of Econoimcs and Boyd Center for Business and Economic Research University of Tennessee Knoxville Tennessee USA
+  - Published: 2026-06-23
+  - Crossref journal: The RAND Journal of Economics
+  - Abstract:
+    ABSTRACT In this article, we examine the importance of individual physicians in explaining the significant variation in prescription drug spending in Medicare Part D. By tracking prescribing behavior before and after physician relocations, we find that movers' prescribing converges toward the average of their new location. However, this convergence is far from complete, highlighting the importance of idiosyncratic physician‐specific factors. Overall, these physician‐specific factors explain about 60 to 70 percent of the cross‐sectional variation in prescription drug spending, suggesting that physicians are one of the most important supply‐side determinants of this variation. We investigate several potential mechanisms behind this partial convergence.
+
+- [Mergers in the Presence of Adverse Selection](https://doi.org/10.1111/1756-2171.70070)
+  - DOI: 10.1111/1756-2171.70070
+  - Authors: Conor Ryan
+  - Affiliations: Department of Economics Pennsylvania State University University Park 16802 Pennsylvania USA
+  - Published: 2026-06-23
+  - Crossref journal: The RAND Journal of Economics
+  - Abstract:
+    ABSTRACT In the presence of adverse selection, mergers can increase welfare through a reduction in inefficient sorting. I characterize the sorting externality internalized between merging firms in a tractable discrete choice model. Mergers benefit consumers when the firms are small, willingness to pay is moderately increasing in cost, and consumer costs are skewed. Applying the model to the non‐group health insurance market, 13% of potential mergers would improve consumer surplus. In markets where the sorting distortion exceeds $5 per person, nearly one‐third of mergers improve consumer surplus, highlighting the importance of considering adverse selection in merger evaluation.
+
+### Risk Analysis
+- Field: SOC SCI
+- Articles: 3
+
+- [Quantitative Microbial Risk Assessment of Human H5N1 Infection From Consumption of Fluid Cow's Milk](https://doi.org/10.1111/risa.70264)
+  - DOI: 10.1111/risa.70264
+  - Authors: Katherine J. Koebel; Ece Bulut; Samuel D. Alcaine; Aljoša Trmčić; Mohammed Nooruzzaman; Lina M. Covaleda; Diego G. Diel; Renata Ivanek
+  - Affiliations: Department of Population Medicine &amp; Diagnostic Sciences College of Veterinary Medicine, Cornell University Ithaca New York USA; Department of Food Science College of Agriculture &amp; Life Sciences, Cornell University Ithaca New York USA
+  - Published: 2026-06-23
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT The spillover of H5N1 clade 2.3.4.4b into dairy cattle has raised concerns over the safety of fluid milk. While no foodborne infection has been reported in humans, this strain has infected at least 70 people, and milk from infected cows is known to be infected by ingestion of multiple other species. Investigation into the public health threat of this outbreak is warranted. This farm‐to‐table quantitative microbial risk assessment (QMRA) uses stochastic models to assess the risk of human infection from consumption of raw and pasteurized fluid cow's milk from the United States supply chains. These models were parameterized with literature emerging from this outbreak and then employed to estimate the H5N1 infection risk and evaluate multiple potential interventions aimed at reducing this risk. The median (5th and 95th percentiles) probabilities of infection per 240‐mL serving of pasteurized, farmstore‐purchased raw, or retail‐purchased raw milk were 7.66E−19 (2.39E−20, 4.02E−17), 1.56E−7 (6.67E−10, 1.28E−5), and 1.40E−7 (6.65E−10, 1.13E−05), respectively. Our results confirm that pasteurization is highly effective at reducing H5N1 infection risk. Scenario analysis revealed quantitative real‐time reverse transcriptase‐polymerase chain reaction (qrRT‐PCR) testing of bulk tank milk to be an effective method for numerically reducing risk from raw milk. In addition, we identify knowledge gaps related to the human H5N1 dose‒response by ingestion and raw milk consumption patterns. These findings emphasize the importance of mechanistic epidemiologic models for informing public health responses amidst outbreaks with foodborne potential and highlight the need for additional research into raw milk consumption patterns to better understand this exposure pathway.
+
+- [Perceptions of Parcel–Level Wildfire Risk Differ Between Homeowners and Trained Assessors in Wildland–Urban Interface Communities Across the Western United States](https://doi.org/10.1111/risa.70268)
+  - DOI: 10.1111/risa.70268
+  - Authors: Kelly Wallace; Grant Webster; Hannah Brenkert‐Smith; Patricia A. Champ; Colleen Donovan; Carolyn Wagner; Christopher M. Barth; Josh Kuehn; Suzanne Wittenbrink; James R. Meldrum
+  - Affiliations: Institute of Behavioral Science University of Colorado Boulder Boulder Colorado USA; USDA Forest Service, Rocky Mountain Research Station Fort Collins Colorado USA; Wildfire Research (WiRē) Center Niwot Colorado USA; USDA Forest Service, Washington Office, Fire and Aviation Management, National Incident Management Organization (NIMO) Missoula Montana USA; U.S. Geological Survey, Fort Collins Science Center Fort Collins Colorado USA
+  - Published: 2026-06-23
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Wildfire risk mitigation on private property is central to reducing community wildfire vulnerability. Homeowners have control over many of the key factors that contribute to wildfire risk on their parcels, yet vulnerable conditions persist. One potential explanation is a misalignment between homeowners' and trained assessors' perceptions of parcel‐level wildfire risk. Prior research has documented a “risk gap” in a single community wherein owners often underestimate their parcel‐level wildfire risk; however, it is unclear whether such misalignments are widespread. This study replicates and expands previous research by examining the parcel‐level wildfire risk gap in 38 wildland–urban interface (WUI) communities across the Western United States using paired data from household surveys and parcel‐level wildfire risk assessments by trained assessors. We find that homeowners and assessors often perceive parcel characteristics differently. Homeowners may systematically mis‐weight their importance, tending to underweight key controllable factors such as building materials and defensible space, leading to meaningful divergence from trained assessor ratings. Accordingly, we also find that homeowners generally underestimate overall parcel wildfire risk compared to trained assessors. These results suggest that even when homeowners recognize attributes on their parcels that contribute to wildfire risk, they may not fully grasp how much the attributes contribute to overall parcel risk, potentially failing to recognize the need to undertake meaningful mitigation actions. The findings from this study contribute to the broader natural hazards literature on expert‐layperson risk perception gaps and offer insights for improving wildfire communication, education, and mitigation strategies in WUI communities.
+
+- [Global Renewable Energy Infrastructure Resilience Under Climate Risks](https://doi.org/10.1111/risa.70273)
+  - DOI: 10.1111/risa.70273
+  - Authors: Jingke Hong; Yang Chen; Wen Yi; Hung‐lin Chi
+  - Affiliations: School of Management Science and Real Estate Chongqing University Chongqing China; Department of Building and Real Estate The Hong Kong Polytechnic University Hong Kong China
+  - Published: 2026-06-23
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Accelerating global climate risks increasingly threaten renewable energy infrastructure (REI). However, little evidence on heterogeneous impacts of climate risks on REI across countries, the moderating role of REI resilience, and post‐disaster recovery patterns is available, despite their critical importance for guiding resilient energy transitions and informing disaster risk governance. To address these issues, we employed dynamic panel models in 215 countries and regions from 2004 to 2022. We find that (1) climate risk significantly damages global REI, with disaster frequency and institutional resilience having mitigation effects. (2) The damage follows an inverted U‐shape with increasing disaster frequency and an “N” shape with increasing disaster duration. As renewable energy generation share increases, the damage intensifies and progresses through four increasingly severe stages. (3) Economic resilience exhibits a “Creative destruction” effect in developed nations and a “Build back better” recovery in poor countries. (4) Although social resilience worsens climate disaster damage globally, high disaster frequency and institutional resilience can facilitate a “Recovery to trend” in socially advanced nations. (5) REI in South America is the most affected, followed by Asia and Africa, whereas Europe is the least impacted. Wind energy is the most vulnerable, followed by bioenergy, solar, and hydropower.
