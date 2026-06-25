@@ -2631,12 +2631,89 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-06-23",
       "first_seen": "2026-06-24T09:47:01.445871+00:00"
+    },
+    "10.1108/ijopm-11-2025-1190": {
+      "title": "Firm-level trade decoupling risk and cross-border supply chain reconfiguration: evidence from Chinese firms",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-06-26",
+      "first_seen": "2026-06-25T09:40:24.863716+00:00"
+    },
+    "10.1080/14719037.2026.2691900": {
+      "title": "Pathways to Diversity, Equity, and Inclusion: The Role of Organizational Learning in Enhancing Racial Minority Leadership",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-06-25",
+      "first_seen": "2026-06-25T09:40:24.863716+00:00"
+    },
+    "10.1287/mnsc.2024.07169": {
+      "title": "ESG and the Stock Market: Is ESG Exposure Systematic?",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-24",
+      "first_seen": "2026-06-25T09:40:24.863716+00:00"
+    },
+    "10.1086/742837": {
+      "title": "Kinship in Black and White Families: The Strength of Horizontal Ties",
+      "journal": "American Journal of Sociology",
+      "abs_journal_title": "American Journal of Sociology",
+      "published_date": "2026-06-24",
+      "first_seen": "2026-06-25T09:40:24.863716+00:00"
+    },
+    "10.1093/ej/ueag064": {
+      "title": "Gender-Specific Transportation Costs and Female Time Use: Evidence from India’s\n                    <i>Pink Slip</i>\n                    Program",
+      "journal": "The Economic Journal",
+      "abs_journal_title": "Economic Journal",
+      "published_date": "2026-06-24",
+      "first_seen": "2026-06-25T09:40:24.863716+00:00"
+    },
+    "10.1111/jpim.70048": {
+      "title": "Responsible Innovation at the Molecular Level: Collaboration, Networks, and Commercialization in Green Chemistry",
+      "journal": "Journal of Product Innovation Management",
+      "abs_journal_title": "Journal of Product Innovation Management",
+      "published_date": "2026-06-24",
+      "first_seen": "2026-06-25T09:40:24.863716+00:00"
+    },
+    "10.1111/joms.70129": {
+      "title": "The Portfolio Ceiling in Asymmetric Alliances: Large Partners and the Internationalization of Japanese\n                    <scp>SMEs</scp>",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-06-24",
+      "first_seen": "2026-06-25T09:40:24.863716+00:00"
+    },
+    "10.1080/07350015.2026.2654891": {
+      "title": "Using a Special Regressor to Identify Type I and Type II Error Probabilities, With an Illustrative Application to Miscarriages of Justice",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "abs_journal_title": "Journal of Business and Economic Statistics",
+      "published_date": "2026-06-24",
+      "first_seen": "2026-06-25T09:40:24.863716+00:00"
+    },
+    "10.1080/00076791.2026.2643050": {
+      "title": "Freedom enterprise: Black entrepreneurship and racial capitalism in Detroit",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-06-24",
+      "first_seen": "2026-06-25T09:40:24.863716+00:00"
+    },
+    "10.1080/00076791.2026.2681470": {
+      "title": "Beyond big business. Rethinking the role of married women in Catalonia (Spain) in the first quarter of the 20th century",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-06-24",
+      "first_seen": "2026-06-25T09:40:24.863716+00:00"
+    },
+    "10.1080/00076791.2026.2688717": {
+      "title": "Bankminded: Banks as intimate agents of everyday life in welfare state Sweden",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-06-24",
+      "first_seen": "2026-06-25T09:40:24.863716+00:00"
     }
   },
-  "last_run": "2026-06-24T09:47:01.445871+00:00",
+  "last_run": "2026-06-25T09:40:24.863716+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-23",
-    "end_date": "2026-06-24"
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-25"
   }
 }
