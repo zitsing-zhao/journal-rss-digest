@@ -2904,12 +2904,159 @@
       "abs_journal_title": "Information Systems Research",
       "published_date": "2026-06-01",
       "first_seen": "2026-06-26T09:44:21.561068+00:00"
+    },
+    "10.1086/742834": {
+      "title": "Recent Referees",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1086/742464": {
+      "title": "JPE Turnaround Times",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1086/742833": {
+      "title": "Front Matter",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1257/app.20240181": {
+      "title": "Which Reference Groups Matter and How? A Relative Income Information Experiment with Administrative Data",
+      "journal": "American Economic Journal: Applied Economics",
+      "abs_journal_title": "American Economic Journal: Applied Economics",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1257/app.20240589": {
+      "title": "Turbocharging Profits? Contract Gaming and Revenue Allocation in Healthcare",
+      "journal": "American Economic Journal: Applied Economics",
+      "abs_journal_title": "American Economic Journal: Applied Economics",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1257/app.20240203": {
+      "title": "The Welfare Economics of Reference Dependence",
+      "journal": "American Economic Journal: Applied Economics",
+      "abs_journal_title": "American Economic Journal: Applied Economics",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1257/app.20230301": {
+      "title": "The Political Geography of Cities",
+      "journal": "American Economic Journal: Applied Economics",
+      "abs_journal_title": "American Economic Journal: Applied Economics",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1257/app.20250049": {
+      "title": "The Effect of Low-Skill Immigration Restrictions on US Firms and Workers: Evidence from a Randomized Lottery",
+      "journal": "American Economic Journal: Applied Economics",
+      "abs_journal_title": "American Economic Journal: Applied Economics",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1257/app.20230034": {
+      "title": "The Dynamic Effects of Cash Transfers to Agricultural Households",
+      "journal": "American Economic Journal: Applied Economics",
+      "abs_journal_title": "American Economic Journal: Applied Economics",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1257/app.20230525": {
+      "title": "Order Effects and Teacher Labor Supply: A Nationwide RCT in Ecuador",
+      "journal": "American Economic Journal: Applied Economics",
+      "abs_journal_title": "American Economic Journal: Applied Economics",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1257/app.18.3.i": {
+      "title": "Front Matter",
+      "journal": "American Economic Journal: Applied Economics",
+      "abs_journal_title": "American Economic Journal: Applied Economics",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1257/app.20240377": {
+      "title": "Fostering Cooperation: The Conflict-Reducing Effects of Intervillage Competition for Government Transfers",
+      "journal": "American Economic Journal: Applied Economics",
+      "abs_journal_title": "American Economic Journal: Applied Economics",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1257/app.20240153": {
+      "title": "Dominated Pension Investments: The Role of Search Frictions and Unawareness",
+      "journal": "American Economic Journal: Applied Economics",
+      "abs_journal_title": "American Economic Journal: Applied Economics",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1257/app.20240009": {
+      "title": "Decentralizing Development: The Economic Impacts of Government Splits",
+      "journal": "American Economic Journal: Applied Economics",
+      "abs_journal_title": "American Economic Journal: Applied Economics",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1287/orsc.2022.16727": {
+      "title": "Moving Beyond the MVP in Hyper-Constrained Contexts: The Generative Power of Constraints Work",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-06-26",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1287/mnsc.2022.03394": {
+      "title": "Speed Up the Cold-Start Learning in Two-Sided Bandits with Many Arms",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-26",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1287/mnsc.2026.02442": {
+      "title": "From Shadow AI to Governed AI Review: A Commentary on “Fighting Fire with Fire: Infusing AI into Peer Review to Sustain Quality Scholarship”",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-06-26",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1057/s41267-026-00878-3": {
+      "title": "Populism, regime characteristics, and MNC location choice",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-06-26",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1287/isre.2023.0635": {
+      "title": "Asymmetric Algorithm Aversion",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-06-26",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1080/00343404.2026.2682503": {
+      "title": "Border permeability and cross-border mobility in Europe, 1960–2020",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-06-26",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1111/joms.70130": {
+      "title": "Government Orchestration at Play: The Influence of Disclosure Regulation on Stakeholder Accusations and the Role of CSR",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-06-26",
+      "first_seen": "2026-06-27T08:46:40.353608+00:00"
     }
   },
-  "last_run": "2026-06-26T09:44:21.561068+00:00",
+  "last_run": "2026-06-27T08:46:40.353608+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-25",
-    "end_date": "2026-06-26"
+    "start_date": "2026-06-26",
+    "end_date": "2026-06-27"
   }
 }
