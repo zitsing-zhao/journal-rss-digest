@@ -3051,12 +3051,47 @@
       "abs_journal_title": "Journal of Management Studies",
       "published_date": "2026-06-26",
       "first_seen": "2026-06-27T08:46:40.353608+00:00"
+    },
+    "10.1080/14719037.2026.2692614": {
+      "title": "The impact of public agency representation on citizen perception in the face of technological discrimination",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-28T09:22:19.564455+00:00"
+    },
+    "10.1080/14719037.2026.2693266": {
+      "title": "How does ethics reform in government affect moral reasoning and perceived discretion in patronage-prone organizations?",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-28T09:22:19.564455+00:00"
+    },
+    "10.1080/14719037.2026.2695792": {
+      "title": "Beyond co-creation: how non-profit organizations create public value in complex social challenges",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-28T09:22:19.564455+00:00"
+    },
+    "10.1093/ej/ueag080": {
+      "title": "The Emergence of the Child Quantity-Quality Tradeoff - insights from early modern academics",
+      "journal": "The Economic Journal",
+      "abs_journal_title": "Economic Journal",
+      "published_date": "2026-06-27",
+      "first_seen": "2026-06-28T09:22:19.564455+00:00"
+    },
+    "10.1080/14719037.2026.2690424": {
+      "title": "When you make and buy: understanding service delivery portfolios in concurrent sourcing",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-06-27",
+      "first_seen": "2026-06-28T09:22:19.564455+00:00"
     }
   },
-  "last_run": "2026-06-27T08:46:40.353608+00:00",
+  "last_run": "2026-06-28T09:22:19.564455+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-26",
-    "end_date": "2026-06-27"
+    "start_date": "2026-06-27",
+    "end_date": "2026-06-28"
   }
 }
