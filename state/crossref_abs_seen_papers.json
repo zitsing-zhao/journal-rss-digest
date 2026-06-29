@@ -3086,12 +3086,96 @@
       "abs_journal_title": "Public Management Review",
       "published_date": "2026-06-27",
       "first_seen": "2026-06-28T09:22:19.564455+00:00"
+    },
+    "10.1080/00343404.2026.2682498": {
+      "title": "A media-based indicator for studying functional cross-border regions",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-06-29",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
+    },
+    "10.1007/s10107-026-02392-8": {
+      "title": "Integer and unsplittable multiflows in series-parallel digraphs",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-06-29",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
+    },
+    "10.1111/puar.70155": {
+      "title": "Issue Information",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
+    },
+    "10.1111/puar.70148": {
+      "title": "Celebrating 85 Years",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
+    },
+    "10.1111/puar.70147": {
+      "title": "American Society for Public Administration Code of Ethics",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
+    },
+    "10.1111/risa.70294": {
+      "title": "Trust‐Building Communication for Extreme Heat Preparedness",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
+    },
+    "10.1111/risa.70285": {
+      "title": "Spring Broken: A Risk Analysis of Fatal and Nonfatal Traffic Injuries in Florida",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
+    },
+    "10.1111/risa.70295": {
+      "title": "Global Sensitivity Analysis of Societal Resilience Using Shapley Values and Polynomial Chaos Expansion",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
+    },
+    "10.1111/joms.70125": {
+      "title": "Property Rights and Intangible Assets: Indigenous Theory and the Case of Indian Imagery",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
+    },
+    "10.1111/joms.70127": {
+      "title": "Property Rights and Corporate Toxic Emissions: Evidence from the Enactment of Property Law in China",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
+    },
+    "10.1177/02683962261465434": {
+      "title": "Lost in decentralization? Governing emerging technologies within enterprise architecture",
+      "journal": "Journal of Information Technology",
+      "abs_journal_title": "Journal of Information Technology",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
+    },
+    "10.1111/isj.70055": {
+      "title": "Research Integrity Matters, But It Is Undermined by Generative\n                    <scp>AI</scp>",
+      "journal": "Information Systems Journal",
+      "abs_journal_title": "Information Systems Journal",
+      "published_date": "2026-06-28",
+      "first_seen": "2026-06-29T11:15:49.949449+00:00"
     }
   },
-  "last_run": "2026-06-28T09:22:19.564455+00:00",
+  "last_run": "2026-06-29T11:15:49.949449+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-06-27",
-    "end_date": "2026-06-28"
+    "start_date": "2026-06-28",
+    "end_date": "2026-06-29"
   }
 }
