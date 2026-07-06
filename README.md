@@ -1,4 +1,4 @@
-# Weekly AJG 4*/4 Journal Digest
+# Daily AJG 4*/4 Journal Digest
 
 This project collects new articles from AJG 2024 journals rated 4* or 4, writes a weekly Markdown digest with full abstracts where available, and can email the digest through SMTP.
 
