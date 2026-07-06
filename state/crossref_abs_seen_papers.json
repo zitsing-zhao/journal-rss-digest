@@ -3982,12 +3982,47 @@
       "abs_journal_title": "Scientometrics",
       "published_date": "2026-07-04",
       "first_seen": "2026-07-05T09:16:40.551132+00:00"
+    },
+    "10.1111/risa.70301": {
+      "title": "Toward Resilient Cross‐Regional Emergency Governance: A Demand‐Driven and Propagation‐Based Evolutionary Cooperation Framework",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-07-06",
+      "first_seen": "2026-07-06T10:56:42.406809+00:00"
+    },
+    "10.1002/smj.70107": {
+      "title": "Putting a price on mission: Social responsibility orientation and startup employment",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-07-05",
+      "first_seen": "2026-07-06T10:56:42.406809+00:00"
+    },
+    "10.1002/smj.70108": {
+      "title": "Ethnic integration and the value of innovation",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-07-05",
+      "first_seen": "2026-07-06T10:56:42.406809+00:00"
+    },
+    "10.1002/job.70059": {
+      "title": "Issue Information",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-07-05",
+      "first_seen": "2026-07-06T10:56:42.406809+00:00"
+    },
+    "10.1111/joms.70131": {
+      "title": "The Adaptive Objectives of State‐Owned Enterprises amid Economic and Political Shifts: Evidence from Brazilian Firms, 1973–1993",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-07-05",
+      "first_seen": "2026-07-06T10:56:42.406809+00:00"
     }
   },
-  "last_run": "2026-07-05T09:16:40.551132+00:00",
+  "last_run": "2026-07-06T10:56:42.406809+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-04",
-    "end_date": "2026-07-05"
+    "start_date": "2026-07-05",
+    "end_date": "2026-07-06"
   }
 }
