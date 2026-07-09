@@ -4367,12 +4367,264 @@
       "abs_journal_title": "British Journal of Industrial Relations",
       "published_date": "2026-07-07",
       "first_seen": "2026-07-08T08:46:32.132041+00:00"
+    },
+    "10.1177/00018392261457399": {
+      "title": "“Work Optional”: The Adoption and Enactment of a New Work Ideal in the Financial Independence Retire Early Community",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-07-09",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1007/s11192-026-05739-2": {
+      "title": "Book review: The engine of scientific discovery",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-09",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1111/risa.70307": {
+      "title": "What if the Risk Manager is Malevolent?",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-07-09",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1111/padm.70075": {
+      "title": "Resolving Agile Ambidexterity: Between Ambivalence, Adaptation, and Accommodation",
+      "journal": "Public Administration",
+      "abs_journal_title": "Public Administration",
+      "published_date": "2026-07-09",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1287/opre.2024.1273": {
+      "title": "Assortment Optimization Under History-Dependent Effects",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1287/mnsc.2024.06043": {
+      "title": "Financial Reporting Effects of the 1934 Securities Exchange Act",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1177/01492063261461512": {
+      "title": "Entrepreneurial Subjective Ambivalence and Venture Idea Revision",
+      "journal": "Journal of Management",
+      "abs_journal_title": "Journal of Management",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1057/s41267-026-00889-0": {
+      "title": "R&amp;D location choice under technology sanctions: evidence from Chinese MNEs",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1177/00031224261453543": {
+      "title": "Religion Unbundled: Toward a Twenty-First-Century Paradigm for the Sociology of American Religion",
+      "journal": "American Sociological Review",
+      "abs_journal_title": "American Sociological Review",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.5465/amr.2025.0095": {
+      "title": "A Theory of the Temporal Embeddedness of Firms in Entrepreneurs’ Lives",
+      "journal": "Academy of Management Review",
+      "abs_journal_title": "Academy of Management Review",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1093/ej/ueag091": {
+      "title": "The dynamics of costly norms",
+      "journal": "The Economic Journal",
+      "abs_journal_title": "Economic Journal",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1177/00380385261432897": {
+      "title": "Between discovery and responsibility: Facebook groups and the intimate practices of donor-conceived peers",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1007/s11192-026-05728-5": {
+      "title": "Use of the WoS index categories in scientific publication performance assessment of countries",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1007/s11192-026-05724-9": {
+      "title": "Revealing academic gatekeepers in communication journals: a multilevel network analysis of scholars, institutions, and nation-states on editorial boards",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1007/s11192-026-05708-9": {
+      "title": "Influence of regulation on research and technology maturation: a bibliometric investigation of research in aftertreatment technology",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1007/s11192-026-05702-1": {
+      "title": "Examining the cognitive gap between authors and peer reviewers on academic paper novelty",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1007/s11192-026-05729-4": {
+      "title": "Evidence access design for llm-based scientometrics: graph-based evidence augmentation over semantic retrieval",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1080/00343404.2026.2688966": {
+      "title": "Transformative innovation policy and collaborative governance in regions and cities",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1080/00343404.2026.2688962": {
+      "title": "Towards talent dividend: how urban amenities shape the geography of skilled labour’s economic contribution in China",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1080/00343404.2026.2688960": {
+      "title": "Creativity and AI skill demand in the post-ChatGPT labour market: evidence from UK job vacancies",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1080/14719037.2026.2690423": {
+      "title": "Public value as care within and for practices",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1007/s10107-026-02381-x": {
+      "title": "Strongly convex maximization via the Frank-Wolfe algorithm with the Kurdyka-Łojasiewicz inequality",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1007/s10107-026-02386-6": {
+      "title": "On the complexity of lower-order implementations of higher-order methods",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1007/s10107-026-02376-8": {
+      "title": "Accelerating diagonal methods for bilevel optimization: Unified convergence via continuous-time dynamics",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1007/s10107-026-02395-5": {
+      "title": "A low-rank augmented Lagrangian method for polyhedral-SDP and moment-SOS relaxations of polynomial optimization",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1080/01621459.2026.2700401": {
+      "title": "Safe, Always-Valid Alpha-Investing Rules For Doubly Sequential Online Inference",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1080/01621459.2026.2697050": {
+      "title": "Multilinear Ordinary Differential Equations for Inferring Gene Regulatory Network from Multimodal Functional Data",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1080/01621459.2026.2698025": {
+      "title": "MOSAiC: Multi-site One-Shot Aggregation of Compressed Risk Functions",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1080/01621459.2026.2699465": {
+      "title": "Enhanced Marginal Sensitivity Model and Bounds",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1080/01621459.2026.2698136": {
+      "title": "Contrastive Learning on Multimodal Analysis of Electronic Health Records",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1080/01621459.2026.2699466": {
+      "title": "Beta-Trees: Multivariate Histograms With Confidence Statements",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1111/joms.70133": {
+      "title": "Navigating Regulatory Transitions: The Evolving Role of Multi‐Stakeholder Initiatives as Intermediaries in the Context of Mandatory Due Diligence Legislation",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1111/iere.70088": {
+      "title": "Social Status, Inequality, and Redistribution",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1111/iere.70087": {
+      "title": "Home Production and Gender Gap in Structural Change",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1080/0960085x.2026.2697811": {
+      "title": "Platform governance in the face of negative network externalities: a moral and regulatory legitimacy perspective",
+      "journal": "European Journal of Information Systems",
+      "abs_journal_title": "European Journal of Information Systems",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
+    },
+    "10.1111/1467-8551.70091": {
+      "title": "Managerial Myopia and Corporate Biodiversity Risk: Disclosure, Concern and Risk",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-07-09T09:56:32.055009+00:00"
     }
   },
-  "last_run": "2026-07-08T08:46:32.132041+00:00",
+  "last_run": "2026-07-09T09:56:32.055009+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-07",
-    "end_date": "2026-07-08"
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-09"
   }
 }
