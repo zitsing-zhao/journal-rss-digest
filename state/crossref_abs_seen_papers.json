@@ -4773,12 +4773,96 @@
       "abs_journal_title": "British Journal of Management",
       "published_date": "2026-07-09",
       "first_seen": "2026-07-10T09:47:09.116295+00:00"
+    },
+    "10.1108/ijopm-10-2025-1000": {
+      "title": "Market reactions to disclosures of upstream labour exploitation: the role of information intermediary reach and framing",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-07-14",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
+    },
+    "10.1108/ijopm-09-2025-0940": {
+      "title": "Hearing the unheard: theorising the moral fabric against labour precarity",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-07-14",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
+    },
+    "10.1287/mnsc.2024.06909": {
+      "title": "The Uneven Impact of Generative Artificial Intelligence on Entrepreneurial Performance: Evidence from a Field Experiment in Kenya",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-07-10",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
+    },
+    "10.1287/mnsc.2025.01870": {
+      "title": "Improving Coordination in Teams: Combining Team and Individual Relative Performance Evaluations",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-07-10",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
+    },
+    "10.1177/00018392261467713": {
+      "title": "Book Review: Marion K. Poetz and Henry Sauermann. How and When to Involve Crowds in Scientific Research PoetzMarion K.SauermannHenry. How and When to Involve Crowds in Scientific Research. Edward Elgar Publishing, 2024. 230 pp.",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-07-10",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
+    },
+    "10.1093/ej/ueag090": {
+      "title": "Learning by Convex Combination,",
+      "journal": "The Economic Journal",
+      "abs_journal_title": "Economic Journal",
+      "published_date": "2026-07-10",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
+    },
+    "10.1111/risa.70309": {
+      "title": "Risk Without Values: Including Indigenous Perspectives in Climate Risk Assessments",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-07-10",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
+    },
+    "10.1093/jrsssb/qkag113": {
+      "title": "Fully decentralized inference for spatial data using low-rank models",
+      "journal": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+      "abs_journal_title": "Journal of the Royal Statistical Society. Series B: Statistical Methodology",
+      "published_date": "2026-07-10",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
+    },
+    "10.1080/0960085x.2026.2693695": {
+      "title": "Social comparison and coping under pressure: technostress in gamified digital learning environments",
+      "journal": "European Journal of Information Systems",
+      "abs_journal_title": "European Journal of Information Systems",
+      "published_date": "2026-07-10",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
+    },
+    "10.1080/00076791.2026.2688963": {
+      "title": "First class workmanship at reasonable prices: redeveloping Berlin ready-to-wear’s international reputation (1919–1929)",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-07-10",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
+    },
+    "10.1080/00076791.2026.2700123": {
+      "title": "Democratizing luxury: Name brands, advertising, and consumption in modern Japan",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-07-10",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
+    },
+    "10.1080/00076791.2026.2681471": {
+      "title": "Commercial activities of early ‘central banks’, geographic expansion, and banking correspondents: Italy, 1861–1936",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-07-10",
+      "first_seen": "2026-07-11T08:05:42.418322+00:00"
     }
   },
-  "last_run": "2026-07-10T09:47:09.116295+00:00",
+  "last_run": "2026-07-11T08:05:42.418322+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-09",
-    "end_date": "2026-07-10"
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-11"
   }
 }
