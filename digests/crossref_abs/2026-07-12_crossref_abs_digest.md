@@ -1,0 +1,42 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-07-12
+
+Generated at: 2026-07-12 08:26 UTC
+Crossref date mode: `created`
+Window: `2026-07-11` to `2026-07-12`
+New papers: 4
+
+## AJG 4
+
+### Scientometrics
+- Field: INNOV
+- Articles: 4
+
+- [Market for lemons in academia: adverse selection with dynamic human capital formation and policy lock-in](https://doi.org/10.1007/s11192-026-05726-7)
+  - DOI: 10.1007/s11192-026-05726-7
+  - Authors: Alisher Aldashev
+  - Published: 2026-07-11
+  - Crossref journal: Scientometrics
+
+- [Global overlay map based on DOCDB IPC data for visualizing technological convergence: application in the field of artificial intelligence](https://doi.org/10.1007/s11192-026-05697-9)
+  - DOI: 10.1007/s11192-026-05697-9
+  - Authors: Lucheng Lyu; Robin Haunschild; Jian Zhou; Jiaze Wang
+  - Published: 2026-07-11
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract Technological convergence reflects emerging innovation trends, and monitoring its dynamics is crucial for innovation-related decision-making. However, quantitatively identifying and visualizing significant strengthening or weakening in technology convergence remains challenging. This study proposes a method based on EPO DOCDB IPC data to detect such patterns. A global technology base map is constructed, on which global convergence overlay maps are developed to enable multi-level comparative analyses and visualization of prominent convergences. A Large Language Model (LLM)-based validation confirms the proposed method’s effectiveness in capturing substantial convergence trends, achieving an average significance percentage of 90% for strengthening convergence and 87% for weakening convergence. Using artificial intelligence (AI) as a case study, our results show that the method effectively reveals prominent global convergence patterns in the AI field, as well as the similarities and differences in convergence trends across countries and organizations. Globally, AI core technology computing shows the strongest convergence strengthening with life sciences and measurement technologies, while its convergence with communication technologies weakens. Nationally, both China and the U.S. promote AI–based life sciences convergence, more pronounced in the U.S., whereas China shows a more diversified convergence profile. Organizationally, Google, Microsoft, Huawei, and Baidu center their convergence strategies around computing, but their convergence targets differ, reflecting distinct strategic priorities and innovation trajectories. This method offers a novel analytical framework and visualization tool for monitoring technological convergence, aiding innovation policy and R&D strategy formulation.
+
+- [Exploiting large language models in peer review: indirect prompt injection attacks and integrity probes](https://doi.org/10.1007/s11192-026-05695-x)
+  - DOI: 10.1007/s11192-026-05695-x
+  - Authors: Federico Torrielli; Stefano Locci; Amon Rapp; Luigi Di Caro
+  - Published: 2026-07-11
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract Large language models are beginning to enter peer review as tools for summarizing manuscripts, drafting evaluations, and reducing reviewer workload. Yet this use creates a security problem specific to evaluative settings: the manuscript being judged can also contain hidden instructions that shape the model’s judgment. We investigate this risk through indirect prompt injection, where hidden text embedded in a manuscript is processed like a benign prompt by a public chatbot during review generation. We introduce an Author-Reviewer-Organizer framework that distinguishes author-side manipulation from organizer-side integrity checks, and use it to evaluate both offensive payloads, which steer reviews toward positive or negative judgments, and integrity-probing payloads, which trigger refusal, watermarking, or external-site redirection. The redirection payload is introduced here as a novel integrity-check mechanism. In experiments on 100 OpenReview papers, two public chatbot systems, five payload families, two custom prompt approaches, three injection positions, and five repeated runs per condition, we generate 42000 model outputs. Hidden instructions are highly effective: positive steering, refusal, and external-site redirection exceed 98% success on both systems; watermarking remains high but less reliable, reaching 94.27% on ChatGPT and 88.17% on Gemini; and negative steering is near-ceiling on ChatGPT but lower on Gemini. Vulnerability varies with payload design, model, and document position. These findings show that current models exhibit “contextual blindness”: they do not reliably separate manuscript content from embedded control text. This weakness threatens the validity of AI-assisted review, while also creating a dual-use channel that organizers may repurpose for detection. Peer-review systems that rely on public LLMs therefore require stronger safeguards between document content and instructions before they can be trusted in evaluative workflows.
+
+- [Domain agnostic features for robust novelty assessment of scientific publication](https://doi.org/10.1007/s11192-026-05687-x)
+  - DOI: 10.1007/s11192-026-05687-x
+  - Authors: Anna Kruzenshtern; Viktor Dodonov; Leonid Chechurin
+  - Published: 2026-07-11
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract Assessing scientific novelty remains a challenging problem in research evaluation, particularly given the rapid growth of scientific publication output and the increasing automation of scientific writing. While large language models enable increasingly detailed semantic analysis of text, computational approaches to estimating novelty that do not depend on citation metadata, curated vocabularies, or other domain-specific resources remain under development. In this study, we investigate whether novelty-related signals can be identified directly from statistical patterns produced by transformer language models during text processing. Treating novelty as a property of the conceptual content expressed in scientific text, we estimate it through the analysis of article abstracts, which serve as compact representations of scientific contributions. To address this question, we construct a feature-based framework derived from token-level loss distributions and evaluate it across three STEM domains—engineering, neuroscience, and chemistry—using classifiers from different model families. The results indicate that the extracted distributional patterns remain stable across domains and robust under semantic reformulation of the input text. Overall, the findings suggest that transformer-derived statistical patterns provide a domain-agnostic basis for computational novelty estimation. The proposed framework remains applicable in relatively low-data settings and can be implemented using comparatively lightweight models, making it suitable for scalable novelty estimation in scientific evaluation workflows.
