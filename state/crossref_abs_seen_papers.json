@@ -4885,12 +4885,75 @@
       "abs_journal_title": "Scientometrics",
       "published_date": "2026-07-11",
       "first_seen": "2026-07-12T08:26:49.418856+00:00"
+    },
+    "10.1017/s0266466626100449": {
+      "title": "LOCAL POLYNOMIAL ESTIMATION OF TIME-VARYING PARAMETERS IN NONLINEAR MODELS",
+      "journal": "Econometric Theory",
+      "abs_journal_title": "Econometric Theory",
+      "published_date": "2026-07-13",
+      "first_seen": "2026-07-13T09:39:44.439450+00:00"
+    },
+    "10.1002/smj.70109": {
+      "title": "Deepening the real options debate: Real options as dynamic optimization",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-07-12",
+      "first_seen": "2026-07-13T09:39:44.439450+00:00"
+    },
+    "10.1111/puar.70161": {
+      "title": "Rethinking Local Choice: Experimental Evidence on Taxpayer Sentiment and Public School Funding",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-07-12",
+      "first_seen": "2026-07-13T09:39:44.439450+00:00"
+    },
+    "10.1177/01492063261457329": {
+      "title": "Bodily Data Control, Human Agency Threats, and Job Insecurity",
+      "journal": "Journal of Management",
+      "abs_journal_title": "Journal of Management",
+      "published_date": "2026-07-12",
+      "first_seen": "2026-07-13T09:39:44.439450+00:00"
+    },
+    "10.1111/1756-2171.70068": {
+      "title": "Pulp Friction: The Value of Quantity Contracts in Decentralized Markets",
+      "journal": "The RAND Journal of Economics",
+      "abs_journal_title": "RAND Journal of Economics",
+      "published_date": "2026-07-12",
+      "first_seen": "2026-07-13T09:39:44.439450+00:00"
+    },
+    "10.1111/risa.70304": {
+      "title": "Attribution as a Conditional Reasoning Step in Multifactorial Risk Analysis and Decision‐Making",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-07-12",
+      "first_seen": "2026-07-13T09:39:44.439450+00:00"
+    },
+    "10.1177/10591478261471260": {
+      "title": "EXPRESS: Joint Admission and Aggregate Service Rate Control of an Unobservable Queue",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-07-12",
+      "first_seen": "2026-07-13T09:39:44.439450+00:00"
+    },
+    "10.1002/job.70112": {
+      "title": "Contextualizing Mindfulness at Work: Strengthening the Scientific Evidence",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-07-12",
+      "first_seen": "2026-07-13T09:39:44.439450+00:00"
+    },
+    "10.1111/joms.70126": {
+      "title": "Navigating Resource Tensions During Diversification in Ecosystems: Strategic Leadership Across Organizational Levels",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-07-12",
+      "first_seen": "2026-07-13T09:39:44.439450+00:00"
     }
   },
-  "last_run": "2026-07-12T08:26:49.418856+00:00",
+  "last_run": "2026-07-13T09:39:44.439450+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-11",
-    "end_date": "2026-07-12"
+    "start_date": "2026-07-12",
+    "end_date": "2026-07-13"
   }
 }
