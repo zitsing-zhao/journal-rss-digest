@@ -5368,12 +5368,138 @@
       "abs_journal_title": "Global Strategy Journal",
       "published_date": "2026-07-14",
       "first_seen": "2026-07-15T08:25:14.665015+00:00"
+    },
+    "10.1108/ijopm-10-2025-0990": {
+      "title": "Subnational political risk and supplier adjustment: evidence from the US manufacturing industry",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1007/s11192-026-05721-y": {
+      "title": "SDG-focused research at Mexico’s leading universities (2015–2023): a bibliometric analysis of structure, growth, collaboration, and specialization",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-16",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1007/s11192-026-05748-1": {
+      "title": "Exploring the application of open peer review in academic evaluation: an analysis of H1 Connect recommended papers",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-16",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1080/14719037.2026.2703748": {
+      "title": "The cognitive fabric of collaborative governance: paradox mindset in transformation-oriented collaborations",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-07-16",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1080/14719037.2026.2701411": {
+      "title": "My workgroup or my desire to serve the society? The influence of workgroup identification and public service motivation on whistleblowing intentions",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-07-16",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1002/smj.70106": {
+      "title": "Revisiting industry effects: The assignment of firms to industries",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1287/orsc.2024.18975": {
+      "title": "The Durability of Compliance Under External Accountability: The Case of the Police Data Initiative",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1287/mnsc.2022.01864": {
+      "title": "Scalable Bundle Recommendations: A Large-Scale Field Experiment",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1287/isre.2023.0549": {
+      "title": "Interpretable Recommendations and Parameter-Grounded LLM Explanations with Multigraph Attention",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1080/00343404.2026.2691130": {
+      "title": "The regional effects of UNESCO heritage on property values: a synthetic control approach",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1080/14719037.2026.2702504": {
+      "title": "The paradox of co-production: how austerity and structural scarcity reshape street-level discretion and public value in Scotland’s disability support system",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1093/jeea/jvag041": {
+      "title": "Party Organizations and Complementary Political Control,",
+      "journal": "Journal of the European Economic Association",
+      "abs_journal_title": "Journal of the European Economic Association",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1080/01621459.2026.2701436": {
+      "title": "Observable versus Latent Factors",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1080/01621459.2026.2702653": {
+      "title": "Gaussian Invariant Markov Chain Monte Carlo",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1080/01621459.2026.2704884": {
+      "title": "Double Generalized Linear Models: Likelihood and Bayesian Methods",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1080/01621459.2026.2702652": {
+      "title": "A Unified Framework for Rerandomization using Quadratic Forms",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1111/joms.70135": {
+      "title": "Beyond Resilience: The Privilege of Composure Under Geopolitical Tension",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
+    },
+    "10.1111/iere.70086": {
+      "title": "Housing Wealth and Consumption: The Role of Heterogeneous Credit Constraints",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-07-15",
+      "first_seen": "2026-07-16T08:25:19.841095+00:00"
     }
   },
-  "last_run": "2026-07-15T08:25:14.665015+00:00",
+  "last_run": "2026-07-16T08:25:19.841095+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-14",
-    "end_date": "2026-07-15"
+    "start_date": "2026-07-15",
+    "end_date": "2026-07-16"
   }
 }
