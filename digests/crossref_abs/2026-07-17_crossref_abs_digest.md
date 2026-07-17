@@ -1,0 +1,249 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-07-17
+
+Generated at: 2026-07-17 08:21 UTC
+Crossref date mode: `created`
+Window: `2026-07-16` to `2026-07-17`
+New papers: 22
+
+## AJG 4*
+
+### American Sociological Review
+- Field: SOC SCI
+- Articles: 1
+
+- [The Gendered Intergenerational Transmission of Managerial Status](https://doi.org/10.1177/00031224261457151)
+  - DOI: 10.1177/00031224261457151
+  - Authors: Nicholas Martindale; Thomas Lyttelton; Lasse Folke Henriksen
+  - Affiliations: University of Bristol; MIT Sloan; Copenhagen Business School
+  - Published: 2026-07-16
+  - Crossref journal: American Sociological Review
+  - Abstract:
+    Prior research on managerial attainment highlights inequalities based on gender and ethnicity, but the role of social origins has been neglected. Moreover, past research on intergenerational social mobility does not focus specifically on how parents’ and children’s occupations may be linked. We develop a theoretical model of intergenerational managerial status transmission that we test using event history analysis that tracks managerial attainment (2000 to 2019) for over half a million Danish workers (born 1965 to 1975). Results reveal that children of managers are substantially more likely to become managers than the children of non-managers, and this inheritance is stronger for sons and for those with senior managerial origins. For children of lower-level managers, this is primarily related to advantages in early life (parental economic capital, educational attainment), but descendants of senior managers additionally benefit from advantages that accumulate later (career trajectories, elite social connections). Gender and seniority effects intersect to produce a particularly striking advantage for the sons of senior-managerial fathers. Much of this advantage remains unexplained after testing a large set of potential mediators, implying a considerable role for male-dominated forms of elite cultural and social capital (e.g., membership in exclusive clubs) and underscoring the limits to formal organizational approaches to equalizing outcomes at the very top of the occupational hierarchy.
+
+### Journal of Applied Psychology
+- Field: PSYCH (WOP-OB)
+- Articles: 1
+
+- [Supplemental Material for Offering Paid Sick and Family Leave Is Not Enough: Leave Supportive Supervisor Behavior Training Improves Policy Use, Health, and Work Outcomes](https://doi.org/10.1037/apl0001395.supp)
+  - DOI: 10.1037/apl0001395.supp
+  - Published: 2026-07-16
+  - Crossref journal: Journal of Applied Psychology
+
+### Management Science
+- Field: OR&MANSCI
+- Articles: 2
+
+- [The Effect of University Science on Corporate Innovation](https://doi.org/10.1287/mnsc.2024.05723)
+  - DOI: 10.1287/mnsc.2024.05723
+  - Authors: Ashish Arora; Sharon Belenzon; Larisa Cioaca; Lia Sheer; Hansen Zhang
+  - Affiliations: Fuqua School of Business, Duke University, Durham, North Carolina 27708; and National Bureau of Economic Research, Cambridge, Massachusetts 02138; Freeman School of Business, Tulane University, New Orleans, Louisiana 70118; Coller School of Management, Tel Aviv University, Tel Aviv 6997801, Israel; Fuqua School of Business, Duke University, Durham, North Carolina 27708
+  - Published: 2026-07-16
+  - Crossref journal: Management Science
+  - Abstract:
+    We study how three components of university science—university publications, PhD graduates, and university patents—influence both upstream and downstream innovation in U.S. publicly traded firms that conduct R&D. To measure the relevance of university science to corporate innovation activity, we use machine-learning algorithms and bibliometric data to link university publications, PhD dissertations, and university patents to corporate publications and patents. Identification exploits firm-specific exposure to shifts in federal agency R&D budgets. We find that university science affects corporate innovation primarily through PhD graduates and university patents: PhD graduates raise firm innovation, whereas university patents substitute for corporate patents and lower the need for internal research. In contrast, university publications elicit little direct contemporaneous response on average; however, this pattern varies substantially across sectors and firm capabilities, with stronger complementarities in the life sciences and among firms operating near the technology frontier. Because established firms account for more than three-quarters of all business R&D, understanding how their innovation responds to university publications, PhD graduates, and university patents is central to assessing the broader impact of university science on corporate innovation. This paper was accepted by Anita McGahan, strategy. Funding: This work was supported by Qualcomm Incorporated, the Coller Foundation, the Alfred P. Sloan Foundation [Grant G-2023-21022], the Fuqua School of Business, the Freeman School of Business, and The Henry Crown Institute of Business Research. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05723 .
+
+- [Nonstationary Experimental Design Under Structured Trends](https://doi.org/10.1287/mnsc.2023.03329)
+  - DOI: 10.1287/mnsc.2023.03329
+  - Authors: David Simchi-Levi; Chonghuan Wang; Zeyu Zheng
+  - Affiliations: Institute for Data, Systems, and Society, Department of Civil and Environmental Engineering, and Operations Research Center, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139; Naveen Jindal School of Management, The University of Texas at Dallas, Richardson, Texas 75080; Department of Industrial Engineering and Operations Research, University of California, Berkeley, Berkeley, California 94720
+  - Published: 2026-07-16
+  - Crossref journal: Management Science
+  - Abstract:
+    Experimentation is increasingly used across domains such as healthcare and online platforms to inform decision making, with a central goal often being the estimation of the average treatment effect (ATE). However, in many real-world settings, treatment effects, or even the treatments themselves, evolve over time, making classical experimental designs, which assume stationarity, less effective or even misleading. This paper studies nonstationary experimental design under structured trends, addressing two key objectives: (i) accurately estimating the dynamic treatment effect and (ii) minimizing regret (e.g., revenue or welfare loss) during the experiment. We propose a flexible design framework that can be tailored to achieve Pareto-optimal tradeoff between the two objectives. We further analyze how time-varying noise levels affect this tradeoff. Additionally, we establish asymptotic normality of the estimators and show that different trend orders yield different convergence rates, enabling efficient statistical tests for the existence of high-order trends. This paper was accepted by J. George Shanthikumar, data science. Funding: D. Simchi-Levi and C. Wang were partially supported by the Massachusetts Institute of Technology (MIT) Data Science Lab and the MIT-IBM partnership in artificial intelligence. Z. Zheng was partially supported by the National Science Foundation Division of Mathematical Sciences [AwardDMS-2220537] and the Avenir Public Welfare Foundation. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2023.03329 .
+
+### Organization Science
+- Field: ORG STUD
+- Articles: 1
+
+- [Market Entry by Divisionalized Firms: Where Experience Resides and When It Is Used](https://doi.org/10.1287/orsc.2022.16547)
+  - DOI: 10.1287/orsc.2022.16547
+  - Authors: Vikas A. Aggarwal; Mo Chen; Brian Wu
+  - Affiliations: INSEAD, Entrepreneurship and Family Enterprise, Fontainbleau, 77305, France; University of Maryland at College Park, Smith School of Business, College Park, Maryland, 20742, United States; Ross School of Business, University of Michigan, Strategy Department, Ann Arbor, Michigan, 48109, United States
+  - Published: 2026-07-16
+  - Crossref journal: Organization Science
+  - Abstract:
+    Research on market entry shows that firms tend to grow by entering adjacent markets based on their prior experience. Much of this work implicitly treats knowledge embedded in the firm as uniformly available for strategic action. We argue instead that, in divisionalized firms, the effect of experience depends on where it resides across organizational units, which in turn shapes whether it becomes behaviorally relevant in evaluating entry opportunities. We posit that divisionalization, defined as a structural configuration in which a firm partitions activities into multiple operating units under a corporate umbrella, is associated with broader exposure to opportunities but weaker use of accumulated experience. Consequently, at the firm-level, divisionalization is associated with higher entry rates but a weaker relationship between firm-wide experience and entry. At the unit-level, entry is more strongly associated with experience located in the focal organizational unit than with experience residing in sister units. We further identify organizational conduits associated with the use of distributed experience, including recurring lateral interaction and integrative attention at the corporate center. We test our predictions using U.S. defense procurement following the September 11, 2001 attacks. Our findings show that within-firm organizational boundaries shape whether firms act on what they already know, shifting the study of market entry from experience accumulation to experience use.
+
+## AJG 4
+
+### Business History
+- Field: BUS HIST & ECON HIST
+- Articles: 1
+
+- [Building a maritime empire: The foundations of Ante Topić’s shipping enterprise (1910–1945)](https://doi.org/10.1080/00076791.2026.2688977)
+  - DOI: 10.1080/00076791.2026.2688977
+  - Authors: Barbara Đurasović
+  - Affiliations: History of the Adriatic and the Mediterranean, University of Dubrovnik
+  - Published: 2026-07-16
+  - Crossref journal: Business History
+
+### Governance
+- Field: PUB SEC
+- Articles: 2
+
+- [Subnational Resilience During Crisis: How Brazilian Municipalities Responded to COVID‐19 and Public Health Budget Cuts](https://doi.org/10.1111/gove.70144)
+  - DOI: 10.1111/gove.70144
+  - Authors: Michael Touchton; Natasha Borges Sugiyama; Brian Wampler
+  - Affiliations: Department of Political Science University of Miami Miami Florida USA; Department of Political Science University of Wisconsin–Milwaukee Milwaukee Wisconsin USA; Boise State University Boise Idaho USA
+  - Published: 2026-07-16
+  - Crossref journal: Governance
+  - Abstract:
+    ABSTRACT Concern over democratic resilience has grown in recent years, as observers identify threats including populist leadership, weak institutions, flawed elections, rising inequality, and polarization. Yet many democracies appear more resilient than anticipated. In the face of dual crises—a severe pandemic and austerity‐driven budget cuts—how might democratic regimes promote human development and high living standards? We answer this question by examining the extent to which subnational democracy provides insulation from national crises, drawing on Brazilian municipal responses to the COVID‐19 pandemic and sharp cuts to public health funding. We pose two competing hypotheses: Deterioration —that the pandemic and budget austerity are associated with inferior social outcomes (e.g., rising infant and maternal mortality); and Resilience —that robust local democratic institutions and municipal state capacity would be associated with superior social outcomes during the crises. Through a unique dataset covering Brazil’s 5570 municipalities from 2006—2022, we find evidence of subnational democratic governance generating resilient health outcomes in crisis periods as well as in normal times. Municipalities with three democratic pathways—institutionalized participatory governance, citizenship‐enhancing social programs, and rights‐based state capacity—sustain better performance in infant and maternal health outcomes. These results show that the long, slow construction of subnational democratic institutions can support lower mortality rates and more resilient social performance during periods of national crisis.
+
+- [Issue Information](https://doi.org/10.1111/gove.70093)
+  - DOI: 10.1111/gove.70093
+  - Published: 2026-07-16
+  - Crossref journal: Governance
+  - Abstract:
+    No abstract is available for this article.
+
+### International Journal of Operations and Production Management
+- Field: OPS&TECH
+- Articles: 2
+
+- [Cognitive trap: how digital transformation misalignment erodes supplier innovation efficiency](https://doi.org/10.1108/ijopm-01-2026-0163)
+  - DOI: 10.1108/ijopm-01-2026-0163
+  - Authors: Shupeng Liu; Shaokai Lu
+  - Affiliations: School of Economics and Management, Southwest Jiaotong University , ,
+  - Published: 2026-07-21
+  - Crossref journal: International Journal of Operations &amp; Production Management
+  - Abstract:
+    Purpose Digital transformation is commonly posited to enhance corporate cognitive capabilities and achieve greater innovation efficiency. However, few studies have examined the impact of misalignment arising from supply chain partners pursuing digital transformation independently on innovation efficiency, particularly for the relatively disadvantaged suppliers within the chain. Therefore, the purpose of this paper is to explore how this digital transformation misalignment affects suppliers’ innovation efficiency, as well as the mechanisms underlying this impact. Design/methodology/approach Anchored in the attention-based view, an empirical study was carried out using a sample of 1,288 supplier-customer-year observations from China’s A-share listed companies between 2012 and 2023. Findings Digital transformation misalignment traps executive attention in existing-oriented focus while reducing the long-term strategic attention necessary for innovation, thereby resulting in a loss of supplier innovation efficiency. Market position weakens this negative effect, whereas geographical distance strengthens it. Furthermore, the adverse impact is more pronounced when misalignment occurs in the dimensions of strategic orientation, technology drive and environmental support, and when the supplier’s relative level of digitalization is lower. Both radical and incremental innovation efficiency are impacted. Originality/value This paper contributes to the under-explored research on executive cognition and digital transformation collaboration, providing important implications for advancing digital transformation, corporate innovation efficiency and supply chain management.
+
+- [Buying from stability: cross-border geopolitical risk and transaction value reallocation in global supply chains](https://doi.org/10.1108/ijopm-10-2025-1067)
+  - DOI: 10.1108/ijopm-10-2025-1067
+  - Authors: Ziliang Jin; Jing Chen; Xueyan Zhou; Wenjun Shu; Di Fan
+  - Affiliations: School of Economics and Management, Southeast University , ,; School of Economics and Management, Nanjing University of Science and Technology , ,; The Hong Kong Polytechnic University Business Division, School of Fashion and Textiles, , ,
+  - Published: 2026-07-21
+  - Crossref journal: International Journal of Operations &amp; Production Management
+  - Abstract:
+    Purpose This study investigates how cross-border geopolitical risk (GPR) differences between buyers and suppliers reshape dyadic dependence and drive the reallocation of transaction value in global supply chains. Design/methodology/approach We construct a global panel dataset of cross-border buyer–supplier dyads and measure GPR differences between each dyad's home countries. Ordinary least squares (OLS) regressions with high-dimensional fixed effects at the supplier, customer, and year levels are employed to estimate the effect of cross-border GPR differences on dyadic transaction values. Robustness checks include difference-in-differences (DID), double machine learning, alternative measures, and survival analysis. Findings Large cross-border GPR differences significantly increase dyadic transaction values between suppliers and buyers. This effect is amplified for suppliers with stronger relational resources, operational capabilities, and market resources. However, when GPR differences become extreme, the relationship is more likely to break down, revealing a boundary condition for the reallocation effect. Originality/value This study introduces the GPR difference as a dyadic-level measure of relative geopolitical exposure, reveals that reallocation favors suppliers with greater resource advantages, and finds a boundary beyond which extreme asymmetry precipitates relationship breakdown. Practically, suppliers can leverage institutional stability and firm-level capabilities to capture reallocated procurement, while buyers can treat relationship deepening with partners in stable environments as a strategic response.
+
+### Journal of Economic Geography
+- Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+- Articles: 1
+
+- [The economic footprint of short-term rentals on local businesses: evidence from Portugal](https://doi.org/10.1093/jeg/lbag048)
+  - DOI: 10.1093/jeg/lbag048
+  - Authors: Ronize Cruz; Francisco Nobre; João Pereira dos Santos
+  - Affiliations: Centre for Business and Economics Research, University of Coimbra , Coimbra, 3000-145,; Department of Accounting, Finance and Informatics, Kingston Business School, Kingston University , London, KT2 7LB,; Department of Economics, ISEG—University of Lisbon , Lisbon, 1200-781,; IZA@LISER , L-4366,
+  - Published: 2026-07-16
+  - Crossref journal: Journal of Economic Geography
+  - Abstract:
+    Abstract We analyze how the proliferation of short-term rentals (STRs) affects firm survival, performance, and entry in two European cities with high STR density. Using administrative firm-level accounting data, a shift-share instrument, and an event-study design, we find that STR growth increases exit rates among underperforming firms, while surviving firms experience relative gains in sales and profits, with no effects on employment or investment. Corporate tax revenues accruing to the central government also rise, pointing to broader fiscal spillovers. STR expansion stimulates entrepreneurship, though new entrants face higher costs and lower initial profitability. These findings underscore the nuanced impacts of tourism-driven demand shocks on urban economic ecosystems.
+
+### Journal of Management Studies
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [Quality over Quantity of Attention! Towards a Qualitative Attention‐Based View](https://doi.org/10.1111/joms.70143)
+  - DOI: 10.1111/joms.70143
+  - Authors: David Seidl; Violetta Splitter; Richard Whittington
+  - Affiliations: University of Zurich; University of Oxford
+  - Published: 2026-07-16
+  - Crossref journal: Journal of Management Studies
+  - Abstract:
+    Abstract This Point proposes an ontological reorientation of the Attention‐Based View from a focus on attention quantity to attention quality – that is, from a quantitative to a qualitative Attention‐Based View. This shift is motivated by developments in both academic research and contemporary management. Drawing on practice theory, we reconceptualize attention not as a resource to be allocated and rationed, but as a set of sociomaterial practices of attending. We identify five constitutive qualities of these attentional practices: sociality, discourse, embodiment, materiality, and historicity. This conceptual shift moves beyond viewing attention as a limited and homogeneous resource, instead framing attending as a crescive and differentiated set of practices. We argue that this qualitative Attention‐Based View offers a deeper understanding of attention, one particularly relevant to contemporary strategizing and organizing.
+
+### Journal of Organizational Behavior
+- Field: PSYCH (WOP-OB)
+- Articles: 2
+
+- [Challenging the Gender Status Quo: How Low Gender System Justification Predicts Pro‐Women Leadership Bias](https://doi.org/10.1002/job.70118)
+  - DOI: 10.1002/job.70118
+  - Authors: Crystal L. Hoyt; Jeni L. Burnette; Eve Ridenhour; Julia Griffin
+  - Affiliations: Jepson School of Leadership Studies and Department of Psychology University of Richmond Richmond Virginia USA; Department of Psychology North Carolina State University Raleigh North Carolina USA
+  - Published: 2026-07-17
+  - Crossref journal: Journal of Organizational Behavior
+  - Abstract:
+    ABSTRACT We offer a new perspective on gender‐based biases in leadership evaluations by examining individual differences in beliefs about the gender status quo. Specifically, across three studies ( N = 756), we tested how gender system‐justifying beliefs interact with leader gender to impact leadership evaluations. In Study 1, participants evaluated a CEO's leadership based on their decision to appoint either a female or a male leader. In Studies 2 and 3, participants evaluated the leadership of female and male candidates and made a hiring decision. Individuals with weaker system‐justifying beliefs evaluated female leaders and CEOs who appointed female leaders more positively than their male counterparts. Additionally, in making hiring decisions, they were more likely to select the female over the male candidate. In contrast, participants with stronger system‐justifying beliefs did not display gender‐based bias. To assess whether these effects reflect a system‐challenging motive, in Studies 2 and 3, we tested three beliefs central to gender system‐challenging motivation—supporting greater gender equity in leadership, recognizing an unjust gender status quo, and believing the system should be changed. These system‐challenging motivations predicted the same pro‐female pattern as low gender system justification and, in Study 3, remained predictive when modeled simultaneously with system justification. In summary, across all three studies, participants with weaker system justifying beliefs consistently displayed bias in favor of women leaders—an effect partially explained by system challenging motivations.
+
+- [Ambivalence at the Helm: How the Positive Effect of Ambivalence to Lead on Leader Integrative Complexity Affects Leaders' Effectiveness](https://doi.org/10.1002/job.70113)
+  - DOI: 10.1002/job.70113
+  - Authors: Liat Eldor
+  - Affiliations: Coller School of Management Tel Aviv University Tel Aviv Israel
+  - Published: 2026-07-16
+  - Crossref journal: Journal of Organizational Behavior
+  - Abstract:
+    ABSTRACT We study the phenomenon of ambivalence to lead, characterized as leaders' experience of mixed feelings (positive and negative) toward their leadership position. We do so by integrating the beneficial role of dualities with the affect‐as‐information theory. Our model shows that the duality involved in ambivalence to lead activates leaders' integrative complexity — the ability to identify and integrate different perspectives on the same subject—which in turn increases their effectiveness as leaders. This positive effect is altered by the leader's perceptions of structural dynamics of the workplace: organic vs. mechanistic. The former allows for greater individual discretion and action than the latter, facilitating an environment in which ambivalence to lead can further activate leader integrative complexity and, in turn, leader effectiveness. To examine our model, we conducted two studies using different research designs (experiment and field) and various organizational settings from three data sources (managers, their supervisors, and objective raters) at three time points. The findings provide substantial support for our thesis, demonstrating that ambivalence to lead enhances the effectiveness of leaders (through leader integrative complexity) and that this indirect positive effect is stronger (vs. weaker) under an organic (vs. mechanistic) structure.
+
+### Journal of Product Innovation Management
+- Field: INNOV
+- Articles: 1
+
+- [Circularity and Resilience in Entrepreneurial Ecosystems in Times of Crisis](https://doi.org/10.1111/jpim.70053)
+  - DOI: 10.1111/jpim.70053
+  - Authors: Ingvild Reine Assmann; Francesco Rosati; Vinicius Picanço Rodrigues; Federico Cosenz; Andreas Wieland
+  - Affiliations: Ramboll Group, Sustainability and Corporate Responsibility Copenhagen Denmark; Centre for Technology Entrepreneurship, Technical University of Denmark Kongens Lyngby Denmark; Insper Institute of Education and Research São Paulo Brazil; Department of Design, Manufacturing, and Engineering Management University of Strathclyde Glasgow UK; Department of Biomedicine, Neuroscience and Advanced Diagnostics University of Palermo Palermo Italy; Department of Operations Management Copenhagen Business School Frederiksberg Denmark
+  - Published: 2026-07-16
+  - Crossref journal: Journal of Product Innovation Management
+  - Abstract:
+    ABSTRACT Despite recent efforts to bridge the circular economy and entrepreneurship, and to explore resilience in entrepreneurial ecosystems, the ways in which startups' circularity orientations influence how they build resilience in times of crisis remain unclear. Drawing on the adaptive cycle model from complexity and panarchy theories, this study employs qualitative case research on four circular and four linear startups operating within the built environment sector and belonging to the same entrepreneurial ecosystem to investigate how they responded to the raw material crisis. The study examines startups' positions within the exploitation, conservation, release, and reorganization phases of the adaptive cycle in order to uncover distinct resilience trajectories. The findings suggest that circular startups nurtured and leveraged their ecosystems more actively than linear startups did, capitalizing on ecosystem relationships to strengthen innovation, adaptability, and system‐wide resilience. In contrast, linear startups tended to withhold contributions and withdraw from ecosystem interactions, limiting collaboration and reducing their capacity to adapt and respond to crises. These findings advance understanding of how business model orientation shapes resilience trajectories within entrepreneurial ecosystems by identifying nurturing and leveraging as distinct mechanisms through which circular startups build firm‐ and ecosystem‐level resilience during crises.
+
+### Journal of Supply Chain Management
+- Field: OPS&TECH
+- Articles: 1
+
+- [Issue Information](https://doi.org/10.1111/jscm.12324)
+  - DOI: 10.1111/jscm.12324
+  - Published: 2026-07-17
+  - Crossref journal: Journal of Supply Chain Management
+  - Abstract:
+    No abstract is available for this article.
+
+### Public Management Review
+- Field: PUB SEC
+- Articles: 1
+
+- [Whose responsibility is it anyway? Unpacking prevention during service delivery to support value co-creation](https://doi.org/10.1080/14719037.2026.2698654)
+  - DOI: 10.1080/14719037.2026.2698654
+  - Authors: Kirsty Strokosch; Michael J. Roy; Jennifer McLean
+  - Affiliations: University of Strathclyde, Glasgow, United Kingdom; University of Stirling, Stirling, United Kingdom; Glasgow Centre for Population Health, Glasgow, United Kingdom
+  - Published: 2026-07-16
+  - Crossref journal: Public Management Review
+
+### Risk Analysis
+- Field: SOC SCI
+- Articles: 2
+
+- [The Wells–Riley Model Revisited II: Parameter Uncertainty and Population Heterogeneity](https://doi.org/10.1111/risa.70272)
+  - DOI: 10.1111/risa.70272
+  - Authors: Marcus Marshall; Alexander J. Edwards; Dominique Pinnell; Marco‐Felipe King; Catherine J. Noakes; Nazif Elaldi; Grant Lythe; Martín López‐García
+  - Affiliations: School of Mathematics University of Leeds Leeds UK; School of Chemistry University of Bristol Bristol UK; School of Civil Engineering University of Leeds Leeds UK; Department of İnfectious Diseases and Clinical Microbiology Sivas Cumhuriyet University Sivas Turkey
+  - Published: 2026-07-16
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT In this work, we revisit the Wells–Riley model, which has been widely used to estimate airborne infection risk in indoor settings. In particular, we consider a probabilistic (i.e., “stochastic”) framework of the Wells–Riley model which allows one to quantify infection risk in terms of the per‐capita probability of infection for each susceptible individual, as well as the probability distribution of the number of infections (here referred to as “exposures”) during the indoor interaction. Directly extending the work by Edwards, King, Noakes et al. (2024), we consider here the situation where the main parameters in the Wells–Riley model (namely, the quanta generation rate , the ventilation rate , the number of infectors , or the duration of the indoor interaction ) may be random or uncertain. We show how, in this case, the per‐capita infection risk becomes a random variable between 0 and 1, and compute its density function under some parametric assumptions. This allows for a comprehensive analytical quantification of uncertainty when dealing with heterogeneous populations, uncertain environmental conditions, or stochastic human behavior. Our results reveal that infection risk can vary significantly depending on the distribution and variability of model parameters. In particular, using mean parameter values in the classical Wells–Riley model can lead to systematic inaccuracies: Uncertainty in , , or leads to infection risk overestimation, while environmental stochasticity (i.e., uncertainty in ventilation or removal rates) can lead to infection risk underestimation. We also investigate which parameter mainly drives the uncertainty in infection risk when two model parameters are simultaneously random.
+
+- [Exploring the Psychological Mechanism of Passengers Adhering to Emergency Evacuation Signs During Subway Fire Emergencies: An Application of the Protective Action Decision Model and the Heuristic–Systematic Model](https://doi.org/10.1111/risa.70281)
+  - DOI: 10.1111/risa.70281
+  - Authors: Bian Yang; Zhao Xuena; Zhao Xiaohua; Zhang Yu; Liu Zhuoran
+  - Affiliations: College of Metropolitan Transportation Beijing University of Technolog Beijing China
+  - Published: 2026-07-16
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT In emergency evacuation scenarios, ensuring the safe and prompt evacuation of passengers is of utmost importance. Although emergency evacuation signs hold significant meaning, passengers often hesitate to comply with them during emergencies. Therefore, it is crucial to understand the psychological decision‐making process that passengers undergo in these critical situations. This study focuses on subway fire emergencies and examines the psychological decision‐making mechanisms influencing passengers’ evacuation sign compliance (ESC) intention. To achieve this, a psychological mechanism framework model based on the protection action decision model (PADM) and the heuristic–systematic model (HSM) is constructed. The study adopts a questionnaire survey to establish a structural equation model for passengers’ ESC intention, followed by mediation and moderation analyses of the predictive factors. The research findings reveal that passengers’ ESC intention is positively correlated with risk perception (RP), hazard‐related attributes, information seeking (IS), and systematic information processing (SIP), while being negatively associated with resource‐related attribute (RRA) perception. The mediation analysis indicates that both IS and SIP act as mediators in the relationship between RP and ESC intention. Furthermore, SIP serves as a mediator between IS and ESC intention. The moderation analysis demonstrates that the importance of RRAs intensifies the negative association between RRAs and ESC intention. This research enhances our understanding of the psychological mechanisms underlying passengers’ ESC intention and provides practical suggestions for subway engineering design and emergency management.
+
+### Scientometrics
+- Field: INNOV
+- Articles: 3
+
+- [The association between international mobility and academic impact: an empirical analysis using trajectory modeling](https://doi.org/10.1007/s11192-026-05737-4)
+  - DOI: 10.1007/s11192-026-05737-4
+  - Authors: Yi Lu; Bo Yang; Shan Huang; Yanqing Shi
+  - Published: 2026-07-17
+  - Crossref journal: Scientometrics
+
+- [Reading between the lines: a systematic approach to identifying underlying concepts in scientific literature – The case of interfaces between disciplinary lenses and real-world laboratory research](https://doi.org/10.1007/s11192-026-05757-0)
+  - DOI: 10.1007/s11192-026-05757-0
+  - Authors: Veronika Stein; Tatiana Merino-Benítez; Annika Weiser; Daniel J. Lang
+  - Published: 2026-07-16
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract As settings for knowledge generation through experimentation and testing of ‘solutions’ to sustainability challenges in collaboration with various actors, real-world laboratories (RwLs) and related lab-based approaches have emerged across diverse fields of research. Although they already integrate knowledge from different disciplines and are receiving increasing attention in various academic disciplines and beyond, the interface dynamics that shape their work have yet to be explored. This presents two interconnected types of challenges that our paper seeks to address. First, conceptual and framing challenges arise concerning the positioning of real-world labs within this broader research landscape of experimental and participatory lab approaches, including questions of terminology and the relationship between more traditional disciplinary research and RwL research. Second, methodological challenges arise for conducting a literature review on this issue, including identifying rather underlying disciplinary contributions, recognizing novel approaches beyond established categories and defining suitable criteria for literature selection and synthesis. We argue that a combination of three approaches—bibliometric analysis, subject assignment and cluster analysis—can address both sets of challenges. By doing so, this paper pursues a dual objective: to provide a structured overview of the research landscape, thereby enhancing the understanding of interfaces and fostering learning processes between disciplinary lenses and RwL; and to reflect critically on the methodological implications of researching such a cross-cutting field. Results highlight potentials and pitfalls of identifying, mapping and analyzing underlying concepts and interfaces in scientific literature by “reading between the lines,” providing a reference point for addressing similar challenges in other research domains.
+
+- [Centralized versus distributed innovation: mapping corporate R&amp;D collaboration backbones through vibrant inventor and MST analysis](https://doi.org/10.1007/s11192-026-05749-0)
+  - DOI: 10.1007/s11192-026-05749-0
+  - Authors: Dar-Zen Chen; You-Fu Lee; Chun-Chieh Wang
+  - Published: 2026-07-16
+  - Crossref journal: Scientometrics
