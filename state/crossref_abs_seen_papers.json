@@ -5648,12 +5648,117 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-07-16",
       "first_seen": "2026-07-17T08:21:19.019278+00:00"
+    },
+    "10.1007/s11192-026-05725-8": {
+      "title": "Open science, open innovation? The role of open access in patenting activity",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-18",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1287/orsc.2025.20962": {
+      "title": "Steady as She Goes: Remote Work Benefits Daily Goal Progress Through Reduced Energy Variability",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1287/orsc.2023.17457": {
+      "title": "Staying Alive! Entrepreneurial Human Capital and Resilience of New Ventures",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1287/orsc.2025.21412": {
+      "title": "Behavioral Intervention Construal: A Framework for Understanding Inferences from Behavioral Interventions",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1287/mnsc.2025.00771": {
+      "title": "Left-Digit Bias, Quality Choice, and Channel Coordination",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1287/mnsc.2025.01729": {
+      "title": "Learning to Cover: Online Learning and Optimization with Irreversible Decisions",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.5465/amr.2024.0538": {
+      "title": "The Generative AI Dilemma in Knowledge-Intensive Teams",
+      "journal": "Academy of Management Review",
+      "abs_journal_title": "Academy of Management Review",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1177/09500170261447211": {
+      "title": "Getting In but Not Getting On: Inequality Regimes, Usurpation and Resistance in the Medical Profession",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1080/14719037.2026.2685779": {
+      "title": "Performance system design factors that encourage information use: a survey experiment of decision-making by school principals",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1177/10591478261472999": {
+      "title": "EXPRESS: Optimal Online Strategies for the Secretary Problem with Two-Tier Decision-Making",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1177/10591478261473004": {
+      "title": "EXPRESS: Governing AI-Enabled Decision Making: Delegation, Autonomy, and Control at the Operations–Marketing Interface",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1002/job.70117": {
+      "title": "Pregnancy Discrimination Is a Family Affair: Examining Crossover Effects in Couples",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1002/gsj.70027": {
+      "title": "<scp>MNE</scp>\n                    retrenchment and redeployment in the face of the\n                    <scp>US</scp>\n                    –China trade war: Real options and strategic flexibility",
+      "journal": "Global Strategy Journal",
+      "abs_journal_title": "Global Strategy Journal",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1111/1467-8551.70094": {
+      "title": "Inherited Advantage and the Myth of Meritocracy in Business Education in the UK",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1111/1467-8551.70093": {
+      "title": "Enhancing Operational Resilience Through Gender Diversity in Top Management Teams: A Social System Perspective",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-07-17",
+      "first_seen": "2026-07-18T08:02:23.427738+00:00"
     }
   },
-  "last_run": "2026-07-17T08:21:19.019278+00:00",
+  "last_run": "2026-07-18T08:02:23.427738+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-16",
-    "end_date": "2026-07-17"
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-18"
   }
 }
