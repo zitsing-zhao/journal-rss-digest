@@ -5753,12 +5753,68 @@
       "abs_journal_title": "British Journal of Management",
       "published_date": "2026-07-17",
       "first_seen": "2026-07-18T08:02:23.427738+00:00"
+    },
+    "10.1177/00380385261468598": {
+      "title": "Book review: Michelle Jackson,\n                    <i>The Division of Rationalized Labor</i>\n                    MichelleJackson, The Division of Rationalized Labor, Harvard University Press: Cambridge, MA, 2025; 352 pp.: ISBN: 9780674296220",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-07-20",
+      "first_seen": "2026-07-20T09:27:57.190959+00:00"
+    },
+    "10.1177/00380385261468602": {
+      "title": "Book review: Frederick Neuhouser,\n                    <i>Diagnosing Social Pathology: Rousseau, Hegel, Marx, and Durkheim</i>\n                    FrederickNeuhouser, Diagnosing Social Pathology: Rousseau, Hegel, Marx, and Durkheim, Cambridge University Press: Cambridge, 2023; 386 pp.: ISBN: 9781009235020",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-07-20",
+      "first_seen": "2026-07-20T09:27:57.190959+00:00"
+    },
+    "10.1002/sej.70040": {
+      "title": "Ignited or depressed? Entrepreneurs' status inconsistency and philanthropic giving",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-07-19",
+      "first_seen": "2026-07-20T09:27:57.190959+00:00"
+    },
+    "10.1111/risa.70313": {
+      "title": "Issue Information",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-07-19",
+      "first_seen": "2026-07-20T09:27:57.190959+00:00"
+    },
+    "10.1111/joms.70140": {
+      "title": "Attention Is Attention: Preserving Ontological Integrity in Organizational Research",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-07-19",
+      "first_seen": "2026-07-20T09:27:57.190959+00:00"
+    },
+    "10.1111/gove.70139": {
+      "title": "Breaking Out of Low‐Effort Traps: Bureaucratic Leadership by Persuasion",
+      "journal": "Governance",
+      "abs_journal_title": "Governance",
+      "published_date": "2026-07-19",
+      "first_seen": "2026-07-20T09:27:57.190959+00:00"
+    },
+    "10.1002/gsj.70026": {
+      "title": "When governments act as strategists: Geopolitical turmoil and global strategy theory",
+      "journal": "Global Strategy Journal",
+      "abs_journal_title": "Global Strategy Journal",
+      "published_date": "2026-07-19",
+      "first_seen": "2026-07-20T09:27:57.190959+00:00"
+    },
+    "10.1002/gsj.70024": {
+      "title": "Research and development resilience of foreign MNE subsidiaries during the Great Recession",
+      "journal": "Global Strategy Journal",
+      "abs_journal_title": "Global Strategy Journal",
+      "published_date": "2026-07-19",
+      "first_seen": "2026-07-20T09:27:57.190959+00:00"
     }
   },
-  "last_run": "2026-07-19T08:28:02.335899+00:00",
+  "last_run": "2026-07-20T09:27:57.190959+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-18",
-    "end_date": "2026-07-19"
+    "start_date": "2026-07-19",
+    "end_date": "2026-07-20"
   }
 }
