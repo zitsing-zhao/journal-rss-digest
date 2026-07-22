@@ -6047,12 +6047,236 @@
       "abs_journal_title": "Review of Economics and Statistics",
       "published_date": "2026-07-17",
       "first_seen": "2026-07-21T08:39:31.228037+00:00"
+    },
+    "10.1108/ijopm-06-2025-0543": {
+      "title": "Exploring the differences between violations and accidents: how do companies learn to provide safe workplaces?",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-07-24",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1007/s11192-026-05760-5": {
+      "title": "Tracking the diachronic trajectories and interaction of syntactic complexity and semantic density in academic writing: a cross-disciplinary study",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1007/s11192-026-05723-w": {
+      "title": "Studying the scientific diaspora: going beyond bibliometric methods",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1007/s11192-026-05704-z": {
+      "title": "Patterns of uncertainty in astrobiology publications",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1007/s11192-026-05707-w": {
+      "title": "How do China and the United States fund artificial intelligence? Multi-dimensional characteristics analysis from the lifecycle perspective",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1007/s11192-026-05720-z": {
+      "title": "From joy to fear in scientific titles: automated emotion recognition and the citation payoff",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1007/s11192-026-05727-6": {
+      "title": "Beyond existence checks: a cross-database benchmark of bibliographic metadata consistency across academic domains and LLM-generated citations",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1111/jpim.70051": {
+      "title": "Coupling Responsible Innovation and Sustainable Business Model Innovation to Address Grand Challenges",
+      "journal": "Journal of Product Innovation Management",
+      "abs_journal_title": "Journal of Product Innovation Management",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1287/opre.2024.1452": {
+      "title": "Efficient Nested Estimation of CoVaR: A Decoupled Approach",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1287/mnsc.2025.02515": {
+      "title": "The Financial Consequences of Legalized Sports Gambling",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1287/mnsc.2024.08603": {
+      "title": "A Model of Two Learning Processes",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1002/joom.70056": {
+      "title": "From Investor Nudges to\n                    <scp>SME</scp>\n                    Operational Resilience: Evidence on Financial Slack in Revenue‐Based Lending",
+      "journal": "Journal of Operations Management",
+      "abs_journal_title": "Journal of Operations Management",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1177/00380385261454124": {
+      "title": "The couple paradox: The fantasy and failure of the couple norm in single and coupled lives",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1177/00380385261453298": {
+      "title": "Regulating from below: Direct action, precarious labour, and worker-led regulation in Spain",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1007/s11192-026-05755-2": {
+      "title": "CRM-RMS: context-aware citation recommender model using recurrent reasoning memory network over SPECTER",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1162/rest.a.1836": {
+      "title": "Was Javert Right to Be Suspicious? Marginal Treatment Effects with Duration Outcomes",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1162/rest.a.1833": {
+      "title": "The Factor Bias of External Inputs: Implications for Substitution between Capital and Labor",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1162/rest.a.1830": {
+      "title": "The Effects of Social Movements: Evidence from #MeToo",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1162/rest.a.1835": {
+      "title": "The Bronx Is Burning: Urban Disinvestment Effects of Fair Access to Insurance Requirements Plans",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1162/rest.a.1837": {
+      "title": "Synthetic Controls for Experimental Design",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1162/rest.a.1834": {
+      "title": "Outside Income as a Signal: Evidence from Politicians and Voters",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1162/rest.a.1832": {
+      "title": "Fiscal Policy in Small Open Economies: The International Intertemporal Keynesian Cross",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1162/rest.a.1831": {
+      "title": "Firm Concentration and Job Design: The Case of Schedule Flexible Work Arrangements",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1162/rest.a.1829": {
+      "title": "Excessive Pharmaceutical Marketing Expenditure: Policy Remedies from China",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1162/rest.a.1839": {
+      "title": "Does a Food Waste Tax Work? Evidence from Quasi-Experiments in South Korea",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1162/rest.a.1838": {
+      "title": "Do Health Insurers Matter for Health Outcomes? Evidence from a Large Natural Experiment in Colombia",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1080/01621459.2026.2688950": {
+      "title": "Scalable Bayesian Inference for Time Series via Divide and Conquer",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1002/job.70116": {
+      "title": "An Unattainable Emotional Advantage? Supervisors' Perceptual Biases in the Relationship Between Emotional Understanding Ability and Performance Ratings for Female Employees",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1111/joms.70141": {
+      "title": "Beyond Quality and Quantity: Enriching the Study of Organizational Attention",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1080/07350015.2026.2707220": {
+      "title": "Asymptotic Distributions of Nonlinear Least Squares Estimators for Panel-MIDAS Models",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "abs_journal_title": "Journal of Business and Economic Statistics",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1080/00076791.2026.2703421": {
+      "title": "<b>\n                      <i>\n                        Les stratégies commerciales de hennessy, de la fin du XVIII\n                        <sup>e</sup>\n                        siècle au début du XX\n                        <sup>e</sup>\n                        siècle. La construction de la réputation, de la qualité et de la marque du cognac\n                      </i>\n                    </b>",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1111/1467-8551.70096": {
+      "title": "From Cutting Edges to the Cutting Edge: Knowing and Theorizing Through Collage Inquiry",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-07-21",
+      "first_seen": "2026-07-22T08:39:13.466142+00:00"
     }
   },
-  "last_run": "2026-07-21T08:39:31.228037+00:00",
+  "last_run": "2026-07-22T08:39:13.466142+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-20",
-    "end_date": "2026-07-21"
+    "start_date": "2026-07-21",
+    "end_date": "2026-07-22"
   }
 }
