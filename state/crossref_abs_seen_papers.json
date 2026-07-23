@@ -6271,12 +6271,152 @@
       "abs_journal_title": "British Journal of Management",
       "published_date": "2026-07-21",
       "first_seen": "2026-07-22T08:39:13.466142+00:00"
+    },
+    "10.1111/ehr.70138": {
+      "title": "The role of structural transformation in regional convergence in Japan: 1874–2008",
+      "journal": "The Economic History Review",
+      "abs_journal_title": "Economic History Review",
+      "published_date": "2026-07-23",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1111/bjir.70072": {
+      "title": "Petroleum‐238: Big Oil's Dangerous Secret and the Grassroots Fight to Stop It",
+      "journal": "British Journal of Industrial Relations",
+      "abs_journal_title": "British Journal of Industrial Relations",
+      "published_date": "2026-07-23",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1111/puar.70162": {
+      "title": "Recruiting Street‐Level Bureaucrats Through Co‐Design: The Effects of Incorporating Citizen Insights Into Job Advertisements",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1287/mnsc.2023.01432": {
+      "title": "Linking Firm-Generated Social Media Content to Sales and Returns",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1057/s41267-026-00892-5": {
+      "title": "Violent conflicts, institutional friction, and foreign divestment: the case of MNCs’ market exit from Russia",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1177/00018392261472813": {
+      "title": "Book Review: Patrick McGee. Apple in China: The Capture of the World’s Greatest Company McGeePatrick. Apple in China: The Capture of the World’s Greatest Company. Scribner, 2025. 448 pp.",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1111/ehr.70144": {
+      "title": "The Insatiable Machine: How Capitalism Conquered the WorldTrevorJackson (W. W. Norton &amp; Company, 2026. Pp. 320. Hbk £21. ISBN 9781324106876).",
+      "journal": "The Economic History Review",
+      "abs_journal_title": "Economic History Review",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1111/ehr.70143": {
+      "title": "Making an Industrial Revolution: Skill, Knowledge, Community and InnovationGillianCookson, (Woodbridge, the Boydell Press, 2025. Pp. 252. Hbk $85.23, Pbk $32.26).",
+      "journal": "The Economic History Review",
+      "abs_journal_title": "Economic History Review",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1080/14719037.2026.2703750": {
+      "title": "Digital transformations in public welfare services: risks and benefits of digital co-production",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1177/10591478261474722": {
+      "title": "EXPRESS: Tiered Refunds and Return Restoration for Seasonal Products: Profitability and Environmental Impacts",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1177/10591478261474396": {
+      "title": "EXPRESS: The Congestion Vortex: Empirical Evidence of the Adverse Effects of Delay on Workload in Court Systems",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1177/10591478261474392": {
+      "title": "EXPRESS: Regret Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems: A General Optimization Perspective",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1177/10591478261474393": {
+      "title": "EXPRESS: Identifying Purchase-Evoking Social Media Posts: A Theory-Driven Deep Multimodal Learning Framework",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1177/10591478261474243": {
+      "title": "EXPRESS: AI and Its Impact on Creativity and Diversity: An Empirical Study of LLM-Generated Product Ideas",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1007/s10107-026-02365-x": {
+      "title": "Single-source unsplittable flows in planar and bounded-genus graphs",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1007/s10107-026-02400-x": {
+      "title": "Nonconvex matrix factorization is geodesically convex: global landscape analysis for fixed-rank matrix optimization from a Riemannian perspective",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1007/s10107-026-02399-1": {
+      "title": "Hypergraph connectivity augmentation in strongly polynomial time",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1007/s10107-026-02379-5": {
+      "title": "Convexification of multi-period quadratic programs with indicators",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1007/s10107-026-02387-5": {
+      "title": "An O(log n)-approximation algorithm for (p,q)-flexible graph connectivity via independent rounding",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
+    },
+    "10.1111/1467-8551.70095": {
+      "title": "Entrepreneurial Orientation Under Female Family Leadership: Zooming in on Only‐child CEOs and Generational Dynamics in Family Firms",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-07-22",
+      "first_seen": "2026-07-23T08:40:02.454133+00:00"
     }
   },
-  "last_run": "2026-07-22T08:39:13.466142+00:00",
+  "last_run": "2026-07-23T08:40:02.454133+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-21",
-    "end_date": "2026-07-22"
+    "start_date": "2026-07-22",
+    "end_date": "2026-07-23"
   }
 }

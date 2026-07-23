@@ -1,0 +1,205 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-07-23
+
+Generated at: 2026-07-23 08:40 UTC
+Crossref date mode: `created`
+Window: `2026-07-22` to `2026-07-23`
+New papers: 20
+
+## AJG 4*
+
+### Administrative Science Quarterly
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [Book Review: Patrick McGee. Apple in China: The Capture of the World’s Greatest Company McGeePatrick. Apple in China: The Capture of the World’s Greatest Company. Scribner, 2025. 448 pp.](https://doi.org/10.1177/00018392261472813)
+  - DOI: 10.1177/00018392261472813
+  - Authors: Kunyuan Qiao
+  - Affiliations: D’Amore-McKim School of Business, Northeastern University, Boston, MA
+  - Published: 2026-07-22
+  - Crossref journal: Administrative Science Quarterly
+
+### Journal of International Business Studies
+- Field: IB&AREA
+- Articles: 1
+
+- [Violent conflicts, institutional friction, and foreign divestment: the case of MNCs’ market exit from Russia](https://doi.org/10.1057/s41267-026-00892-5)
+  - DOI: 10.1057/s41267-026-00892-5
+  - Authors: Dirk Holtbrügge; Marc Oberhauser; Laura Kirste
+  - Published: 2026-07-22
+  - Crossref journal: Journal of International Business Studies
+
+### Management Science
+- Field: OR&MANSCI
+- Articles: 1
+
+- [Linking Firm-Generated Social Media Content to Sales and Returns](https://doi.org/10.1287/mnsc.2023.01432)
+  - DOI: 10.1287/mnsc.2023.01432
+  - Authors: M. Serkan Akturk; Haileab Hilafu; Paolo Letizia
+  - Affiliations: Wilbur O. and Ann Powers College of Business, Clemson University, Clemson, South Carolina 29634; Haslam College of Business, The University of Tennessee, Knoxville, Knoxville, Tennessee 37996
+  - Published: 2026-07-22
+  - Crossref journal: Management Science
+  - Abstract:
+    The growing importance of content marketing on social media has made it imperative for firms to evaluate the effectiveness of their posts in driving business performance. However, academic research offers limited insight into how firm-generated content on social platforms affects performance metrics such as product sales and returns. This paper contributes to addressing that gap by examining the relationship between social media marketing on Facebook and transactional outcomes, using data from the online channel of a luxury fashion accessory manufacturer. We augment the transaction data with the firm’s Facebook posts, classifying them as either informative or persuasive. Informative posts are further distinguished based on whether they pertain to standard (ISP posts) or customizable (ICP posts) product features. Our results indicate that ISP posts are associated with increases in sales and returns, whereas ICP posts are associated with decreases in both outcomes. Moreover, we find that the associations of ISP posts with sales and returns are weaker when accompanied by persuasive content, whereas persuasive content only attenuates the relationship between ICP posts and returns. These findings are robust across alternative model specifications and estimation methods and offer valuable managerial insights for firms seeking to optimize their social media marketing strategies. This paper was accepted by D. J. Wu, information systems. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.01432 .
+
+### Public Administration Review
+- Field: PUB SEC
+- Articles: 1
+
+- [Recruiting Street‐Level Bureaucrats Through Co‐Design: The Effects of Incorporating Citizen Insights Into Job Advertisements](https://doi.org/10.1111/puar.70162)
+  - DOI: 10.1111/puar.70162
+  - Authors: Jakob Trischler; Julia Dicenta; Jasenko Arsenovic; Marion Büttgen
+  - Affiliations: CTF Service Research Center Karlstad University Karlstad Sweden; Department of Corporate Management University of Hohenheim Stuttgart Germany; Department of Management and Engineering Linköping University Linköping Sweden
+  - Published: 2026-07-22
+  - Crossref journal: Public Administration Review
+  - Abstract:
+    ABSTRACT Street‐level bureaucrats (SLBs) directly affect citizens, making them central to public service delivery. Service success therefore hinges on public sector organizations' ability to recruit competent SLBs. We argue that citizens' perspectives should inform SLB recruitment, especially for contact‐intensive, relational frontline roles. Yet public administration research has not integrated citizens' perspectives into SLB recruitment, despite a broader shift toward a service‐user orientation. We test whether job advertisements co‐designed with citizens increase job seekers' application likelihood. Using a mixed‐method design, including a preregistered experiment, we find that co‐designed job advertisements (a) identify SLB competencies often overlooked in conventional recruitment (Study 1), (b) increase application likelihood regardless of applicants' awareness of citizen involvement (Study 2A), and (c) attract candidates whose values align with service‐user‐oriented organizations by improving person‐job fit (Study 2B). We advance public sector recruitment and SLB research by introducing co‐design as an innovative and effective approach to service‐user‐oriented SLB recruitment.
+
+## AJG 4
+
+### British Journal of Industrial Relations
+- Field: HRM&EMP
+- Articles: 1
+
+- [Petroleum‐238: Big Oil's Dangerous Secret and the Grassroots Fight to Stop It](https://doi.org/10.1111/bjir.70072)
+  - DOI: 10.1111/bjir.70072
+  - Authors: Andrew Watterson
+  - Affiliations: University of Stirling Stirling Scotland UK
+  - Published: 2026-07-23
+  - Crossref journal: British Journal of Industrial Relations
+
+### British Journal of Management
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [Entrepreneurial Orientation Under Female Family Leadership: Zooming in on Only‐child CEOs and Generational Dynamics in Family Firms](https://doi.org/10.1111/1467-8551.70095)
+  - DOI: 10.1111/1467-8551.70095
+  - Authors: Carl Åberg; Andrea Calabrò; Mariateresa Torchia; Alfredo Valentino
+  - Affiliations: University of South‐Eastern Norway Hasbergs vei 36 Kongsberg 3616 Norway; SDA Bocconi School of Management Via Sarfatti, 10 Milan 20136 Italy; International University of Monaco, OMNES Education Le Stella, 14 Rue Hubert Clerissi Monaco 98000 France; ESCE International Business School, OMNES Education 10 rue Sextius Michel, Campus Eiffel 1 Paris 75015 France
+  - Published: 2026-07-22
+  - Crossref journal: British Journal of Management
+  - Abstract:
+    Abstract This paper revisits the entrepreneurial orientation–performance relationship in family firms by examining why entrepreneurial orientation yields uneven performance returns. Drawing on entrepreneurial orientation research, upper echelons theory and gender role theory, we argue that the effectiveness of entrepreneurial orientation depends on the CEO's ability to sustain entrepreneurial action. Using cross‐country data from family firms, we find that the positive effect of entrepreneurial orientation on performance is weakened under female family leadership. However, this effect is attenuated when the female family CEO is an only‐child and amplified in firms with multigenerational involvement. Overall, our findings show when and why gender at the helm matters for entrepreneurial success in family firms.
+
+### Economic History Review
+- Field: BUS HIST & ECON HIST
+- Articles: 3
+
+- [The role of structural transformation in regional convergence in Japan: 1874–2008](https://doi.org/10.1111/ehr.70138)
+  - DOI: 10.1111/ehr.70138
+  - Authors: Kyoji Fukao; Saumik Paul
+  - Affiliations: Research Institute of Economy, Trade and Industry (RIETI) and Institute of Economic Research Hitotsubashi University Tokyo Japan; University of Manchester Greater Manchester UK; IZA Luxembourg
+  - Published: 2026-07-23
+  - Crossref journal: The Economic History Review
+  - Abstract:
+    Abstract Japan's regional convergence of productivity levels throughout the twentieth century can be best described as a cumulative process of ‘catching up, forging ahead, and falling behind’. Using a novel dataset spanning 135 years (1874–2008), this study finds support for a crucial role played by structural transformation in convergence. The pace of productivity catch‐up and convergence accelerated in the mid‐1950s with the help of structural transformation, particularly in the period from 1955 to 1965. Structural transformation explains, on average, about 30 per cent of the aggregate productivity growth, and its effect intensified in prefectures with faster movements of labour across sectors and larger sectoral productivity gaps. However, since the early 1970s, its contribution to the convergence was frequently offset by within‐sector productivity growth, in turn thwarting the pace of convergence. These counter‐balancing effects contributed to the diverse pathways of productivity catch‐up at the prefecture level.
+
+- [The Insatiable Machine: How Capitalism Conquered the WorldTrevorJackson (W. W. Norton &amp; Company, 2026. Pp. 320. Hbk £21. ISBN 9781324106876).](https://doi.org/10.1111/ehr.70144)
+  - DOI: 10.1111/ehr.70144
+  - Authors: Sebastián Royo
+  - Affiliations: Clark University Worcester Massachusetts USA
+  - Published: 2026-07-22
+  - Crossref journal: The Economic History Review
+
+- [Making an Industrial Revolution: Skill, Knowledge, Community and InnovationGillianCookson, (Woodbridge, the Boydell Press, 2025. Pp. 252. Hbk $85.23, Pbk $32.26).](https://doi.org/10.1111/ehr.70143)
+  - DOI: 10.1111/ehr.70143
+  - Authors: Joel Mokyr
+  - Affiliations: Northwestern University Evanston Illinois USA
+  - Published: 2026-07-22
+  - Crossref journal: The Economic History Review
+
+### Mathematical Programming
+- Field: OR&MANSCI
+- Articles: 5
+
+- [Single-source unsplittable flows in planar and bounded-genus graphs](https://doi.org/10.1007/s10107-026-02365-x)
+  - DOI: 10.1007/s10107-026-02365-x
+  - Authors: Vera Traub; Laura Vargas Koch; Rico Zenklusen
+  - Published: 2026-07-22
+  - Crossref journal: Mathematical Programming
+  - Abstract:
+    Abstract The single-source unsplittable flow (SSUF) problem asks to send flow from a common source to terminals with unrelated demands, each terminal being served through a single path. The classical SSUF objective is to minimize the violation of some given arc capacities. A seminal result of Dinitz, Garg, and Goemans showed that, whenever a fractional flow exists respecting the capacities, then there is an unsplittable one violating the capacities by at most the maximum demand. Goemans conjectured a natural cost version of the same result, where the unsplittable flow is required to be no more expensive than the fractional one. Intriguingly, there are arguably no non-trivial graph classes for which it is known to hold. We show that a slight weakening of it holds for planar graphs, by exploiting a connection to a highly structured discrepancy problem. Moreover, our techniques extend to simultaneous upper and lower bounds on the flow values. This affirmatively answers a conjecture of Morell and Skutella for planar SSUF. Finally, we show that our approach can be extended to general (non-planar) graphs with a capacity violation that depends on the genus.
+
+- [Nonconvex matrix factorization is geodesically convex: global landscape analysis for fixed-rank matrix optimization from a Riemannian perspective](https://doi.org/10.1007/s10107-026-02400-x)
+  - DOI: 10.1007/s10107-026-02400-x
+  - Authors: Yuetian Luo; Nicolás García Trillos
+  - Published: 2026-07-22
+  - Crossref journal: Mathematical Programming
+  - Abstract:
+    Abstract In this paper we study the landscape of a general matrix optimization problem with a fixed-rank positive semidefinite (PSD) constraint. We perform the Burer-Monteiro factorization, i.e., factorize a PSD matrix $${\textbf{X}}$$ X as $${\textbf{Y}}{\textbf{Y}}^\top $$ Y Y ⊤ , and consider a particular Riemannian quotient geometry in a search space that has a total space equipped with the Euclidean metric. When the original objective f satisfies standard restricted strong convexity and smoothness properties, we characterize the global landscape of the factorized objective under the Riemannian quotient geometry. In particular, we show that the entire search space can be divided into three regions: ( $$\mathcal{R}_1$$ R 1 ) the region near the target parameter of interest, where the factorized objective is geodesically strongly convex and smooth; ( $$\mathcal{R}_2$$ R 2 ) the region containing neighborhoods of all strict saddle points; ( $$\mathcal{R}_3$$ R 3 ) the remaining regions, where the factorized objective has a large gradient. Our results cover both noisy and noiseless settings in applications of interest. To the best of our knowledge, this is the first global landscape analysis of the Burer-Monteiro factorized objective under the Riemannian quotient geometry. Our results provide a fully geometric explanation for the superior performance of vanilla gradient descent under the Burer-Monteiro factorization. When f satisfies a weaker restricted strict convexity property, we show there exists a neighborhood near local minimizers such that the factorized objective is geodesically convex. To prove our main results we provide a comprehensive landscape analysis of a matrix factorization problem with a least squares objective, which serves as a critical bridge in establishing the results in the general setting. Our conclusions are also based on a result of independent interest stating that the geodesic ball centered at $${\textbf{Y}}$$ Y with a radius one-third of the least singular value of $${\textbf{Y}}$$ Y is a geodesically convex set under the Riemannian quotient geometry, a result that, as a corollary, also implies a quantitative bound of the convexity radius in the Bures-Wasserstein space. The convexity radius obtained in this paper is sharp up to constants.
+
+- [Hypergraph connectivity augmentation in strongly polynomial time](https://doi.org/10.1007/s10107-026-02399-1)
+  - DOI: 10.1007/s10107-026-02399-1
+  - Authors: Kristóf Bérczi; Karthekeyan Chandrasekaran; Tamás Király; Shubhang Kulkarni
+  - Published: 2026-07-22
+  - Crossref journal: Mathematical Programming
+
+- [Convexification of multi-period quadratic programs with indicators](https://doi.org/10.1007/s10107-026-02379-5)
+  - DOI: 10.1007/s10107-026-02379-5
+  - Authors: Jisun Lee; Andrés Gómez; Alper Atamtürk
+  - Published: 2026-07-22
+  - Crossref journal: Mathematical Programming
+  - Abstract:
+    Abstract We study a multi-period mixed-integer convex quadratic optimization problem, where the state evolves dynamically as an affine function of the state and action (control) variables in each period. We begin by projecting out the state variables using linear dynamics, resulting in a mixed-integer quadratic optimization problem with a positive-definite (block-)factorizable cost matrix. Employing this expression, we construct a closed convex hull representation of the epigraph of the quadratic cost over the feasible region in an extended space. Subsequently, we establish a tight second-order cone programming formulation with $$\mathscr {O}(n^2)$$ O ( n 2 ) conic constraints. We further propose a polynomial-time algorithm based on a reformulation of the problem as a shortest path problem on a directed acyclic graph. To illustrate the applicability of our results across diverse domains, we present case studies in statistical learning and hybrid system control.
+
+- [An O(log n)-approximation algorithm for (p,q)-flexible graph connectivity via independent rounding](https://doi.org/10.1007/s10107-026-02387-5)
+  - DOI: 10.1007/s10107-026-02387-5
+  - Authors: Sharat Ibrahimpur; László A. Végh
+  - Published: 2026-07-22
+  - Crossref journal: Mathematical Programming
+  - Abstract:
+    Abstract In the Flexible Graph Connectivity (FGC) problem, we are given an undirected multigraph on n vertices with nonnegative edge costs, where each edge is classified as either safe or unsafe . Given integer parameters p and q , the goal in ( p , q )-FGC is to purchase a minimum-cost set of edges such that the resulting spanning subgraph remains p -edge-connected after the removal of any set of up to q unsafe edges. Our main contribution is an $$O(\log n)$$ O ( log n ) -approximation algorithm based on independent rounding, improving the previous best approximation ratio of $$O(q \log n)$$ O ( q log n ) . Central to our approach is a new linear programming formulation of feasible solutions that encodes knapsack cover inequalities as cut-capacity constraints. Unlike prior work, the capacity of an edge in a cut may depend on the partially purchased solution for this cut. We show that the resulting linear program admits a polynomial-time separation oracle. Scaling the fractional solution by $$\varTheta (\log n)$$ Θ ( log n ) and applying independent rounding yields a feasible integral solution with constant probability; here, we leverage the knapsack cover inequalities to obtain strong concentration bounds for the rounded solution relative to any given partial solution. A key ingredient in both separation and rounding is the use of Karger’s bound on the number of near-minimum cuts. We also extend the ( p , q )-FGC problem to model more than two safety tiers and show that our results and techniques extend naturally to this setting, albeit with increased approximation ratios and running times that scale with the number of tiers.
+
+### Production and Operations Management
+- Field: OPS&TECH
+- Articles: 5
+
+- [EXPRESS: Tiered Refunds and Return Restoration for Seasonal Products: Profitability and Environmental Impacts](https://doi.org/10.1177/10591478261474722)
+  - DOI: 10.1177/10591478261474722
+  - Authors: Yuyun Zhong; Wenjing Shen; Oben Ceryan
+  - Published: 2026-07-22
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    The surge in product returns poses significant financial and environmental challenges, particularly for seasonal goods, as retailers must often discard or liquidate returned items at the end of a short selling season. To address these challenges, we propose a tiered-refund policy integrated with return restoration . Under this policy, the retailer offers full refunds for early returns and only partial refunds for late returns, creating a supply of early returns that can be restored and resold as new. By employing a two-period model to capture the essential dynamic of early and late returns, and accounting for consumer valuation uncertainty and the disutility of returning early, we characterize the retailer’s optimal late-return refund, initial inventory level, and restoration quantities. We investigate the impact of the proposed tiered-refund policy with return restoration relative to two benchmarks: a restrictive short-return-window policy and a lenient full-refund policy. Our analytical results show that, even without restoration, the tiered-refund policy dominates the short-return-window policy, and outperforms the full-refund policy unless consumer valuations are low. When restoration is feasible, the tiered-refund policy becomes even more attractive compared to the full-refund policy for lower consumer valuations and strictly dominates if restoration costs are not prohibitively high. We also find that the operational flexibility created by restoration leads the retailer to lower the optimal late-return refund in order to incentivize early returns. Numerical experiments using practice-calibrated parameters show that the tiered-refund policy with restoration increases profits by an average of 11% relative to the short-return-window policy and 7% relative to the full-refund policy, with maximum gains reaching 38%. Furthermore, the policy reduces total environmental impact by an average of 1.5% and 5% against the respective benchmarks, with reductions of up to 13%. These sustainability gains are driven by converting otherwise discarded returns into usable products and by reducing initial inventory requirements through restoration. Finally, we find that tiered refunds and restoration are complementary in improving profitability.
+
+- [EXPRESS: The Congestion Vortex: Empirical Evidence of the Adverse Effects of Delay on Workload in Court Systems](https://doi.org/10.1177/10591478261474396)
+  - DOI: 10.1177/10591478261474396
+  - Authors: Shany Azaria; Noam Shamir
+  - Published: 2026-07-22
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    This paper presents a methodological approach that employs empirical analysis to investigate the adverse operational effects of congestion within a court system setting. Central to this study is the premise that prolonged lead time generates additional tasks, consequently increasing congestion by consuming additional processing resources, a phenomenon we term ‘the congestion vortex’. To explore this subject, we leverage a large-scale rich dataset from the Israeli court system which provides a comprehensive map of case-related judicial tasks in all civil cases in the system for more than seven years. We also utilize two instrumental variables, exogenous shocks to the system, to mitigate potential reverse causality between judges’ effort and lead time. Our results indicate that the longer a case lingers in the system, the greater the judicial workload it creates, in terms of invested effort in producing judicial decisions. Furthermore, we demonstrate that extended lead time increases the likelihood of a case concluding with a judgment on its merits, further escalating judicial effort.
+
+- [EXPRESS: Regret Optimality of Sample Average Approximation for Data-Driven Newsvendor Problems: A General Optimization Perspective](https://doi.org/10.1177/10591478261474392)
+  - DOI: 10.1177/10591478261474392
+  - Authors: Jiameng Lyu; Shilin Yuan; Bingkun Zhou; Yuan Zhou
+  - Published: 2026-07-22
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Numerous existing studies have examined the performance of Sample Average Approximation (SAA) in the fundamental newsvendor problem. Despite these advances, critical gaps remain in two aspects. First, existing works focus on the linear-cost newsvendor problem and heavily rely on the quantile expression of the optimal solution. As a result, their analytical methods limit generalizability to more general inventory problems, where the optimal solution is not a quantile of the demand distribution. Second, even within the linear-cost setting, notable gaps exist between the state-of-the-art regret lower bound and upper bound for SAA under various conditions. In this paper, we generalize the structure of the newsvendor problem to generic convexity conditions and provide a unified regret analysis of SAA for general sequential stochastic optimization problems. Our approach provides further insights to a broader range of data-driven inventory problems, improves both the upper and lower regret bounds, and establishes the regret rate optimality of SAA. Our lower bound identifies the performance limit achievable by any policy for sequential stochastic optimization and inventory management problems, offering important guidance for future policy design in this area. Moreover, in empirical studies, SAA’s performance is frequently used as a benchmark for evaluating new algorithms. The regret rate optimality result provides strong support for its role in assessing other data-driven methods, benefiting both practitioners and researchers. Our new analysis techniques enrich the analysis tools for regret upper and lower bounds for data-driven decision-making problems and other general stochastic optimization problems.
+
+- [EXPRESS: Identifying Purchase-Evoking Social Media Posts: A Theory-Driven Deep Multimodal Learning Framework](https://doi.org/10.1177/10591478261474393)
+  - DOI: 10.1177/10591478261474393
+  - Authors: Zhechao Yang; Qili Wang; Liangfei Qiu; Hsing Kenneth Cheng
+  - Published: 2026-07-22
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Social media plays an increasingly important role in shaping consumer purchase behavior and informing operational decisions. However, the multimodal nature of social media content, which often combines text and images, makes it difficult for firms to extract actionable insights. To address this challenge, we propose a theory-driven Quality-Credibility-Complementarity Deep Multimodal Learning (QCC-DML) framework. Specifically, we extend the traditional Information Adoption Model (IAM), originally developed for text-based content, to interpret multimodal social media posts. By incorporating content complementarity between text and images, post quality, and source credibility, the proposed framework identifies social media posts that evoke consumer purchase intentions. Based on the identified purchase-evoking posts, we construct purchase-evoking frequency (PEF), defined as the number of purchase-evoking posts that mention a specific product feature. Using social media data and sales data from a partner kitchenware manufacturer, we validate the economic relevance of the proposed framework by showing that PEF has a significant positive effect on product sales. PEF captures feature-level demand signals from social media and indicates which product features are gaining traction among consumers. In addition, this impact varies across product attributes and distribution channels. Specifically, the impact of PEF is stronger for search goods (versus experience goods) and online sales (versus offline sales). This study contributes to the operations management literature by showing how multimodal social media analytics can support data-driven operational decision-making. From a practical perspective, the proposed framework helps firms detect evolving consumer preferences and supports more informed decisions in areas such as product design, inventory planning, and supply chain coordination.
+
+- [EXPRESS: AI and Its Impact on Creativity and Diversity: An Empirical Study of LLM-Generated Product Ideas](https://doi.org/10.1177/10591478261474243)
+  - DOI: 10.1177/10591478261474243
+  - Authors: Christian Terwiesch; Lennart Meincke; Karan Girotra; Ethan Mollick; Gideon Nave; Karl Ulrich
+  - Published: 2026-07-22
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    This research examines how well large language models (LLMs) generate new product ideas, focusing on new products for college students priced under $50. Through a series of studies, we identify key strengths and weaknesses of using LLMs for product innovation. Our first study shows that LLM-generated product ideas have higher average quality than human ideas (based on purchase intent) and are 7 times more likely to rank in the top 10%. Our second study demonstrates that this AI-induced creativity boost is not explained by the LLM’s more persuasive pitching skills. Our third and fourth studies identify an interesting weakness of using LLMs for brainstorming, showing that AI-generated ideas are less novel (at the idea level) and less diverse (at the set level). In our fifth study, we investigate the generalizability of these findings by analyzing prior LLM-based creativity studies, finding consistently lower idea diversity across all of them. Our sixth and seventh studies investigate the efficacy of various techniques to mitigate this diversity loss. Specifically, we compare different LLMs (different vendors and different versions) and find that the more recent models are capable of generating more diverse ideas though still falling short of achieving human-level diversity. In addition, we demonstrate the effectiveness of several techniques that can be used to increase idea diversity almost to the level of human idea generation: pooling ideas across vendors, prompt engineering (including Chain-of-Thought prompting and injecting heterogeneous personas or constraints) and creative agents that broadly explore the solution landscape with the intent of restoring diversity. Finally, in our eighth study we show that exploiting the near-zero marginal cost of AI idea generation by scaling the number of ideas steadily improves coverage of the idea space approaching human-level coverage. We conclude our work by presenting a set of actionable recommendations targeted to managers of innovation that want to identify better new product ideas with the help of LLMs.
+
+### Public Management Review
+- Field: PUB SEC
+- Articles: 1
+
+- [Digital transformations in public welfare services: risks and benefits of digital co-production](https://doi.org/10.1080/14719037.2026.2703750)
+  - DOI: 10.1080/14719037.2026.2703750
+  - Authors: Maria Taivalsaari Røhnebæk; Sigrid Myklebø; Inge Hermanrud; Asbjørn Kårstein
+  - Affiliations: University of Inland Norway, Lillehammer, Norway
+  - Published: 2026-07-22
+  - Crossref journal: Public Management Review
