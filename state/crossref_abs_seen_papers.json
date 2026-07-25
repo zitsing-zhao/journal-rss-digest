@@ -6691,12 +6691,89 @@
       "abs_journal_title": "American Journal of Sociology",
       "published_date": "2026-07-01",
       "first_seen": "2026-07-24T08:35:39.153292+00:00"
+    },
+    "10.1108/ijopm-11-2025-1167": {
+      "title": "Unintended environmental consequences of innovation policy: evidence from pro-blockchain legislation",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-07-28",
+      "first_seen": "2026-07-25T08:16:30.566825+00:00"
+    },
+    "10.1007/s11192-026-05740-9": {
+      "title": "Categorizing authors in co-authorship networks through textual information analysis: a comparative study of two scientific communities",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-25",
+      "first_seen": "2026-07-25T08:16:30.566825+00:00"
+    },
+    "10.1002/smj.70111": {
+      "title": "Disentangling contract and law: Legal specificity and contractual governance in public–private partnerships",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-07-24",
+      "first_seen": "2026-07-25T08:16:30.566825+00:00"
+    },
+    "10.1287/mnsc.2025.01859": {
+      "title": "Skill Deprioritization: Reorganizing in the Age of Generative Artificial Intelligence",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-07-24",
+      "first_seen": "2026-07-25T08:16:30.566825+00:00"
+    },
+    "10.1287/isre.2024.1235": {
+      "title": "Unraveling the Impact: An Empirical Investigation of ChatGPT’s Exclusion from Stack Overflow",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-07-24",
+      "first_seen": "2026-07-25T08:16:30.566825+00:00"
+    },
+    "10.1002/sej.70038": {
+      "title": "Unleashing the value of a “scientific approach” to entrepreneurship: Building an empirical research agenda",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-07-24",
+      "first_seen": "2026-07-25T08:16:30.566825+00:00"
+    },
+    "10.1093/jeea/jvag043": {
+      "title": "The Lock-In Effect and the Corporate Payout Puzzle,",
+      "journal": "Journal of the European Economic Association",
+      "abs_journal_title": "Journal of the European Economic Association",
+      "published_date": "2026-07-24",
+      "first_seen": "2026-07-25T08:16:30.566825+00:00"
+    },
+    "10.1111/joms.70144": {
+      "title": "Bifurcation Bias in Executive Compensation and Family Firm Performance: The Role of Normative Context",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-07-24",
+      "first_seen": "2026-07-25T08:16:30.566825+00:00"
+    },
+    "10.1177/02683962261467413": {
+      "title": "Logic hybridization in enterprise platforms: Reconfiguring architecture and governance for generative AI",
+      "journal": "Journal of Information Technology",
+      "abs_journal_title": "Journal of Information Technology",
+      "published_date": "2026-07-24",
+      "first_seen": "2026-07-25T08:16:30.566825+00:00"
+    },
+    "10.1111/iere.70092": {
+      "title": "Cross‐Prudence and Optimal Prevention",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-07-24",
+      "first_seen": "2026-07-25T08:16:30.566825+00:00"
+    },
+    "10.1080/0960085x.2026.2706801": {
+      "title": "Doing my fair share: energy informatics to transparentize eco-equity and empower consumers",
+      "journal": "European Journal of Information Systems",
+      "abs_journal_title": "European Journal of Information Systems",
+      "published_date": "2026-07-24",
+      "first_seen": "2026-07-25T08:16:30.566825+00:00"
     }
   },
-  "last_run": "2026-07-24T08:35:39.153292+00:00",
+  "last_run": "2026-07-25T08:16:30.566825+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-23",
-    "end_date": "2026-07-24"
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-25"
   }
 }
