@@ -6768,12 +6768,19 @@
       "abs_journal_title": "European Journal of Information Systems",
       "published_date": "2026-07-24",
       "first_seen": "2026-07-25T08:16:30.566825+00:00"
+    },
+    "10.1177/10422587261462834": {
+      "title": "The Paradox of Inclusion: Modeling Systemic Dynamics of the Gender Finance Gap in Entrepreneurial Ecosystems",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-07-25",
+      "first_seen": "2026-07-26T08:35:09.883489+00:00"
     }
   },
-  "last_run": "2026-07-25T08:16:30.566825+00:00",
+  "last_run": "2026-07-26T08:35:09.883489+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-24",
-    "end_date": "2026-07-25"
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-26"
   }
 }
