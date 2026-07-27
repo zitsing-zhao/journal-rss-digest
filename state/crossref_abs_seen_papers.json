@@ -6775,12 +6775,33 @@
       "abs_journal_title": "Entrepreneurship Theory and Practice",
       "published_date": "2026-07-25",
       "first_seen": "2026-07-26T08:35:09.883489+00:00"
+    },
+    "10.1111/iere.70090": {
+      "title": "Sex and the City: Demographics, Spatial Sorting, and the Marriage Market",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-07-27",
+      "first_seen": "2026-07-27T10:02:59.910245+00:00"
+    },
+    "10.1111/irel.70037": {
+      "title": "The Chains That Bind? Restrictive Covenants and Labor Market Entrants' Perceived Occupational Mobility",
+      "journal": "Industrial Relations: A Journal of Economy and Society",
+      "abs_journal_title": "Industrial Relations",
+      "published_date": "2026-07-27",
+      "first_seen": "2026-07-27T10:02:59.910245+00:00"
+    },
+    "10.1177/09500170261467618": {
+      "title": "Book Review: Tom Vickers,\n                    <i>Organizing Amazon: Building Worker Power under Conditions of Fragmentation, Precarity and Regimentation</i>\n                    VickersTomOrganizing Amazon: Building Worker Power under Conditions of Fragmentation, Precarity and RegimentationBristol: Bristol University Press, 2025, £14.99 (ISBN: 978-1529254297), 160 pp.",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-07-26",
+      "first_seen": "2026-07-27T10:02:59.910245+00:00"
     }
   },
-  "last_run": "2026-07-26T08:35:09.883489+00:00",
+  "last_run": "2026-07-27T10:02:59.910245+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-25",
-    "end_date": "2026-07-26"
+    "start_date": "2026-07-26",
+    "end_date": "2026-07-27"
   }
 }
