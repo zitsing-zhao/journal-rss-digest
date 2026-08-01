@@ -7405,12 +7405,236 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-07-30",
       "first_seen": "2026-07-31T09:10:45.717121+00:00"
+    },
+    "10.1257/aer.20240056": {
+      "title": "Uncertainty and Change: Survey Evidence of Firms' Subjective Beliefs",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1257/aer.20241007": {
+      "title": "The Productivity of Professions: Evidence from the Emergency Department",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1257/aer.20220264": {
+      "title": "Talent Hoarding in Organizations",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1257/aer.20231414": {
+      "title": "Remote Work and City Structure",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1257/aer.20240712": {
+      "title": "Random Utility with Unobservable Alternatives",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1257/aer.20231696": {
+      "title": "Professional Motivations in the Public Sector: Evidence from Police Officers",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1257/aer.20240497": {
+      "title": "Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1257/aer.116.8.i": {
+      "title": "Front Matter",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1257/aer.20240094": {
+      "title": "Energy Transitions in Regulated Markets",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1257/aer.20240617": {
+      "title": "Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1257/aer.20250305": {
+      "title": "Community Engagement and Public Safety: Evidence from Crime Enforcement Targeting Immigrants",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1257/aer.20250295": {
+      "title": "Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1111/puar.70167": {
+      "title": "Social Capital and Policy Compliance in a Polarized Democracy: A Necessary Condition Analysis of\n                    <scp>COVID</scp>\n                    Vaccination Rates Across US Counties",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1111/puar.70177": {
+      "title": "Consolidating Liberal Democracy From Within A Theory of Public Institutional Leadership",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1287/orsc.2025.20566": {
+      "title": "Worker Repositioning and Technological Change: Evidence from an Online Labor Market",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1287/orsc.2025.21133": {
+      "title": "The Paradox of Inventors’ Job Security",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1287/orsc.2025.20539": {
+      "title": "Harnessing Academic Science for Corporate Technology: Interpersonal Networks and Absorptive Capacity",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1287/orsc.2024.19578": {
+      "title": "Getting to the Heart of Conflict: Emotional Acknowledgment Reduces Negative Emotional Expression Intensity and Improves Intrateam Conflict Resolution",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1086/743334": {
+      "title": "The Economic Dynamics of City Structure: Evidence from Hiroshima's Recovery",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1086/743387": {
+      "title": "The Demand for Mobility: Evidence From an Experiment With Uber Riders",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1086/743388": {
+      "title": "Safe Spaces: Shelters or Tribes?",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1086/743333": {
+      "title": "Political Parties as Drivers of U.S. Polarization: 1927-2018",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1086/743329": {
+      "title": "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1086/743331": {
+      "title": "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1086/743389": {
+      "title": "Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1086/743332": {
+      "title": "A Theory of  Redistribution and Public Good Provision Under Non-Democracy",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1177/01492063261464515": {
+      "title": "A Multidimensional Model of Entrepreneurial Career Success: A Literature Review and Research Agenda",
+      "journal": "Journal of Management",
+      "abs_journal_title": "Journal of Management",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1177/10422587261470046": {
+      "title": "How Identity-Specific Workplace Support and Authenticity Drive Individual Entrepreneurial Orientation: Evidence From Sexual and Gender Minoritized Employees",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1002/sej.70037": {
+      "title": "Novelty and its genealogy: The role of discarded prototypes as repositories of innovation",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1007/s11192-026-05738-3": {
+      "title": "Two-stage dynamic StoNED model for efficiency evaluation of green technology innovation: evidence from a cross-country study",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1080/14719037.2026.2710762": {
+      "title": "The balancing act of public service spaces: understanding service ecosystems and advancing the public service logic",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-07-31",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
+    },
+    "10.1287/orsc.2026.eb.v37n4": {
+      "title": "Editorial Board",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-07-01",
+      "first_seen": "2026-08-01T08:29:29.504313+00:00"
     }
   },
-  "last_run": "2026-07-31T09:10:45.717121+00:00",
+  "last_run": "2026-08-01T08:29:29.504313+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-07-30",
-    "end_date": "2026-07-31"
+    "start_date": "2026-07-31",
+    "end_date": "2026-08-01"
   }
 }
