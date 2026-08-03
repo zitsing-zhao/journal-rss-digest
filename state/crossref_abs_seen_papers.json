@@ -7671,12 +7671,75 @@
       "abs_journal_title": "Operations Research",
       "published_date": "2026-07-01",
       "first_seen": "2026-08-02T08:32:17.400516+00:00"
+    },
+    "10.1177/00380385261447226": {
+      "title": "Pilots reporting unidentified aerial phenomena and the organisation of professional circumspection",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-03T09:58:19.166557+00:00"
+    },
+    "10.1177/00380385261446200": {
+      "title": "Afterlives in Motion: Changing Representations of Enslaved Women in Rio de Janeiro’s Carnival",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-03T09:58:19.166557+00:00"
+    },
+    "10.1007/s11192-026-05761-4": {
+      "title": "Mapping the Korean national R&amp;D system: a capability-based network approach to actor heterogeneity",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-03T09:58:19.166557+00:00"
+    },
+    "10.1080/0960085x.2026.2709635": {
+      "title": "Caring networks for digital inclusion: how network weaving transforms responses to digital inequalities",
+      "journal": "European Journal of Information Systems",
+      "abs_journal_title": "European Journal of Information Systems",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-03T09:58:19.166557+00:00"
+    },
+    "10.1017/s0266466626100565": {
+      "title": "ON THE POWER PROPERTIES OF INFERENCE FOR PARAMETERS WITH INTERVAL IDENTIFIED SETS",
+      "journal": "Econometric Theory",
+      "abs_journal_title": "Econometric Theory",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-03T09:58:19.166557+00:00"
+    },
+    "10.1002/smj.70114": {
+      "title": "From hypothesis testing toward inference to the best explanation: A\n                    <scp>PEEBI</scp>\n                    testimonial structure for abductive studies in strategy",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-08-02",
+      "first_seen": "2026-08-03T09:58:19.166557+00:00"
+    },
+    "10.1111/puar.70174": {
+      "title": "Does Political Decoupling Through Fair Market Privatization Improve Managerial and Political Outcomes? Insights From Water Utility Sales",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-08-02",
+      "first_seen": "2026-08-03T09:58:19.166557+00:00"
+    },
+    "10.1111/jscm.70033": {
+      "title": "A Footprint Perspective for Sustainable Supply Chain Management Research",
+      "journal": "Journal of Supply Chain Management",
+      "abs_journal_title": "Journal of Supply Chain Management",
+      "published_date": "2026-08-02",
+      "first_seen": "2026-08-03T09:58:19.166557+00:00"
+    },
+    "10.1111/1467-8551.70099": {
+      "title": "Field Emergence From Diverse Origins: History, Heterogeneity and the Evolution of UK Business Schools",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-08-02",
+      "first_seen": "2026-08-03T09:58:19.166557+00:00"
     }
   },
-  "last_run": "2026-08-02T08:32:17.400516+00:00",
+  "last_run": "2026-08-03T09:58:19.166557+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-08-01",
-    "end_date": "2026-08-02"
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-03"
   }
 }
