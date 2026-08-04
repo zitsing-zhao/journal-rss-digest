@@ -1,0 +1,401 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-08-04
+
+Generated at: 2026-08-04 08:49 UTC
+Crossref date mode: `created`
+Window: `2026-08-03` to `2026-08-04`
+New papers: 40
+
+## AJG 4*
+
+### Administrative Science Quarterly
+- Field: ETHICS-CSR-MAN
+- Articles: 2
+
+- [Publications Received](https://doi.org/10.1177/00018392261461607)
+  - DOI: 10.1177/00018392261461607
+  - Published: 2026-08-04
+  - Crossref journal: Administrative Science Quarterly
+
+- [From the Editor](https://doi.org/10.1177/00018392261461606)
+  - DOI: 10.1177/00018392261461606
+  - Authors: Beth Bechky
+  - Published: 2026-08-04
+  - Crossref journal: Administrative Science Quarterly
+
+### Journal of Applied Psychology
+- Field: PSYCH (WOP-OB)
+- Articles: 2
+
+- [How the boss’s “right hand” becomes the group’s “go-to”: Leader–member exchange as a heuristic cue for everyday asks.](https://doi.org/10.1037/apl0001401)
+  - DOI: 10.1037/apl0001401
+  - Authors: Emma L. Frank; Fadel K. Matta; Olympia M. Nakos; Jessica B. Rodell
+  - Published: 2026-08-03
+  - Crossref journal: Journal of Applied Psychology
+
+- [Ethics of care leadership expressions during a high-strength event: A gendered analysis of combative versus constructive policy suggestions during the Israel–Hamas war.](https://doi.org/10.1037/apl0001381)
+  - DOI: 10.1037/apl0001381
+  - Authors: Alexander D. Stajkovic; Kayla S. Stajkovic; Jenny M. Hoobler; Frederick P. Morgeson
+  - Published: 2026-08-03
+  - Crossref journal: Journal of Applied Psychology
+
+### Journal of International Business Studies
+- Field: IB&AREA
+- Articles: 1
+
+- [Cross-border crowdfunding: an attention-based view](https://doi.org/10.1057/s41267-026-00885-4)
+  - DOI: 10.1057/s41267-026-00885-4
+  - Authors: Supradeep Dutta; Yong Li; Christopher Courtney
+  - Published: 2026-08-03
+  - Crossref journal: Journal of International Business Studies
+  - Abstract:
+    Abstract This study develops an attention-based view of cross-border crowdfunding by examining how informational cues in campaign narratives guide backers’ attention and funding decisions. Crowdfunding enables global reach but intensifies competition for limited backer attention. Extending the attention-based view from managerial attention in organizational settings to crowd attention on digital platforms, we conceptualize crowd attention as decentralized and stimulus-driven. We identify two key informational cues as attention stimuli: global narrative (universal relevance) and backer-country focus (localized engagement). We argue that these cues increase support for international campaigns but that their effects depend on campaign characteristics such as cultural orientation and market readiness, which align with different backer motives. We further propose that cultural differences amplify, rather than hinder, backers’ responsiveness to attention stimuli. Using large-scale Kickstarter data, we find support for our arguments and demonstrate how digital narratives shape attention and funding decisions in cross-border exchanges.
+
+### Management Science
+- Field: OR&MANSCI
+- Articles: 2
+
+- [Harvesting Ratings](https://doi.org/10.1287/mnsc.2024.06335)
+  - DOI: 10.1287/mnsc.2024.06335
+  - Authors: Johannes Johnen; Robin Ng
+  - Affiliations: CORE/LIDAM, UCLouvain, 1348 Louvain-la-Neuve, Belgium; Department of Economics and MaCCI, University of Mannheim, 68161 Mannheim, Germany
+  - Published: 2026-08-03
+  - Crossref journal: Management Science
+  - Abstract:
+    Ratings play a crucial role in online marketplaces, shaping consumer decisions and firm strategies. We investigate how firms strategically use pricing to influence ratings, and how this undermines ratings as signals of product quality. We develop a two-period model of price competition between an established firm and a potentially high- or low-quality entrant, capturing the challenge high-quality newcomers face in building reputation. Consumers rate based on value-for-money, but cannot distinguish whether positive ratings result from genuine quality or discounted prices. Low-quality entrants take advantage of this and may offer low prices to harvest good ratings in the future, or mimic high prices to signal high quality. We show that ratings harvesting inflates positive ratings, reducing their informativeness. This exacerbates the cold-start problem and discourages high-quality entry. Our results mirror empirical patterns and generate implications for how rating design affects market outcomes: reducing effort costs to rate induces more but less-informative ratings, and discourages entry. Thus, actions by major marketplaces to encourage ratings could backfire and induce less precise ratings that discourage entry. To mitigate these effects, policymakers can consider balancing rating effort costs to preserve informativeness, discouraging excessive discounts for new sellers, and incorporating price paid into rating displays. Although the effects of individual entrants’ harvesting may appear temporary, harvesting hinders high-quality entrants from building reputation, discouraging entry and causing lasting distortions. This paper was accepted by Maria Guadalupe, business strategy. Funding: This work was supported by Fédération Wallonie-Bruxelles [Grant 19/24-101 PROSEco], Fonds De La Recherche Scientifique - FNRS [Grant FC46885], and Deutsche Forschungsgemeinschaft (CRC TR 224 (Project B05), SSRC-SMU Graduate Research Fellowship). Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2024.06335 .
+
+- [Can Digitalization Improve Public Services? Evidence from Innovation in Energy Management](https://doi.org/10.1287/mnsc.2024.06349)
+  - DOI: 10.1287/mnsc.2024.06349
+  - Authors: Robyn Meeks; Jacquelyn Pless; Zhenxuan Wang
+  - Affiliations: Sanford School of Public Policy, Duke University, Durham, North Carolina 27708; MIT Sloan School of Management, Cambridge, Massachusetts 02142; Department of Agricultural and Resource Economics, North Carolina State University, Raleigh, North Carolina 27607
+  - Published: 2026-08-03
+  - Crossref journal: Management Science
+  - Abstract:
+    Electricity grids form the backbone of modern economies, but the utilities responsible for maintaining them face new energy management challenges associated with both aging infrastructure and climate change. Growing evidence suggests that digital technologies and data-driven decision-making may improve firm performance. However, existing work focuses on the private sector. Organizations providing public services have different incentives and constraints. In this paper, we narrow this gap through a study of the U.S. power sector. We construct a rich utility-level data set and estimate the effects of “smart” meters on electricity losses, a key indicator of system and utility performance. Implementing an augmented staggered difference-in-differences design, we find that electricity losses decrease by 4%–7% following smart meter deployment, on average. Utilities’ annual revenue increases by 1%–2%. We show that the underlying mechanisms relate to changes in energy management. Consumption measurement and billing accuracy improve, as indicated by an increase in sales, giving utilities a clearer understanding of the system to enhance decision-making. Utilities invest in complementary organizational capital that is important for fully realizing the benefits of digitalization, such as hiring “quants.” They also offer new products, like demand response programs, which attenuates the increase in sales but does not drive the reduction in losses. Power outage duration declines, suggesting that utilities use smart meters to improve reliability by restoring service faster after disruptions. Outage frequency remains unchanged. This paper was accepted by Caroline Flammer, sustainability. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06349 .
+
+### Operations Research
+- Field: OR&MANSCI
+- Articles: 1
+
+- [Optimal Design of Default Donations](https://doi.org/10.1287/opre.2024.1300)
+  - DOI: 10.1287/opre.2024.1300
+  - Authors: Francisco Castro; Scott Rodilitz
+  - Affiliations: Anderson School of Management, University of California Los Angeles, Los Angeles, California 90095
+  - Published: 2026-08-03
+  - Crossref journal: Operations Research
+  - Abstract:
+    Optimal Design of Default Donations Many nonprofit organizations rely on suggested donation amounts to incentivize giving, yet there is little consensus on how to set those amounts. In this article, Castro and Rodilitz develop a data-driven framework for designing optimal donation menus that maximize fundraising revenue while accounting for differences in donor preferences and responsiveness to suggestions. The authors show that commonly used heuristics can perform poorly and instead introduce a dynamic-programming algorithm that efficiently identifies revenue-maximizing donation menus. Their analysis also quantifies the value of donor information and demonstrates when personalized suggestions, larger menus, or a single targeted default are most effective. Applying the framework to data from a large fundraising experiment, the authors find that an optimally designed menu could substantially outperform the default amounts tested in practice. The results provide actionable guidance for nonprofits seeking to improve online fundraising through more effective choice architecture.
+
+### Public Administration Review
+- Field: PUB SEC
+- Articles: 1
+
+- [A Race to the Top: The Adoption of Net‐Zero City Pledges in Large US Cities](https://doi.org/10.1111/puar.70165)
+  - DOI: 10.1111/puar.70165
+  - Authors: Mingrui Chen; Zhirong Jerry Zhao
+  - Affiliations: Lab of Inclusive &amp; Smart Governance for Urban‐Rural Integration (LISGURI), School of Public Affairs Zhejiang University Hangzhou Zhejiang Province China
+  - Published: 2026-08-02
+  - Crossref journal: Public Administration Review
+  - Abstract:
+    ABSTRACT Many cities have adopted net‐zero emission pledges, yet little is known about why these commitments emerge or how their determinants shift under changing policy environments. Using a panel of 148 large US cities from 2016 to 2022, this study applies the Political Market Framework and employs discrete‐time event‐history models to examine how policy demand, policy supply and institutional conditions shape adoption decisions. Results show that civic capacity, political ideology, and horizontal diffusion drive adoption in the full period, but their influence varies sharply across institutional contexts. During federal disengagement (2016–2018), cities with less population, strong vulnerability signals, supportive state policies, or fiscal cushioning through federal aid are more likely to adopt. When federal engagement returned (2019–2022), education, population size, and neighbor adoption emerged as significant correlates of net‐zero adoption. These findings extend the Political Market Framework by showing how federal contexts condition the adoption of ambitious climate commitments.
+
+### Strategic Management Journal
+- Field: STRAT
+- Articles: 2
+
+- [Issue Information](https://doi.org/10.1002/smj.70055)
+  - DOI: 10.1002/smj.70055
+  - Published: 2026-08-03
+  - Crossref journal: Strategic Management Journal
+
+- [ESG investing and pollution outsourcing](https://doi.org/10.1002/smj.70115)
+  - DOI: 10.1002/smj.70115
+  - Authors: Shipeng Yan; Fan Zhang; Zhengyu Li
+  - Affiliations: Faculty of Business and Economics The University of Hong Kong China; Bentley University USA; The University of Melbourne Australia
+  - Published: 2026-08-03
+  - Crossref journal: Strategic Management Journal
+  - Abstract:
+    Abstract Research Summary Can environmental, social, and governance (ESG) investors hold businesses accountable for their environmental impact? Extending institutional theory and analyzing a global sample of firms from 2006 to 2019, we argue that, in response to ESG investors' institutional pressures, firms may intensify pollution outsourcing to suppliers as a sophisticated form of corporate decoupling. We further theorize and find suggestive evidence that this effect is less salient and sometimes reversed when ESG investors can help firms access green technologies and when they have more direct purview of firms' suppliers. We employ investor‐level acquisitions as quasi‐exogenous shocks and additionally analyze a separate firm–supplier sample to support the hypotheses with largely consistent results. Managerial Summary Environmental, social, and governance (ESG) investors are increasingly expected to act as private regulators, using ownership stakes to steer companies toward sustainability. Yet, looking only at whether a focal firm cleans up its own operations can be misleading because it ignores what happens in the broader supply chain. Using global firm data from 2006 to 2019, we find that companies under strong ESG investor pressure generate lower direct emissions but may shift pollution to suppliers, leaving the combined emissions unchanged. We also provide suggestive evidence that this outsourcing is reduced and sometimes can become reduced when investors can help firms adopt green technologies and directly oversee supplier practices.
+
+## AJG 4
+
+### Business History
+- Field: BUS HIST & ECON HIST
+- Articles: 1
+
+- [State-led innovation and its limits: The rise and fall of Medresco hearing aids in postwar Britain (1943–1982)](https://doi.org/10.1080/00076791.2026.2707364)
+  - DOI: 10.1080/00076791.2026.2707364
+  - Authors: Neva Bojovic; Dejan Zec; Raghu Garud
+  - Affiliations: Department of Strategy, Entrepreneurship and Sustainability, Kedge Business School; Department of Operations Management and Information Systems, Kedge Business School; Smeal College of Business, Pennsylvania State University
+  - Published: 2026-08-03
+  - Crossref journal: Business History
+
+### International Economic Review
+- Field: ECON
+- Articles: 2
+
+- [The Distributional Effects of Economic Uncertainty*](https://doi.org/10.1111/iere.70096)
+  - DOI: 10.1111/iere.70096
+  - Authors: Florian Huber; Massimiliano Marcellino; Tommaso Tornese
+  - Affiliations: University of Salzburg Salzburg Austria; Bocconi University Milan Italy; Università Cattolica del Sacro Cuore Milan Italy
+  - Published: 2026-08-03
+  - Crossref journal: International Economic Review
+  - Abstract:
+    ABSTRACT We study the distributional implications of uncertainty shocks by developing a model that links macroeconomic aggregates to the US distribution of earnings and consumption. Our findings suggest that the fraction of low‐earning workers decreases initially, while the share of households reporting low consumption increases. At longer horizons, the fraction of low‐income workers increases, but the consumption distribution reverts to its preshock shape. While the first phase reduces income inequality and increases consumption inequality, in the second stage income inequality rises, and the effects on consumption inequality dissipate.
+
+- [Labor Supply and Firm Size](https://doi.org/10.1111/iere.70094)
+  - DOI: 10.1111/iere.70094
+  - Authors: Lin Shao; Faisal Sohail; Emircan Yurdagul
+  - Affiliations: University of North Carolina at Greensboro Greensboro North Carolina USA; University of Melbourne Carlton Australia; Universidad Carlos III de Madrid Getafe Spain; CEPR London UK
+  - Published: 2026-08-03
+  - Crossref journal: International Economic Review
+  - Abstract:
+    ABSTRACT Larger firms feature (i) longer hours worked, (ii) higher wages, and (iii) smaller (larger) wage penalties for working long (short) hours. We reconcile these patterns in a general equilibrium model, which features the endogenous interaction of hours, wages, and firm size. In the model, workers willing to work longer hours sort into larger firms that offer a wage premium. Complementarities in hours generate wage penalties that increase with the distance from the usual hours. We use the model to argue that variation in average hours across firms contributes significantly to wage inequality.
+
+### Journal of Business and Economic Statistics
+- Field: ECON
+- Articles: 1
+
+- [Robust Estimation of Double Autoregressive Models via Normal Mixture QMLE*](https://doi.org/10.1080/07350015.2026.2705382)
+  - DOI: 10.1080/07350015.2026.2705382
+  - Authors: Zhao Chen; Chen Shi; Christina Dan Wang
+  - Affiliations: Professor, School of Data Science, Fudan University; Ph.D. Candidate, School of Data Science, Fudan University; Assistant Professor, Business Division, NYU Shanghai
+  - Published: 2026-08-03
+  - Crossref journal: Journal of Business &amp; Economic Statistics
+
+### Journal of Economic Perspectives
+- Field: ECON
+- Articles: 13
+
+- [US Tariff Policy Since 1789](https://doi.org/10.1257/jep.20251488)
+  - DOI: 10.1257/jep.20251488
+  - Authors: Miguel Acosta; Lydia Cox; Andrew Greenland; John Lopresti; Christopher M. Meissner; Martin Rotemberg; Sharon Traiberman
+  - Affiliations: Miguel Acosta is Assistant Professor of Economics, University of Wisconsin, Madison, Wisconsin. During the 2025–2026 academic year, he was a Visiting Assistant Professor of Economics, Princeton University, Princeton, New Jersey.; Lydia Cox is Assistant Professor of Economics, University of Wisconsin, Madison, Wisconsin. During the 2025–2026 academic year, she was an IES Kenen Fellow, Princeton University, Princeton, New Jersey.; Andrew Greenland is Assistant Professor of Economics, Department of Agriculture and Resource Economics, College of Agriculture and Life Sciences, and Department of Economics, Poole College of Management, North Carolina State University, Raleigh, North Carolina.; John Lopresti is Associate Professor of Economics, William & Mary, Williamsburg, Virginia.; Christopher M. Meissner is Professor of Economics, University of California–Davis, Davis, California.; Martin Rotemberg is Associate Professor of Economics, New York University, New York City, New York.; Sharon Traiberman is Assistant Professor of Economics, New York University, New York City, New York.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    We use a newly assembled, tariff-line-level dataset spanning the full history of US trade policy to revisit the evolution of tariffs since 1789. We document the institutional shift from Congressional setting to multilateral negotiation, the steady growth in granularity of the tariff code alongside expanding administrative capacity, and the under-appreciated role of specific tariffs, which feature prominently throughout US history and whose ad valorem equivalent moves mechanically with prices. We discuss the implications of this relationship for how we interpret past liberalization episodes and for empirical identification of tariff effects. Finally, we outline how the new data can advance research on the political economy of tariff-setting and on the macroeconomic and distributional consequences of trade policy.
+
+- [The Incidence of Tariffs: Rates and Reality](https://doi.org/10.1257/jep.20251486)
+  - DOI: 10.1257/jep.20251486
+  - Authors: Gita Gopinath; Brent Neiman
+  - Affiliations: Gita Gopinath is Professor of Economics, Harvard University, Cambridge, Massachusetts.; Brent Neiman is Professor of Economics, Booth School of Business, University of Chicago, Chicago, Illinois.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    In 2025, statutory tariff rates on US imports rose to levels not seen in over one hundred years. What were the implications for prices? On the one hand, shipping lags, exemptions, and enforcement gaps kept the actual implemented rates at only half of the statutory rates, moderating the tariffs' impact. On the other hand, tariff pass-through to US import prices reached 92 percent, so the United States bore a large share of the costs. We study the incidence of the 2018-2019 and 2025 US tariffs and discuss implications for US sourcing, domestic manufacturing costs, and the dollar.
+
+- [The Emerging Market for Intelligence: How Firms Buy and Sell AI](https://doi.org/10.1257/jep.20261506)
+  - DOI: 10.1257/jep.20261506
+  - Authors: Mert Demirer; Andrey Fradkin; Nadav Tadelis
+  - Affiliations: Mert Demirer is Associate Professor of Economics, MIT Sloan School of Management, Cambridge, Massachusetts.; Andrey Fradkin is Associate Professor of Marketing, Boston University Questrom School of Business, Boston, Massachusetts.; Nadav Tadelis is Senior Economist, Office of the Chief Economist, Microsoft Corporation, Seattle, Washington.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    We describe the emerging business-to-business market for large language model (LLM) inference and document key empirical patterns in its supply, pricing, and dynamics, using data from OpenRouter. First, supply has expanded rapidly: the number of commercially available models, model creators, and inference providers has grown sharply, driven heavily by opensource entrants. Second, the price of intelligence has fallen roughly a thousandfold, and opensource models now cost about 90 percent less than comparable closed-source ones. Third, the market is highly dynamic, with frequent turnover among leading models and creators. Fourth, we document substantial horizontal and vertical differentiation: no single model dominates across use cases, and demand for intelligence varies widely across applications. We place these patterns in historical perspective alongside earlier general-purpose technologies.
+
+- [Stefanie Stantcheva, 2025 Clark Medalist](https://doi.org/10.1257/jep.20251483)
+  - DOI: 10.1257/jep.20251483
+  - Authors: James Poterba; Iván Werning
+  - Affiliations: James Poterba is the Mitsui Professor of Economics, Massachusetts Institute of Technology, and President, National Bureau of Economic Research, both in Cambridge, Massachusetts.; Iván Werning is the Robert M. Solow Professor of Economics, Massachusetts Institute of Technology, Cambridge, Massachusetts.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    The American Economic Association awarded the 2025 John Bates Clark Medal to Stefanie Stantcheva of Harvard University. Her research ranges widely in the field of public economic. It includes theoretical contributions to optimal income taxation, empirical contributions to the study of how income tax rates across countries and states affect the mobility of inventors and the level of innovation, and contributions in the development and execution of on-line surveys to measure respondents' beliefs about economic primitives, such as the distribution of income or the rate of inflation, and the way these beliefs influence policy preferences. She has demonstrated that randomized controlled trials can be embedded within on-line surveys and used to the way informational interventions and other treatments affect economic beliefs and policy preferences.
+
+- [Should We Tax Trade? A Pigouvian Perspective](https://doi.org/10.1257/jep.20251491)
+  - DOI: 10.1257/jep.20251491
+  - Authors: Arnaud Costinot; Iván Werning
+  - Affiliations: Arnaud Costinot is Professor of Economics, Massachusetts Institute of Technology, Cambridge, Massachusetts.; Iván Werning is Professor of Economics, Massachusetts Institute of Technology, Cambridge, Massachusetts.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    We develop a simple and intuitive Pigouvian perspective on optimal trade policy. Our approach unifies a wide range of rationales for taxing trade, from the classical optimal tariff argument to contemporary debates about global carbon emissions and geopolitics. We also clarify when trade policy intervention is warranted and when alternative domestic instruments should be used instead.
+
+- [Recommendations for Further Reading](https://doi.org/10.1257/jep.20261510)
+  - DOI: 10.1257/jep.20261510
+  - Authors: Timothy Taylor
+  - Affiliations: Timothy Taylor is Managing Editor, Journal of Economic Perspectives, based at Macalester College, Saint Paul, Minnesota.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+
+- [Leniency Designs: An Operator's Manual](https://doi.org/10.1257/jep.20251480)
+  - DOI: 10.1257/jep.20251480
+  - Authors: Paul Goldsmith-Pinkham; Peter Hull; Michal Kolesár
+  - Affiliations: Paul Goldsmith-Pinkham is Associate Professor of Finance, Yale School of Management, New Haven, Connecticut.; Peter Hull is Professor of Economics, Brown University, Providence, Rhode Island.; Michal Kolesár is Professor of Economics, Princeton University, Princeton, New Jersey.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    We develop a step-by-step guide to leniency (a.k.a. judge or examiner instrument) designs, drawing on recent econometric literatures. The unbiased jackknife instrumental variables estimator (UJIVE) is purpose-built for leveraging exogenous leniency variation, avoiding subtle biases even in the presence of many decision-makers or controls. We show how UJIVE can also be used to assess key assumptions underlying leniency designs, including quasi-random assignment and average first-stage monotonicity, and to probe the external validity of treatment effect estimates. We further discuss statistical inference, arguing that non-clustered standard errors are often appropriate. A reanalysis of Farre-Mensa et al. (2020), using quasi-random examiner assignment to estimate the value of patents to startups, illustrates our checklist.
+
+- [Labor Market Responses to Tariffs: Frictions, Dynamics, and Policy Responses](https://doi.org/10.1257/jep.20251489)
+  - DOI: 10.1257/jep.20251489
+  - Authors: Rafael Dix-Carneiro; Brian K. Kovak
+  - Affiliations: Rafael Dix-Carneiro is Professor of Economics, Duke University, Durham, North Carolina; also a Research Associate, Bureau for Research and Economic Analysis of Development (BREAD), Princeton, New Jersey.; Brian K. Kovak is Professor of Economics and Public Policy, Heinz College of Information Systems and Public Policy, Carnegie Mellon University, Pittsburgh, Pennsylvania.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    This article introduces the evidence and associated modeling frameworks contemporary economists use to understand the effects of trade and trade policy on labor markets, with a particular emphasis on labor-market frictions and adjustment dynamics. The effects of trade shocks differ across industries, regions, and occupations, implying the presence of important adjustment frictions in labor markets, and these effects evolve slowly over time, implying the need for dynamic frameworks rationalizing slow transitions. After reviewing the key insights from this literature, we discuss policies aimed at mitigating costs to workers and ensuring that the gains from trade are shared more equitably.
+
+- [Global Imbalances, Tariffs, and Industrial Policy](https://doi.org/10.1257/jep.20261507)
+  - DOI: 10.1257/jep.20261507
+  - Authors: Pierre-Olivier Gourinchas; Gene Kindberg-Hanlon; Manasa Patnam; Lorenzo Rotunno; Michele Ruta
+  - Affiliations: Pierre-Olivier Gourinchas is Economic Counsellor and Director of Research at the IMF (International Monetary Fund, Washington DC), and S.K. and Angela Chan Professor of Global Management, Department of Economics and Haas School of Business, University of California, Berkeley.; Gene Kindberg-Hanlon is Senior Economist at the IMF.; Manasa Patnam is Deputy Division Chief at the IMF.; Lorenzo Rotunno is Senior Economist at the IMF, and Professor of Economics at Aix-Marseille University.; Michele Ruta is Division Chief at the IMF.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    Global imbalances denote the distribution of countries' current account balances, identically equal to the difference between two forward-looking aggregate variables: national saving and domestic investment. Industrial and trade policies have traditionally not been considered important drivers of aggregate saving or investment, and therefore of current account balances. The former because most industrial policies are small in scope; the latter because permanent tariffs have no intertemporal effect in the textbook model, with an offsetting appreciation of the real exchange rate. The rapidly growing use of both industrial and trade policies in recent years calls for a reassessment. This paper presents a framework to think about the role of both policies. For industrial policy, we make the important distinction between the traditional sector-specific policies via subsidies or other targeted instruments (“micro industrial policy”) and broader policies (“macro industrial policy”) that aim to promote industrial developments and competitiveness through the deployment of more aggregate instruments such as financial repression, foreign reserve accumulation, or capital controls. A key finding is that micro industrial policy tends to increase external balances if it fails to raise aggregate productivity. By contrast, macro industrial policy can, under some conditions, boost the current account, forcing other countries to adjust. Yet, these policies often come at the cost of suppressed domestic consumption and possibly domestic welfare. Our analysis confirms that tariffs are a weak tool to improve current account balances. Finally, traditional macroeconomic drivers—such as fiscal policy, demographics or credit cycles—remain critical drivers of global imbalances, especially for the United States and China.
+
+- [Front Matter](https://doi.org/10.1257/jep.40.3.1)
+  - DOI: 10.1257/jep.40.3.1
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+
+- [Evaluating the Fiscal and Distributional Implications of Tariffs](https://doi.org/10.1257/jep.20251490)
+  - DOI: 10.1257/jep.20251490
+  - Authors: Kyle Pomerleau; Erica York
+  - Affiliations: Kyle Pomerleau is a Senior Fellow, American Enterprise Institute, Washington, DC.; Erica York is Vice President of Federal Policy, Tax Foundation, Washington, DC.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    The Trump administration has enacted a series of significant taxes on imports, including an across-the-board tariff on nearly all imports. Tariffs are now expected to raise nearly 1 percent of GDP in revenue. Given tariffs' growing importance as a source of revenue, it is important to understand their implications for federal finances and the wellbeing of households. This paper describes and reviews current revenue and distributional analyses of tariffs.
+
+- [Correct (and Incorrect) Inference with a Single Instrumental Variable: Practical Takeaways from the Weak Instruments Literature](https://doi.org/10.1257/jep.20251464)
+  - DOI: 10.1257/jep.20251464
+  - Authors: David S. Lee; Jack Porter
+  - Affiliations: David S. Lee is the Chemical Bank Chairman's Professor of Economics and Public Affairs, Princeton University, Princeton, New Jersey; also a Research Associate, National Bureau of Economic Research, Cambridge, Massachusetts.; Jack Porter is Richard E. Stockwell Distinguished Chair and Professor of Economics, University of Wisconsin, Madison, Wisconsin.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    Most empirical economists have encountered the warning that instrumental variables can be “weak,” but the underlying issues—what makes an instrument weak, why weakness distorts inference, and what to do about it—are less widely understood. This article offers an accessible introduction to the weak instruments problem for the common just-identified case of a single endogenous regressor and a single instrument. We explain why the usual two-stage least squares t-ratio and its “±1.96 times the standard error” confidence interval can yield incorrect inferences, much as homoskedasticity-only standard errors do when errors are not homoskedastic. We then describe practical, robust-to-weak-instrument solutions—including the Anderson-Rubin and tF methods—that deliver valid confidence intervals whatever the instrument's true strength, and we offer some do's and don'ts, notably why the popular “F greater than 10” rule has no theoretical justification in this setting.
+
+- [AI and Our Economic Future](https://doi.org/10.1257/jep.20261505)
+  - DOI: 10.1257/jep.20261505
+  - Authors: Charles I. Jones
+  - Affiliations: Charles I. Jones is the Stanco25 Professor of Economics, Stanford Graduate School of Business, Stanford, California; also a Research Associate, National Bureau of Economic Research, Cambridge, Massachusetts.
+  - Published: 2026-08-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    Artificial intelligence (AI) will likely be the most transformative technology of the modern era. What if machines—AI for cognitive tasks and AI plus advanced robots for physical tasks—can perform every task a human can? This essay makes three main points. First, even though US growth rates have been stable at roughly 2 percent per year for 150 years, it is distinctly possible that automating intelligence leads economic growth rates to accelerate. Second, this acceleration is likely to be slowed by the presence of “weak links.” While we each have access to 100 million times more transistors on our desktop computer than people in the 1970s, we are not 100 million times more productive. Computers can invert matrices at lightning speed, but we humans must still decide what matrix to invert, what hypothesis to test, and so on. Accelerating economic growth requires the vast majority of the weak links to be automated away, which delays the large gains. Finally, even though weak links slow the benefits, they may actually speed up the risks. When a chain is only as strong as its weakest link, damaging one link in the chain can be very costly. A powerful AI that is superhuman at software engineering could be misused by a bad actor to do substantial harm by hacking the financial system or a virology lab.
+
+### Journal of Product Innovation Management
+- Field: INNOV
+- Articles: 2
+
+- [Product Introduction Events and Stock Returns: A Meta‐Analysis](https://doi.org/10.1111/jpim.70056)
+  - DOI: 10.1111/jpim.70056
+  - Authors: Niklas Grube; Erik Maier; Tammo Bijmolt
+  - Affiliations: HHL Leipzig Graduate School of Management Leipzig Germany; Chemnitz University of Technology Chemnitz Germany; Faculty of Economics &amp; Business University of Groningen Groningen the Netherlands
+  - Published: 2026-08-03
+  - Crossref journal: Journal of Product Innovation Management
+  - Abstract:
+    ABSTRACT Academic Summary Product introduction events are frequent across industries, countries, and other contexts and part of the innovation strategy of many companies. However, the future performance of new products is uncertain, posing significant risks for firms and investors and leading to heterogeneous stock market responses. Identifying the generalized average effect of product introductions on firm performance and the drivers that may lower or enhance this stock market response remains imperative. This meta‐analysis synthesizes 1089 effects across 71 studies, quantifying the cumulative abnormal returns of the stock market in response to product introduction events. On average, product introduction events result in positive cumulative abnormal returns (CAR = 0.70%) but show substantial heterogeneity. However, the effect is strongly influenced by the type of event (i.e., externally‐generated announcements with a 2.60%‐points higher CAR than firm‐generated announcements) and a firm's industry (i.e., CARs are 1.90 [1.90, 1.67, 2.08] %‐points lower for durables [financial services, hospitality, pharmaceuticals] compared to consumer packaged goods). Further, temporal CAR patterns indicate that anticipatory effects (e.g., from information leakage) dominate the stock market response, with higher abnormal returns arising before (vs. after) the event. However, this temporal effect pattern reverses for externally‐generated announcements, indicating weaker anticipatory effects and a stronger information shock at the event. Finally, compared to physical goods, CARs for services are higher in countries with a higher percentage of services of gross domestic product. Managerial Summary Product introduction events happen frequently across industries, countries, and other contexts. This research shows through a quantitative assessment of 71 studies that product introduction events create value for firms, generating an average positive stock market response of about 0.70%. But the stock market response to product introduction events varies considerably across event types, event timing, industries, and countries. The strongest driver of investor response is the source of the announcement. Product introductions communicated by independent third parties, such as regulatory agencies, generate substantially higher market reactions than firm‐generated announcements. The analysis further shows that markets often react before official announcements, likely due to information leakage and anticipation. Product introductions in consumer packaged goods tend to generate stronger stock market responses than those in other sectors. Finally, the market of the stock market matters: while a higher share of services of the GDP is generally associated with lower CARs, this effect is alleviated for new service introductions. Managers should therefore pay close attention to when, where and through whom they are communicating product introductions.
+
+- [Do Tech‐Based New Ventures Founded During Major Economic Crises Generate Different                     <scp>R&amp;D</scp>                     Outputs?](https://doi.org/10.1111/jpim.70054)
+  - DOI: 10.1111/jpim.70054
+  - Authors: Philip Haeberle; Jannis von Nitzsch; Victoria Willcke‐Berg; Andreas Engelen
+  - Affiliations: Department for Management Heinrich‐Heine‐University Düsseldorf Düsseldorf Germany
+  - Published: 2026-08-03
+  - Crossref journal: Journal of Product Innovation Management
+  - Abstract:
+    ABSTRACT Tech‐based ventures—regardless of external circumstances—must allocate resources to research and development (R&D) activities to satisfy their raison d'être and establish their market positioning. When founded during economic crises, these ventures encounter distinctive opportunities but also face resource scarcity, both of which significantly affect founders' resource orchestration. Our empirical analysis compares the R&D outputs of tech‐based ventures founded during the Global Financial Crisis in 2008/2009 with a closely matched control group of tech‐based ventures established during periods of economic stability a few years later. We find that, compared to those founded during stable periods, crisis ventures produce fewer but higher‐quality R&D outputs, as reflected, for example, in around 47% fewer granted patents but 212% more breakthrough inventions. Additional analyses show that a crisis at foundation, on average, reduces these ventures' share of R&D positions in operational roles by 17.4% and leads to 24.8% fewer issued products, consistent with our theorizing that the resource‐scarce environment at foundation makes ventures rely more on founders as the primary inventors and apply a more focused approach to R&D. We also show that venture capital (VC) support prompts crisis ventures to adapt their resource orchestration during an “entrepreneurial leap,” ultimately enabling them to increase R&D outputs, mostly without sacrificing quality.
+
+### Journal of the American Statistical Association
+- Field: ECON
+- Articles: 2
+
+- [Metropolis–Hastings with Scalable Subsampling](https://doi.org/10.1080/01621459.2026.2710382)
+  - DOI: 10.1080/01621459.2026.2710382
+  - Authors: Estevão Prado; Christopher Nemeth; Chris Sherlock
+  - Affiliations: School of Mathematical Sciences, Lancaster University
+  - Published: 2026-08-03
+  - Crossref journal: Journal of the American Statistical Association
+
+- [BAP: Bayesian Biomarker-Assisted Platform Design for Dose Ranging in Multi-Agent Multi-Dose Trials](https://doi.org/10.1080/01621459.2026.2708370)
+  - DOI: 10.1080/01621459.2026.2708370
+  - Authors: Li Wang; Yujie Zhao; Ying Yuan; Peter F. Thall; Ruitao Lin
+  - Affiliations: AbbVie Inc; Department of Biostatistics, The University of Texas MD Anderson Cancer Center
+  - Published: 2026-08-03
+  - Crossref journal: Journal of the American Statistical Association
+
+### Journal of the European Economic Association
+- Field: ECON
+- Articles: 1
+
+- [How Do Households Respond to Expected Inflation? An Investigation of Transmission Mechanisms,](https://doi.org/10.1093/jeea/jvag050)
+  - DOI: 10.1093/jeea/jvag050
+  - Authors: Janet Hua Jiang; Rupal Kamdar; Kelin Lu; Daniela Puzzello
+  - Affiliations: Bank of Canada ,; Indiana University , Bloomington ,; Huazhong University of Science and Technology ,
+  - Published: 2026-08-03
+  - Crossref journal: Journal of the European Economic Association
+  - Abstract:
+    Abstract We investigate the channels through which inflation expectations affect household spending by conducting surveys featuring hypothetical scenarios involving an increase in inflation expectations. Most households did not adjust their current spending plans, often because they perceived inflation expectations as irrelevant or adhered to a fixed budget. Among those who did adjust, most decreased their spending, primarily due to wealth effects. Few households increased spending as prescribed by the traditional intertemporal substitution channel. We also document that financial conditions, cognitive ability, and subjective mental models—such as stagflationary expectations—help predict spending responses and the mechanisms households cite. Our findings provide insights into the discussion of using inflation expectations as a policy tool and highlight key frictions to incorporate into theoretical models.
+
+### Production and Operations Management
+- Field: OPS&TECH
+- Articles: 2
+
+- [EXPRESS: Tariffs and Supply Chain Diversification under Scale Economies](https://doi.org/10.1177/10591478261476775)
+  - DOI: 10.1177/10591478261476775
+  - Authors: Li Chen; Hau L. Lee; Shiqing Yao
+  - Published: 2026-08-03
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    The recent elimination of the United States de minimis exemption for import tariffs has been reported to have a significant impact on ultra-fresh fashion companies such as Shein and Temu. This paper develops a game-theoretic model to investigate the impact of such tariffs. Specifically, we consider a model for a global ultra-fresh fashion supply chain with economies of scale under tariff hikes. Our model analysis reveals the following main insights. First, the ultra-fresh fashion firm would price in such a way to pass the entire import tariff onto customers in the tariff-imposing market, and tariff hikes in one market would reduce the firm's product launch frequency and total product variety in all markets due to the supply chain scale economy effect. As a result, tariff hikes reduce the firm's profit, with the loss amplified under greater supply chain scale economies. However, a higher demand from outside the tariff-imposing market helps soften the blow from tariff hikes, signifying the importance of the demand-side market diversification (a strategy termed as the “US Plus One” in this paper). Moreover, we find that the firm would relocate its production for the tariff-imposing market if and only if the tariff rate exceeds a certain threshold, with supply chain scale economies serving as an “efficiency barrier” to counter-balance the supply-side production diversification. We also find numerically that the demand-side market diversification strategy can serve as a potential substitute for the supply-side production diversification strategy. Implications of tariff hikes for consumer surplus and the environment are further examined along with production relocation. Finally, we offer a general discussion regarding market competition and other relevant modeling considerations.
+
+- [Beyond the pulse: Racial disparities in pulse oximetry readings and the influence on intensive care unit readmission rates](https://doi.org/10.1177/10591478261474395)
+  - DOI: 10.1177/10591478261474395
+  - Authors: He Zhang; Gaurav Jetley
+  - Affiliations: College of Business Administration, California State Polytechnic University, Pomona; College of Business
+  - Published: 2026-08-03
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Racial bias in pulse oximetry—a critical noninvasive diagnostic tool that estimates blood oxygen levels using light absorption—has been shown to systematically overestimate oxygen saturation in Black patients, potentially delaying the detection and treatment of hypoxemia. While prior work has focused narrowly on mortality within selected clinical populations or on immediate testing and treatment disparities in emergency department settings, this study investigates how pulse oximetry bias affects a broader and more representative intensive care unit (ICU) cohort, emphasizing highly consequential operational outcomes: supplemental oxygen delivery, within-hospitalization ICU readmission, and remaining hospital length of stay. Using patient-level data from the MIMIC-IV database, we apply a moderated mediation framework to trace the causal pathway from race to treatment to operational failure. We find that under peripheral oxygen saturation-only monitoring, Black patients are 5.2 percentage points less likely than White patients to receive supplemental oxygen. This undertreatment significantly increases the probability of an unplanned ICU readmission, with oxygen delivery reducing readmission risk by 4.8 percentage points, a 37% relative reduction. Furthermore, a separate operational load analysis using ordinary least squares regression indicates that such ICU bounce-backs are associated with an 86% increase in remaining hospital length of stay, pointing to a substantial downstream capacity penalty. To evaluate the mitigating effect of more accurate diagnostic information, we leverage arterial oxygen saturation (SaO 2 ) measurements as a quasi-intervention. We find that the racial disparity in oxygen therapy is substantially attenuated and becomes statistically indistinguishable from zero when SaO 2 readings are available, consistent with mitigation of the bias-treatment-outcome cascade. Our findings reveal how diagnostic inaccuracy is an upstream process defect that propagates through clinical decision-making, reinforcing structural disparities and degrading system performance. We contribute to healthcare operations management by modeling technological bias as a driver of costly clinical rework and demonstrating that targeted process changes—such as confirmatory SaO 2 testing—can improve healthcare equity and hospital efficiency.
+
+### Risk Analysis
+- Field: SOC SCI
+- Articles: 3
+
+- [Minimizing Societal Cost of Epidemics: Optimal Catastrophe Insurance Compensation Allocation](https://doi.org/10.1111/risa.70300)
+  - DOI: 10.1111/risa.70300
+  - Authors: Wentao Hu; Ze Chen; Yufeng Shi; Wei Ma
+  - Affiliations: School of Finance Renmin University of China Beijing China; Institute for Financial Studies Shandong University Jinan China; School of Public Health, Cheeloo College of Medicine Shandong University Jinan China
+  - Published: 2026-08-03
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT This study investigates optimal strategies for allocating catastrophe insurance compensation to contain infectious disease outbreaks. We extend a classic SIR model by allowing insurance payouts to fund quarantine of infected individuals, thereby slowing transmission dynamics. We derive the basic reproduction number and analyze the existence and stability of both disease‐free and endemic equilibria. A key innovation is the linkage of real‐time with the allocation of compensation funds. We obtain a closed‐form expression for the optimal usage strategy that minimizes the real‐time during an epidemic. Our results show that compensation should be prioritized toward subpopulations with high transmission potential or high prevalence, and toward those that can be quarantined cost‐effectively. Moreover, enhancing the quarantine efficiency of compensation significantly strengthens epidemic control. The optimal strategy reduces real‐time , which in turn limits outbreak damage, lowers insurance claims, and thereby cuts premiums, ultimately minimizing the total societal cost of epidemic mitigation. This framework offers actionable insights for policymakers and advances the literature at the intersection of epidemic management and catastrophe insurance.
+
+- [From Forecast to Action: Public Employees’ Emergency Management Decision‐Making Under Probabilistic Weather Information](https://doi.org/10.1111/risa.70328)
+  - DOI: 10.1111/risa.70328
+  - Authors: Xue Lin; Jungwon Yeo
+  - Affiliations: Department of Emergency Management, School of Government Nanjing University Nanjing China; Department of Emergency and Disaster Health Systems University of Maryland, Baltimore County Baltimore Maryland USA
+  - Published: 2026-08-03
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Disaster emergency management practice has long relied on deterministic warnings, yet how public employees respond to probabilistic forecasts for high‐impact weather remains understudied. This study assesses how communicating low‐probability high‐impact (LPHI) weather information compared to high‐probability low‐impact (HPLI) warnings influence public employees’ response measures. Findings from two internally controlled experiments with the general public ( n = 324) and public employees ( n = 122) reveal that LPHI weather information (e.g., 30% or 10%–30% probability of a red‐level event) elicit significantly stronger immediate intentions and greater tolerance to null events than HPLI warnings (e.g., 100% yellow‐level warnings). These effects were robust among public employees but differed for the general public, highlighting the role of institutional context such as hierarchical accountability and asymmetric error costs (unprepared disasters penalized more than overreactions). However, the communication strategy did not significantly affect perceived trustworthiness of meteorological authorities. The research shows that communicating probabilistic, high‐impact weather information from ensemble forecasts can enhance operational vigilance and resilience in emergency management. Practical implications for disaster risk communication in early warnings are discussed for the integration of early warning and emergency response.
+
+- [Coastal Flood Risk Governance in Newfoundland, Canada: A Multidimensional Analysis of Assessment, Management, and Communication](https://doi.org/10.1111/risa.70327)
+  - DOI: 10.1111/risa.70327
+  - Authors: Md. Rana Parvez; Sumi Akter
+  - Affiliations: Environmental Policy Institute (EPI), Grenfell Campus Memorial University of Newfoundland Corner Brook Canada; Department of Criminology and Police Science Mawlana Bhashani Science and Technology University Tangail Bangladesh
+  - Published: 2026-08-03
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Coastal communities in Newfoundland, Canada, face significant and escalating flood risks due to heavy precipitation, coastal storms, and climate change impacts, positioning the region as highly vulnerable despite existing mitigation efforts. This article provides a comprehensive analysis of coastal flood risk governance in Newfoundland, drawing upon a qualitative review of secondary literature, including academic studies, government reports, and policy documents. The analysis is structured around five crucial components of risk governance: interdisciplinary risk estimation (encompassing risk assessment and concern assessment), risk characterization and evaluation, risk management (including monitoring, prevention, protection, preparedness, and mitigation), and risk communication. Findings reveal that although Newfoundland employs various tools for hazard identification (e.g., LiDAR, hydrological models) and vulnerability assessment, challenges persist in data resolution, equitable resource distribution, and consistent public engagement. Effective risk management integrates structural and nonstructural measures, emphasizing continuous monitoring and adaptive planning. Furthermore, robust risk communication strategies, involving scientific experts and credible information sources, are vital for fostering public awareness and shared responsibilities. The study concludes that an integrated, adaptive, and collaborative governance framework that prioritizes equity and community resilience represents a theoretically grounded and conceptually promising pathway to mitigate future flood risks and enhance the well‐being of Newfoundland's coastal populations, though empirical validation of this proposition through primary research remains a necessary next step.
+
+### Scientometrics
+- Field: INNOV
+- Articles: 2
+
+- [Different views of international scientific mobility and collaboration. The case of three peripheral countries in South America: Peru, Colombia and Venezuela](https://doi.org/10.1007/s11192-026-05752-5)
+  - DOI: 10.1007/s11192-026-05752-5
+  - Authors: Iván Manuel De la Vega Hernández; José Miguel Zegarra Gamarra
+  - Published: 2026-08-04
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract This study examined different facets of scientific mobility, including local, regional and global mobility, as well as international cooperation through an analysis of co-authorship among researchers publishing in the Scopus database. The study focuses on three selected South American countries, Peru, Colombia and Venezuela, for the period between 2000 and 2022. The analysis is based on the use of metadata available in the Scopus database for the period 2000 to 2022, the affiliation of the authors of each identified paper was used to analyze scientific mobility flows and also international collaboration, in order to determine the dynamics of internal and international mobility and its impact on peripheral South American countries. This process was analyzed for Peru, Colombia and Venezuela, the main destinations of each country were geolocated and recognizable patterns were established for each of them in the period studied. The analysis indicates that concepts such as brain drain or brain gain, depending on the specific case and historical moment, are more appropriate than brain circulation (scientific mobility), which is applied to the central countries.
+
+- [Bag-of-words or embedding-based topic models? Comparing LDA, BERTopic, and six other methods](https://doi.org/10.1007/s11192-026-05745-4)
+  - DOI: 10.1007/s11192-026-05745-4
+  - Authors: Jean-Charles Lamirel; Francis Lareau; Thibault Prouteau; Christophe Malaterre
+  - Published: 2026-08-03
+  - Crossref journal: Scientometrics

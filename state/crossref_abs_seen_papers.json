@@ -7734,12 +7734,292 @@
       "abs_journal_title": "British Journal of Management",
       "published_date": "2026-08-02",
       "first_seen": "2026-08-03T09:58:19.166557+00:00"
+    },
+    "10.1177/00018392261461607": {
+      "title": "Publications Received",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-08-04",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1177/00018392261461606": {
+      "title": "From the Editor",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-08-04",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1007/s11192-026-05752-5": {
+      "title": "Different views of international scientific mobility and collaboration. The case of three peripheral countries in South America: Peru, Colombia and Venezuela",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-04",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1002/smj.70055": {
+      "title": "Issue Information",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1002/smj.70115": {
+      "title": "ESG investing and pollution outsourcing",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1287/opre.2024.1300": {
+      "title": "Optimal Design of Default Donations",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1287/mnsc.2024.06335": {
+      "title": "Harvesting Ratings",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1287/mnsc.2024.06349": {
+      "title": "Can Digitalization Improve Public Services? Evidence from Innovation in Energy Management",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1057/s41267-026-00885-4": {
+      "title": "Cross-border crowdfunding: an attention-based view",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1037/apl0001401": {
+      "title": "How the boss’s “right hand” becomes the group’s “go-to”: Leader–member exchange as a heuristic cue for everyday asks.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1037/apl0001381": {
+      "title": "Ethics of care leadership expressions during a high-strength event: A gendered analysis of combative versus constructive policy suggestions during the Israel–Hamas war.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1007/s11192-026-05745-4": {
+      "title": "Bag-of-words or embedding-based topic models? Comparing LDA, BERTopic, and six other methods",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1111/risa.70300": {
+      "title": "Minimizing Societal Cost of Epidemics: Optimal Catastrophe Insurance Compensation Allocation",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1111/risa.70328": {
+      "title": "From Forecast to Action: Public Employees’ Emergency Management Decision‐Making Under Probabilistic Weather Information",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1111/risa.70327": {
+      "title": "Coastal Flood Risk Governance in Newfoundland, Canada: A Multidimensional Analysis of Assessment, Management, and Communication",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1177/10591478261476775": {
+      "title": "EXPRESS: Tariffs and Supply Chain Diversification under Scale Economies",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1177/10591478261474395": {
+      "title": "Beyond the pulse: Racial disparities in pulse oximetry readings and the influence on intensive care unit readmission rates",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1093/jeea/jvag050": {
+      "title": "How Do Households Respond to Expected Inflation? An Investigation of Transmission Mechanisms,",
+      "journal": "Journal of the European Economic Association",
+      "abs_journal_title": "Journal of the European Economic Association",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1080/01621459.2026.2710382": {
+      "title": "Metropolis–Hastings with Scalable Subsampling",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1080/01621459.2026.2708370": {
+      "title": "BAP: Bayesian Biomarker-Assisted Platform Design for Dose Ranging in Multi-Agent Multi-Dose Trials",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1111/jpim.70056": {
+      "title": "Product Introduction Events and Stock Returns: A Meta‐Analysis",
+      "journal": "Journal of Product Innovation Management",
+      "abs_journal_title": "Journal of Product Innovation Management",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1111/jpim.70054": {
+      "title": "Do Tech‐Based New Ventures Founded During Major Economic Crises Generate Different\n                    <scp>R&amp;D</scp>\n                    Outputs?",
+      "journal": "Journal of Product Innovation Management",
+      "abs_journal_title": "Journal of Product Innovation Management",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1080/07350015.2026.2705382": {
+      "title": "Robust Estimation of Double Autoregressive Models via Normal Mixture QMLE*",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "abs_journal_title": "Journal of Business and Economic Statistics",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1111/iere.70096": {
+      "title": "The Distributional Effects of Economic Uncertainty*",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1111/iere.70094": {
+      "title": "Labor Supply and Firm Size",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1080/00076791.2026.2707364": {
+      "title": "State-led innovation and its limits: The rise and fall of Medresco hearing aids in postwar Britain (1943–1982)",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1111/puar.70165": {
+      "title": "A Race to the Top: The Adoption of Net‐Zero City Pledges in Large US Cities",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-08-02",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20251488": {
+      "title": "US Tariff Policy Since 1789",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20251486": {
+      "title": "The Incidence of Tariffs: Rates and Reality",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20261506": {
+      "title": "The Emerging Market for Intelligence: How Firms Buy and Sell AI",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20251483": {
+      "title": "Stefanie Stantcheva, 2025 Clark Medalist",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20251491": {
+      "title": "Should We Tax Trade? A Pigouvian Perspective",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20261510": {
+      "title": "Recommendations for Further Reading",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20251480": {
+      "title": "Leniency Designs: An Operator's Manual",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20251489": {
+      "title": "Labor Market Responses to Tariffs: Frictions, Dynamics, and Policy Responses",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20261507": {
+      "title": "Global Imbalances, Tariffs, and Industrial Policy",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.40.3.1": {
+      "title": "Front Matter",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20251490": {
+      "title": "Evaluating the Fiscal and Distributional Implications of Tariffs",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20251464": {
+      "title": "Correct (and Incorrect) Inference with a Single Instrumental Variable: Practical Takeaways from the Weak Instruments Literature",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
+    },
+    "10.1257/jep.20261505": {
+      "title": "AI and Our Economic Future",
+      "journal": "Journal of Economic Perspectives",
+      "abs_journal_title": "Journal of Economic Perspectives",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-04T08:49:25.739404+00:00"
     }
   },
-  "last_run": "2026-08-03T09:58:19.166557+00:00",
+  "last_run": "2026-08-04T08:49:25.739404+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-08-02",
-    "end_date": "2026-08-03"
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-04"
   }
 }
