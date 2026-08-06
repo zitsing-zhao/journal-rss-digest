@@ -8301,12 +8301,159 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-08-04",
       "first_seen": "2026-08-05T08:47:12.999800+00:00"
+    },
+    "10.1007/s11192-026-05764-1": {
+      "title": "CiteFuncRanker: an LLM-based pairwise ranking framework for multi-functional citation analysis",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-06",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1111/padm.70076": {
+      "title": "Institutional Pressures or Organizational Capacity? Antecedents of Digital Maturity in Local Governments",
+      "journal": "Public Administration",
+      "abs_journal_title": "Public Administration",
+      "published_date": "2026-08-06",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1108/ijopm-08-2025-0743": {
+      "title": "Addressing economic efficiency–sustainability tensions in public procurement decision-making: unpacking the role of decision framings",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-08-06",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1287/mnsc.2024.05724": {
+      "title": "Targeted Priority Mechanisms in Transplantation: Incentivizing, Not Enforcing, Efficient Matching of Organs",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1287/mnsc.2025.01277": {
+      "title": "Beating Expectations: Turning Polarized Beliefs into Support for Sustainable Initiatives",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1057/s41267-026-00893-4": {
+      "title": "The green frontier: circular economy and firm resilience in multinational enterprises and internationally engaged firms",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1287/isre.2024.1200": {
+      "title": "Seeing Less, Engaging More: Rethinking Early User Experience on GenAI Co-Creation Platforms–Findings from a Field Experiment",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1287/isre.2025.1821": {
+      "title": "Profitability of Open-Source Software Product Development",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1177/00018392261476012": {
+      "title": "Book Review: Tony Cheng. The Policing Machine: Enforcement, Endorsements, and the Illusion of Public Input ChengTony. The Policing Machine: Enforcement, Endorsements, and the Illusion of Public Input. University of Chicago Press, 2024. 240 pp.",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1111/risa.70322": {
+      "title": "Age‐Specific Monte Carlo Simulation‐Based Microbial Risk Assessment of Drinking Water Contamination in Islamabad: Integrating Hydrochemical Analysis",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1080/01621459.2026.2704888": {
+      "title": "Enhancing Spectral Embedding through Robust and Flexible Knowledge Transfer in Electronic Health Records",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1111/jpim.70055": {
+      "title": "Legitimacy Mechanisms for the Diffusion of Reverse Innovation",
+      "journal": "Journal of Product Innovation Management",
+      "abs_journal_title": "Journal of Product Innovation Management",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1002/job.70115": {
+      "title": "Are All “Good” Employees Susceptible to Moral Biases? Exceptional (Versus Intermediate) Moral Character Shapes Resilience to Daily “DIAMONDS” Situations That Trigger Moral Disengagement",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1111/joms.70079": {
+      "title": "Issue Information",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1111/joms.70080": {
+      "title": "Issue Information",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1111/irel.70035": {
+      "title": "Legitimacy and Employment Relations Research: A Review and Research Agenda",
+      "journal": "Industrial Relations: A Journal of Economy and Society",
+      "abs_journal_title": "Industrial Relations",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1017/s0266466626100498": {
+      "title": "MINIMAX REGRET TREATMENT RULES WITH FINITE SAMPLES WHEN A QUANTILE IS THE OBJECT OF INTEREST",
+      "journal": "Econometric Theory",
+      "abs_journal_title": "Econometric Theory",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1017/s0266466626100589": {
+      "title": "IDENTIFICATION AND ESTIMATION OF A NONPARAMETRIC TIME-VARYING PANEL DATA MODEL WITH COMPLETELY MISSING REGRESSORS IN SOME PERIODS",
+      "journal": "Econometric Theory",
+      "abs_journal_title": "Econometric Theory",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1080/00076791.2026.2706878": {
+      "title": "The Economic History of Singapore",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1080/00076791.2026.2712413": {
+      "title": "Apple in China: The capture of the world’s greatest company",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-08-05",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
+    },
+    "10.1287/mnsc.2026.eb.v72n8": {
+      "title": "Editorial Board",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-06T08:47:45.216431+00:00"
     }
   },
-  "last_run": "2026-08-05T08:47:12.999800+00:00",
+  "last_run": "2026-08-06T08:47:45.216431+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-08-04",
-    "end_date": "2026-08-05"
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-06"
   }
 }

@@ -1,0 +1,235 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-08-06
+
+Generated at: 2026-08-06 08:47 UTC
+Crossref date mode: `created`
+Window: `2026-08-05` to `2026-08-06`
+New papers: 21
+
+## AJG 4*
+
+### Administrative Science Quarterly
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [Book Review: Tony Cheng. The Policing Machine: Enforcement, Endorsements, and the Illusion of Public Input ChengTony. The Policing Machine: Enforcement, Endorsements, and the Illusion of Public Input. University of Chicago Press, 2024. 240 pp.](https://doi.org/10.1177/00018392261476012)
+  - DOI: 10.1177/00018392261476012
+  - Authors: Arvind Karunakaran
+  - Affiliations: Management Science and Engineering, and (by courtesy) Sociology, Stanford University, Stanford, CA
+  - Published: 2026-08-05
+  - Crossref journal: Administrative Science Quarterly
+
+### Information Systems Research
+- Field: INFO MAN
+- Articles: 2
+
+- [Seeing Less, Engaging More: Rethinking Early User Experience on GenAI Co-Creation Platforms–Findings from a Field Experiment](https://doi.org/10.1287/isre.2024.1200)
+  - DOI: 10.1287/isre.2024.1200
+  - Authors: Shenyang Jiang; Akshat Lakhiwal; Che-Wei Liu; Jiang Duan
+  - Affiliations: Tongji University, Advanced Institute of Business, Shanghai, Shanghai, China; University of Georgia, Management Information Systems, Athens, Georgia, 30602-0002, United States; Indiana University Kelley School of Business, Operations & Decision Technologies, Indianapolis, Indiana, 46202-5151, United States; Southwest University of Finance and Economics, School of Computing and Artificial Intelligence, Chengdu, Sichuan, China
+  - Published: 2026-08-05
+  - Crossref journal: Information Systems Research
+  - Abstract:
+    Generative AI content-generation (GCG) platforms enable users to co-create personalized content with remarkable speed. Yet recent research suggests that such immediacy may undermine early engagement: when content appears instantly, users may not realize sufficient value to register on the platform. We address this challenge by introducing fulfillment, i.e., the extent to which co-created content is revealed prior to registration on GCG platforms, as an experiential design lever that shapes value realization in initial interactions. Drawing on value co-creation literature, we suggest that fulfillment operates through two motivational pathways: value-in-use, reflecting users’ recognition that their input meaningfully shaped the output, and curiosity, reflecting anticipatory motivation when the experience remains perceptually open. Using a randomized field experiment on a GCG platform, complemented by a follow-up online experiment, we show that partial fulfillment, which reveals some but not all generated output, outperforms both full and no fulfillment in driving registration. This effect is also conditioned by the framing of the registration message. While loss-framed messages that emphasize the cost of inaction increase registration on average, this effect attenuates under full fulfillment, suggesting a substitution relationship. Formal mediation analyses indicate that although both full and partial fulfillment enhance value-in-use, only partial fulfillment sustains curiosity, and this dual activation explains its effectiveness. Additional analyses delineate the scope of these effects, which persist beyond registration to shape subsequent engagement and return behavior, but arise only when users meaningfully co-produce content and are enhanced by better quality outputs. Together, these findings suggest that registration on GCG platforms depends not on maximizing disclosure or curiosity alone, but on structuring interactions to preserve users’ involvement in shaping generated outputs. In doing so, they highlight how effective design on GCG platforms supports engagement that emerges from complementary human and GenAI contributions, rather than from automation alone.
+
+- [Profitability of Open-Source Software Product Development](https://doi.org/10.1287/isre.2025.1821)
+  - DOI: 10.1287/isre.2025.1821
+  - Authors: Shivendu Pratap Singh; Narayan Ramasubbu; Chris Kemerer; Muhammad (Zia) Hydari
+  - Affiliations: Southern Illinois University Edwardsville, CMIS, Edwardsville, Illinois, United States; University of Pittsburgh, Joseph M. Katz Graduate School of Business, Pittsburgh, Pennsylvania, United States; University of Pittsburgh, Information Systems, Pittsburgh, Pennsylvania, United States; University of Pittsburgh, Katz Graduate School of Business, Pittsburgh, Pennsylvania, United States
+  - Published: 2026-08-05
+  - Crossref journal: Information Systems Research
+  - Abstract:
+    For-profit firms increasingly adopt open-source product development by engaging external community members alongside internal employees on social coding platforms such as GitHub. Yet whether and through what mechanisms this engagement affects firm profitability remains an open question. Drawing on the knowledge-based view of the firm, we conceptualize open-source product development as a form of distributed knowledge integration that enhances labor productivity by expanding the specialized expertise available for product development beyond the firm’s internal boundaries. We posit that improvements in labor productivity translate into higher profitability, as labor constitutes a primary input in software product development. However, the labor productivity effect depends on the extent of participation by external contributors, and the resulting profitability gains are shaped by equifinal configurations of firm resource allocation. We examine our theoretical framework using a longitudinal dataset of 977 U.S. high-tech firms from 2001 to 2025 and find that firms adopting open-source product development via GitHub realized, on average, a 4%–5% increase in gross margin. These results are robust across staggered difference-in-differences, generalized synthetic control, instrumental variable, and dynamic panel specifications. A moderated mediation analysis decomposing over 323,000 project-level contributions across more than 44,000 repositories into internal employee and external volunteer sources reveals that labor productivity partially mediates the profitability effect and that this mediation is amplified by external contributor engagement. The indirect effect of open-source development intensity on profitability through labor productivity becomes discernibly positive only beyond a threshold of external volunteer contributions (approximately 35% in our sample). Configurational analysis further reveals that research and development intensity is present across all high-profitability configurations, consistent with the absorptive capacity required to integrate externally sourced knowledge. These findings extend the knowledge-based view to the open-source context and provide managerial guidance for aligning open-source strategies with firms’ resource configurations.
+
+### Journal of International Business Studies
+- Field: IB&AREA
+- Articles: 1
+
+- [The green frontier: circular economy and firm resilience in multinational enterprises and internationally engaged firms](https://doi.org/10.1057/s41267-026-00893-4)
+  - DOI: 10.1057/s41267-026-00893-4
+  - Authors: Ibrahim Shaheen; Francesco Devicienti; Alessandro Manello; Davide Vannoni
+  - Published: 2026-08-05
+  - Crossref journal: Journal of International Business Studies
+  - Abstract:
+    Abstract This article examines whether circular economy (CE) strategies enhance firm resilience after systemic shocks. Building on the natural resource-based view, we argue that CE investments made before COVID-19 can strengthen resilience by converting sustainability-oriented capabilities into absorptive and adaptive capabilities. Yet this conversion is not automatic: it depends on firms’ ability to manage three tensions between efficiency and redundancy, continuity and reconfiguration, and strategic flexibility and coordinated commitment. We test these arguments using survey data on Italian firms matched with administrative financial records and estimate ordered probit models of post-shock recovery. The results show that pre-pandemic CE investments are positively associated with firm resilience. This relationship is strongest among multinational enterprises, weaker among other firms engaged in international activities, and not statistically significant among domestic firms. We also find that upstream CE strategies are more strongly associated with resilience than downstream strategies, particularly for multinational enterprises. Overall, the findings suggest that CE contributes to resilience when firms possess the organizational and international capabilities needed to govern, integrate, and reconfigure circular practices under disruption.
+
+### Management Science
+- Field: OR&MANSCI
+- Articles: 3
+
+- [Targeted Priority Mechanisms in Transplantation: Incentivizing, Not Enforcing, Efficient Matching of Organs](https://doi.org/10.1287/mnsc.2024.05724)
+  - DOI: 10.1287/mnsc.2024.05724
+  - Authors: Ruochen Wang; Sait Tunç; Burhaneddin Sandıkçı; Bekir Tanrıöver; Matthew J. Ellis
+  - Affiliations: Queen’s University Smith School of Business, Kingston, Ontario K7L 3N6, Canada; Virginia Tech Grado Department of Industrial and Systems Engineering, Blacksburg, Virginia 24061; Istanbul Technical University Department of Industrial Engineering, Istanbul 34367, Turkey; Department of Medicine Nephrology, College of Medicine Tucson, The University of Arizona, Tucson, Arizona 857244; Department of Medicine, Duke University School of Medicine, Durham, North Carolina 27710; and Department of Surgery, Duke University School of Medicine, Durham, North Carolina 27710
+  - Published: 2026-08-05
+  - Crossref journal: Management Science
+  - Abstract:
+    The persistent imbalance between organ supply and demand poses a significant challenge for the lifesaving treatment of transplantation. This study introduces innovative targeted priority mechanisms inspired by the Eurotransplant Senior Program (ESP), designed to bridge the supply-demand gap while optimizing the matching between organs and recipients without mandating offer acceptance. These mechanisms diverge from traditional prioritization by offering voluntary participation and granting explicit priority to disadvantaged patients for a specified range of organs, provided they restrict their offer acceptance to this set. Using a comprehensive queueing model, our study analyzes the strategic decisions of waitlisted candidates under targeted priority mechanisms in equilibrium, establishing the optimal program design. Our evaluation of these mechanisms’ impact on social welfare underscores their potential to improve overall welfare without adversely affecting any patient group. The practical applicability and impact of these mechanisms are demonstrated through a case study within the U.S. kidney allocation system, using a clinically detailed simulation model targeting elderly patients aged 65 and above. Simulation outcomes reveal a significant participation rate (70%) even when the program offers priority over kidneys that are conventionally perceived as marginal. Furthermore, our findings highlight the mechanisms’ potential to increase transplants by up to 920, decrease nonuse by 25%, and prevent up to 193 waitlist deaths annually compared with the current system. Improvements in the outcomes of even nonelderly patients highlight the mechanisms’ potential to comprehensively address organ underutilization and improve organ-recipient matching in a real-world context. This paper was accepted by Nicos Savva, healthcare management. Funding: This work was supported by the Division of Civil, Mechanical and Manufacturing Innovation [Grant 2339767]. This work was supported in part by the Health Resources and Services Administration [Contract HHSH250-2019-00001C]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05724 .
+
+- [Beating Expectations: Turning Polarized Beliefs into Support for Sustainable Initiatives](https://doi.org/10.1287/mnsc.2025.01277)
+  - DOI: 10.1287/mnsc.2025.01277
+  - Authors: Ole-Andreas Elvik Næss
+  - Affiliations: NHH Norwegian School of Economics, 5045 Bergen, Norway; and University of Bergen, 5020 Bergen, Norway
+  - Published: 2026-08-05
+  - Crossref journal: Management Science
+  - Abstract:
+    Organizations increasingly face polarized beliefs about issues such as sustainability and environmental action. This paper demonstrates that such polarization can, paradoxically, be leveraged as a managerial advantage. When individuals’ subjective beliefs diverge from market probabilities, organizations can design state-specific payouts, where bonuses or refunds are tied to verifiable future outcomes. Under such schemes, individuals receive larger payouts in the states they overestimate relative to market probabilities. This increases an initiative’s subjective expected value without affecting its objective expected cost. Across multiple large-scale experiments spanning corporate and public contexts, state-specific payouts substantially increase support for contested initiatives, particularly among individuals whose beliefs deviate from market probabilities. Additional studies explore ethical and practical boundaries. Together, the results introduce a principle of belief-based design. By applying insights from financial engineering to managerial decision making, organizations can align incentives with heterogeneous beliefs and transform polarization from a barrier into a strategic asset. This paper was accepted by Aurelien Baillon, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01277 .
+
+- [Editorial Board](https://doi.org/10.1287/mnsc.2026.eb.v72n8)
+  - DOI: 10.1287/mnsc.2026.eb.v72n8
+  - Published: 2026-08-01
+  - Crossref journal: Management Science
+
+## AJG 4
+
+### Business History
+- Field: BUS HIST & ECON HIST
+- Articles: 2
+
+- [The Economic History of Singapore](https://doi.org/10.1080/00076791.2026.2706878)
+  - DOI: 10.1080/00076791.2026.2706878
+  - Authors: Jeremy Goh
+  - Affiliations: Department of History, University of Warwick
+  - Published: 2026-08-05
+  - Crossref journal: Business History
+
+- [Apple in China: The capture of the world’s greatest company](https://doi.org/10.1080/00076791.2026.2712413)
+  - DOI: 10.1080/00076791.2026.2712413
+  - Authors: Raunab Singh Khatri
+  - Affiliations: Peking University
+  - Published: 2026-08-05
+  - Crossref journal: Business History
+
+### Econometric Theory
+- Field: ECON
+- Articles: 2
+
+- [MINIMAX REGRET TREATMENT RULES WITH FINITE SAMPLES WHEN A QUANTILE IS THE OBJECT OF INTEREST](https://doi.org/10.1017/s0266466626100498)
+  - DOI: 10.1017/s0266466626100498
+  - Authors: Patrik Guggenberger; Nihal Mehta; Nikita Pavlov
+  - Affiliations: Pennsylvania State University; Keystone Strategy
+  - Published: 2026-08-05
+  - Crossref journal: Econometric Theory
+  - Abstract:
+    Consider a setup in which a decision maker is informed about the population by a finite sample and, based on that sample, has to decide whether or not to apply a certain treatment. We work out finite sample minimax regret treatment rules under various sampling schemes when potential outcomes are restricted onto the unit interval. In contrast to Stoye (2009, Journal of Econometrics 151, 70–81), where the focus is on the maximization of expected utility, the focus here is instead on a particular quantile of the outcome distribution. We find that in the case where the sample consists of a fixed number of untreated and a fixed number of treated units, any treatment rule is minimax regret optimal. The same is true in the case of random treatment assignment in the sample with any assignment probability and in the case of testing an innovation when the known quantile of the untreated population equals 1/2. However, if the known quantile exceeds 1/2, then never treating is the unique optimal rule, and if it is smaller than 1/2, always treating is optimal. We also consider the case where a covariate is included.
+
+- [IDENTIFICATION AND ESTIMATION OF A NONPARAMETRIC TIME-VARYING PANEL DATA MODEL WITH COMPLETELY MISSING REGRESSORS IN SOME PERIODS](https://doi.org/10.1017/s0266466626100589)
+  - DOI: 10.1017/s0266466626100589
+  - Authors: Jiangang Zeng
+  - Affiliations: Fordham University
+  - Published: 2026-08-05
+  - Crossref journal: Econometric Theory
+  - Abstract:
+    This article considers a nonparametric time-varying panel data model in which the primary regressor of interest is completely missing in some periods. Under standard assumptions, identification results are established for the unknown functions and the distributions of the missing regressor. Specifically, one period of completely observed data suffices to identify the random effects model, whereas two periods are required for the fixed effects model. Following identification, conditional deconvolution kernel estimators are developed, and their convergence rates are derived. Simulation results show that these estimators perform well in small samples, and an empirical exercise demonstrates the relevance and practical potential of the proposed method.
+
+### Industrial Relations
+- Field: HRM&EMP
+- Articles: 1
+
+- [Legitimacy and Employment Relations Research: A Review and Research Agenda](https://doi.org/10.1111/irel.70035)
+  - DOI: 10.1111/irel.70035
+  - Authors: Andy Hodder; Genevieve Coderre‐LaPalme; Colm McLaughlin; Ruth Reaney; Chris F. Wright
+  - Affiliations: University of Birmingham Birmingham UK; University of Glasgow Glasgow UK; University College Dublin Dublin Ireland; Queen's University Belfast Belfast UK; University of Sydney Sydney Australia
+  - Published: 2026-08-05
+  - Crossref journal: Industrial Relations: A Journal of Economy and Society
+  - Abstract:
+    ABSTRACT This article provides a comprehensive review of existing research and develops an agenda for analyzing legitimacy in employment relations. It argues that legitimacy should be understood as a dynamic and contested process through which actors, institutions and policy ideas are legitimated, delegitimated and reworked. The article examines the legitimacy of employment relations ideas, the relationship between legitimacy, power and politics, the legitimacy of employment relations actors and of employment relations as a field of study. It concludes by locating the articles in this special issue within this broad agenda and draws out key insights for legitimacy research in employment relations.
+
+### International Journal of Operations and Production Management
+- Field: OPS&TECH
+- Articles: 1
+
+- [Addressing economic efficiency–sustainability tensions in public procurement decision-making: unpacking the role of decision framings](https://doi.org/10.1108/ijopm-08-2025-0743)
+  - DOI: 10.1108/ijopm-08-2025-0743
+  - Authors: Duccio Tosi; Francesco Testa; Nicole Darnall; Fabio Iannone
+  - Affiliations: Institute of Management, Scuola Superiore Sant'Anna , ,; Kogod School of Business, American University , , ,; School of Public Affairs, American University , , ,
+  - Published: 2026-08-06
+  - Crossref journal: International Journal of Operations &amp; Production Management
+  - Abstract:
+    Purpose Sustainable supply chain management (SSCM) research recognizes sustainable public procurement (SPP) as a key lever for addressing global sustainability challenges. However, translating these ambitions into procurement decisions frequently create tensions between internal economic efficiency and sustainability objectives. This study investigates how public organizations address these tensions through procurement decision-making. Design/methodology/approach We adopt a multiple case study design involving 10 public organizations, drawing on interviews, archival documents, and field observations, analyzed abductively with the Gioia method. Findings We identify three SPP decision-making approaches – cost-driven, values-driven and ambidextrous – that differ in how internal economic efficiency and sustainability are prioritized. These approaches are underpinned by two decision framings: a rational and a public value-oriented framing. Variation across approaches reflects whether one framing predominates or whether both are concurrently combined. Originality/value This study advances SSCM research by offering a decision framing perspective that complements and extends the institutional logics lens in explaining organizational responses to sustainability-related tensions. It reveals rational and public value–oriented decision framings as generative mechanisms through which distinct SPP decision-making approaches emerge in public organizations. The study also enriches research on ambidexterity in public organizations by showing that it arises from the capability to hold together different decision framings.
+
+### Journal of Management Studies
+- Field: ETHICS-CSR-MAN
+- Articles: 2
+
+- [Issue Information](https://doi.org/10.1111/joms.70079)
+  - DOI: 10.1111/joms.70079
+  - Published: 2026-08-05
+  - Crossref journal: Journal of Management Studies
+
+- [Issue Information](https://doi.org/10.1111/joms.70080)
+  - DOI: 10.1111/joms.70080
+  - Published: 2026-08-05
+  - Crossref journal: Journal of Management Studies
+
+### Journal of Organizational Behavior
+- Field: PSYCH (WOP-OB)
+- Articles: 1
+
+- [Are All “Good” Employees Susceptible to Moral Biases? Exceptional (Versus Intermediate) Moral Character Shapes Resilience to Daily “DIAMONDS” Situations That Trigger Moral Disengagement](https://doi.org/10.1002/job.70115)
+  - DOI: 10.1002/job.70115
+  - Authors: Babatunde Ogunfowora; Varun Sharma; Mohammad Khalilinejad; Kimberly Weston Moore
+  - Affiliations: Haskayne School of Business University of Calgary Calgary Canada; Indian Institute of Management Indore Indore India; School of Business Administration North Carolina Central University Durham USA
+  - Published: 2026-08-05
+  - Crossref journal: Journal of Organizational Behavior
+  - Abstract:
+    ABSTRACT The non‐rationalist view of morality holds that all employees—including “good” apples—are liable to do bad because they are susceptible to moral biases in everyday situational encounters. In contrast, the rationalist or trait view suggests that employees with strong moral character should be resilient against moral biases across situations and over time. Rather than treating these perspectives as competing explanations, we ask a more nuanced question: In which situational encounters and for whom does moral character shape susceptibility to daily moral biases at work? Drawing on research on moral exemplarity, we argue that “good” exists along a continuum from intermediate to exceptional moral character, with only the exceptional consistently exhibiting moral resilience. Integrating moral disengagement theory with the Situational Eight DIAMONDS model, we identify and test a comprehensive set of episodic work situations that may trigger daily within‐person fluctuations in state moral disengagement. Across two pilot studies, work situations characterized by Deception , Adversity / Negativity , and unexpectedly, Mating , positively predicted same‐day moral disengagement. In a 3‐week diary study, daily encounters of these situations triggered daily moral disengagement, which subsequently increased daily instrumental OCBs, reduced genuine OCBs, and heightened incivility among employees low to intermediate (but not exceptional) on trait Honesty–Humility. We also find that exceptional‐character employees exhibited low moral amplitude or volatility in moral disengagement over time. Our discussion highlights the necessity of considering both within‐person fluctuations and between‐person differences in resilience against moral biases at work.
+
+### Journal of Product Innovation Management
+- Field: INNOV
+- Articles: 1
+
+- [Legitimacy Mechanisms for the Diffusion of Reverse Innovation](https://doi.org/10.1111/jpim.70055)
+  - DOI: 10.1111/jpim.70055
+  - Authors: Fatima Irfan; Ward Ooms; Cosmina Lelia Voinea; Marjolein C. J. Caniëls
+  - Affiliations: Faculty of Management Open Universiteit Heerlen the Netherlands
+  - Published: 2026-08-05
+  - Crossref journal: Journal of Product Innovation Management
+  - Abstract:
+    ABSTRACT While establishing legitimacy is crucial for the diffusion of reverse innovation in developed markets, the mechanisms required to establish legitimacy remain underexplored. Drawing on product innovation and legitimacy studies, we use a mixed‐methods approach to provide a comprehensive understanding of legitimacy mechanisms for reverse innovation. Study 1 (qualitative phase) identifies and categorizes informational cues across three legitimacy mechanisms—identity, associative, and organizational, revealing how reverse innovations in packaged foods establish legitimacy through identity narratives, expert endorsements, and strategic certifications. Study 2 (quantitative phase) employs an experimental vignette methodology to validate how these mechanisms enhance different legitimacy dimensions and subsequently influence perceived value and purchase intention. Together, the studies reveal that while individual mechanisms enhance specific aspects of legitimacy perceptions, successful reverse innovation requires a holistic approach that addresses multiple legitimacy dimensions simultaneously. This research advances theoretical understanding of legitimacy‐building in reverse innovation, offers methodological novelty to the existing field, and provides key insights into aligning reverse innovation with consumer expectations in developed markets, thereby helping firms to overcome emerging market stigmatization, establish legitimacy, and facilitate the more effective diffusion of reverse innovation in developed markets.
+
+### Journal of the American Statistical Association
+- Field: ECON
+- Articles: 1
+
+- [Enhancing Spectral Embedding through Robust and Flexible Knowledge Transfer in Electronic Health Records](https://doi.org/10.1080/01621459.2026.2704888)
+  - DOI: 10.1080/01621459.2026.2704888
+  - Authors: Feiqing Huang; Zongqi Xia; Rong Ma; Tianxi Cai
+  - Affiliations: Department of Biostatistics, Harvard T.H. Chan School of Public Health; Department of Neurology, University of Pittsburgh; Department of Data Science, Dana-Farber Cancer Institute; Broad Institute of MIT and Harvard; Department of Biomedical Informatics, Harvard Medical School
+  - Published: 2026-08-05
+  - Crossref journal: Journal of the American Statistical Association
+
+### Public Administration
+- Field: PUB SEC
+- Articles: 1
+
+- [Institutional Pressures or Organizational Capacity? Antecedents of Digital Maturity in Local Governments](https://doi.org/10.1111/padm.70076)
+  - DOI: 10.1111/padm.70076
+  - Authors: Sarah Van Impe; Lieselot Danneels; Ben Suykens
+  - Affiliations: Faculty of Economics and Business Administration, Department of Public Governance and Management Ghent University Ghent Belgium
+  - Published: 2026-08-06
+  - Crossref journal: Public Administration
+  - Abstract:
+    ABSTRACT Public administration research has identified institutional pressures and organizational capacity as digital maturity (DM) antecedents, yet these are typically considered in isolation. Taking the proverbial next step, this study draws on primary survey data to explain the variation of DM among local governments in Flanders (the northern region of Belgium) by juxtaposing the explanatory power of institutional pressures on the one hand, and political and administrative capacity on the other hand. Using multiple regression analyses, our findings highlight the critical role of administrative capacity in advancing DM among local governments. In contrast, and somewhat surprisingly, political capacity and institutional pressures appear to play a more limited role. These findings challenge conventional assumptions in existing literature, indicating that institutional pressures may catalyze the initial stages of DT, whereas organizational capacity seems to be more influential in sustaining and advancing DM.
+
+### Risk Analysis
+- Field: SOC SCI
+- Articles: 1
+
+- [Age‐Specific Monte Carlo Simulation‐Based Microbial Risk Assessment of Drinking Water Contamination in Islamabad: Integrating Hydrochemical Analysis](https://doi.org/10.1111/risa.70322)
+  - DOI: 10.1111/risa.70322
+  - Authors: Zeeshan Haider; Wajid Ali; Shahid Mahmood; Azeem Khalid
+  - Affiliations: Department of Environmental Sciences PMAS‐ARID Agriculture University Rawalpindi Pakistan; School of Environmental Studies China University of Geosciences Wuhan PR China
+  - Published: 2026-08-05
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Microbial contamination of drinking water poses a significant public health concern, yet age‐specific risks in Islamabad, Pakistan, remain poorly characterized. This study applied a Monte Carlo simulation‐based quantitative microbial risk assessment to estimate the annual probability of infection (P (a)inf ) and disease burden (DB) associated with indicator organisms Escherichia coli ( E. coli ) and total coliforms across four age groups and one overall population category at three microbiologically contaminated drinking‐water locations in Islamabad. Hydrochemical analysis, including principal component analysis, was conducted to characterize groundwater chemistry and explore links between physicochemical conditions and contamination vulnerability. Estimated risks were evaluated against U.S. EPA and WHO health‐based benchmarks, and sensitivity analysis was used to identify the main drivers of DB. The results showed that estimated P(a)inf exceeded the U.S. EPA benchmark (1E‐4 pppy) and DB exceeded the WHO benchmark (1E‐6 DALYs pppy) across all modeled age groups at the three microbiologically contaminated drinking‐water locations. Risk estimates were highest among middle‐aged adults and elderly individuals and lowest among children, primarily due to differences in assumed drinking‐water intake volumes. The total coliforms‐associated risks were generally higher than those associated with E. coli. Sensitivity analysis identified exposure concentration as the dominant contributor to DB variability, accounting for 73%–75% of total variance. Some microbiologically unsafe locations showed hydrochemical characteristics associated with higher mineralization, including elevated EC, TDS, and HCO 3 − concentrations; however, these associations represent statistical patterns rather than evidence of direct causal relationships between hydrochemical conditions and microbial contamination. These findings suggest that routinely measured physicochemical parameters may serve as practical screening indicators for identifying contamination‐prone zones and support targeted drinking water monitoring and intervention in Islamabad.
+
+### Scientometrics
+- Field: INNOV
+- Articles: 1
+
+- [CiteFuncRanker: an LLM-based pairwise ranking framework for multi-functional citation analysis](https://doi.org/10.1007/s11192-026-05764-1)
+  - DOI: 10.1007/s11192-026-05764-1
+  - Authors: Yi Wang; Xuanmin Ruan; Dongqing Lyu; Ying Cheng
+  - Published: 2026-08-06
+  - Crossref journal: Scientometrics
