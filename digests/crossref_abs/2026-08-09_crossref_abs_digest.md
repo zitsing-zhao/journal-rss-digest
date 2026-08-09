@@ -1,0 +1,103 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-08-09
+
+Generated at: 2026-08-09 07:05 UTC
+Crossref date mode: `created`
+Window: `2026-08-08` to `2026-08-09`
+New papers: 9
+
+## AJG 4
+
+### Economic History Review
+- Field: BUS HIST & ECON HIST
+- Articles: 1
+
+- [Indian deindustrialization revisited: New data, estimates, and interpretations](https://doi.org/10.1111/ehr.70145)
+  - DOI: 10.1111/ehr.70145
+  - Authors: Alexander Nagar
+  - Affiliations: University of Oxford Oxford UK
+  - Published: 2026-08-08
+  - Crossref journal: The Economic History Review
+  - Abstract:
+    Abstract The fate of the handloom cotton textile industry is one of the most debated topics in the economic history of India. This paper presents novel employment estimates for cotton textile handweaving and spinning in the period 1800–1940. I put together plausible values for labour productivity and combine these with aggregate input usage to generate employment estimates. I then examine a number of related topics: the regional question, the relationship between handloom and power‐loom cloth from the consumer's perspective, the standard of living of handloom weavers, and the impact of technological progress within the handloom industry.
+
+### Governance
+- Field: PUB SEC
+- Articles: 1
+
+- [The Bureaucratic Paradox of Citizen Agency: Institutional Crowding‐Out in Government‐Catalyzed Co‐Production in Shanghai, China](https://doi.org/10.1111/gove.70149)
+  - DOI: 10.1111/gove.70149
+  - Authors: Huanming Wang; Xiaoyun Sun; Bing Ran
+  - Affiliations: School of Public Administration and Policy Dalian University of Technology Dalian Liaoning Province China; Department of Public Administration Shandong University of Science and Technology Qingdao Shandong Province China; School of Public Affairs Penn State Harrisburg Middletown Pennsylvania USA
+  - Published: 2026-08-08
+  - Crossref journal: Governance
+  - Abstract:
+    ABSTRACT Public service co‐production is often framed as a means of creating public value, yet its dynamics are complex when citizen‐led participation is catalyzed by strong public institutions. This mixed‐methods study examines government‐catalyzed, citizen‐centric co‐production in Shanghai, China, where the state provides institutional support, policy legitimacy, and infrastructure while citizens undertake much of the work of deliberation, coordination, and implementation. Drawing on 246 interviews and survey data from 1476 residents involved in community new infrastructure projects, we examine how citizen trust, public‐service‐oriented motivation, and perceived co‐production efficacy are associated with process and outcome value creation, and how perceived institutional settings condition these relationships. The findings show that citizen cognitive factors are positively associated with value creation, while stronger perceived institutional settings can negatively moderate these relationships. Recursive qualitative analysis suggests two mechanisms that help interpret this pattern: formal rigidity may crowd out citizen agency in the co‐production process, while informal social density may generate lock‐in effects that weaken the translation of trust into substantive outcomes. The study contributes to co‐production and institutional theory by specifying the boundary conditions under which institutional support becomes over‐institutionalization. Effective co‐production requires not less government, but strong enabling support at the initiation stage combined with greater local discretion, participatory rule revision, and flexible enforcement.
+
+### Public Administration
+- Field: PUB SEC
+- Articles: 1
+
+- [Getting the Priorities Straight: Public Values in                     <scp>AI</scp>                     Adoption](https://doi.org/10.1111/padm.70078)
+  - DOI: 10.1111/padm.70078
+  - Authors: Jinke M. Oostvogel; Matthew M. Young; Bram Klievink
+  - Affiliations: Faculty of Governance and Global Affairs Leiden University Leiden the Netherlands
+  - Published: 2026-08-08
+  - Crossref journal: Public Administration
+  - Abstract:
+    ABSTRACT Artificial Intelligence (AI) is adopted in public organizations as a transformative innovation, yet how value prioritizations unfold in AI adoption processes remains underexplored. Therefore, we ask: How do public values unfold in AI adoption processes in public organizations? We conducted a qualitative case study of an AI adoption process at the radiology department of a Dutch academic hospital after the decision to adopt is made and before implementation, using ethnographic fieldwork, interviews, and document analysis. Our findings highlight how public values and the AI adoption process are balanced in the transition from the initiation to the implementation stage. We find a recursive relationship between public values and the AI adoption process. We show an interplay of instrumental and intrinsic values. We highlight the importance of top‐down adoption decisions for how public values are perceived, and we show the importance of public organizations ensuring public values are safeguarded in public‐private partnerships.
+
+### Scientometrics
+- Field: INNOV
+- Articles: 4
+
+- [Should I stay or should I go? The role of national geographic mobility, gender, age, institutional research profiles, and labor market on the career performance of the scientific workforce in Colombia](https://doi.org/10.1007/s11192-026-05716-9)
+  - DOI: 10.1007/s11192-026-05716-9
+  - Authors: Jesús María Godoy; Giovanni Abramo; Ciriaco Andrea D’Angelo; Julián D. Cortés
+  - Published: 2026-08-08
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract Academic mobility is a central concern in science policy, yet research has focused largely on international mobility or migration, leaving national mobility in middle-income countries underexplored. This study examines how national geographic mobility between cities and municipalities is associated with the career performance of Colombian researchers classified under the national evaluation system of the Ministry of Science, Technology, and Innovation (MinCiencias). Drawing on open administrative data from six assessment calls conducted between 2013 and 2021, the analysis covers 40,485 researcher-call observations. An ordinal logistic regression model estimates the association between researcher rank (Junior, Associate, Senior) and a set of lagged individual, institutional, and contextual covariates, including a binary indicator of inter-city relocation. Because the proportional odds assumption is rejected, an unrestricted specification is adopted to capture heterogeneous effects across rank thresholds. Inter-city mobility is uncommon, affecting 2.7% of observations, and is concentrated among early-career researchers. Mobility is not associated with accelerated promotion; instead, it correlates with rank instability, particularly for Junior and Associate researchers. Institutional concentration of academic capital emerges as a strong correlate of rank progression, consistent with cumulative advantage. However, mobility is associated with rank instability mainly when researchers relocate to smaller cities, whereas moves toward larger urban centers show no comparable penalty.
+
+- [LLM aspect prediction: reviewing academic papers from different aspects with Large Language Model](https://doi.org/10.1007/s11192-026-05771-2)
+  - DOI: 10.1007/s11192-026-05771-2
+  - Authors: Zihao Hu; Fumiyo Fukumoto; Jian He; Dongjin Yu
+  - Published: 2026-08-08
+  - Crossref journal: Scientometrics
+
+- [Dissecting the gender divide: authorship and acknowledgment in scientific publications](https://doi.org/10.1007/s11192-026-05712-z)
+  - DOI: 10.1007/s11192-026-05712-z
+  - Authors: Keigo Kusumegi; Daniel E. Acuña; Yukie Sano
+  - Published: 2026-08-08
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract The issue of gender disparity in scientific publications has been a topic of ongoing debate. One aspect of this debate concerns whether women receive equal credit for their contributions compared to men. While prior qualitative and quantitative studies have suggested that women are more likely to be acknowledged than listed as co-authors, large-scale empirical evidence across multiple disciplines remains limited. In this study, we analyze data from over 20,000 authors and 60,000 acknowledged individuals across nine disciplines in open-access journals. Our results confirm persistent gender disparities: women are more frequently acknowledged than credited as co-authors, especially in roles involving investigation and analysis. To account for status and disciplinary effects, we examined collaboration pairs composed of highly cited and less cited scholars. In collaborations, highly cited scholars are more likely to be listed as an author regardless of gender. Notably, highly cited women in such pairs are even more likely to be co-authors than their men counterparts. Our findings suggest that power dynamics and perceived success heavily influence the distribution of credit in scientific publishing. These results underscore the role of status dynamics in shaping authorship and call for a more nuanced understanding of how gender, power, and recognition interact in scientific publishing. Our findings offer valuable insights for scholars, editors, and funding bodies committed to advancing equity in science.
+
+- [A multi-phase reference matching algorithm for bibliometric analysis: design, implementation, and evaluation](https://doi.org/10.1007/s11192-026-05763-2)
+  - DOI: 10.1007/s11192-026-05763-2
+  - Authors: Massimo Aria; Luca D’Aniello; Maria Spano
+  - Published: 2026-08-08
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract Bibliometric analyses rely on accurate citation counts, yet bibliographic databases routinely contain variant representations of the same cited reference, differing in journal abbreviation style, author name format, punctuation, or metadata completeness, that fragment citation links and distort standard indicators such as the h -index and journal impact metrics. We propose an unsupervised, multi-phase reference matching algorithm designed to consolidate these variants without requiring training data or external authority files beyond the ISO 4 List of Title Word Abbreviations (LTWA). The pipeline operates in seven phases: (i) format detection and string normalisation, which parses heterogeneous reference styles and standardises author names, titles, and pagination; (ii) ISO 4 journal-name normalisation, which maps both abbreviated and full journal names to a canonical short form using the LTWA; (iii) exact matching on DOI identifiers and normalised reference strings; (iv) blocking by first-author surname and publication year; (v) within-block fuzzy matching that combines Jaro-Winkler similarity with agglomerative hierarchical clustering to group near-duplicate references; (vi) post-processing metadata reconciliation, which merges complementary fields across matched records; and (vii) canonical representative selection, which elects the most informative variant as the group representative. Evaluation on a synthetic benchmark of 1 064 source articles under 17 controlled perturbation scenarios, yields precision, recall, and $$F_1$$ F 1 scores above 0.95 in 15 of 17 scenarios, with the two lowest-scoring scenarios still achieving $$F_1 \ge 0.78$$ F 1 ≥ 0.78 . Validation on two real-world Scopus datasets demonstrates that the algorithm reduces unique cited-reference counts by 4.6-−11.1 %, with corresponding increases in concentration-based bibliometric indicators. The algorithm is implemented in the open-source R package, which has been widely adopted in the scientometric community.
+
+### Sociology
+- Field: SOC SCI
+- Articles: 2
+
+- [Common people? The elite market for ordinariness and how it legitimises income inequality](https://doi.org/10.1177/00380385261446275)
+  - DOI: 10.1177/00380385261446275
+  - Authors: Aaron Reeves; Sam Friedman
+  - Affiliations: Department of Sociology, LSE, London, UK
+  - Published: 2026-08-08
+  - Crossref journal: Sociology
+  - Abstract:
+    Recent research has established that elites in many contexts are keen to portray themselves as ordinary and that such strategies of impression management have distinct reputational pay-offs. In this article, we draw on a range of experiments with a representative sample of the UK population to explore what happens when elite expressions of ordinariness are undermined. Our results suggest that elites are generally not punished when new – and potentially contradictory – information comes to light, unless such evidence suggests explicit duplicity. Projecting ordinariness, in other words, represents an effective strategy of impression management, even if elites lead less ordinary lives in practice. Our analysis also shows that successful expressions of elite ordinariness have implications for public acceptance of income inequality. Specifically, we find people in the UK are happier to accept higher rates of income inequality when they think those earning the highest salaries have been upwardly socially mobile.
+
+- [Advancing and sustaining pedagogies of resistance within global sociology: Critical insights and learnings from the Caribbean](https://doi.org/10.1177/00380385261429749)
+  - DOI: 10.1177/00380385261429749
+  - Authors: Talia R. Esnard
+  - Affiliations: The University of the West Indies, Piarco, Trinidad and Tobago
+  - Published: 2026-08-08
+  - Crossref journal: Sociology
+  - Abstract:
+    Across the globe, scholars are pushing for non-western, indigenous or culturally relevant ways of knowing. While this drive represents as a stance and a counter imperial knowledge strategy, ongoing entanglements and knowledge canons render still invisible the voices, knowledge and practices of the Global South. The article draws on the critique and alternative framing of development from New World Thinkers to underscore some of the insights and lessons of resistance which can be leveraged in the teaching of global sociology. A push is for pedagogies of resistance that centre the relevance of: (i) critical or radical thought; (ii) affirming and decolonial methodologies; and (iii) open dialogue, public accountability and engagement. These learnings provide an opportunity to challenge absolute narratives and directives, while framing epistemic resistance to take Caribbean and global sociology forward.

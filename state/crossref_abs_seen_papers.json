@@ -8651,12 +8651,75 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-08-07",
       "first_seen": "2026-08-08T07:03:14.897312+00:00"
+    },
+    "10.1111/ehr.70145": {
+      "title": "Indian deindustrialization revisited: New data, estimates, and interpretations",
+      "journal": "The Economic History Review",
+      "abs_journal_title": "Economic History Review",
+      "published_date": "2026-08-08",
+      "first_seen": "2026-08-09T07:05:28.770924+00:00"
+    },
+    "10.1177/00380385261446275": {
+      "title": "Common people? The elite market for ordinariness and how it legitimises income inequality",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-08-08",
+      "first_seen": "2026-08-09T07:05:28.770924+00:00"
+    },
+    "10.1177/00380385261429749": {
+      "title": "Advancing and sustaining pedagogies of resistance within global sociology: Critical insights and learnings from the Caribbean",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-08-08",
+      "first_seen": "2026-08-09T07:05:28.770924+00:00"
+    },
+    "10.1007/s11192-026-05716-9": {
+      "title": "Should I stay or should I go? The role of national geographic mobility, gender, age, institutional research profiles, and labor market on the career performance of the scientific workforce in Colombia",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-08",
+      "first_seen": "2026-08-09T07:05:28.770924+00:00"
+    },
+    "10.1007/s11192-026-05771-2": {
+      "title": "LLM aspect prediction: reviewing academic papers from different aspects with Large Language Model",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-08",
+      "first_seen": "2026-08-09T07:05:28.770924+00:00"
+    },
+    "10.1007/s11192-026-05712-z": {
+      "title": "Dissecting the gender divide: authorship and acknowledgment in scientific publications",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-08",
+      "first_seen": "2026-08-09T07:05:28.770924+00:00"
+    },
+    "10.1007/s11192-026-05763-2": {
+      "title": "A multi-phase reference matching algorithm for bibliometric analysis: design, implementation, and evaluation",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-08",
+      "first_seen": "2026-08-09T07:05:28.770924+00:00"
+    },
+    "10.1111/padm.70078": {
+      "title": "Getting the Priorities Straight: Public Values in\n                    <scp>AI</scp>\n                    Adoption",
+      "journal": "Public Administration",
+      "abs_journal_title": "Public Administration",
+      "published_date": "2026-08-08",
+      "first_seen": "2026-08-09T07:05:28.770924+00:00"
+    },
+    "10.1111/gove.70149": {
+      "title": "The Bureaucratic Paradox of Citizen Agency: Institutional Crowding‐Out in Government‐Catalyzed Co‐Production in Shanghai, China",
+      "journal": "Governance",
+      "abs_journal_title": "Governance",
+      "published_date": "2026-08-08",
+      "first_seen": "2026-08-09T07:05:28.770924+00:00"
     }
   },
-  "last_run": "2026-08-08T07:03:14.897312+00:00",
+  "last_run": "2026-08-09T07:05:28.770924+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-08-07",
-    "end_date": "2026-08-08"
+    "start_date": "2026-08-08",
+    "end_date": "2026-08-09"
   }
 }
