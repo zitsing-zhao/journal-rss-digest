@@ -9183,12 +9183,138 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-08-12",
       "first_seen": "2026-08-13T07:44:40.822464+00:00"
+    },
+    "10.1007/s11192-026-05767-y": {
+      "title": "In-context curriculum learning for enhanced semantic understanding in scientific text mining",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-14",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1007/s11192-026-05769-w": {
+      "title": "Bi-national academic funding and collaboration dynamics: the case of the German-Israeli foundation",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-14",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1111/puar.70181": {
+      "title": "The Gendered Path of Least Resistance: First Entry and Exit Behaviors of Public and Nonprofit Employees",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.5465/amr.2026.0577": {
+      "title": "Attribution Error in Mutual Learning: Noise Versus Systematic Bias—A Reply to “Copying the Wrong Winner? When Noisy Attribution Reverses Mutual Learning Prescriptions”",
+      "journal": "Academy of Management Review",
+      "abs_journal_title": "Academy of Management Review",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1177/00380385261455236": {
+      "title": "Becoming a school refuser: A sociological study of long-term school absence in Sweden",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1007/s11192-026-05770-3": {
+      "title": "A framework for measuring scientific innovation integrating LLM-driven semantic reasoning and bibliometric analysis",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1080/00343404.2026.2702095": {
+      "title": "The uneven distribution of risks and rewards in multi-level mission-oriented green industrial policies",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1080/00343404.2026.2699808": {
+      "title": "The effect of polycentric urban spatial structure on individual housing affordability in China",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1080/00343404.2026.2696397": {
+      "title": "Natural resources in entrepreneurial ecosystem evolution: leadership challenges in peripheries",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1080/00343404.2026.2696384": {
+      "title": "Lights, camera, coopetition: film and television production in a peripheral region",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1080/00343404.2026.2696392": {
+      "title": "Intertwining scenario ‘knowledges’ in strategic spatial planning: a ‘theories of truth’ perspective",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1177/10591478261476251": {
+      "title": "Revealing the NHTSA nudge: Education and transparency in automotive recall decisions",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1002/job.70122": {
+      "title": "The Gendered Returns to Power: How Gender, Structural Power, and Perceived Resource Sufficiency Shape Meritocracy Perceptions in Organizations",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1111/joms.70151": {
+      "title": "How Societal Cultures Moderate Gender Differences in Career Success: A Meta‐Analysis",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1002/gsj.70028": {
+      "title": "Global strategy in a changing world: Why we need classic theories",
+      "journal": "Global Strategy Journal",
+      "abs_journal_title": "Global Strategy Journal",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1111/1467-8551.70101": {
+      "title": "Journal Metrics, Scholarly Impact and Interdisciplinary Research: On the Folly of Measuring A While Hoping to Measure B",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-08-13",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1162/qss.a.506": {
+      "title": "Turning Citation Networks Inside Out: Studying Science Using Content-Based Knowledge Graphs from LLM-Derived Taxonomies",
+      "journal": "Quantitative Science Studies",
+      "abs_journal_title": "Quantitative Science Studies",
+      "published_date": "2026-08-11",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
+    },
+    "10.1287/mnsc.2024.06528": {
+      "title": "The Debt Capacity of a Government",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2025-12-12",
+      "first_seen": "2026-08-14T07:41:08.087163+00:00"
     }
   },
-  "last_run": "2026-08-13T07:44:40.822464+00:00",
+  "last_run": "2026-08-14T07:41:08.087163+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-08-12",
-    "end_date": "2026-08-13"
+    "start_date": "2026-08-13",
+    "end_date": "2026-08-14"
   }
 }
