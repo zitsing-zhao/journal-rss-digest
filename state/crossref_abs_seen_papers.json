@@ -9407,12 +9407,33 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-08-14",
       "first_seen": "2026-08-15T06:48:55.479636+00:00"
+    },
+    "10.1111/risa.70329": {
+      "title": "Hospital Capacity Pooling in Pandemics: Simulation‐Based Mortality Impacts and Diversification Mechanisms",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-08-15",
+      "first_seen": "2026-08-16T06:50:28.420102+00:00"
+    },
+    "10.1111/risa.70323": {
+      "title": "Access to Essential Services: A Critical Factor for Predicting Recovery and Quantifying Resilience",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-08-15",
+      "first_seen": "2026-08-16T06:50:28.420102+00:00"
+    },
+    "10.1111/joms.70146": {
+      "title": "Mandated to Change, Pressured to Survive: How Newly Appointed\n                    <scp>CEOs</scp>\n                    Use Resonance to Manage Strategic Change–Early Survival Dilemma",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-08-15",
+      "first_seen": "2026-08-16T06:50:28.420102+00:00"
     }
   },
-  "last_run": "2026-08-15T06:48:55.479636+00:00",
+  "last_run": "2026-08-16T06:50:28.420102+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-08-14",
-    "end_date": "2026-08-15"
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-16"
   }
 }
