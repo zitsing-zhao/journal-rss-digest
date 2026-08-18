@@ -9449,12 +9449,117 @@
       "abs_journal_title": "Public Administration",
       "published_date": "2026-08-16",
       "first_seen": "2026-08-17T07:08:22.258799+00:00"
+    },
+    "10.1108/ijopm-08-2026-1094": {
+      "title": "Corrigendum: The impact of digital twin innovation on firm operational performance: a knowledge-based perspective",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-08-18",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1287/mnsc.2023.00913": {
+      "title": "Why Context Influences Preferences Elicited with Willingness to Pay Less Than Preferences Elicited with Choice",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-17",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1177/10422587261473009": {
+      "title": "“We Own What you Think”: Institutional Constraints on Hybrid Entrepreneurship and High-Growth Entrepreneurship",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-08-17",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1177/10422587261470833": {
+      "title": "Stars Are Where You Draw the Line: Reassessing Methods for Identifying Star Entrepreneurs",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-08-17",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.5465/amr.2024.0426": {
+      "title": "Organizational Repression of Stakeholder Collective Action",
+      "journal": "Academy of Management Review",
+      "abs_journal_title": "Academy of Management Review",
+      "published_date": "2026-08-17",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1080/00343404.2026.2702720": {
+      "title": "Modelling spatial density: Data, methods, and R applications in statistics, econometrics, and machine learning",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-08-17",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1111/padm.70082": {
+      "title": "Agile Digital Transformation and the Rule of Law: Perks and Perils in a Belgian and a Dutch Public Sector Organization",
+      "journal": "Public Administration",
+      "abs_journal_title": "Public Administration",
+      "published_date": "2026-08-17",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1007/s10107-026-02404-7": {
+      "title": "Direct search for stochastic optimization in random subspaces with zeroth-, first-, and second-order convergence and expected complexity",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-08-17",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1007/s10107-026-02402-9": {
+      "title": "Algebraic characterization of equivalence between oracle-based iterative algorithms",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-08-17",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1002/job.70125": {
+      "title": "Is Our Future Colleague Even Human? Advancing Human–AI Teamwork from an Organizational Perspective",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-08-17",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1080/0960085x.2026.2718654": {
+      "title": "Correction",
+      "journal": "European Journal of Information Systems",
+      "abs_journal_title": "European Journal of Information Systems",
+      "published_date": "2026-08-17",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1111/bjir.70077": {
+      "title": "The Making of an Unjust Transition: Union Internal Politics in the Shift to Electric Vehicles",
+      "journal": "British Journal of Industrial Relations",
+      "abs_journal_title": "British Journal of Industrial Relations",
+      "published_date": "2026-08-17",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1111/risa.70333": {
+      "title": "A Hybrid Optimization Model for Shelter Location and Materials Assignment in Earthquakes Based on Evacuation Behavior",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-08-16",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.1111/bjir.70075": {
+      "title": "The Limits of Convergence in the Enlarged Europe: Change in Labour Conditions in a Shipbuilder's Sites in Norway and Romania",
+      "journal": "British Journal of Industrial Relations",
+      "abs_journal_title": "British Journal of Industrial Relations",
+      "published_date": "2026-08-16",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
+    },
+    "10.5465/amj.2026.4004": {
+      "title": "Research Methods Articles Designed to Advance Theory: An Update and Further Guidance",
+      "journal": "Academy of Management Journal",
+      "abs_journal_title": "Academy of Management Journal",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-18T06:54:12.712877+00:00"
     }
   },
-  "last_run": "2026-08-17T07:08:22.258799+00:00",
+  "last_run": "2026-08-18T06:54:12.712877+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-08-16",
-    "end_date": "2026-08-17"
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-18"
   }
 }
