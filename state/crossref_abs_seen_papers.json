@@ -10807,12 +10807,110 @@
       "abs_journal_title": "Journal of Organizational Behavior",
       "published_date": "2026-08-23",
       "first_seen": "2026-08-24T07:10:05.108052+00:00"
+    },
+    "10.1287/mnsc.2023.03696": {
+      "title": "Training Frontline Health Workers in Low- and Middle-Income Countries to Reduce Contraceptive Stock-Outs: Evidence from Indonesia",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1287/mnsc.2024.04409": {
+      "title": "The Salience of Entrepreneurship: Evidence from Online Business",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1287/mnsc.2024.04499": {
+      "title": "Leveraging Collective Advice-Taking Behavior to Infer Accuracy and Improve the Wisdom of Crowds",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1287/mnsc.2025.00480": {
+      "title": "Goals, Expectations, and Performance",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1287/mnsc.2025.02111": {
+      "title": "Evolution of Discrimination on Online Platforms",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1287/isre.2024.1361": {
+      "title": "The Impact of Generative AI on Collaborative Open-Source Software Development: Evidence from GitHub Copilot",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1287/isre.2025.2166": {
+      "title": "Impact of the Invisibles: Personalized Pricing on Platform with Anonymous Users",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1080/00343404.2026.2702098": {
+      "title": "Understanding the shadow economy in Central and Eastern Europe using the currency-demand approach: a regional perspective",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1177/10591478261476256": {
+      "title": "An index policy for routing agricultural machinery repairs",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1111/joms.70152": {
+      "title": "Correction to ‘Keeping Up With the Times? Rethinking Social Evaluations Research Under Contemporary Technological and Sociopolitical Forces’",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1111/iere.70101": {
+      "title": "Local Shocks and Regional Dynamics in an Aging Economy",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1111/iere.70099": {
+      "title": "Does Digitalization Widen Labor Income Inequality?",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1080/00076791.2026.2710671": {
+      "title": "Corporate power &amp; imperial alignment: (re)negotiating colonial control on the Dutch Guiana Coast 1720–1732",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-08-24",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
+    },
+    "10.1177/10422587261472523": {
+      "title": "Leveling the Playing Field? Generative AI and Entrepreneurial Storytelling",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-08-23",
+      "first_seen": "2026-08-25T06:57:46.872107+00:00"
     }
   },
-  "last_run": "2026-08-24T07:10:05.108052+00:00",
+  "last_run": "2026-08-25T06:57:46.872107+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-08-23",
-    "end_date": "2026-08-24"
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-25"
   }
 }
