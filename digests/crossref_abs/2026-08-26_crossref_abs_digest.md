@@ -1,0 +1,258 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-08-26
+
+Generated at: 2026-08-26 06:58 UTC
+Crossref date mode: `created`
+Window: `2026-08-25` to `2026-08-26`
+New papers: 22
+
+## AJG 4*
+
+### Academy of Management Journal
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [Resonance, Consonance, Dissonance: Explaining Divergent Responses to Entrepreneurial Setbacks](https://doi.org/10.5465/amj.2025.0122)
+  - DOI: 10.5465/amj.2025.0122
+  - Authors: Jean-François Soublière
+  - Affiliations: HEC Montréal
+  - Published: 2026-08-25
+  - Crossref journal: Academy of Management Journal
+
+### Academy of Management Review
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [A Process Model of Managerial Phronesis in the Age of Generative AI](https://doi.org/10.5465/amr.2024.0582)
+  - DOI: 10.5465/amr.2024.0582
+  - Authors: Dirk Lindebaum; Natarajan Balasubramanian; Mehreen Ashraf; Patrick Haack
+  - Affiliations: University of Bath; Ohio State University; Cardiff University; University of Lausanne
+  - Published: 2026-08-25
+  - Crossref journal: Academy of Management Review
+
+### Entrepreneurship Theory and Practice
+- Field: ENT-SBM
+- Articles: 1
+
+- [Spatial (In)equality and Entrepreneurial Ecosystem Policy: A Historical Analysis of the Scottish Highlands](https://doi.org/10.1177/10422587261472141)
+  - DOI: 10.1177/10422587261472141
+  - Authors: Shannon Harris; Mia Clarke; Anna Brattström
+  - Affiliations: University of St Andrews, UK; University of Glasgow, UK
+  - Published: 2026-08-25
+  - Crossref journal: Entrepreneurship Theory and Practice
+  - Abstract:
+    We built a theory on how entrepreneurial ecosystem policy benefits some places within rural regions while leaving others behind. In a historical analysis of the Scottish Highlands and Islands, 1965 to 1990, we compared policies that attract external resources from outside the region with those that embed resources within local communities. We found that resource-attracting policies not only generated higher economic output but also concentrated opportunity, drained peripheral areas, and increased regional fragility. Resource-embedding policies produced lower aggregate output but greater spatial inclusion and resilience. Our historical analysis identifies spatial draining, disempowerment, and empowerment as mechanisms through which policy shapes ecosystem outcomes over time.
+
+### Journal of International Business Studies
+- Field: IB&AREA
+- Articles: 1
+
+- [Governing cross-border innovation: how country-specific director experience enables board-level boundary spanning in MNEs](https://doi.org/10.1057/s41267-026-00900-8)
+  - DOI: 10.1057/s41267-026-00900-8
+  - Authors: Pankaj Kumar; Felipe Calvano; Karen Schnatterly
+  - Published: 2026-08-25
+  - Crossref journal: Journal of International Business Studies
+  - Abstract:
+    Abstract The internationalization of innovation is critical for multinational enterprises (MNEs), yet foreign subsidiaries often struggle to gain headquarters support for their innovations, while knowledge from subsidiary-country contexts remains underused in headquarters’ R&D. This study examines how directors with professional experience in a subsidiary country help boards govern these challenges. Drawing on boundary-spanning theory, we argue that such directors improve headquarters’ evaluation of subsidiary innovations and expand the scope of knowledge that headquarters draws upon. Using 8,264 firm-country-year observations for U.S.-headquartered MNEs from 2000 to 2021, we find that headquarters-based directors with experience in subsidiary countries are positively associated with both subsidiary innovations patented in the home market and headquarters’ use of subsidiary–country knowledge reflected in patent citations. Both relationships are amplified by knowledge distance, the divergence between home and subsidiary-country innovation systems, because directors are most consequential when headquarters’ cognitive frameworks are most misaligned with the subsidiary context. The findings contribute to international business, corporate governance, and innovation research by showing how board composition shapes where innovation is supported and which foreign knowledge enters headquarters-led R&D. Practically, MNEs can improve global innovation governance by matching directors’ international experience to the countries in which their subsidiaries operate.
+
+### Operations Research
+- Field: OR&MANSCI
+- Articles: 2
+
+- [Prelimit Coupling and Steady-State Convergence of Constant-Step-Size Nonsmooth Contractive Stochastic Approximation](https://doi.org/10.1287/opre.2024.1538)
+  - DOI: 10.1287/opre.2024.1538
+  - Authors: Yixuan Zhang; Dongyan (Lucy) Huo; Yudong Chen; Qiaomin Xie
+  - Affiliations: Department of Industrial and Systems Engineering, University of Wisconsin–Madison, Madison, Wisconsin 53706; Department of Industrial Engineering and Decision Analytics, Hong Kong University of Science and Technology, Hong Kong; Department of Computer Sciences, University of Wisconsin–Madison, Madison, Wisconsin 53706
+  - Published: 2026-08-25
+  - Crossref journal: Operations Research
+  - Abstract:
+    Nonsmooth Learning Algorithms Behave Differently from Smooth Ones Many learning algorithms, including Q-learning, update their estimates through noisy recursive rules. When these updates use a constant step size and involve nonsmooth operators, their long-run behavior can be difficult to characterize: the iterates do not converge to a single point but instead settle into a stationary distribution, and classical tools for smooth dynamics may fail. In “Prelimit Coupling and Steady-State Convergence of Constant-Step-Size Nonsmooth Contractive SA,” Yixuan Zhang, Dongyan (Lucy) Huo, Yudong Chen, and Qiaomin Xie develop a prelimit coupling framework for analyzing such nonsmooth stochastic approximation procedures. They establish Wasserstein convergence to a unique stationary distribution, characterize the limiting steady-state distribution as the step size vanishes, and show that nonsmoothness can create a bias of order of the square root of the step size, unlike the bias linear in the step size that is typical of smooth dynamics. The results also justify Richardson–Romberg extrapolation as a tool for bias reduction, with applications to Q-learning.
+
+- [Behaviorally Informed Strategies for Infectious Disease Mitigation: Balancing Incentives and Screening](https://doi.org/10.1287/opre.2024.0942)
+  - DOI: 10.1287/opre.2024.0942
+  - Authors: Sait Tunç; Berk Görgülü; Marie J. Rabil; Douglas R. Bish; Ebru K. Bish
+  - Affiliations: Grado Department of Industrial and Systems Engineering, Virginia Tech, Blacksburg, Virginia 24061; DeGroote School of Business, McMaster University, Hamilton, Ontario L8S 4E8, Canada; Culverhouse College of Business, The University of Alabama, Tuscaloosa, Alabama 35487
+  - Published: 2026-08-25
+  - Crossref journal: Operations Research
+  - Abstract:
+    When Screening and Vaccine Incentives Work Better Together When vaccine mandates are not feasible, institutions may rely on vaccination rewards or routine screening of the unvaccinated. The study shows these tools can be more powerful when designed together. Exempting vaccinated individuals turns screening into a nonmonetary incentive while retaining its role in detecting infections. The authors develop a behaviorally informed framework that accounts for vaccine hesitancy, community preferences, limited budgets, and testing capacity. Rather than committing to a rigid plan, the framework learns from surveys and vaccination data and adapts screening as community behavior unfolds. The analysis reveals that incentives and screening are not always substitutes: under some conditions, each strengthens the value of the other. In a realistic college-campus case study using a detailed epidemic model, the adaptive strategy reduced infections and hospitalizations while adhering more closely to budget than incentive-only or screening-only approaches. The findings offer practical guidance for designing flexible mitigation plans for future outbreaks in universities and other close communities.
+
+### Organization Science
+- Field: ORG STUD
+- Articles: 1
+
+- [Regulatory Balancing Acts: Lobbying and Medical Device Approval](https://doi.org/10.1287/orsc.2024.19802)
+  - DOI: 10.1287/orsc.2024.19802
+  - Authors: Jake Grandy; Joel L Andrus; Zhe Xing; Jieun Lee
+  - Affiliations: University of Arkansas Fayetteville, SEVI, Fayetteville, Arkansas, 72701-4002, United States; University of Missouri, Management, Columbia, Missouri, United States; Santa Clara University, Management and Entrepreneurship, Santa Clara, California, 95053-4345, United States; Rochester Institute of Technology, Management, Rochester, New York, United States
+  - Published: 2026-08-25
+  - Crossref journal: Organization Science
+  - Abstract:
+    Lobbying is one of the primary nonmarket strategies firms use to shape regulatory outcomes, yet it is often treated as either an informational input that helps regulators make better decisions or a distortionary influence that undermines bureaucratic judgment. We develop a reputation-based theory of how regulators interpret lobbying under uncertainty. Because agencies are evaluated for both acting too quickly and acting too slowly, regulators use discretion over decision time to manage reputational risk. From this perspective, lobbying matters less as persuasion and more as sustained engagement that affects regulators’ confidence that foreseeable risks have been identified and addressed. We argue that the effects of lobbying depend on firm-level reputational cues that influence how regulators interpret lobbying activity, ultimately affecting the speed at which agencies grant regulatory approval. Using a novel dataset of FDA medical device approvals from 2002 to 2021, we find that lobbying is associated with faster approval on average. However, following product recalls this effect can reverse, suggesting that regulators treat interaction as misplaced confidence and increase scrutiny to reduce exposure to decisions that may become reputationally costly. By contrast, innovation reputation signals strengthen the approval-accelerating effect of lobbying by making timely approval more defensible to external audiences. Our theory suggests that the success of lobbying depends on how regulators interpret it in light of firm reputational cues, providing a reputation-based explanation for prior mixed findings on lobbying effectiveness.
+
+### Review of Economic Studies
+- Field: ECON
+- Articles: 1
+
+- [Paying to Match: Decentralized Markets with Information Frictions](https://doi.org/10.1093/restud/rdag094)
+  - DOI: 10.1093/restud/rdag094
+  - Authors: Marina Agranov; Ahrash Dianat; Larry Samuelson; Leeat Yariv
+  - Affiliations: California Institute of Technology; University of Essex; Yale University; Princeton University
+  - Published: 2026-08-25
+  - Crossref journal: Review of Economic Studies
+  - Abstract:
+    Abstract We experimentally study decentralized one-to-one matching markets with transfers. We vary the information available to participants, complete or incomplete, and the surplus structure, supermodular or submodular. Several insights emerge. First, while markets often culminate in efficient matchings, stability is more elusive, reflecting the difficulty of arranging attendant transfers. Second, incomplete information and submodularity present hurdles to efficiency and especially stability; their combination drastically diminishes stability's likelihood. Third, matchings form ``from the top down'' in complete-information supermodular markets, but exhibit many more and less-obviously ordered offers otherwise. Last, participants' market positions matter far more than their dynamic bargaining styles for outcomes.
+
+### Strategic Management Journal
+- Field: STRAT
+- Articles: 1
+
+- [The impact of generative artificial intelligence on innovation: Evidence from software products](https://doi.org/10.1002/smj.70118)
+  - DOI: 10.1002/smj.70118
+  - Authors: Erdem Doğukan Yılmaz; Tim Meyer
+  - Affiliations: Department of Family Business and Entrepreneurship INSEAD Fontainebleau France; Institute of Management &amp; Strategy, Center for Financial Services Innovation University of St. Gallen St. Gallen Switzerland
+  - Published: 2026-08-25
+  - Crossref journal: Strategic Management Journal
+  - Abstract:
+    Abstract Research Summary We study the impact of generative artificial intelligence (GAI) tools on product‐level innovation outcomes in the context of software products. Specifically, we illustrate how GAI can alter the direction of innovation by shifting the activities of developers away from generational innovation and toward original innovation, which may be new to the market but not necessarily more novel than previous innovations. We argue that this shift is driven by GAI's ability to facilitate tasks in both the ideation and implementation of software products, which enables some developers to create software products that were previously beyond their reach, while allowing others to reallocate their effort with respect to different activities. Our analyses in the context of browser add‐ons provide empirical evidence for these arguments. We discuss implications for innovation research and the generalizability of our findings to other domains. Managerial Summary Generative AI tools are changing how organizations innovate. Studying the Firefox browser add‐on ecosystem, we find that after ChatGPT's release, the number of new add‐ons increased by 34%, driven by both existing and first‐time developers. However, developers simultaneously reduced improvements to their existing add‐ons by 20%, redirecting effort toward new projects. While new add‐ons drew on a broader set of knowledge domains, they were not substantially different from what already existed. This suggests that generative AI helps developers efficiently combine existing knowledge rather than produce truly novel ideas. For platform managers and business leaders, these findings highlight that although Generative AI can democratize product creation and accelerate new product launches, it may require new strategies to maintain product quality and encourage genuine novelty.
+
+## AJG 4
+
+### Business History
+- Field: BUS HIST & ECON HIST
+- Articles: 1
+
+- [Indigenous bankers, agricultural finance and the cooperative movement: The Co-operative Bank of Western Nigeria, c.1945–1962](https://doi.org/10.1080/00076791.2026.2714153)
+  - DOI: 10.1080/00076791.2026.2714153
+  - Authors: Mariusz Lukasiewicz
+  - Affiliations: Institute of African Studies, Leipzig University
+  - Published: 2026-08-25
+  - Crossref journal: Business History
+
+### International Economic Review
+- Field: ECON
+- Articles: 1
+
+- [Labor Associations: The Blue Wall of Silence](https://doi.org/10.1111/iere.70098)
+  - DOI: 10.1111/iere.70098
+  - Authors: David K. Levine; Andrea Mattozzi; Salvatore Modica
+  - Affiliations: Department of Economics Royal Holloway University of London United Kingdom; Washington University in St. Louis USA; Department of Economics University of Bologna Italy; Department of Mathematics and Computer Science University of Palermo Italy
+  - Published: 2026-08-25
+  - Crossref journal: International Economic Review
+  - Abstract:
+    ABSTRACT We present a model showing that when the demand for labor services is inelastic and individual behavior is imperfectly monitored, a firm's employees may prefer to protect its shirkers and conceal information about peers' performance from the firm.
+
+### Journal of Business and Economic Statistics
+- Field: ECON
+- Articles: 1
+
+- [Matrix Quantile Factor Model](https://doi.org/10.1080/07350015.2026.2719893)
+  - DOI: 10.1080/07350015.2026.2719893
+  - Authors: Xinbing Kong; Yongxin Liu; Long Yu; Peng Zhao
+  - Affiliations: School of Statistics and Data Science, Southeast University; School of Statistics and Data Science, Nanjing Audit University; School of Statistics and Data Science, Shanghai University of Finance and Economics; School of Mathematics and Statistics, Jiangsu Normal University
+  - Published: 2026-08-25
+  - Crossref journal: Journal of Business &amp; Economic Statistics
+
+### Journal of Management Studies
+- Field: ETHICS-CSR-MAN
+- Articles: 2
+
+- [<scp>AI</scp>                     Presents Both Problems and Opportunities for Minorities](https://doi.org/10.1111/joms.70145)
+  - DOI: 10.1111/joms.70145
+  - Authors: María del Carmen Triana; Arun Upadhyay
+  - Affiliations: Vanderbilt University; Florida International University
+  - Published: 2026-08-25
+  - Crossref journal: Journal of Management Studies
+  - Abstract:
+    Abstract The recent Point article by Wu (2026) calls for a better understanding of factors that could lead to the development of AI systems that are likely to perpetuate social inequality. The Point article introduces the idea that computational beliefs interact with computational inequalities in a more systematic manner that develops AI systems which perpetuate biases. We present our counterpoint and show where we agree with Wu (2026) but also present areas that are not accounted for in the Point article. Specifically, using cases from financial services and HR systems, we highlight how algorithmic transparency driven by organizational governance and regulatory intervention can mitigate many of the issues, leading to the development of AI systems that could potentially be bias free.
+
+- [The Role of Rivals in Resource Picking from Factor Markets](https://doi.org/10.1111/joms.70154)
+  - DOI: 10.1111/joms.70154
+  - Authors: Jason T. Sigler; Thomas Klueter; Jaideep Anand
+  - Affiliations: University of North Florida; IESE Business School; The Ohio State University
+  - Published: 2026-08-24
+  - Crossref journal: Journal of Management Studies
+  - Abstract:
+    Abstract While we know that rivals' activities in product markets are an important source of information, we know little about how firms set expectations and react to information emerging from competitors in strategic factor markets. Our theoretical framework examines this question and explains how rivals' actions in factor markets shape a firm's own resource‐picking decisions. We consider that rivals can utilize a factor of production for different applications and distinguish three distinct rival actions that lead to strategic responses, which are explained by the mechanism of herding. Further, we consider that rivals' actions beyond information also convey competitive pressure that firms react to. We show that considering both informational and competitive cues determines whether firms respond by picking resources from factor markets or by building internal capabilities. The theoretical framework, hence, helps understand the role of rivals when firms decide to pursue new strategic factors and how they obtain such factors. We test our predictions using a fine‐grained dataset of new product development of global bio‐pharmaceutical firms from 1993 to 2018. Overall, the paper provides an important step towards a better understanding of how rivals shape firms' expectations in strategic factor markets.
+
+### Mathematical Programming
+- Field: OR&MANSCI
+- Articles: 1
+
+- [A first-order method for constrained nonconvex-nonconcave minimax optimization](https://doi.org/10.1007/s10107-026-02415-4)
+  - DOI: 10.1007/s10107-026-02415-4
+  - Authors: Zhaosong Lu; Xiangyuan Wang
+  - Published: 2026-08-25
+  - Crossref journal: Mathematical Programming
+  - Abstract:
+    Abstract We study a class of constrained nonconvex-nonconcave minimax optimization problems in which the inner maximization involves potentially complex constraints. Under the assumption that the inner problem of a novel lifted minimax reformulation satisfies a local Kurdyka-Łojasiewicz (KL) condition, we show that the maximal function of the original problem enjoys a local generalized Hölder smoothness property. We also propose a sequential convex programming (SCP) method for solving constrained optimization problems and establish its convergence rate under a local KL condition. Leveraging these results, we develop an inexact proximal gradient method for the original minimax problem, where the inexact gradient of the maximal function is computed via the SCP method applied to a locally KL-structured subproblem. Finally, we establish complexity guarantees for the proposed method in computing an approximate stationary point of the original minimax problem.
+
+### Public Administration
+- Field: PUB SEC
+- Articles: 1
+
+- [Negotiating Presence: The Dynamics of Passive Representation Among Ultra‐Orthodox Women in Public Organizations](https://doi.org/10.1111/padm.70086)
+  - DOI: 10.1111/padm.70086
+  - Authors: Maayan Davidovitz; Rachel Gali Cinamon
+  - Affiliations: The Lester and Sally Entin Faculty of Humanities, School of Education Tel Aviv University Tel Aviv Israel
+  - Published: 2026-08-25
+  - Crossref journal: Public Administration
+  - Abstract:
+    ABSTRACT Studies in representative bureaucracy have focused on whether passive representation translates into active representation. We shift this analytical lens by conceptualizing passive representation not as a static demographic condition or a preliminary stage, but as a dynamic organizational process. Drawing on 15 in‐depth interviews and a focus group with 14 ultra‐Orthodox women serving in mid‐ and senior‐level public positions in Israel, we examine how passive representation is enacted, negotiated, and gradually institutionalized in male‐dominated settings. Findings show how women's underrepresentation structures their entry and advancement through informal expectations and gendered networks, and how women “negotiate presence” by building legitimacy through heightened professionalism, creative networking in the face of gender segregation, and strategic engagement with supportive leaders. Through mentoring and gate‐opening practices, our participants created ripple effects that increased access for others over time. We argue that passive representation is a relational and evolving mechanism shaped by role interpretations and organizational constraints, reshaping access and participation even without formal policy changes.
+
+### Public Management Review
+- Field: PUB SEC
+- Articles: 2
+
+- [Gender inequality at the street level explained: redoing gender through informal practices](https://doi.org/10.1080/14719037.2026.2723226)
+  - DOI: 10.1080/14719037.2026.2723226
+  - Authors: Ofri Shalev Greenman; Einat Lavee
+  - Affiliations: University of Haifa
+  - Published: 2026-08-25
+  - Crossref journal: Public Management Review
+
+- [Contingent capacity: navigating organizational dependency in Dutch municipal energy transitions](https://doi.org/10.1080/14719037.2026.2720043)
+  - DOI: 10.1080/14719037.2026.2720043
+  - Authors: Negin Salimi; Stijn van Hiele
+  - Affiliations: Wageningen University and Research
+  - Published: 2026-08-25
+  - Crossref journal: Public Management Review
+
+### Risk Analysis
+- Field: SOC SCI
+- Articles: 2
+
+- [The Reverse Risk Register Approach to Understanding Systemic Factors in Risk Analysis and Management Case Studies](https://doi.org/10.1111/risa.70332)
+  - DOI: 10.1111/risa.70332
+  - Authors: Shital Thekdi; Terje Aven
+  - Affiliations: Robins School of Business University of Richmond Richmond Virginia USA; Faculty of Science and Technology University of Stavanger Stavanger Norway
+  - Published: 2026-08-25
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Although recent developments have improved clarity on the characteristics of high‐quality risk science, there is recognition that many of those characteristics relate to specific tasks taken by the risk analyst. However, the effectiveness of risk analysis and management often relies on both internal risk team activities and other external systemic factors. This article leverages reports on past risk events to develop new knowledge on systemic factors that have frequently appeared in connection with major risk events, including whistleblower dynamics, lack of accountability, financial aspects, corruption or fraudulent behavior, scientific disagreement, and political influence and lobbying. Such factors are not typically addressed in existing risk study quality indicators or in training and professional expectations for risk analysts. We explore this issue by introducing the reverse risk register concept to study the role of those factors in past risk events. We utilize the analysis presented in this article to support several areas for risk analyst training and guidance. The findings of this article suggest that although these systemic factors are not typically within the risk analyst's professional responsibilities, awareness and standardized thinking about these areas will improve the risk analyst's perspective within their professional duties. The findings can also help risk analysts, decision‐makers, and managers consider whether such factors are present in their organizations and how their presence might influence the risk management process or the risk itself. This article will be of interest to risk analysts, industry professionals, and policymakers.
+
+- [Multiscale Wildfire‐Evacuation Modeling: Assessing Differential Access to Safe Egress in Marin County, CA](https://doi.org/10.1111/risa.70338)
+  - DOI: 10.1111/risa.70338
+  - Authors: Saemi Chang; Louise Comfort; Kenichi Soga; Pengshun Li; Yanglan Wang
+  - Affiliations: Graduate School of Energy and Environment Korea University Seoul Republic of Korea; Department of Civil and Environmental Engineering University of California Berkeley California USA
+  - Published: 2026-08-25
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Wildfire evacuation outcomes vary due to interactions among fire progression, human behavior, and traffic dynamics. Most models treat these factors separately, leaving a gap in integrated approaches. This study develops a tri‐coupled framework linking fire spread, multichannel communications, and agent‐based traffic modeling. The framework integrates a fire model, a communications model capturing varied cognition times, and a spatial‐queue traffic model, applied to three Marin County communities. Using a multi‐scalar strategic action fields perspective (macro, meso, and micro), the analysis shows how asynchronous communication, background traffic, and localized behaviors interact to shape outcomes. Evacuation efficiency depends on communication timing and coordination, with cognitive delays producing nonlinear congestion. Peak traffic reduces capacity, underscoring the need for governance mechanisms separating emergency from routine flows. At the community level, demographic, infrastructural, and temporal characteristics shape performance, requiring geographically targeted strategies. Micro‐level analyses highlight the disproportionate impact of everyday responsibilities, such as child pickup, on congestion, emphasizing behavioral realism in planning. The study offers implications for embedding adaptive communication, dynamic traffic management, and behavioral insights into institutionalized crisis information governance. The findings reveal that evacuation capacity functions as a form of access to safety, unevenly distributed by communications access, mobility constraints, and network characteristics. Linking these to continuous, data‐driven evaluation can enhance wildfire preparedness while creating scalable models for other hazard‐prone regions, advancing resilience and equity in evacuation systems.
+
+### Work and Stress
+- Field: PSYCH (WOP-OB)
+- Articles: 2
+
+- [What is the role of direct and indirect participation in organisational occupational health interventions? A configural perspective](https://doi.org/10.1080/02678373.2026.2722052)
+  - DOI: 10.1080/02678373.2026.2722052
+  - Authors: Susanne Tafvelin; Marta Roczniewska; Ole Henning Sørensen; Michael Baumgartner; Karina Nielsen; Johan Simonsen Abildgaard; Kasper Edwards; Ulrica von Thiele Schwarz
+  - Affiliations: Umeå University; Karolinska Institutet; National Research Centre for the Working Environment (NFA); University of Bergen; University of Sheffield; Copenhagen Business School; Technical University of Denmark (DTU); Mälardalen University
+  - Published: 2026-08-25
+  - Crossref journal: Work &amp; Stress
+
+- [Intervention outcomes in practice: an exploratory study of natural organisational intervention case studies](https://doi.org/10.1080/02678373.2026.2722054)
+  - DOI: 10.1080/02678373.2026.2722054
+  - Authors: Kevin Rui-Han Teoh; Rashpal Dhensa-Kahlon; Marit Christensen; Karina Nielsen
+  - Affiliations: Birkbeck Business School, Birkbeck, University of London, Clore Management Centre; School of Psychological Sciences, Birkbeck, University of London; Norwegian University of Science and Technology; Institute of Work Psychology, The University of Sheffield
+  - Published: 2026-08-24
+  - Crossref journal: Work &amp; Stress
