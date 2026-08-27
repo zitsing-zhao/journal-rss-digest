@@ -11059,12 +11059,299 @@
       "abs_journal_title": "Journal of Management Studies",
       "published_date": "2026-08-24",
       "first_seen": "2026-08-26T06:58:51.920041+00:00"
+    },
+    "10.1108/ijopm-02-2026-0176": {
+      "title": "Top management team stability and firm operational efficiency: a structural inertia perspective",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-08-28",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1287/opre.2025.2006": {
+      "title": "A Novel Adaptive Testing Scheme for Multidisease Testing",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1287/mnsc.2024.04439": {
+      "title": "Disintermediation Governance and Complementor Innovation: An Empirical Look at Amazon.com",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1057/s41267-026-00904-4": {
+      "title": "Correction: The world is your office: how work from anywhere boosts talent, productivity and innovation",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1007/s11192-026-05791-y": {
+      "title": "Poor bibliometric studies do not make bibliometrics poor science: a response to Ellegaard",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1007/s11192-026-05786-9": {
+      "title": "Limited western circulation of Soviet scientometrics: the case of Naukometriya",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1007/s11192-026-05792-x": {
+      "title": "Generative AI bias against scientific novelty: a cautionary tale from a small-sample evaluation of research proposals",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1007/s11192-026-05783-y": {
+      "title": "Evaluating automated refereeing with heterogeneous LLM panels",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1007/s11192-026-05781-0": {
+      "title": "Context-dependent leadership in global health science: Brazil's role across North–South, South–South, and triangular collaboration models (2010–2019)",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/01621459.2026.2719860": {
+      "title": "Semi-pessimistic Reinforcement Learning",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/01621459.2026.2721737": {
+      "title": "Second-Order Sparse Sufficient Dimension Reduction with Applications to Quadratic Discriminant Analysis",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/01621459.2026.2723310": {
+      "title": "Robust Regression under Adversarial Contamination: Theory and Algorithms for the Welsch Estimator",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/01621459.2026.2723402": {
+      "title": "Quantile regression for censored data with a cure fraction",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/01621459.2026.2724031": {
+      "title": "Principal-Agent Hypothesis Testing",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/01621459.2026.2721401": {
+      "title": "Group Sequential Design with Posterior and Posterior Predictive Probabilities",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/01621459.2026.2721735": {
+      "title": "Estimating the Number of Components in Finite Mixture Models via Variational Approximation",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/01621459.2026.2725126": {
+      "title": "Dose-Exposure-Response Modeling: Methods and Practical Implementation, 2nd ed",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/01621459.2026.2723404": {
+      "title": "Complete Sample Likelihood Estimation and Inference for Single and Multi-Stage Sample Surveys",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/01621459.2026.2724030": {
+      "title": "A General Latent Embedding Approach for Modeling Non-uniform High-dimensional Sparse Hypergraphs with Multiplicity",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1093/jopart/muag027": {
+      "title": "Civil Servants and Democratic Backsliding: The Role of Managerial Signals",
+      "journal": "Journal of Public Administration Research and Theory",
+      "abs_journal_title": "Journal of Public Administration Research and Theory",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1111/jpim.70052": {
+      "title": "A Temporal Perspective on Corporate Venture Capital Investments' Potential to Drive Innovation",
+      "journal": "Journal of Product Innovation Management",
+      "abs_journal_title": "Journal of Product Innovation Management",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1108/ijopm-10-2025-0996": {
+      "title": "Rules in the light, voices in the dark: exploring pressures and exploitation disclosure behaviour in ready-made garment suppliers",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1287/opre.2025.2457": {
+      "title": "Network Relaxations for Combinatorial Bilevel Optimization Under Linear Interactions",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1287/opre.2025.1994": {
+      "title": "Constant-Factor Algorithms for Revenue Management with Consecutive Stays",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1287/mnsc.2023.03801": {
+      "title": "Managing Perishable Inventory Systems with Positive Lead Times: Inventory Position vs. Projected Inventory Level",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1287/mnsc.2025.02314": {
+      "title": "Centralization vs. Decentralization: First Evidence from the Laboratory",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1057/s41267-026-00894-3": {
+      "title": "Public institutions, governance capability, and platform internationalization: institutional substitution at home and abroad",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1057/s41267-026-00898-z": {
+      "title": "National identity rhetoric under bilateral geopolitical tensions: evidence from Taiwanese MNEs",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1287/isre.2024.1718": {
+      "title": "Unveiling the Impact of Delegated Voting on Decentralized Autonomous Organizations",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1111/1756-2171.70065": {
+      "title": "Distributional Effect of Insurer Competition on Premiums: Evidence From the Employer‐Sponsored Health Insurance Market",
+      "journal": "The RAND Journal of Economics",
+      "abs_journal_title": "RAND Journal of Economics",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1111/ehr.70155": {
+      "title": "Life, Death, and Migration in the Early Modern City: The Urban Historical Demography of WürzburgJandeVries, (Cambridge University Press, 2026. Pp. 304. ISBN 9781009641517. Hbk £95)",
+      "journal": "The Economic History Review",
+      "abs_journal_title": "Economic History Review",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1002/sej.70042": {
+      "title": "Decomposing venture evaluation: Learning about belief formation",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1007/s11192-026-05772-1": {
+      "title": "Evaluating the impact of quality-related (QR) funding and other determinants on higher education efficiency in England",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1111/risa.70320": {
+      "title": "Silver Spoons in Toxic Soups: Predictors of Protective Action in Affluent Neighborhoods near a Contaminated Research Facility",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/00343404.2026.2713475": {
+      "title": "Demographic change and entrepreneurship across regions",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1080/14719037.2026.2720755": {
+      "title": "Beyond monolithic state logic: how top-down accountability shapes policy implementation",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1002/job.70121": {
+      "title": "When Managing Time Comes at a Cost: A Cross‐Role Resource Tradeoff Perspective on Team Temporal Leadership",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1111/bjir.70079": {
+      "title": "Contract, Labour Law and the Realities of Working Life",
+      "journal": "British Journal of Industrial Relations",
+      "abs_journal_title": "British Journal of Industrial Relations",
+      "published_date": "2026-08-26",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1086/743796": {
+      "title": "Recent Referees",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1086/743444": {
+      "title": "JPE Turnaround Times",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1086/743795": {
+      "title": "Front Matter",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-08-01",
+      "first_seen": "2026-08-27T17:32:32.410679+00:00"
     }
   },
-  "last_run": "2026-08-26T06:58:51.920041+00:00",
+  "last_run": "2026-08-27T17:32:32.410679+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-08-25",
-    "end_date": "2026-08-26"
+    "start_date": "2026-08-26",
+    "end_date": "2026-08-27"
   }
 }
