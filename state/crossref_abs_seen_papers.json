@@ -11346,12 +11346,201 @@
       "abs_journal_title": "Journal of Political Economy",
       "published_date": "2026-08-01",
       "first_seen": "2026-08-27T17:32:32.410679+00:00"
+    },
+    "10.1257/aer.20241765": {
+      "title": "The Environmental Bias of Corporate Income Taxation",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1257/aer.20240664": {
+      "title": "Risk-Sharing Tests and Covariate Shocks: Drought, Floods, and Pests in Uganda",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1257/aer.20240701": {
+      "title": "Rationing by Race",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1257/aer.116.9.3197": {
+      "title": "Presidential Address: Neighborhood Effects and Missing Markets for Opportunity",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1257/aer.20230768": {
+      "title": "Optimal Public Transportation Networks: Evidence from the World's Largest Bus Rapid Transit System in Jakarta",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1257/aer.20241404": {
+      "title": "Marriage, Fertility, and Cultural Integration in Italy",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1257/aer.20241087": {
+      "title": "Manipulation-Robust Prediction",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1257/aer.20241001": {
+      "title": "Intergenerational Impacts of Secondary Education: Experimental Evidence from Ghana",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1257/aer.116.9.i": {
+      "title": "Front Matter",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1257/aer.20240756": {
+      "title": "Defying Distance? The Provision of Medical Services in the Digital Age",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1257/aer.20240404": {
+      "title": "Corporate Tax Cuts, Firm Growth, and Workers' Earnings",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1257/aer.20240579": {
+      "title": "Contextually Private Mechanisms",
+      "journal": "American Economic Review",
+      "abs_journal_title": "American Economic Review",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1093/restud/rdag097": {
+      "title": "Public Employee Pensions and Municipal Insolvency",
+      "journal": "Review of Economic Studies",
+      "abs_journal_title": "Review of Economic Studies",
+      "published_date": "2026-08-28",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1111/puar.70175": {
+      "title": "Toward a Gender Sensitive and Locally Rooted co‐Production Approach: Insights From Implementing Child Stunting Eradication Program in Indonesia",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-08-28",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1287/mnsc.2024.05042": {
+      "title": "Public Enforcement and Initial Public Offering Reporting Quality in Weak Institutional Environments: Evidence from a Random Experiment in China",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-28",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1287/mnsc.2024.06477": {
+      "title": "Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA’s Medical Device Clearance Policy",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-08-28",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1287/isre.2022.0377": {
+      "title": "Learning to be Proficient? A Structural Model of User Dynamic Engagement in eHealth Behavioral Interventions",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-08-28",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1080/02678373.2026.2718053": {
+      "title": "Changes in work-related boredom and their affective and behavioural consequences: the moderating role of job control",
+      "journal": "Work &amp; Stress",
+      "abs_journal_title": "Work and Stress",
+      "published_date": "2026-08-28",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1080/14719037.2026.2724517": {
+      "title": "Can cooperation between a city and a region lead to a robust solution during a polycrisis? – the case of Czechia",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-08-28",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1080/01621459.2026.2680161": {
+      "title": "“Rebuilding” Statistics in the Age of AI: Culture, Infrastructure, and Training",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-28",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1080/01621459.2026.2725280": {
+      "title": "Transfer Learning for Covariance Matrix Estimation: Optimality and Adaptivity",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-08-28",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1111/puar.70194": {
+      "title": "Issue Information",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1111/puar.70183": {
+      "title": "Celebrating 85 Years",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1111/puar.70182": {
+      "title": "American Society for Public Administration Code of Ethics",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1177/00031224261464586": {
+      "title": "How Norms Depend on the Presence and Status of Observers: The Relational Contingency of Everyday Behaviors in 90 Societies",
+      "journal": "American Sociological Review",
+      "abs_journal_title": "American Sociological Review",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1080/00076791.2026.2721885": {
+      "title": "The City’s Defense: The Bank of England and the Remaking of Economic Governance, 1914–1939",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
+    },
+    "10.1080/00076791.2026.2720667": {
+      "title": "Black power vs. white capital:\n                    <i>Obsolescing political legitimacy and the unravelling of colonial capitalism in Northern Rhodesia</i>",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-08-27",
+      "first_seen": "2026-08-28T18:28:43.201283+00:00"
     }
   },
-  "last_run": "2026-08-27T17:32:32.410679+00:00",
+  "last_run": "2026-08-28T18:28:43.201283+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-08-26",
-    "end_date": "2026-08-27"
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-28"
   }
 }
