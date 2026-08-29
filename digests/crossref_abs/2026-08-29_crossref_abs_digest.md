@@ -1,0 +1,861 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-08-29
+
+Generated at: 2026-08-29 12:34 UTC
+Crossref date mode: `created`
+Window: `2026-08-28` to `2026-08-29`
+New papers: 117
+
+## AJG 4*
+
+### American Journal of Sociology
+- Field: SOC SCI
+- Articles: 1
+
+- [From Suites to Streets: Professional Expertise and the Organizational Pursuit of Social and Systemic Integration​](https://doi.org/10.1086/743819)
+  - DOI: 10.1086/743819
+  - Authors: Christof Brandtner; Krystal Laryea
+  - Published: 2026-08-28
+  - Crossref journal: American Journal of Sociology
+
+### Public Administration Review
+- Field: PUB SEC
+- Articles: 1
+
+- [Coordination Costs and Homelessness Housing Form Choice](https://doi.org/10.1111/puar.70191)
+  - DOI: 10.1111/puar.70191
+  - Authors: Edmund Poku Adu; Julius A. Nukpezah
+  - Affiliations: Department of Government, Law, and Policy Arkansas State University Jonesboro Arkansas USA; Department of Political Science and Public Administration Mississippi State University Starkville Mississippi USA
+  - Published: 2026-08-28
+  - Crossref journal: Public Administration Review
+  - Abstract:
+    ABSTRACT Local implementers have discretion in selecting forms of housing for the homeless, yet the determinants of these choices remain poorly understood. Using the institutional collective action (ICA) framework, this study examines California's Homekey program to assess how coordination demands shape decisions among hotel conversions, multifamily acquisitions, and modular or new construction. Drawing on binary logistic, generalized estimating equation (GEE), and multinomial logistic models, we find that larger projects and those designated as permanent housing are significantly more likely to pursue hotel conversions. Housing authorities—owing to their specialized missions and lower form‐specific coordination costs—are over six times more likely than cities to select multifamily acquisition. Local vacancy constraints further steer implementers away from modular or new construction and toward hotel conversions. These results demonstrate that implementation form is not a neutral technical decision but an institutional response to coordination challenges embedded in intergovernmental and interorganizational contexts.
+
+## AJG 4
+
+### International Economic Review
+- Field: ECON
+- Articles: 1
+
+- [Connectivity and Selective Rural Migration](https://doi.org/10.1111/iere.70102)
+  - DOI: 10.1111/iere.70102
+  - Authors: Lin Ma; Yuan Mei; Qunfeng Wu; Mingzhi (Jimmy) Xu
+  - Affiliations: Singapore Management University, Singapore; Peking University Beijing China
+  - Published: 2026-08-28
+  - Crossref journal: International Economic Review
+  - Abstract:
+    ABSTRACT How does infrastructure shape rural development? Using household panel data from a nationally representative sample of Chinese villages, matched to high‐resolution highway maps, we find that road expansion between 2000 and 2015 operates mainly through reallocation, with less productive farmers scaling down or exiting and more productive farmers remaining and expanding. We quantify the aggregate and distributional consequences in a dynamic spatial equilibrium model with heterogeneous households and endogenous migration. Improved connectivity not only accelerates urbanization but also increases aggregate rural output by 2.2%–5.3% in the long run, even as the rural workforce declines.
+
+### Journal of Economic Literature
+- Field: ECON
+- Articles: 111
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r1)
+  - DOI: 10.1257/jel.46.2.412.r1
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Rachel Croson of University of Texas at Dallas reviews “Economics and Psychology: A Promising New Cross-Disciplinary Field” by Bruno S. Frey, Alois Stutzer,. The EconLit Abstract of the reviewed work begins “Ten papers present a broad view of the interface between economics and psychology. Papers discuss economics and psychology--developments and issues (Bruno S. Frey and Alois Stutzer); conditional cooperation--behavioral regularities from the lab and the field and their policy implications (Simon Gachter); a survey of economic theories and field evidence on prosocial behavior (Stephan Meier); why women and men trust others (Iris Bohnet); neuroeconomics--illustrated by the study of ambiguity aversion (Colin F. Camerer, Meghana Bhatt, and Ming Hsu); happiness and public policy--a challenge to the profession (Richard Layard); what happiness research can tell us about self-control problems and utility misprediction (Stutzer and Frey); the relevance of procedural utility for economics (Matthias Benz); the helping hand--a brief anatomy (Felix Oberholzer-Gee); and efficient social engineering and realistic cognitive modeling--a psychologist's thoughts (Ralph Hertwig). Frey is Professor of Economics at the University of Zurich. Stutzer is Assistant Professor in the Faculty of Business and Economics at the University of Basel. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r10)
+  - DOI: 10.1257/jel.46.2.412.r10
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Frank Cowell of London School of Economics reviews “The Persistence of Poverty: Why the Economics of the Well-Off Can't Help the Poor” by Charles Karelis,. The EconLit Abstract of the reviewed work begins “Examines the persistence of poverty in the individual sense--why poor people stay poor. Discusses what poverty is; behavioral factors in poverty; some theories; the inefficiency argument; a new way to rationalize the conduct that prolongs and worsens poverty; responses to challenges and questions; policy--what we should do differently if we believe that marginal utility is increasing amid scarcity; and economic justice reconsidered. Karelis is Research Professor of Philosophy at George Washington University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r11)
+  - DOI: 10.1257/jel.46.2.412.r11
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    David N. Margolis of Paris School of Economics reviews “The Natural Survival of Work: Job Creation and Job Destruction in a Growing Economy” by Pierre Cahuc, Andre Zylberberg,. The EconLit Abstract of the reviewed work begins “Considers how to manage the unemployment that results from the desirable churning of the economy, drawing on recent economic research and citing examples from France, the United States, the United Kingdom, and elsewhere. Explores the extent and the necessity of the process of job destruction and job creation. Dissects the logic of job creation. Studies the management of the risks generated by the great magnitude of shifts in employment and in the workforce. Examines education, training, and employment policy. Cahuc is Professor of Economics at the University of Paris 1, Pantheon-Sorbonne, Professor at the Ecole Polytechnique, and Research Fellow at EUREQua, CREST, CEPR, and IZA. Zylberberg is Research Director at CNRS, Professor of Economics at the Ecole Polytechnique, and Research Fellow at EUREQua-University of Paris 1, Pantheon-Sorbonne. Select bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r12)
+  - DOI: 10.1257/jel.46.2.412.r12
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Maria Cancian of University of Wisconsin reviews “Reshaping the American Workforce in a Changing Economy” by Harry J. Holzer, Demetra Smith Nightingale,. The EconLit Abstract of the reviewed work begins “Ten papers, originally presented at a conference held at the Urban Institute in Washington, D.C., in November 2005, review empirical evidence on labor force trends and various policy options that suggest important directions for workforce policy over the next few decades and beyond. Papers discuss whether a great labor shortage is coming--replacement demand in the global economy (Richard B. Freeman); an overview of U.S. workforce development policy in 2005 (Burt S. Barnow and Demetra Smith Nightingale); career-focused education and training for youth (Robert I. Lerman); higher education policies generating the twenty-first century workforce (Sarah E. Turner); employment and training policies--new directions for less-skilled adults (Paul Osterman); overcoming employment barriers--strategies to help the “hard to employ” (Dan Bloom and David Butler); immigration policy and human capital (George J. Borjas); policies to promote labor force participation of older people (Alicia H. Munnell); income supports for workers and their families--earnings supplements and health insurance (Gary Burtless); and work-family policies (Jane Waldfogel). Holzer is a professor of Public Policy at Georgetown University. Nightingale is a principal research scientist at the Institute for Policy Studies at Johns Hopkins University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r13)
+  - DOI: 10.1257/jel.46.2.412.r13
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Christopher Maxwell of Boston College reviews “The Bottom Line: Observations and Arguments on the Sports Business” by Andrew Zimbalist,. The EconLit Abstract of the reviewed work begins “Explores the basic dilemmas and dynamics of the sports industry. Focuses on team management, finances, and value; league structure, design, and performance; stadiums--financing, mega-events, and economic development; antitrust and labor relations; college sports and gender equity; and media and the regulation of steroids. Zimbalist is Robert A. Woods Professor of Economics at Smith College. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r14)
+  - DOI: 10.1257/jel.46.2.412.r14
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Ross Levine of Brown University and NBER reviews “Volatility and Growth” by Philippe Aghion, Abhijit Banerjee,. The EconLit Abstract of the reviewed work begins “Proposes an explanation of persistent macroeconomic volatility and its effect on growth--an explanation that highlights the role of credit constraints. Sketches a simple model that explains why lenders impose limits on how much firms can borrow. Introduces productivity shocks into the so-called AK model of endogenous growth and into the Schumpeterian model of endogenous growth, and investigates how volatility affects growth in these frameworks. Reviews the existing empirical evidence on volatility and growth. Introduces credit constraints into the Schumpeterian model and describes how they result in a reduced growth rate in the most financially underdeveloped economies. Presents empirical evidence that the growth rate is in fact substantially reduced in less financially developed countries and that productivity shocks have a bigger impact on growth in these countries. Demonstrates how volatility can emerge endogenously in a world where credit constraints sometimes bind. Studies endogenous volatility in an open-economy framework, analyzes the impact of a capital account liberalization, and draws some policy conclusions. Presents a third-generation model of currency crises. Aghion is Robert C. Waggoner Professor of Economics at Harvard University. Banerjee is Ford Foundation Professor of Economics at Massachusetts Institute of Technology and the Director of the Poverty Action Lab. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r15)
+  - DOI: 10.1257/jel.46.2.412.r15
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Mohsin S. Khan of International Monetary Fund reviews “The Arab Economies in a Changing World” by Marcus Noland, Howard Pack,. The EconLit Abstract of the reviewed work begins “Considers the historical performance of the Arab economies and their future prospects, focusing on the problem of how to successfully employ a large cohort of young people reaching working age. Discusses growth, productivity, and income; welfare, happiness, and discontent; the demographic challenge and the role of globalization; religion, institutions, and growth; economic policies and their effects; attitudes, interest groups, and reform; global engagement; risk, credibility, and supply response; and authoritarianism, uncertainty, and prospects for change. Noland is Senior Fellow with the Peter G. Peterson Institute for International Economics. Pack is Professor of Business and Public Policy and Professor of Economics at the Wharton School, University of Pennsylvania. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r16)
+  - DOI: 10.1257/jel.46.2.412.r16
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Steven Nafziger of Williams College reviews “Comrades! A History of World Communism” by Robert Service,. The EconLit Abstract of the reviewed work begins “Examines the history of communism throughout the world. Discusses communism before Marxism; Marx and Engels; communism in Europe; Russian variations; the October Revolution; the first communist state; European revolutions; communism and its discontents; the communist international; probing America; making sense of communism; the USSR in torment; the Soviet model; world strategy; Stalinist ideology; inside the parties; friends and foes; communism in the World War; forcing the peace; the cold war and the Soviet Bloc; the Yugoslav road; Western Europe; warring propaganda; the Chinese revolution; organizing communism; against and for reform; detente and expansion; China convulsed; revolutionary Cuba; communist order; rethinking communism; Europe east and west; reduced expectations; the last of the communist revolutions; roads from communism; anticommunism in Eastern Europe; China's capitalist communism; perestroika; the comrades' departure; and accounting for communism. Service is a fellow of the British Academy and Professor of Russian History at Oxford University. Select bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r17)
+  - DOI: 10.1257/jel.46.2.412.r17
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    William A. Masters of Purdue University reviews “Global Warming and Agriculture: Impact Estimates by Country” by William R. Cline,. The EconLit Abstract of the reviewed work begins “Examines the likely impact of global warming at the country level, especially in the developing world, and considers the asymmetry between potentially severe agricultural damages in many poor countries and milder effects in rich countries. Discusses a brief survey of existing literature; key issues--carbon fertilization, irrigation, and trade; country-level climate projections; country-level agricultural impact estimates; and dynamic considerations. Appendices provide further information on global grids, regions, and climate models. Cline is Senior Fellow jointly at the Center for Global Development and the Peterson Institute for International Economics. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r2)
+  - DOI: 10.1257/jel.46.2.412.r2
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Harold Cole of University of Pennsylvania reviews “The Economics of the Great Depression: A Twenty-First Century Look Back at the Economics of the Interwar Era” by Randall E. Parker,. The EconLit Abstract of the reviewed work begins “Explores the evolution and the current state of economic literature on the Great Depression. Presents interviews with twelve American economists who have made substantial contributions to the twenty-first century understanding of the economics of the Great Depression: Peter Temin, Ben Bernanke, James Hamilton, Robert Lucas, Lee Ohanian, Christina Romer, Barry Eichengreen, Stephen Cecchetti, James Butkiewicz, Michael Bordo, Charles Calomiris, and Allan Meltzer. Parker is Professor of Economics at East Carolina University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r3)
+  - DOI: 10.1257/jel.46.2.412.r3
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    William J. Baumol of New York University reviews “Inside the Economist's Mind: Conversations with Eminent Economists” by Paul A. Samuelson, William A. Barnett,. The EconLit Abstract of the reviewed work begins “Sixteen papers present interviews with some of the world's most important economists, whose work contributed to the evolution of modern economic thought. Papers include interviews with Wassily Leontief; David Cass; Robert E. Lucas Jr.; Janos Kornai; Franco Modigliani; Milton Friedman; Paul A. Samuelson; Paul A. Volcker; Martin Feldstein; Christopher A. Sims; Robert J. Shiller; Stanley Fischer; Jacques Dreze; Thomas J. Sargent; Robert Aumann; and James Tobin and Robert J. Shiller on the “Yale Tradition” in macroeconomics. Samuelson is Professor Emeritus of Economics and Institute Professor at the Massachusetts Institute of Technology. Barnett is Oswald Distinguished Professor of Macroeconomics at the University of Kansas. No index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r4)
+  - DOI: 10.1257/jel.46.2.412.r4
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Bumba Mukherjee of University of Notre Dame reviews “Democratic Processes and Financial Markets: Pricing Politics” by William Bernhard, David Leblang,. The EconLit Abstract of the reviewed work begins “Examines the conditions under which democratic events, including elections, cabinet formations, and government dissolutions, affect asset markets. Discusses democratic processes and political risk--evidence from foreign exchange markets; when markets party--stocks, bonds, and cabinet formations; the cross-national financial consequences of political predictability; cabinet dissolutions and interest rate behavior; bargaining and bonds--the process of coalition formation and the market for government debt in Austria and New Zealand; time, shares, and Florida--the 2000 presidential election and stock market volatility; polls and pounds--exchange rate behavior and public opinion in Britain; and political predictability and financial market behavior. Bernhard is Associate Professor of Political Science at the University of Illinois at Urbana-Champaign. Leblang is Professor of Political Science and Research Associate at the Institute for Behavioral Sciences at the University of Colorado. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r5)
+  - DOI: 10.1257/jel.46.2.412.r5
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Peter Schmidt of Michigan State University reviews “Advanced Robust and Nonparametric Methods in Efficiency Analysis: Methodology and Applications” by Cinzia Daraio, Leopold Simar,. The EconLit Abstract of the reviewed work begins “Provides a systematic and comprehensive treatment of recent developments in efficiency analysis in order to overcome the drawbacks of the traditional nonparametric approach. Discusses the measurement of efficiency; statistical inference in nonparametric frontier estimation; nonparametric robust estimators--partial frontiers; conditional measures of efficiency; economies of scale, scope, and experience in the Italian motor vehicle sector; age, scale, and concentration effects in a public research system; and exploring the effects of manager tenure, fund age, and their interaction. Daraio is with the Institute of Informatics and Telematics and in the Department of Electrical Systems and Automation, School of Engineering, University of Pisa. Simar is in the Institute of Statistics at the Catholic University of Louvain. Author and subject indexes.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r6)
+  - DOI: 10.1257/jel.46.2.412.r6
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Frank Levy of Massachusetts Institute of Technology reviews “Falling Behind: How Rising Inequality Harms the Middle Class” by Robert H. Frank,. The EconLit Abstract of the reviewed work begins “Explores how increased concentrations of income and wealth at the top of the economic pyramid have set off “expenditure cascades” that raise the cost of achieving many basic goals for the middle class. Discusses recent changes in income and wealth inequality; inequality, happiness, and health; envy or context; the rising cost of adequate; why we care about rank; what types of consumption are most sensitive to context; how middle-class families can afford to keep up; smart for one, dumb for all; looking ahead; and lessons for public policy. Frank is with the Johnson Graduate School of Management at Cornell University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r7)
+  - DOI: 10.1257/jel.46.2.412.r7
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Blake LeBaron of Brandeis University reviews “Complex Adaptive Systems: An Introduction to Computational Models of Social Life” by John H. Miller, Scott E. Page,. The EconLit Abstract of the reviewed work begins “Provides an account of complex adaptive social systems, focusing on the key tools and ideas that have emerged in the field since the mid-1990s, as well as the techniques needed to investigate such systems. Discusses complexity in social worlds; modeling; emergence; computation as theory; why agent-based objects; a basic framework; complex adaptive social systems in one dimension; social dynamics; evolving automata; some fundamentals of organizational decision making; and social science in between. Miller is Professor of Economics and Social Sciences in the Department of Social and Decision Sciences at Carnegie Mellon University and Research Professor at the Santa Fe Institute. Page is Professor of Complex Systems, Political Science, and Economics at the University of Michigan and an external faculty member at the Santa Fe Institute. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r8)
+  - DOI: 10.1257/jel.46.2.412.r8
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Christopher L. Foote of Federal Reserve Bank of Boston reviews “Economic Turbulence: Is a Volatile Economy Good for America?” by Clair Brown, John Haltiwanger, Julia Lane,. The EconLit Abstract of the reviewed work begins “Explores the real impact of economic volatility on American workers and businesses. Discusses economic turbulence--what, who, and how much; the industries; firms, their workers, and their survival; firm turbulence and job ladders; turbulence and worker career paths; economic turbulence and middle-income jobs; and conclusions and implications for policy. Brown is Professor of Economics and Director of the Center for Work, Technology, and Society at the University of California, Berkeley. Haltiwanger is Professor of Economics at the University of Maryland. Lane is Senior Vice President and Director of the Economics, Labor, and Population Department at the National Opinion Research Center at the University of Chicago. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.2.412.r9)
+  - DOI: 10.1257/jel.46.2.412.r9
+  - Published: 2008-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Elizabeth U. Cascio of Dartmouth College reviews “Passing the Torch: Does Higher Education for the Disadvantaged Pay Off across the Generations?” by Paul Attewell, David E. Lavin,. The EconLit Abstract of the reviewed work begins “Examines the experiences of students admitted under the City University of New York's “open admissions” policy and their children to determine whether widening college access can accelerate social mobility across generations. Discusses passing the torch--an overview; thirty years later--educational attainments; how families fared--the college payoff; breaking the cycle of disadvantage--maternal education and children's success; how college changes a mother's parenting and affects her children's educational outcomes; dads and neighborhoods--their contributions to children's success; mass higher education and its critics; and the bottom line--the difference that open access makes. Attewell and Lavin are Professors of Sociology at the Graduate Center of the City University of New York. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r1)
+  - DOI: 10.1257/jel.46.1.151.r1
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    John J. Siegfried of Vanderbilt University reviews “The Economic Naturalist: In Search of Explanations for Everyday Enigmas” by Robert H. Frank,. The EconLit Abstract of the reviewed work begins “Utilizes economic terms to answer questions about everyday oddities, in order to reveal how economic principles really operate. Discusses rectangular milk cartons and cylindrical soda cans--the economics of product design; free peanuts and expensive batteries--supply and demand in action; why equally talented workers often earn different salaries and other mysteries of the world of work; why some buyers pay more than others--the economics of discount pricing; arms races and the tragedy of the commons; the myth of ownership; decoding marketplace signals; the economic naturalist hits the road; psychology meets economics; the informal market for personal relationships; and two originals. Frank is Henrietta Louis Johnson Professor of Management and Professor of Economics at Cornell University's Johnson Graduate School of Management. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r10)
+  - DOI: 10.1257/jel.46.1.151.r10
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Robert I. Lerman of American University and Urban Institute reviews “Working and Poor: How Economic and Policy Changes Are Affecting Low-Wage Workers” by Rebecca M. Blank, Sheldon H. Danziger, Robert F. Schoeni,. The EconLit Abstract of the reviewed work begins “Fourteen papers examine how economic and policy changes over the last twenty-five years have affected the well-being of low-wage workers and their families. Papers discuss exploring gender differences in employment and wage trends among less-skilled workers; wage trends among disadvantaged minorities; the macroeconomy and determinants of the earnings of less-skilled workers; the impact of technological change on low-wage workers--a review; the changing pattern of wage growth for low-skilled workers; the level and composition of consumption over the business cycle--the role of “quasi-fixed” expenditures; recent trends in resource sharing among the poor; economic conditions and children's living arrangements; how tax policies affect low-income workers; state spending on social assistance programs over the business cycle; temporary agency employment as a way out of poverty; child support and the economy; unemployment insurance over the business cycle--whether it meets the needs of less-skilled workers; and how health insurance is affected by the economy--public and private coverage among low-skilled adults in the 1990s. Blank is Codirector of the National Poverty Center and Joan and Sanford Weill Dean of Public Policy at the Gerald R. Ford School of Public Policy, Henry Carter Adams Collegiate Professor of Public Policy, and Professor of Economics at the University of… Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r11)
+  - DOI: 10.1257/jel.46.1.151.r11
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Paul Goren of Spencer Foundation reviews “The True Genius of America at Risk: Are We Losing Our Public Universities to De Facto Privatization?” by Katharine C. Lyall, Kathleen R. Sell,. The EconLit Abstract of the reviewed work begins “Explores public higher education finance at the beginning of the twenty-first century, focusing on the privatization of America's public universities. Sets the economic and administrative context of contemporary public higher education in the United States. Outlines the current dialogue among university presidents, scholars, and policy analysts about the future of American public higher education. Offers empirical evidence of the beginnings of de facto privatization in the United States and internationally. Describes a set of possible scenarios that could be used to reformulate public higher education in the United States if states remain minority shareholders. Discusses the ways in which state budgeting and revenue practices could be reformed to dampen the cycles of boom and bust. Proposes a new model for a public purpose university. Lyall is President Emeritus of the University of Wisconsin System and Professor of Economics at the University of Wisconsin, Madison. Sell is Senior Lecturer in the Integrated Liberal Studies Program at the University of Wisconsin, Madison. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r12)
+  - DOI: 10.1257/jel.46.1.151.r12
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Guido Porto of World Bank reviews “The Impact of Globalization on the World's Poor: Transmission Mechanisms” by Machiko Nissanke, Erik Thorbecke,. The EconLit Abstract of the reviewed work begins “Eleven papers critically and rigorously analyze how different manifestations of globalization tend to influence poverty in the developing world. Papers discuss channels and policy debate in the globalization-inequality-poverty nexus; the relationship between income inequality, poverty, and globalization; globalization and poverty trends across regions--the role of variation in the income and inequality elasticities of poverty; looking beyond averages in the trade and poverty debate; globalization and rural poverty; globalization, production, and poverty; the role of information in technology adoption under poverty; trade openness and vulnerability in Central and Eastern Europe; globalization, poverty, inequality, and insecurity--some insights from the economics of happiness; explaining threshold effects of globalization on poverty--an institutional perspective; and globalization, poverty, and inequality--what is the relationship and what can be done. Nissanke is Professor of Economics at the School of Oriental and African Studies, University of London. Thorbecke is H. E. Babcock Professor of Economics Emeritus and Graduate School Professor at Cornell University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r13)
+  - DOI: 10.1257/jel.46.1.151.r13
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Silvia Weyerbrock of Princeton University reviews “The European Economy since 1945: Coordinated Capitalism and Beyond” by Barry Eichengreen,. The EconLit Abstract of the reviewed work begins “Presents an account of the extraordinary development of Europe's economy since the end of World War II. Discusses mainsprings of growth; the postwar situation; dawn of the golden age; Eastern Europe and the planned economy; the integration of Western Europe; the apex of the golden age; mounting payments problems; declining growth, rising rigidities; the collapse of central planning; integration and adjustment; Europe at the turn of the twenty-first century; and the future of the European model. Eichengreen is George C. Pardee and Helen N. Pardee Professor of Economics and Political Science at the University of California, Berkeley. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r14)
+  - DOI: 10.1257/jel.46.1.151.r14
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    William F. Maloney of World Bank reviews “Technology, Institutions, and Economic Growth” by Richard R. Nelson,. The EconLit Abstract of the reviewed work begins “Critiques prevailing growth theory; develops an evolutionary theory of economic growth within which prevailing institutions both strongly affect the rate and direction of change, and themselves evolve; considers the unevenness of economic progress; and highlights some issues for institutional reform. Discusses the agenda for growth theory; the Asian miracle and modern growth theory; recent evolutionary theorizing about economic change; the nature and evolution of human know-how; institutions as a factor shaping economic performance; the uneven evolution of human know-how; physical and social technologies and their evolution; the problem of market bias in modern capitalist economies; and how recent moves to make basic scientific research a “market-oriented” activity threaten to erode the scientific commons. Nelson is George Blumenthal Professor of International and Public Affairs, Business, and Law, Emeritus, at Columbia University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r15)
+  - DOI: 10.1257/jel.46.1.151.r15
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    A. Abigail Payne of McMaster University reviews “Good and Plenty: The Creative Successes of American Arts Funding” by Tyler Cowen,. The EconLit Abstract of the reviewed work begins “Explores the debate over government funding for the arts in an attempt to make each position intelligible and sympathetic to the other side. Discusses warring perspectives; indirect subsidies--the genius of the American system; whether direct subsidies are too conservative; and copyright and the future of decentralized incentives. Cowen is Holbert C. Harris Chair of Economics at George Mason University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r16)
+  - DOI: 10.1257/jel.46.1.151.r16
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Alison Watts of Southern Illinois University reviews “Complex Social Networks” by Fernando Vega-Redondo,. The EconLit Abstract of the reviewed work begins “Provides a systematic and self-contained account of the fast-developing theory of complex social networks. Discusses complex networks--basic theory; epidemic diffusion; neighborhood effects in diffusion and play; searching in social networks; and search, diffusion, and play in coevolving networks. Vega-Redondo is Professor of Economics at the University of Alicante and the University of Essex. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r2)
+  - DOI: 10.1257/jel.46.1.151.r2
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    David B. Audretsch of Max Planck Institute of Economics reviews “Prophet of Innovation: Joseph Schumpeter and Creative Destruction” by Thomas K. McCraw,. The EconLit Abstract of the reviewed work begins “Presents a biography of Joseph Alois Schumpeter (1883-1950), focusing on his relationship with capitalist innovation. Concentrates on l'enfant terrible, 1883-1926--innovation and economics; the adult, 1926-39--capitalism and society; and the sage, 1939-50--innovation, capitalism, and history. McCraw is Straus Professor of Business History Emeritus at Harvard Business School. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r3)
+  - DOI: 10.1257/jel.46.1.151.r3
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Neil Gandal of Tel Aviv University and CEPR reviews “Handbook on Hedonic Indexes and Quality Adjustments in Price Indexes: Special Application to Information Technology Products” by Jack Triplett,. The EconLit Abstract of the reviewed work begins “Reviews the methods employed in price indexes to adjust for quality change--“conventional” quality adjustment methods and hedonic price indexes. Discusses quality adjustments in conventional price index methodologies; hedonic price indexes and hedonic quality adjustments; when hedonic and matched model indexes give different results, and why; principles for estimating a hedonic function--choosing the variables; estimating hedonic functions--other research issues; and some objections to hedonic indexes. Triplett is with the Brookings Institution and is a consultant to the OECD. No index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r4)
+  - DOI: 10.1257/jel.46.1.151.r4
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Gregory Lewis of Harvard University reviews “Snipers, Shills, and Sharks: eBay and Human Behavior” by Ken Steiglitz,. The EconLit Abstract of the reviewed work begins “Examines the phenomenon of eBay through the perspective of auction theory. Discusses English and Vickrey auctions; the move from Vickrey to eBay; eBay strategies observed; what would happen if eBay were first-price; the signals that sellers send; prices; and transgressions. Appendices include further information on auctions, including some mathematical background. Steiglitz is Professor of Computer Science at Princeton University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r5)
+  - DOI: 10.1257/jel.46.1.151.r5
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Peter N. Ireland of Boston College reviews “The Causes, Costs and Compensations of Inflation: An Investigation of Three Problems in Monetary Theory” by William Oliver Coleman,. The EconLit Abstract of the reviewed work begins “Explores the causes, costs, and benefits of inflation. Discusses the theory of the demand for money; a theory of the supply of money; the Quantity Theory of Money; inflation without a quantity of money--the Wicksellian approach; technological risk and the social function of real debt; monetary risk and the social function of money debt; the Quantity Theory in a risky world; Wicksellianism in a risky world; the cost of inflation as the cost of moneylessness; and the cost of inflation as the cost of creditlessness. Coleman is Reader at the Australian National University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r6)
+  - DOI: 10.1257/jel.46.1.151.r6
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Robert M. Stern of University of Michigan reviews “Case Studies in US Trade Negotiation. Volume 2. Resolving Disputes” by Charan Devereaux, Robert Z. Lawrence, Michael D. Watkins,. The EconLit Abstract of the reviewed work begins “Examines the debate surrounding the nature and effects of foreign direct investment (FDI) and multinational corporations (MNCs), and analyzes these phenomena in order to resolve the long-standing stalemate. Discusses a better approach to understanding FDI and MNCs; defining the subject--subtleties and ambiguities; from obscurity to international economic powerhouse--the evolution of MNCs; heterogeneity--the many kinds of FDI and MNCs and their disparate effects; perceptions and economic ideologies; why companies invest overseas; where MNCs invest and don't invest, and why; effects of FDI on less developed countries--vagaries, variables, negatives, and positives; why and how MNCs have altered international trade; MNCs versus the nation-state--whether sovereignty has been outsourced; the international regulation of MNCs--why there is no multilateral FDI regime; the case for FDI and MNCs; the case against FDI and MNCs; an agnostic conclusion--“it depends”; and an agenda for future action. Cohen is Professor in the School of International Service at American University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r7)
+  - DOI: 10.1257/jel.46.1.151.r7
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Richard Sylla of New York University reviews “Capital Ideas Evolving” by Peter L. Bernstein,. The EconLit Abstract of the reviewed work begins “Sequel to Capital Ideas: The Improbable Origins of Modern Wall Street published in 1992. Explores how financial theories have become integrated into the fundamental structure of the daily business of investing money. Considers the attack on capital ideas by the proponents of behavioral finance, and especially on the idea of the efficient market hypothesis. Describes the current view of Paul Samuelson, an expert on market behavior and portfolio formation. Presents the views of other well-known academics who are involved in developing practical applications for the core ideas of finance theory, including Robert C. Merton, Andrew Lo, Robert Shiller, Bill Sharpe, Harry Markowitz, and Myron Scholes. Examines the success of a few institutional investors who have developed their strategies from a base composed of the principles of capital ideas. Bernstein is President of Peter L. Bernstein, Incorporated, an investment consulting firm. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r8)
+  - DOI: 10.1257/jel.46.1.151.r8
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Halla Yang of Harvard University reviews “Investors and Markets: Portfolio Choices, Asset Prices, and Investment Advice” by William F. Sharpe,. The EconLit Abstract of the reviewed work begins “Explores the effects of investors interacting in capital markets and the implications for those who advise individuals concerning savings and investment decisions. Presents the fundamental ideas of asset pricing in a one-period (two-date) equilibrium setting in which investors agree on the probabilities of alternative future states of the world. Considers investors' preferences. Analyzes the characteristics of equilibrium and introduces the concept of a complete market. Examines the characteristics of equilibrium and optimal portfolio choice. Confronts situations in which people disagree about the likelihood of different future outcomes. Discusses investment products. Presents advice about investment decisions. Sharpe is STANCO 25 Professor of Finance, Emeritus, at the Graduate School of Business, Stanford University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.46.1.151.r9)
+  - DOI: 10.1257/jel.46.1.151.r9
+  - Published: 2008-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Henning Bohn of University of California, Santa Barbara reviews “The Political Future of Social Security in Aging Societies” by Vincenzo Galasso,. The EconLit Abstract of the reviewed work begins “Explores the future political sustainability of social security in six countries with rapidly aging populations. Discusses crucial features of the social security debate--a cross-country analysis; theories of welfare state expansion and retrenchment; assessing the political sustainability of social security systems--a theoretical framework; the future of the social security system in France; the future of the social security system in Germany; political sustainability and reforms in Italy; political sustainability and the silent reform in Spain; political sustainability in a redistributive system--the United Kingdom; political sustainability in a redistributive system--the United States; and demographics, political sustainability, and reform options--a cross-country comparison. Galasso is Associate Professor of Economics at Bocconi University, Research Affiliate at the Centre for Economic Policy Research, and Research Fellow at the Innocenzo Gasparini Institute for Economic Research. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r1)
+  - DOI: 10.1257/jel.45.4.1024.r1
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Jonathan B. Wight of University of Richmond reviews “Micro Mischief: A Dia Fenner Economic Thriller” by Michael L. Walden, M. E. Whitman Walden,. The EconLit Abstract of the reviewed work begins “Fictional tale explores the adventures of two professors seeking a sustainable fuel source for America. Combines an entertaining mystery story with insights into the American microeconomy. Michael L. Walden is Reynolds Distinguished Professor at North Carolina State University. M. E. Whitman Walden is an educator and artist. No index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r10)
+  - DOI: 10.1257/jel.45.4.1024.r10
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Angus Deaton of Princeton University reviews “How to Spend $50 Billion to Make the World a Better Place” by Bjorn Lomborg,. The EconLit Abstract of the reviewed work begins “Nine papers, resulting from the Copenhagen Consensus conference held in May 2004, explore various aspects of the debate regarding global priorities, focusing on some of the world's most pressing challenges, what can be done, how much it will cost, and what benefits will result. Papers discuss meeting the challenge of global warming (William R. Cline); communicable diseases (Anne Mills and Sam Shillcutt); the challenge of reducing the global incidence of civil war (Paul Collier and Anke Hoeffler); the move toward a new consensus for addressing the global challenge of the lack of education (Lant Pritchett); the challenge of poor governance and corruption (Susan Rose-Ackerman); hunger and malnutrition (Jere R. Behrman, Harold Alderman, and John Hoddinott); population and migration (Philip Martin); the water challenge (Frank Rijsberman); and subsidies and trade barriers (Kym Anderson). Lomborg is Adjunct Professor and Director of the Copenhagen Consensus Center at the Copenhagen Business School. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r11)
+  - DOI: 10.1257/jel.45.4.1024.r11
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Esther Duflo of Ecole D'economie de Paris reviews “How to Spend $50 Billion to Make the World a Better Place” by Bjorn Lomborg,. The EconLit Abstract of the reviewed work begins “Nine papers, resulting from the Copenhagen Consensus conference held in May 2004, explore various aspects of the debate regarding global priorities, focusing on some of the world's most pressing challenges, what can be done, how much it will cost, and what benefits will result. Papers discuss meeting the challenge of global warming (William R. Cline); communicable diseases (Anne Mills and Sam Shillcutt); the challenge of reducing the global incidence of civil war (Paul Collier and Anke Hoeffler); the move toward a new consensus for addressing the global challenge of the lack of education (Lant Pritchett); the challenge of poor governance and corruption (Susan Rose-Ackerman); hunger and malnutrition (Jere R. Behrman, Harold Alderman, and John Hoddinott); population and migration (Philip Martin); the water challenge (Frank Rijsberman); and subsidies and trade barriers (Kym Anderson). Lomborg is Adjunct Professor and Director of the Copenhagen Consensus Center at the Copenhagen Business School. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r12)
+  - DOI: 10.1257/jel.45.4.1024.r12
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Michael Sherris of University of New South Wales reviews “The Econometrics of Individual Risk: Credit, Insurance, and Marketing” by Christian Gourieroux, Joann Jasiak,. The EconLit Abstract of the reviewed work begins “Provides a complete econometric methodology for quantifying and managing the individual risks faced by banks, insurers, and marketers. Discusses dichotomous risk; estimation; score performance; count data models; durations; endogenous selection and partial observability; transition models; multiple scores; serial dependence in longitudinal data; and management of credit risk. Gourieroux is Director of the Laboratory for Finance and Insurance at the Center for Research in Economics and Statistics, Paris, and Professor at the University of Toronto. Jasiak is Associate Professor of Economics at York University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r13)
+  - DOI: 10.1257/jel.45.4.1024.r13
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Zvi Bodie of Boston University reviews “Social Security and the Stock Market: How the Pursuit of Market Magic Shapes the System” by Alicia H. Munnell, Steven A. Sass,. The EconLit Abstract of the reviewed work begins “Explores the use of equities to help solve the Social Security financing problem. Discusses the creation of modern retirement income systems; the retirement income challenge facing the United States; lessons from the United Kingdom--privatization and a safety net; lessons from Australia--mandating “add-on” individual accounts; and lessons from Canada--investing the trust fund in equities. Munnell is Director of the Center for Retirement Research at Boston College and Peter F. Drucker Professor in Management Sciences at Boston College's Carroll School of Management. Sass is Associate Director for Research at the Center for Retirement Research at Boston College. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r14)
+  - DOI: 10.1257/jel.45.4.1024.r14
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Lucie Schmidt of Williams College reviews “Poverty and Discrimination” by Kevin Lang,. The EconLit Abstract of the reviewed work begins “Explores what we know about poverty and discrimination and how we know about them, using rigorous statistical analysis and economic thinking. Discusses who is poor; the evolution of poverty policy; trends in poverty; labor market policies; family composition; concentrated poverty; education and education reform; welfare reform; discrimination--theory; race discrimination in the labor market; race discrimination and education; race discrimination in customer markets and the judicial system; sex discrimination; and an agenda to decrease poverty and discrimination. Lang is Chairman of the Boston University Department of Economics. Author and subject indexes.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r15)
+  - DOI: 10.1257/jel.45.4.1024.r15
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Ajay Mahal of Harvard University reviews “The Economics of Infectious Disease” by Jennifer A. Roberts,. The EconLit Abstract of the reviewed work begins “Nineteen papers introduce economists to the major challenges of work in infectious disease, including the most important professions, concepts, terminology, and methodological approaches. Discusses an introduction to the economics of infectious disease; choosing the first-line drug for malaria treatment--how cost-effectiveness analysis can inform policy; economic issues related to antimicrobial resistance; economic evaluation of HIV prevention activities--dynamic challenges for cost-effectiveness analysis; modeling the cost-effectiveness of the new interventions--how technological change can be incorporated; complexity and the attribution of cost to hospital-acquired infection (HAI); decision analysis of strategies to deal with noncompliance with tuberculosis treatment; the economic evaluation of HAI; the socioeconomic burden of influenza--costs of illness and “willingness to pay” in a publicly funded health care system; willingness to pay for insecticide-treated mosquito nets in Surat, India; disentangling value--assessing the benefits of containing antimicrobial resistance; economics of animal health--implications for public health; risk assessment models, economic analysis, and food safety policy; transaction cost economics and principal-agent theory--insights into investigations of outbreaks of infectious diseases; governance arrangements for the control of infectious disease; evaluating U.S. food safety regulations which use benefit and cost information; global governance of international public health--the role of international regulatory cooperation; trade and infectious disease outbreaks--ensuring public health… Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r16)
+  - DOI: 10.1257/jel.45.4.1024.r16
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Kate Antonovics of University of California, San Diego reviews “Chutes and Ladders: Navigating the Low-Wage Labor Market” by Katherine S. Newman,. The EconLit Abstract of the reviewed work begins “Explores whether the poorest workers and families in America benefited from the tight labor markets and good economic times of the late 1990s. Discusses lives in the long run; the best-case scenario; high flyers, low riders, and the “up but not out” club; all in the family; the national picture; streetwise economics; work and welfare in the boom years; dreams deferred--aspirations and obstacles in work and family life; and opening the gates. Newman is Malcolm Forbes Class of 1941 Professor of Sociology and Public Affairs at Princeton University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r17)
+  - DOI: 10.1257/jel.45.4.1024.r17
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Andrew Zimbalist of Smith College reviews “Diamond Dollars: The Economics of Winning in Baseball” by Vince Gennaro,. The EconLit Abstract of the reviewed work begins “Presents new analytical approaches and tools that can help Major League Baseball make the transition to the new management model. Discusses the Major League Baseball business model; the power of winning; winning by the numbers; player valuation--the model; player value--loaded with options; valuing Babe Ruth in his Yankee years; the economics of player development; a strategic approach to assembling the roster; a brand-building approach; the value of fan loyalty; and a new management model. Gennaro is a consultant and author. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r18)
+  - DOI: 10.1257/jel.45.4.1024.r18
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Robert E. Hall of Stanford University reviews “Lectures on Antitrust Economics” by Michael D. Whinston,. The EconLit Abstract of the reviewed work begins “Provides an account of the economics behind antitrust law based on lectures delivered at the Universidad Torcuato Di Tella. Provides an introduction to U.S. antitrust laws. Discusses price fixing; horizontal mergers; and exclusionary vertical contracting. Whinston is Robert E. and Emily H. King Professor of Business Institutions in the Department of Economics at Northwestern University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r19)
+  - DOI: 10.1257/jel.45.4.1024.r19
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    W. Kip Viscusi of Vanderbilt University reviews “Government Failure versus Market Failure: Microeconomics Policy Research and Government Performance” by Clifford Winston,. The EconLit Abstract of the reviewed work begins “Explores the effectiveness of different types of policy interventions and how economists can help improve public policy. Discusses the methodological perspective; market power--antitrust policy and economic regulation; social regulation--imperfect information and externalities; public production; policies to correct market failures--synthesis and assessment; market failure and social goals policies--common failures and conflicts; policy recommendations motivated by policymakers' learning; and microeconomics policy research and the policy community. Winston is Senior Fellow in Economic Studies at the Brookings Institution and Senior Fellow at the AEI-Brookings Joint Center. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r2)
+  - DOI: 10.1257/jel.45.4.1024.r2
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Julie A. Nelson of Tufts University reviews “Adam's Fallacy: A Guide to Economic Theology” by Duncan K. Foley,. The EconLit Abstract of the reviewed work begins “Explains the core ideas of the great economists, beginning with Adam Smith and ending with Joseph Schumpeter. Discusses Adam Smith's vision; gloomy science; the severest critic; on the margins; voices in the air; and grand illusions. Foley is Leo Model Professor of Economics at the New School for Social Research. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r20)
+  - DOI: 10.1257/jel.45.4.1024.r20
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Kevin F. Hallock of Cornell University and NBER reviews “Personnel Economics in Imperfect Labour Markets” by Pietro Garibaldi,. The EconLit Abstract of the reviewed work begins “Discusses topics in personnel economics--the use of economics for studying human resource issues. Explores three basic possibilities for wage determination--wage setting by the firm, wage bargaining by the firm and worker, and wage determination made outside the firm and the worker by collective agreements. Discusses the optimal skill ratio; the hours-employment trade-off; temporary and permanent contracts; managing adverse selection in recruiting; optimal compensation schemes; pay for performance with wage constraints; relative compensation and efficiency wage; training and human capital investment; training investment in imperfect labor markets; job destruction; further issues in employment protection legislation; and teams and group incentives. Garibaldi is Professor of Economics at the University of Turin. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r21)
+  - DOI: 10.1257/jel.45.4.1024.r21
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Marianne Page of University of California, Davis reviews “Soldiers to Citizens: The G.I. Bill and the Making of the Greatest Generation” by Suzanne Mettler,. The EconLit Abstract of the reviewed work begins “Explores the G.I. Bill and the impact of its education and training provisions on World War II veterans. Discusses civic generation; creating the G.I. bill; citizen soldiers; the extent to which the program actually expanded veterans' access to advanced education and training; conveying messages; fostering social opportunity; creating active citizens; making democracy; mobilizing for equal rights; how women fared under the G.I. Bill; and the unfinished work. Mettler is Alumni Associate Professor of Political Science at the Maxwell School of Citizenship and Public Affairs, Syracuse University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r22)
+  - DOI: 10.1257/jel.45.4.1024.r22
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Mark R. Brawley of McGill University reviews “From the Corn Laws to Free Trade: Interests, Ideas, and Institutions in Historical Perspective” by Cheryl Schonhardt-Bailey,. The EconLit Abstract of the reviewed work begins “Examines the interacting forces that brought about the abrupt beginning of Britain's free-trade empire, focusing on the repeal of Britain's Corn Laws in 1846. Discusses interests, ideas, and institutions simplified--a demand- and supply-side perspective; lessons in lobbying for free trade--to concentrate or not; nationalizing the interest in free trade; the waning demand for protection--portfolio diversification of landowners; votes in Parliament, dissected into ideology, party, and interests; conservatives who sounded like trustees but voted like delegates; repeal in historical context--key parliamentary debates on the Corn Laws before 1846; free trade's last hurdle--why the lords acquiesced; how local newspapers affected members of Parliament's voting on repeal; and concluding thoughts on repeal and the road to democratic reform in nineteenth-century Britain. Schonhardt-Bailey is Senior Lecturer in Political Science at the London School of Economics. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r23)
+  - DOI: 10.1257/jel.45.4.1024.r23
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Eric Werker of Harvard University reviews “Transforming the Development Landscape: The Role of the Private Sector” by Lael Brainard,. The EconLit Abstract of the reviewed work begins “Nine papers, originally presented at a conference held at the Aspen Institute in August 2005, provide an in-depth analysis of the role of the private sector in development. Discusses the private sector in the fight against global poverty (Lael Brainard and Vinca LaFleur); unleashing entrepreneurship (Warrick Smith); leveraging the development impact of business in the fight against global poverty (Jane Nelson); blended value investment and a living return (Timothy Freundlich); whether governments and aid agencies should subsidize small firms (Ross Levine); venture capital for development (Alan J. Patricof and Julie E. Sunderland); innovative financing options and the fight against global poverty--what's new and what's next (David de Ferranti); a pragmatic view of partnerships between official donors and multinational corporations (Larry Cooley); and financing for global health (Rajiv Shah and Sylvia Mathews). Brainard is Vice President and Director of the Global Economy and Development Program, and Bernard E. Schwartz Chair in International Economics, at the Brookings Institution. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r24)
+  - DOI: 10.1257/jel.45.4.1024.r24
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Martha Starr of American University reviews “Accelerating the Globalization of America: The Role for Information Technology” by Catherine L. Mann, Catherine L. Mann,. The EconLit Abstract of the reviewed work begins “Examines the pattern of globalization of the information technology (IT) sector and how globalization reduces the prices of these products. Discusses why an analysis of accelerating globalization starts with the more narrow focus on IT products and the IT and communications industries. Presents data and analysis on the linkages between U.S. firms and global marketplaces for IT production and demand. Traces how the globalization of the IT industry and the widespread diffusion of IT products have affected the U.S. economy. Considers international trade in IT products and examines the results of deeper globalization of IT. Discusses the implications of the synergies between trade and technological change for U.S. workers. Explores the next phase of global integration--innovation itself, including R&amp;D, venture capital funding, and the pipeline of research professionals. Describes a policy agenda that could ensure that the benefits of technology-enhanced globalization continue and are widely shared. Mann is Senior Fellow at the Institute for International Economics. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r25)
+  - DOI: 10.1257/jel.45.4.1024.r25
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Thomas W. Hertel of Purdue University reviews “Delivering on Doha: Farm Trade and the Poor” by Kimberly Ann Elliott,. The EconLit Abstract of the reviewed work begins “Explores why progress on agriculture is politically the key to breaking the Doha Round impasse, and why a breakthrough on agriculture by itself would yield only a modest “development” result. Addresses the problems posed by how rich countries support their agricultural sectors. Investigates the potential distributional effects of an agricultural agreement by examining current trade patterns involving developing countries and agriculture. Studies the elements of a potential deal. Elliott is Senior Fellow at the Institute for International Economics. Glossary; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r26)
+  - DOI: 10.1257/jel.45.4.1024.r26
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Thomas M. Power of University of Montana reviews “Environmental Economics for Tree Huggers and Other Skeptics” by William K. Jaeger,. The EconLit Abstract of the reviewed work begins “Explores the importance of economic analysis for understanding the causes of environmental problems, and provides the reader with the tools necessary to see ways to solve these problems. Discusses economic analysis in brief; trade-offs, efficiency, and demand; production, profit, and supply; today versus tomorrow; market failures; sustainability--stocks and flows; economic growth and development; international trade; rules of the game; pollution policies; land and forest policies; the fishery predicament; policy failures; valuing the environment; project and policy evaluation; and economics and morality. Jaeger is Associate Professor in the Department of Agricultural and Resource Economics at Oregon State University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r27)
+  - DOI: 10.1257/jel.45.4.1024.r27
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Edwin S. Mills of Northwestern University reviews “Don't Call It Sprawl: Metropolitan Structure in the Twenty-First Century” by William T. Bogart,. The EconLit Abstract of the reviewed work begins “Explores the causes and implications of the changing metropolitan structure, placing the current policy debate over urban sprawl into a broader analytical and historical context. Discusses the world of today; making things better--the importance of flexibility; evolving metropolitan structure and urban sprawl; trading places; downtown--a place to work, a place to visit, and a place to live; how zoning matters; love the density, hate the congestion; homogeneity and heterogeneity in local government; and the world of tomorrow. Bogart is Dean of Academic Affairs at York College of Pennsylvania. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r28)
+  - DOI: 10.1257/jel.45.4.1024.r28
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Edwin S. Mills of Northwestern University reviews “Green Cities: Urban Growth and the Environment” by Matthew E. Kahn,. The EconLit Abstract of the reviewed work begins “Explores what is and is not known about the environmental consequences of urban growth. Discusses measuring urban environmental quality; the urban environmental Kuznets curve; income growth and the urban environment--the role of the market; income growth and greener governance; population growth and the urban environment; spatial growth--the environmental cost of sprawl in the United States; and achieving urban and global sustainability. Kahn is Professor of Economics at the Fletcher School at Tufts University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r29)
+  - DOI: 10.1257/jel.45.4.1024.r29
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Susan Skeath of Wellesley College reviews “Getting Your Way: Strategic Dilemmas in the Real World” by James M. Jasper,. The EconLit Abstract of the reviewed work begins “Explores how strategy works in the real world and offers advice on how to employ strategy in various life situations. Analyzes the role of threat in engagements. Studies goals and the diversity of human desires. Examines the kinds of human competencies and physical resources that are helpful in strategic interaction. Considers players as audiences interpreting actions and words. Addresses the arenas within which interaction occurs. Discusses dilemmas and how to think about them. Jasper is editor of Contexts magazine. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r3)
+  - DOI: 10.1257/jel.45.4.1024.r3
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Ilyana Kuziemko of National Bureau of Economic Research reviews “New Foundations of Cost-Benefit Analysis” by Matthew D. Adler, Eric A. Posner,. The EconLit Abstract of the reviewed work begins “Reconceptualizes the idea of cost-benefit analysis (CBA) and presents practical implications for how government agencies should undertake these studies. Discusses the traditional economic case for CBA and why it has failed. Provides philosophical foundations for CBA. Presents a defense of CBA in comparison with alternative decision procedures. Explores the political and institutional context for administrative decision procedures. Describes ways in which textbook CBA needs to be modified. Addresses recurrent objections to CBA. Adler is Professor of Law at the University of Pennsylvania. Posner is Professor of Law at the University of Chicago. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r4)
+  - DOI: 10.1257/jel.45.4.1024.r4
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Anusha Chari of University of Michigan reviews “Boom-Bust Cycles and Financial Liberalization” by Aaron Tornell, Frank Westermann,. The EconLit Abstract of the reviewed work begins “Examines the underlying distortions that affect financial markets in middle-income countries (MICs), how their interaction makes fluctuations in MICs so large in magnitude relative to high-income countries, and why the forces that lead to greater growth also generate financial fragility. Presents a road map that connects the main points of the book. Examines the empirical link between liberalization, growth, and crises. Characterizes economic fluctuations in MICs. Presents evidence on the credit market imperfections prevalent in MICs. Presents policy implications. Tornell is Professor of Economics at the University of California, Los Angeles. Westermann is Professor of Economics at the University of Munich. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r5)
+  - DOI: 10.1257/jel.45.4.1024.r5
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Alan Woodland of University of Sydney reviews “Measuring the Restrictiveness of International Trade Policy” by James E. Anderson, J. Peter Neary,. The EconLit Abstract of the reviewed work begins “Presents an approach to the problem of measuring trade restrictiveness that builds on the standard theory of policy reform in open economies. Discusses a nontechnical introduction to measuring trade policy restrictiveness; tariff reform in general equilibrium; the trade restrictiveness index (TRI); the mercantilist trade restrictiveness index (MTRI); trade reform, trade restrictiveness, and tariff structure; trade reform with tariffs and quotas; the TRI and MTRI with quotas; alternative economic environments; aggregating trade restrictions in modeling; a general framework for measuring policy restrictiveness; other policy distortions; alternative reference points; quantity aggregates; and measuring trade restrictiveness in a simple computable general-equilibrium model. Anderson is Neenan Professor of Economics at Boston College. Neary is Professor of Political Economy at University College Dublin. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r6)
+  - DOI: 10.1257/jel.45.4.1024.r6
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Marc-Andreas Muendler of University of California, San Diego and CESifo reviews “Multinational Firms, Innovation and Productivity” by Davide Castellani, Antonello Zanfei,. The EconLit Abstract of the reviewed work begins “Explores how and why firms differ in internationalization, innovation, and productivity, and examines the implications of this diversity within industries. Discusses views on multinational firms and innovation; the double network structure of multinational firms--a review of the evidence; heterogeneity and international involvement; heterogeneity across and within multinational firms; multinational firms and spillovers--theoretical, methodological, and empirical issues; and the search for horizontal spillovers from multinationals--the role of firms' heterogeneity. Castellani is Professor of Applied Economics, and Zanfei is Professor of Industrial Economics, at the University of Urbino. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r7)
+  - DOI: 10.1257/jel.45.4.1024.r7
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Ronald I. McKinnon of Stanford University reviews “Global Imbalances and the Lessons of Bretton Woods” by Barry Eichengreen,. The EconLit Abstract of the reviewed work begins “Explores the important differences between the Bretton Woods system and the structure of the world economy today. Discusses global imbalances and the lessons of Bretton Woods; the anatomy of the gold pool; how to exit a currency peg--Japan and the end of the Bretton Woods system; and sterling's past, dollar's future. Eichengreen is George C. Pardee and Helen N. Pardee Professor of Economics and Political Science at the University of California, Berkeley. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r8)
+  - DOI: 10.1257/jel.45.4.1024.r8
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Devashish Mitra of Syracuse University, NBER, and IZA reviews “US National Security and Foreign Direct Investment” by Edward M. Graham, David M. Marchick,. The EconLit Abstract of the reviewed work begins “Examines foreign direct investment in the United States and the Exon-Florio Law in the current policy context of post-9/11, a worldwide war on terrorism, and new concerns over the economic and political rise of China. Discusses the Exon-Florio Amendment; the economic effects of foreign investment in the United States; national security issues related to investments from China; politicization of the Committee on Foreign Investment in the United States process; and improving the implementation of Exon-Florio. Graham is Senior Fellow at the Institute for International Economics and Adjunct Professor at Columbia University. Marchick is a partner with Covington and Burling. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.4.1024.r9)
+  - DOI: 10.1257/jel.45.4.1024.r9
+  - Published: 2007-11-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Abhijit Banerjee of Massachusetts Institute of Technology reviews “How to Spend $50 Billion to Make the World a Better Place” by Bjorn Lomborg,. The EconLit Abstract of the reviewed work begins “Nine papers, resulting from the Copenhagen Consensus conference held in May 2004, explore various aspects of the debate regarding global priorities, focusing on some of the world's most pressing challenges, what can be done, how much it will cost, and what benefits will result. Papers discuss meeting the challenge of global warming (William R. Cline); communicable diseases (Anne Mills and Sam Shillcutt); the challenge of reducing the global incidence of civil war (Paul Collier and Anke Hoeffler); the move toward a new consensus for addressing the global challenge of the lack of education (Lant Pritchett); the challenge of poor governance and corruption (Susan Rose-Ackerman); hunger and malnutrition (Jere R. Behrman, Harold Alderman, and John Hoddinott); population and migration (Philip Martin); the water challenge (Frank Rijsberman); and subsidies and trade barriers (Kym Anderson). Lomborg is Adjunct Professor and Director of the Copenhagen Consensus Center at the Copenhagen Business School. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r1)
+  - DOI: 10.1257/jel.45.3.742.r1
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Bruno S. Frey of University of Zurich, ETH-Zurich, and CREMA reviews “Economics for Humans” by Julie A. Nelson,. The EconLit Abstract of the reviewed work begins “Explores the relationship between people's ethical choices and economic systems. Discusses tending the body--the history of economics; tending the soul--the defense of “noneconomic values”; bringing body and soul together; love and money--the question of individual motivation; business and ethics--the question of organizational behavior; and keeping body and soul together. Nelson is Senior Research Associate at the Global Development and Environment Institute at Tufts University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r10)
+  - DOI: 10.1257/jel.45.3.742.r10
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Randall Morck of University of Alberta reviews “The Fable of the Keiretsu: Urban Legends of the Japanese Economy” by Yoshiro Miwa, J. Mark Ramseyer,. The EconLit Abstract of the reviewed work begins “Explores and explains the truth about several urban legends concerning the Japanese economy, including the existence of the keiretsu. Discusses the fable of the keiretsu and of the zaibatsu; the myth of the main bank and outside directors; legends of government guidance; and the economic malaise in 1990s Japan. Miwa is Professor of Economics at the University of Tokyo. Ramseyer is Mitsubishi Professor of Japanese Legal Studies at Harvard Law School. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r11)
+  - DOI: 10.1257/jel.45.3.742.r11
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Richard N. Cooper of Harvard University reviews “Monetary Theory and Bretton Woods: The Construction of an International Monetary Order” by Filippo Cesarano,. The EconLit Abstract of the reviewed work begins “Explores the Bretton Woods architecture from the perspective of the history of economics. Discusses international monetary equilibrium and the properties of the gold standard; the international monetary system between the World Wars; the monetary system in economic analysis--the critique of the gold standard; the Great Depression--overturning the state of the art; providing for a new monetary order; the Bretton Woods Agreements; and Bretton Woods and after. Cesarano is Head of the Historical Research Office of the Bank of Italy. Name and subject indexes.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r12)
+  - DOI: 10.1257/jel.45.3.742.r12
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Sebastian Galiani of Washington University in St. Louis reviews “Beyond Survival: Protecting Households from Health Shocks in Latin America” by Cristian C. Baeza, Truman G. Packard,. The EconLit Abstract of the reviewed work begins “Reviews existing and new evidence on the mechanisms and magnitude of the impoverishing effects of health events and the importance of public policy to prevent such impoverishment. Discusses health care systems in Latin America and the Caribbean--functions and organization; health shocks, household welfare, and the risk of poverty; public policy's role in household perception, preparation, and protection against health shocks; the role of alternative risk-pooling arrangements; risk pooling for everyone--the challenges posed by a growing informal economy; and the quest for efficiency and universal coverage--health sector reform in Latin America and the Caribbean. Baeza is Lead Health Policy Specialist, and Packard is Senior Economist, in the Latin America and the Caribbean Region at the World Bank. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r13)
+  - DOI: 10.1257/jel.45.3.742.r13
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Jan De Loecker of New York University reviews “Global Integration and Technology Transfer” by Bernard Hoekman, Beata Smarzynska Javorcik,. The EconLit Abstract of the reviewed work begins “Thirteen papers explore how trade and foreign direct investment (FDI) can help increase economic growth by allowing firms to tap into and benefit from the global pool of knowledge. Papers discuss lessons from empirical research on international technology diffusion through trade and foreign direct investment (Bernard Hoekman and Beata Smarzynska Javorcik); econometric versus case study approaches to technology transfer (Howard Pack); foreign direct investment, linkages, and technology spillovers (Kamal Saggi); plant- and firm-level evidence on “new” trade theories (James R. Tybout); the quantity and quality of knowledge--the impact of openness and foreign R&D on north-north and north-south technology spillovers (Maurice Schiff and Yanling Wang); the knowledge content of machines--north-south trade and technology diffusion (Giorgio Barba Navaretti, Schiff, and Isidro Soloaga); exports and economic performance--evidence from a panel of Chinese enterprises (Aart Kraay); foreign investment and productivity growth in Czech enterprises (Simeon Djankov and Hoekman); technological leadership and the choice of entry mode by foreign investors (Javorcik); whether FDI increases the productivity of domestic firms--in search of spillovers through backward linkages (Javorcik); product quality, productive efficiency, and international technology diffusion--evidence from plant-level panel data (Kraay, Soloaga, and Tybout); market discipline and corporate efficiency--evidence from Bulgaria (Djankov and Hoekman); and innovation in… Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r14)
+  - DOI: 10.1257/jel.45.3.742.r14
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Linda T. M. Bui of Brandeis University reviews “Solar Revolution: The Economic Transformation of the Global Energy Industry” by Travis Bradford,. The EconLit Abstract of the reviewed work begins “Outlines the path by which the transition to solar technology and sustainable energy practices will occur. Discusses the inevitability of solar energy; a new path on the horizon; a brief history of energy; an unsustainable status quo; the field of alternatives; solar energy; modern electric utility economics; the emergence of distributed economics; solar electricity in the real world; tools for acceleration; and facing the inevitable. Bradford is President and Founder of the Prometheus Institute for Sustainable Development. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r15)
+  - DOI: 10.1257/jel.45.3.742.r15
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Roger Bolton of Williams College reviews “Geography and Economy: Three Lectures” by Allen J. Scott,. The EconLit Abstract of the reviewed work begins “Three lectures, which formed the basis of the Clarendon Lectures in Geography and Environmental Studies presented at Oxford University in May 2005, explore several theoretical and practical questions found at the juncture where geography and economy meet. Discusses the division of labor and the ways in which it intertwines with locational outcomes at every scale of analysis; the creative field as a grid of spatial relationships that functions as a powerful stimulus of entrepreneurship and innovation; and the regional bases of economic take-off and development. Scott is Distinguished Professor of Public Policy and Geography at the University of California, Los Angeles. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r2)
+  - DOI: 10.1257/jel.45.3.742.r2
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    David K. Levine of Washington University in St. Louis reviews “Beyond Individual Choice: Teams and Frames in Game Theory” by Michael Bacharach,. The EconLit Abstract of the reviewed work begins “Proposes a revision of game theory that resolves long-standing problems of explanations for human coordination and cooperation. Based on an unfinished book that the author was working on at the time of his death in 2002. Explores variable frame theory and how it can be used to transform pure coordination games into Hi-Lo games. Discusses the place of groups in our life, and in the way we model our life, in terms of a theory of group activity. Considers the evolution of group action. Examines team reasoning. The late Bacharach was Professor of Economics at the University of Oxford. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r3)
+  - DOI: 10.1257/jel.45.3.742.r3
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Isabelle Perrigne of Pennsylvania State University reviews “An Introduction to the Structural Econometrics of Auction Data” by Harry J. Paarsch, Han Hong,. The EconLit Abstract of the reviewed work begins “Explores the empirical analysis of field data from auctions. Discusses an overview of auction theory; Vickrey and English auctions; first-price, sealed-bid, and Dutch auctions; and multi-unit auctions. Appendices include information on transformation of random variables; order statistics; simulation; asymptotic methods; evaluating estimators; estimation strategies; numerical methods; and a high-level programming environment. Includes end-of-chapter exercises and a CD-ROM that contains sample computer code and data sets. Paarsch is Professor of Economics and Robert Jensen Research Fellow at the Henry B. Tippie College of Business, University of Iowa. Hong is Professor of Economics at Duke University. Name and subject indexes.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r4)
+  - DOI: 10.1257/jel.45.3.742.r4
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Andre C. Silva of Universidade Nova de Lisboa reviews “Monetary and Wage Policies in the Euro Area” by Michael Carlberg,. The EconLit Abstract of the reviewed work begins “Studies the interactions between monetary and wage policies in the euro area. Discusses basic models of a monetary union; monetary interactions between Europe and America; wage interactions between Germany and France; monetary and wage interactions--intermediate and advanced models; and rational policy expectations. Carlberg is at Helmut Schmidt University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r5)
+  - DOI: 10.1257/jel.45.3.742.r5
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Bernard Hoekman of World Bank reviews “Economic Justice in an Unfair World: Toward a Level Playing Field” by Ethan B. Kapstein,. The EconLit Abstract of the reviewed work begins “Explores the debate over what constitutes a fairer, more just world economy--a level playing field for global economic transactions. Addresses the distributive complications that lie at the heart of controversies over economic justice. Discusses normative questions about how scarce foreign aid funds should be distributed among nations. Studies issues in migration and labor standards as a way of addressing the broader topic of the conflicts in values that must inevitably arise among the members of an interdependent economic system. Considers relations between multinational firms and developing-world governments, and what might constitute a level playing field between them. Discusses how the major international institutions seem to conceptualize the problem of economic justice in the world today and maps the contours of some politically feasible changes with respect to contemporary economic arrangements. Kapstein is Paul Dubrule Professor of Sustainable Development at INSEAD. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r6)
+  - DOI: 10.1257/jel.45.3.742.r6
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Barry O'Neill of University of California, Los Angeles reviews “Trust and Mistrust in International Relations” by Andrew H. Kydd,. The EconLit Abstract of the reviewed work begins “Uses game theory to investigate the role of trust and mistrust in international relations and the Cold War. Presents a model of trust in the context of the security dilemma. Examines the spiral model, which illustrates how trust can be eroded by competitive behavior. Studies the beginning of the Cold War and the increasing distrust between the United States and the Soviet Union as an instance of this phenomenon. Examines trust and cooperation under hegemony; presents a trust game involving multiple actors, which may have different interests, geographical situations, and relative capabilities; and applies the model to study post-World War II European cooperation between the United States, Germany, and the rest of Europe. Presents a model of reassurance via costly signals in which states can reassure each other by running risks of exploitation by the other side. Analyzes the end of the Cold War in these terms, focusing on the process of reassurance that took place between East and West, as Mikhail Gorbachev tried to reassure the West that the Soviet Union had changed from an expansionist state to a security seeker. Kydd is Associate Professor of Government at Harvard University. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r7)
+  - DOI: 10.1257/jel.45.3.742.r7
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    William M. Gentry of Williams College reviews “Behavioral Public Finance” by Edward J. McCaffery, Joel Slemrod,. The EconLit Abstract of the reviewed work begins “Twelve papers explore several facets of economic life and ask how behavioral research can increase public welfare. Papers discuss the move toward an agenda for behavioral public finance; statistical, identifiable, and iconic victims; distinguishing between cognitive biases; masking redistribution or its absence; mispredicting utility and the political process; hyperopia in public finance; value added tax compliance; trust and taxation; tax evasion--artful or artless dodging; accounting for social security benefits; saving for retirement on the path of least resistance; and second-order rationality. McCaffery is Robert C. Packard Trustee Chair in Law and Political Science at the University of Southern California. Slemrod is Paul W. McCracken Collegiate Professor of Business Economics and Public Policy at the University of Michigan. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r8)
+  - DOI: 10.1257/jel.45.3.742.r8
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Helen Levy of University of Michigan reviews “Medicine and the Market: Equity v. Choice” by Daniel Callahan, Angela A. Wasunna,. The EconLit Abstract of the reviewed work begins “Explores the place of market theory and practice in medicine and health care. Discusses the origins of medicine and the market--from Adam Smith to HMOs; a tale of two cultures--Canada and the United States; the endurance of solidarity--universal health care in Western Europe and elsewhere; the market in developing countries--an ongoing experiment; the market wild card--pharmaceuticals; the value of the market--what the evidence shows; and the future of the market in health care--undercurrents from the past, riptides from the future. Callahan is Director of International Programs, and Wasunna is Associate for International Programs, at the Hastings Center. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.3.742.r9)
+  - DOI: 10.1257/jel.45.3.742.r9
+  - Published: 2007-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Thomas Lemieux of University of British Columbia reviews “The paradox of American unionism: Why Americans like unions more than Canadians do but join much less” by Seymour Martin Lipset, Noah M. Meltz,. The EconLit Abstract of the reviewed work begins “Probes U.S. and Canadian views on a range of subjects related to work, social values, and political institutions to try to understand the apparent paradox that Americans approve of unions more than Canadians do but join them less. Draws on an in-depth survey of over three thousand people, mostly employees, conducted in the two countries. Examines trends in union membership in a number of industrialized countries, highlighting an association between social democratic strength and support for unions. Describes the evolution of trade unions in the United States and Canada from 1901 to 2001. Discusses the social, political, and economic factors that underlie the more robust legislative protection and the much greater strength of unions in Canada than in the United States. Proposes that perceived union power is negatively correlated with union approval and that this relationship explains some of the attitudinal anomalies in the survey data. Measures the extent to which there is a frustrated demand for union membership in the United States. Investigates the contribution of the individual states and provinces to the cross-border unionization gap. Examines the attitudes and behaviors of white-collar workers and professionals toward unions in the United States and Canada. Studies the location and extent… Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r1)
+  - DOI: 10.1257/jel.45.2.429.r1
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Leeat Yariv of CA Institute of Technology reviews “Explorations in Pragmatic Economics: Selected Papers of George A. Akerlof (and Co-Authors)” by George A. Akerlof,. The EconLit Abstract of the reviewed work begins “Twenty previously published papers, all motivated by empirical examples, explore topics in micro- and macroeconomics using models derived from close observation. Papers discuss the market for “lemons,” or the economic consequences of asymmetric information for markets; the economics of caste, work conditions and the “rat race,” and the ways in which indicators can distort equilibrium; discriminatory, status-based wages among tradition-oriented stochastically trading coconut producers; economics and identity; the economics of tagging as applied to the optimal income tax, welfare programs, and manpower planning; an analysis of out-of-wedlock childbearing in the United States; men without children; the economic consequences of cognitive dissonance; the economics of illusion; procrastination and obedience; the economic underworld of bankruptcy for profit; relative wages and the rate of inflation; the microeconomic foundations of a flow-of-funds theory of the demand for money; the consequences of constant threshold-target monitoring of money holdings; jobs as dam sites; labor contracts as partial gift exchange; the fair wage-effort hypothesis and unemployment; a near-rational model of the business cycle, with wage and price inertia; the macroeconomics of low inflation; and behavioral macroeconomics and macroeconomic behavior. Akerlof is Koshland Professor of Economics at the University of California, Berkeley, and the 2001 Nobel Laureate in… Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r10)
+  - DOI: 10.1257/jel.45.2.429.r10
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Deepak Lal of UCLA reviews “Biography of a subject: An evolution of development economics” by Gerald M. Meier,. The EconLit Abstract of the reviewed work begins “Tells the story of the evolution of development economics over the past fifty years. Considers how development economists have tried to understand the forces of development and design appropriate policies in support of these forces; examines the interplay between economic thought and development policy; and relates that evolution of development thought and policy to the achievements and disappointments in the development record. Reviews the heritage of classical growth economics. Examines the analytics of early development economics; early attempts to draw lessons from historical growth experiences in a variety of countries; early development economists' advocacy of centralized government interventions to remedy market failures and an orthodox reaction focusing on government failure and its antidote of neoclassical economics; modern growth theory; the new development economics, which strengthens the microeconomics of development through its emphasis on the economics of information, institutions, and incentives; the role of culture, social capital, and institutions in explanations of economic development; the response of development economics to concerns about globalization, international financial crises, and global economic governance; and the treatment of global trade issues. Considers the future of development economics. Meier is Konosuke Matsushita Professor of International Economics and Policy Analysis, Emeritus, at Stanford University's Graduate School of… Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r11)
+  - DOI: 10.1257/jel.45.2.429.r11
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    David Sibley of U of TX at Austin reviews “Patents: Economics, Policy and Measurement” by Frederic M. Scherer,. The EconLit Abstract of the reviewed work begins “Eighteen papers, all previously published, explore various aspects of the patent system. Papers discuss the economics of the patent system; a geometric interpretation of Nordhaus's theory of optimal patent life; a comment on Edmund Kitch's analysis of exclusive patent rights and monopoly power; the economics of human gene patents; the pharmaceutical industry and world intellectual property standards; economic effects of strengthening pharmaceutical patent protection in Italy; post-TRIPS options for access to patented medicines in developing nations; global welfare in pharmaceutical patenting; firm size, market structure, opportunity, and the output of patented inventions; corporate inventive output, profits, and growth; interindustry technology flows in the United States; demand-pull and technological invention in the work of Jacob Schmookler; the propensity to patent; technology flows matrix estimation; the Office of Technology Assessment and Forecast industry concordance as a means of identifying industry technology origins; exploring the tail of patented invention value distributions; citation frequency and the value of patented inventions; and the innovation lottery. Scherer is Aetna Professor Emeritus at the John F. Kennedy School of Government at Harvard University and Lecturer at the Woodrow Wilson School of Public and International Affairs, Princeton University. Name index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r12)
+  - DOI: 10.1257/jel.45.2.429.r12
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Douglas Irwin of Dartmouth College reviews “Reviving the Invisible Hand: The Case for Classical Liberalism in the Twenty-First Century” by Deepak Lal,. The EconLit Abstract of the reviewed work begins “Explores the drawbacks of the New Dirigisme, and questions the route the current imperial power--the United States--has taken in not wholeheartedly supporting the twin principles of laissez faire and unilateral free trade. Discusses liberal international economic orders; the move from laissez faire to the Dirigiste Dogma; the changing fortunes of free trade; money and finance; poverty and inequality; morality and capitalism; “capitalism with a human face,” and the Greens and global disorder. Lal is James S. Coleman Professor of International Development Studies at the University of California, Los Angeles, and Professor Emeritus of Political Economy at University College London. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r13)
+  - DOI: 10.1257/jel.45.2.429.r13
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Jonathan S. Feinstein of Yale University reviews “The Bourgeois Virtues: Ethics for an Age of Commerce” by Deirdre N. McCloskey,. The EconLit Abstract of the reviewed work begins “Explores the possibility of virtue in American capitalism through a study of the good behavior of the bourgeoisie. Discusses the Christian and feminine virtues--love, faith, and hope; the pagan and masculine virtues--courage and temperance; the androgynous virtues--prudence and justice; systematizing the seven virtues; and the bourgeois uses of the virtues. McCloskey is Distinguished Professor of Economics, History, English, and Communication at the University of Illinois at Chicago. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r14)
+  - DOI: 10.1257/jel.45.2.429.r14
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Stephen Redding of London School of Economics reviews “Entrepreneurship, Geography, and American Economic Growth” by Zoltan J. Acs, Catherine Armington,. The EconLit Abstract of the reviewed work begins “Presents a knowledge spillover theory of entrepreneurship to explain geographic variations in local rates of economic growth. Develops and evaluates the key assumptions of the new growth theory. Examines the regional variation in entrepreneurial activity. Investigates the impact of differences in local human capital resources and agglomeration on local differences in new firm formation rates. Explores how entrepreneurial activity influences economic growth as conditioned by spatial structure. Summarizes the research findings and insights for theory. Examines the potential role of entrepreneurship policy in economic development. Acs is University Professor in the School of Public Policy at George Mason University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r15)
+  - DOI: 10.1257/jel.45.2.429.r15
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    David Figlio of U of FL and NBER reviews “The Economy of Prestige: Prizes, Awards, and the Circulation of Cultural Value” by James F. English,. The EconLit Abstract of the reviewed work begins “Inquires into the cultural economics of prizes and awards in literature and the arts. Draws mainly on examples from the field of literature and from American and British contexts. Provides an overview of the rise and rapid proliferation of prizes over the course of the past century, discussing precursors of the modern cultural prize; the logic of proliferation; and prizes as entertainment. Examines the peculiarities of the awards industry, discussing prize creation; judges for cultural prizes and taste management; and trophies as objects of production and trade. Considers the predominantly negative discourse surrounding cultural prizes and what collective cultural function the prize can serve when so many consequential participants have announced in advance their disdain for its procedures and outcomes. Addresses the game elements in prizes, the unspoken rules and unconscious strategies that structure everything from acceptance speeches to op-ed commentaries. Explores the global economy of cultural prestige, discussing the arts as international sport; the new geography of prestige; and prizes and the politics of world culture. English is Professor and Chair of English at the University of Pennsylvania. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r2)
+  - DOI: 10.1257/jel.45.2.429.r2
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Robert Kennedy of U of MI reviews “A Corporate Solution to Global Poverty: How Multinationals Can Help the Poor and Invigorate Their Own Legitimacy” by George Lodge, Craig Wilson,. The EconLit Abstract of the reviewed work begins “Explores how the managers of the world's multinational corporations can understand and better deal with the threats to their legitimacy. Contends that multinational organizations can invigorate their legitimacy through better use of their resources to reduce poverty in developing countries. Studies the issue of globalization and the challenges to the legitimacy of international companies. Examines the gap between the ideas upon which these corporations rely for authority and the reality that exists around them. Describes the nongovernmental organizations that exploit the gap between themselves and multinational corporations. Addresses the corporate response. Explores the international consensus and institutional structure dealing with the issue of global poverty. Discusses how the wealth gap can be closed; the options that businesses have; how the power of the world's global corporations can be turned toward the goal of reduction of global poverty; and how corporate legitimacy can be enhanced. Lodge is Jaime and Josefina Chua Tiampo Professor of Business Administration Emeritus at Harvard Business School. Wilson is with the International Finance Corporation. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r3)
+  - DOI: 10.1257/jel.45.2.429.r3
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    James M. Boughton of IMF reviews “Reforming the IMF for the 21st Century” by Edwin M. Truman,. The EconLit Abstract of the reviewed work begins “Twenty-eight papers, originally presented at an International Monetary Fund conference in September 2005, address the challenges of IMF reform. Papers focus on the IMF and the international monetary system; governance of the IMF; IMF lending facilities; IMF financial resources; and moving forward. Truman is Senior Fellow with the Institute for International Economics. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r4)
+  - DOI: 10.1257/jel.45.2.429.r4
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Richard Lipsey of Simon Fraser University reviews “Is War Necessary for Economic Growth? Military Procurement and Technology Development” by Vernon W. Ruttan,. The EconLit Abstract of the reviewed work begins “Examines the impact of military and space-related procurement on the commercial development of six general-purpose technologies. Discusses war and economic growth; interchangeable parts and mass production; military and commercial aircraft; nuclear energy and electric power; the computer industry; inventing the Internet; the space industries; and whether war is necessary. Ruttan is Regents Professor Emeritus in the Department of Applied Economics at the University of Minnesota. Author and subject indexes.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r5)
+  - DOI: 10.1257/jel.45.2.429.r5
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Kent Smetters of U of PA reviews “Individual Accounts for Social Security Reform: International Perspectives on the U.S. Debate” by John Turner,. The EconLit Abstract of the reviewed work begins “Examines how individual accounts would work if they were adopted in the United States as part of Social Security reform. Introduces individual accounts, the framework used to analyze them, and the key issue of risk. Surveys the main issues in the social security reform debate and examines social security reform involving individual accounts. Addresses the financial management of individual accounts. Examines labor market issues. Discusses the forms in which individual accounts pay benefits and the taxation of individual accounts. Turner is Senior Policy Advisor at the AARP Public Policy Institute. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r6)
+  - DOI: 10.1257/jel.45.2.429.r6
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Andrew Zimbalist of Smith College reviews “Rumors of Baseball's Demise: How the Balance of Competition Swung and the Critics Missed” by Robert Cull,. The EconLit Abstract of the reviewed work begins “Describes the factors that have led to increased competitive balance in baseball and explains why so few fans and writers are aware of this change. Examines the “large-market-small-market” debate in detail. Provides evidence on competitive balance and tries to explain when and why it occurred, and why large markets do not enjoy that great an advantage. Considers player development and the evolution of the draft. Discusses why it is important that the draft has become a source of pitching talent, especially for small-market teams. Presents evidence on the variability of pitching performance relative to hitting performance. Studies the effect of the wild-card play-off format on competitive balance. Cull is Senior Economist in the Development Research Group of the World Bank. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r7)
+  - DOI: 10.1257/jel.45.2.429.r7
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Stanley Engerman of U of Rochester reviews “Among Empires: American Ascendancy and Its Predecessors” by Charles S. Maier,. The EconLit Abstract of the reviewed work begins “Explores the history, structure, and impact of empires since antiquity and asks whether the United States shares their traits and behavior. Discusses the basics of what an empire is. Studies borders as decisive sites of imperial politics. Examines the problem of violence and war with respect to empire. Investigates frontiers and forces in the Cold War. Describes the relationship between empire, economics, and production. Explores the way America manages its overlapping supranational economic structures of information and consumption and the way this has carried American power into the twenty-first century. Maier is Leverett Saltonstall Professor of History at Harvard University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r8)
+  - DOI: 10.1257/jel.45.2.429.r8
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Irene Brambilla of Yale University reviews “The Political Economy of Protection: Theory and the Chilean Experience” by Daniel Lederman,. The EconLit Abstract of the reviewed work begins “Analyzes the history of trade protection and liberalization in Chile. Provides a historical overview of Chilean trade policy and trade openness since 1810, measured in terms of trade-to-GDP ratios, and divides Chilean history into five periods: the rise of the open economy (1810-1910), the delegitimization of free trade ideas (1911-27), the institutionalization of protectionism (1927-56), the delegitimization of protectionism (1956&ndash73), and unilateral trade liberalization from 1974 to the present. Analyzes trade-to-GDP ratios from 1810 to 1995 to empirically determine the years in which Chile experienced a “structural break” in these ratios--to identify the point at which the country turned from a historic pattern of increasing openness toward a progressive reduction in exposure to international trade. Provides an econometric analysis of the determinants of Chilean trade policy changes from 1830 to 1995. Analyzes the political and economic circumstances surrounding Chile's unilateral trade liberalization over the period 1974-2000. Considers the future of Chilean trade policy. Lederman is Senior Economist in the Office of the Chief Economist for Latin America and the Caribbean at the World Bank. Bibliography; index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.2.429.r9)
+  - DOI: 10.1257/jel.45.2.429.r9
+  - Published: 2007-06-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Robert Merges of U of CA, Berkeley reviews “The Democratization of Invention: Patents and Copyrights in American Economic Development, 1790-1920” by B. Zorina Khan,. The EconLit Abstract of the reviewed work begins “Examines the evolution and impact of the intellectual property rights system in the United States during the “long nineteenth century.” Discusses the patent system in Europe and America; patent laws and litigation; democratization and patented inventions; women inventors in America; patentees and married women's property rights; great inventors and democratic invention; copyright in Europe and America; American copyright piracy; and intellectual property and economic development. Khan is Associate Professor of Economics at Bowdoin College. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r1)
+  - DOI: 10.1257/jel.45.1.165.r1
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Erik Thorbecke of Cornell University reviews “Income Distribution” by Fred Campano, Dominick Salvatore,. The EconLit Abstract of the reviewed work begins “Introductory text, intended for advanced undergraduate and first-year graduate students but also useful for professional economists and policymakers, provides a systematic overview of income distribution. Discusses the income concept; the income density function; goodness of fit; alternative income density models; income distribution summary measures; income inequality; poverty; country comparisons; economic development and income distribution; growth and poverty in a globalizing world; redistribution of income; and integrating macroeconomic models with income distribution models. Campano is Clinical Associate Professor of Economics, and Salvatore is Distinguished Professor of Economics, at Fordham University. Name and subject indexes.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r10)
+  - DOI: 10.1257/jel.45.1.165.r10
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    David Colander of Middlebury College reviews “Economics and Happiness: Framing the Analysis” by Luigino Bruni, Pier Luigi Porta,. The EconLit Abstract of the reviewed work begins “Thirteen papers present a conceptual framework for a critical understanding of happiness studies and their relationship with economics. Papers discuss building a better theory of well-being; whether absolute income matters; correspondence of sentiments--an explanation of the pleasure of social interaction; testing theories of happiness; rethinking public economics--the implications of rivalry and habit; the philosophy of John Stuart Mill as compared to that of Aristotle and Jeremy Bentham; happiness and political philosophy--the case of Nancy Mitford versus Evelyn Waugh; the connection between old and new approaches to financial satisfaction; the move toward a theory of self-segregation as a response to relative deprivation--steady-state outcomes and social welfare; happiness in hardship; the evolution of caring; happiness and individualism--a very difficult union; and paradoxes of happiness in economics. Bruni is Associate Professor of Economics and Porta is Chair at the University of Milano-Bicocca. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r11)
+  - DOI: 10.1257/jel.45.1.165.r11
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Fabian Lange of Yale University reviews “The Economics of Education: Human Capital, Family Background and Inequality” by Daniele Checchi,. The EconLit Abstract of the reviewed work begins “Explores the process of acquiring education through the study of the intergenerational mobility of incomes. Examines the relevance of education; the demand for education; liquidity constraints and access to education; the supply of education; education financing; the return on education; and intergenerational persistence. Checchi is Professor of Economics at the University of Milan. Subject and author indexes.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r12)
+  - DOI: 10.1257/jel.45.1.165.r12
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Jennifer Hochschild of Harvard University reviews “Poverty and Inequality” by David B. Grusky, Ravi Kanbur,. The EconLit Abstract of the reviewed work begins “Seven papers develop a comprehensive framework for measuring poverty and inequality and explore the conceptual challenges that must be met in devising new approaches to understanding and measuring poverty and inequality. Papers discuss the conceptual foundations of poverty and inequality measurement (David B. Grusky and Ravi Kanbur); conceptualizing and measuring poverty (Amartya Sen); poverty and human functioning--capabilities as fundamental entitlements (Martha C. Nussbaum); the difficult task of expanding the income poverty paradigm (Francois Bourguignon); social theory and the concept “underclass” (William Julius Wilson); social policy in the twenty-first century (Douglas S. Massey); and dependency and social debt (Martha Albertson Fineman). Grusky is Professor of Sociology at Stanford University. Kanbur is T. H. Lee Professor of World Affairs at Cornell University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r13)
+  - DOI: 10.1257/jel.45.1.165.r13
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Victor Aguirregabiria of U of Toronto reviews “Entrepreneurship, Growth, and Innovation: The Dynamics of Firms and Industries” by Enrico Santarelli,. The EconLit Abstract of the reviewed work begins “Thirteen papers explore the factors that combine with entrepreneurship and innovation to influence firm and industry dynamics. Papers discuss a market model of perfect competition under uncertainty--heterogeneous firms and technologies; industry dynamics a la Stackelberg with stochastic capital accumulation; Gibrat's law--an overview of the empirical literature; entrepreneurship in the old and new Europe; new firm formation and the region--empirical results from the United States; research and development intensity and the relationship between firm size and growth in Germany; Gibrat's Law in a medium-technology industry--empirical evidence for Italy; entrepreneurship, innovation, and the evolution of industrial districts; innovation premium and the survival of entrepreneurial firms in the Netherlands; foreign presence, technical efficiency, and firm survival in Greece--a simultaneous equation model with latent variables approach; entrepreneurship, industrial restructuring, and unemployment in Portugal; transferring the risk of failure, entrepreneurship, and firm dynamics in Turkish manufacturing; and what is the best policy for innovative entrepreneurship. Santarelli is Professor of Economics at the University of Bologna and Research Professor at the Max Planck Institute of Economics. Author and subject indexes.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r14)
+  - DOI: 10.1257/jel.45.1.165.r14
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Adrian Wood of Oxford University reviews “Natural Resources and Economic Development” by Edward B. Barbier,. The EconLit Abstract of the reviewed work begins “Explores the contribution of natural resources to economic development, focusing on the low and middle-income countries of Africa, Asia, and Latin America. Provides an overview of the role of natural resources in economic development. Explores the degree of dependence of low and middle-income countries on natural resource exploitation and examines further the key paradox concerning the role of natural resources in economic development. Considers the economic factors underlying rapid land and water use change in low and middle-income countries, and illustrates the issues with case studies. Draws a link between two types of “dualisms” found in developing economies: their “resource dependency” within the world economy and the tendency for the rural poor within these economies to be trapped in a poverty-environmental degradation cycle. Elaborates further on the necessary policies, institutions, and reforms required to break these cycles. Barbier is John S. Bugas Professor of Economics at the University of Wyoming. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r15)
+  - DOI: 10.1257/jel.45.1.165.r15
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Lant Pritchett of World Bank reviews “And the money kept rolling in (and out): Wall Street, the IMF, and the bankrupting of Argentina” by Paul Blustein,. The EconLit Abstract of the reviewed work begins “Examines the bankrupting of Argentina between 1996 and 2001, revealing the role of the international community, including private market financiers and top international policymakers, in the Argentine debacle. Based on interviews with more than 125 people, including top officials of the IMF, U.S. government, other G-7 governments, and the Argentine government; people in the financial markets; and a smattering of other crisis participants and observers. Discusses Argentina's convertibility scheme fixing a one-to-one exchange rate for dollars and pesos and reasons for the IMF's skepticism about the approach; the IMF's negotiation of a “precautionary” program with Argentina in 1997, promising to provide emergency loans if needed, and a missed opportunity to exit from the convertibility plan while the market was bullish; how Enron-like pressures and conflicts of interest led private markets to overinvest in Argentina; negotiation of the first IMF-led rescue for Argentina in the year prior to the economy's collapse; the failure of other conventional remedies, including a voluntary debt swap and government spending cuts; a second IMF rescue loan to Argentina; the collapse of the Argentine economy after the withdrawal of an IMF mission in early December 2001, riots, and political regime change; and the termination of the peso-dollar… Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r16)
+  - DOI: 10.1257/jel.45.1.165.r16
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Edwin M. Truman of Peterson Institute for International Economics reviews “Financial Crises: Lessons from the Past, Preparation for the Future” by Gerard Caprio, James A. Hanson, Robert E. Litan,. The EconLit Abstract of the reviewed work begins “Six papers and one panel discussion, based on the sixth annual financial markets and development conference held in April 2005 in Washington, D.C., ask what has been learned from crises in key parts of the development world, and how exposed are other countries to these and other kinds of financial and economic crises? Papers discuss postcrisis challenges and risks in East Asia and Latin America (James A. Hanson); an overview of banking system crises and recovery in the transition economies of Europe and Central Asia (Fernando Montes-Negret and Thomas Muller); whether sovereign debt in developing countries with market access is a help or hindrance (Indermit Gill and Brian Pinto); what the next emerging-market financial crisis might look like (Morris Goldstein); views of financial risks ahead from the private sector; rebuilding banking systems (Gerard Caprio and Patrick Honohan); and old-age income support in the twenty-first century (Robert Holzmann). Caprio is Director of the Operations Policy Department, and Hanson is Senior Adviser to the Financial Sector Operations and Policy Department, at the World Bank. Litan is Senior Fellow in Economic Studies at the Brookings Institution. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r17)
+  - DOI: 10.1257/jel.45.1.165.r17
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Kala Krishna of Princeton University, Penn State University, and NBER reviews “The Crisis in Government Accountability: Essays on Governance Reforms and India's Economic Performance” by Dilip Mookherjee,. The EconLit Abstract of the reviewed work begins “Six papers, based on articles written over the past decade for various books, journals, newspapers, and conferences, address the challenge of governance reforms in India. Papers discuss accountability and the decentralization of public service delivery; decentralization reforms in other developing countries and lessons for India; the reform of Indian income tax enforcement; aspects of the Indian legal system that impede economic performance and what legal reforms are needed; and regulatory failures leading to financial crises in India and other countries. Mookherjee is Professor of Economics and Director at the Institute of Economic Development at Boston University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r18)
+  - DOI: 10.1257/jel.45.1.165.r18
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Arthur O'sullivan of Lewis and Clark College reviews “Alleviating Urban Traffic Congestion” by Richard Arnott, Tilmann Rave, Ronnie Schob,. The EconLit Abstract of the reviewed work begins “Reacts to the apparent failure of urban transport economists' advocacy of congestion pricing, and advocates that they instead redirect their attention to policy complements to congestion pricing. Takes as its starting point the existing literature in urban transport economic theory, most of which derives from the canonical, macroscopic model, as well as the voluminous policy literature advocating congestion pricing. Suggests that the community of urban transport economists has relied excessively on the canonical macroscopic model of urban traffic congestion and that a redirection of research toward more microscopic modeling will result in more useful and effective policy analysis. Looks at downtown parking policy and demonstrates the potentially very large efficiency gains that can be achieved by rationalizing it. Examines the encouragement of bicycling and to what extent it could alleviate traffic congestion. Analyzes the staggering of work hours by dominant employers, a policy that is applied extensively but has been little analyzed. Explores the concept of the multimode ticket, a policy that entails charging cars that enter the center of the city a toll equal to the transit fare. Arnott is Professor of Economics at Boston College. Rave is Researcher at the Ifo Institute for Economic Research in Munich. Schob… Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r19)
+  - DOI: 10.1257/jel.45.1.165.r19
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Paul J. Zak of Claremont Graduate University reviews “Brokerage and Closure: An Introduction to Social Capital” by Ronald S. Burt,. The EconLit Abstract of the reviewed work begins “Provides an introduction to social capital in the form of four reliable and general stylized facts that seem to apply across study populations. Pays special attention to the context of organizations and managers. Suggests that informal organizations consist of dense social clusters, or groups, between which there are occasional bridge relations when someone in one group has a friend, acquaintance, or former colleague in another group; opinion and practice vary more between than within groups due to structural holes in the flow of information across groups; and people whose networks spans structural holes are brokers and are rewarded for their integrative work. Describes how people whose relationships bridge structural holes are more likely to encounter new ideas, create good ideas, as well as express, discuss, and see how to implement ideas. Discusses network closures, which increase the odds of a person being caught and punished for displaying belief or behavior inconsistent with preferences in the closed network, and introduces the reputation mechanism by which network closure provides trust. Assesses the evidence for the “echo” hypothesis, which says that closed networks do not enhance information flow so much as they amplify existing opinion, and describes how the reputation mechanism for control… Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r2)
+  - DOI: 10.1257/jel.45.1.165.r2
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Benjamin E. Hermalin of U of CA, Berkeley reviews “Strategies of Commitment and Other Essays” by Thomas C. Schelling,. The EconLit Abstract of the reviewed work begins “Nineteen papers, some previously published, explore commitment and the paradoxes it creates in economics and politics. Papers focus on climate and society; commitment as self-command; economics and social policy; weapons and warfare; social dynamics; and decisions of the highest order. Schelling is Professor Emeritus and Distinguished University Professor, Economics and Public Policy, University of Maryland and Lucius N. Littauer Professor of Political Economy, Emeritus, Harvard University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r3)
+  - DOI: 10.1257/jel.45.1.165.r3
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Joseph Persky of U of IL at Chicago reviews “On Classical Economics” by Thomas Sowell,. The EconLit Abstract of the reviewed work begins “Explores the history of economics in a series of essays, some previously published. Discusses the social philosophy of classical economists; classical macroeconomics; classical microeconomics; classical methodology; J. C. L. Simonde de Sismondi--a neglected pioneer; the enigma of John Stuart Mill; the mystery of Marxian economics; and thoughts on the history of economics. Sowell is Senior Fellow at the Hoover Institution, Stanford University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r4)
+  - DOI: 10.1257/jel.45.1.165.r4
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Hilary W. Hoynes of U of CA, Davis, and National Bureau of Economic reviews “Public Policy and the Income Distribution” by Alan J. Auerbach, David Card, John M. Quigley,. The EconLit Abstract of the reviewed work begins “Eight papers, originally presented at a conference held in Berkeley in December 2003, analyze the complex interactions among demographics, poverty, the distribution of income, and public policy from a longer-run perspective, taking stock of our knowledge of trends and causes, and identifying key areas where positive economics can contribute further to our understanding of policy options. Papers discuss what the 1990s welfare reforms accomplished (Rebecca M. Blank); the take-up of social benefits (Janet Currie); government programs and social outcomes--a comparison of the United States with other rich nations (Timothy M. Smeeding); income and wealth concentration in a historical and international perspective (Emmanuel Saez); social security and the evolution of elderly poverty (Gary V. Engelhardt and Jonathan Gruber); the measurement and evolution of health inequality--evidence from the U.S. Medicare population (Jonathan Skinner and Weiping Zhou); the socioeconomic status of black males--the increasing importance of incarceration (Steven Raphael); and public health and mortality--what we can learn from the past (Dora L. Costa and Matthew E. Kahn). Auerbach is Robert D. Burch Professor of Economics and Law, Card is Class of 1950 Professor of Economics, and Quigley is I. Donald Terner Distinguished Professor and Professor of Economics at the University of California, Berkeley…. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r5)
+  - DOI: 10.1257/jel.45.1.165.r5
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Lakshmi Iyer of Harvard University reviews “Understanding Civil War: Evidence and Analysis. Volume 2. Europe, Central Asia, and Other Regions” by Paul Collier, Nicholas Sambanis,. The EconLit Abstract of the reviewed work begins “Ten papers combine large-N quantitative empirical analysis with comparative case studies to develop the theory of civil war. Papers use the quantitative Collier-Hoeffler model of civil war to analyze a comprehensive data set of civil wars over the period 1960-99 and present case studies focusing on resources and rebellion in Aceh, Indonesia; the Lebanese civil war, 1975-90; crime, violence, and political conflict in Russia; conflict, violence, and crime in Colombia; the “troubles” of Northern Ireland; Bosnia's civil war; how Macedonia avoided civil war, 1990-2001; and civil wars in the Caucasus. A final paper synthesizes lessons and insights from the cases, uses the insights to suggest possible revisions and refinements to the Collier-Hoeffler model, and identifies a number of ways in which the theory of civil war can be expanded. Most of the contributors are either economists or political scientists. Collier is at Oxford University and its Center for the Study of African Economies. Sambanis is at Yale University. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r6)
+  - DOI: 10.1257/jel.45.1.165.r6
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Michael Ostrovsky of Stanford University reviews “Combinatorial Auctions” by Peter Cramton, Yoav Shoham, Richard Steinberg,. The EconLit Abstract of the reviewed work begins “Twenty-three papers examine combinatorial auctions from the perspectives of economics, operations research, and computer science. Papers discuss Vickrey auctions; iterative combinatorial auctions; ascending proxy auctions; simultaneous ascending auctions; the clock-proxy auction--a practical combinatorial auction design; PAUSE--a computationally tractable combinatorial auction; pseudonymous bidding in combinatorial auctions; from the assignment model to combinatorial auctions; bidding languages for combinatorial auctions; preference elicitation in combinatorial auctions; the communication requirements of combinatorial allocation problems; the winner determination problem; tractable cases of the winner determination problem; optimal winner determination algorithms; incentive compatibility in computationally feasible combinatorial auctions; noncomputational approaches to mitigating computational problems in combinatorial auctions; observations and near-direct implementations of the ascending proxy auction; a test suite for combinatorial auctions; empirical hardness models for combinatorial auctions; auctions for the safe, efficient, and equitable allocation of airspace system resources; combinatorial auctions for truckload transportation; auctioning bus routes and the London experience; and industrial procurement auctions. Cramton is Professor of Economics at the University of Maryland. Shoham is Professor of Computer Science at Stanford University. Steinberg is Reader in Operations Management at the University of Cambridge. Glossary; author and subject indexes.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r7)
+  - DOI: 10.1257/jel.45.1.165.r7
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Barry Eichengreen of U of CA, Berkeley reviews “Prospects for Monetary Unions after the Euro” by Paul De Grauwe, Jacques Melitz,. The EconLit Abstract of the reviewed work begins “Eleven papers, originally presented at a CESifo conference held in Venice in July 2003, take stock of the new insights into monetary union that economists have brought since the formation of the European Monetary Union (EMU). Papers discuss the eastward enlargement of the EMU; structural reforms and the enlargement of monetary union; the endogeneity of the optimum currency area criteria and intraindustry trade--implications for EMU enlargement; exchange rate volatility and the decline of employment growth in the CEE economies; the influence of productivity, demand, and regulated prices on the real bilateral exchange rates of four accession countries; the EMU effect on trade--what's in it for the United Kingdom; output smoothing in EMU and OECD and whether we can forgo the government contribution--a risk sharing approach; the implications of a unilateral currency union for macroeconomic volatility; regional currencies versus dollarization--options for Asia and the Americas; an output perspective on a Northeast Asia currency union; and national currency--when monetary unions fall apart. De Grauwe is Professor in the Faculty of Economics and Applied Economics at the Catholic University of Leuven. Melitz is Professor in the Department of Economics at the University of Strathclyde. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r8)
+  - DOI: 10.1257/jel.45.1.165.r8
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Drusilla Brown of Tufts University reviews “NAFTA Revisited: Achievements and Challenges” by Gary Clyde Hufbauer, Jeffrey J. Schott,. The EconLit Abstract of the reviewed work begins “Evaluates NAFTA's performance, comparing actual experience with both the objectives of the agreement's supporters and the charges of its critics. Assesses NAFTA's impact on labor; NAFTA's record on the environment; the operation of the dispute settlement and labor and environmental provisions; and overall economic gains and commercial results in the agricultural, automotive, and energy sectors. Considers why NAFTA was accompanied by an increase in immigration, rather than the hoped-for decrease. Recommends what needs to be done over the medium term to deal with the ongoing trade and investment problems of the region. Hufbauer is Reginald Jones Senior Fellow and Schott is Senior Fellow of the Institute for International Economics. Index.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.45.1.165.r9)
+  - DOI: 10.1257/jel.45.1.165.r9
+  - Published: 2007-03-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Lee G. Branstetter of Carnegie Mellon University reviews “Nation-States and the Multinational Corporation: A Political Economy of Foreign Direct Investment” by Nathan M. Jensen,. The EconLit Abstract of the reviewed work begins “Examines whether the fiscal competition among governments to attract foreign direct investment (FDI) has been grossly exaggerated. Asks which government policies prove beneficial to multinational operations and which political institutions provide multinational corporations with credible commitments to these market-friendly policies. Examines multinational firms and domestic governments; theory; the race to the bottom thesis and FDI; democracy and FDI; veto players and FDI; and the IMF and FDI inflows. Jensen is Assistant Professor of Political Science at Washington University in St. Louis. Index.”
+
+### Risk Analysis
+- Field: SOC SCI
+- Articles: 2
+
+- [Minimizing Risk of Load Redistribution Attacks on Electric Grids in the Presence of Insider Threats](https://doi.org/10.1111/risa.70336)
+  - DOI: 10.1111/risa.70336
+  - Authors: Lujia Zhan; Saharnaz Mehrani; Chengzhi Xie; Payman Dehghanian
+  - Affiliations: Department of Electrical and Computer Engineering, School of Engineering and Applied Science The George Washington University Washington District of Columbia USA; Department of Information Technology and Operations Management, College of Business Florida Atlantic University Boca Raton Florida USA
+  - Published: 2026-08-29
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Malicious and negligent insiders pose significant security risks to mission‐critical systems like electric power grids due to their high privileges in increasingly digitized infrastructures. This paper investigates the vulnerability of smart power grids to load redistribution (LR) attacks in the presence of insider threats. We introduce a stochastic optimization model to minimize the expected risk of high operation costs due to LR attacks by protecting critical grid components and deploying detection technologies, such as honeypots, to detect insider threats and prevent information leakage. Our model accounts for uncertainties in insider presence, honeypot effectiveness, and attack targets, and uses the conditional value‐at‐risk (CVaR) measure, which can be adjusted based on the decision‐maker's conservatism. In addition, it accounts for real‐time power demand variations and dynamic false‐data injection by attackers. To enhance tractability, we transform our model, originally formulated as a trilevel mixed‐integer nonlinear programming (Tri‐MINLP) problem, into an approximate single‐level mixed‐integer linear programming (MILP) formulation. We apply our proposed model to the IEEE 14‐bus test system, and our results highlight the effectiveness of our approach in lowering the risk of high operation costs due to LR attacks. In addition, we present several insights by assessing the impact of key factors on the expected financial risk of attacks, including the protection budget, insider‐threat likelihood, honeypot‐detection effectiveness, and the defender's decision‐making conservatism.
+
+- [A Bayesian Model for Estimation of Virus Reduction in Potable Reuse Treatment Trains and Quantitative Microbial Risk Assessment of Waterborne Viral Pathogens](https://doi.org/10.1111/risa.70343)
+  - DOI: 10.1111/risa.70343
+  - Authors: Jack F. Schijven; Peter F. M. Teunis; Walter Q. Betancourt
+  - Affiliations: Environmental Hydrogeology Group, Geosciences Utrecht University Utrecht The Netherlands; Center for Global Safe WASH Rollins School of Public Health Emory University Atlanta Georgia USA; Department of Environmental Science College of Agriculture Life and Environmental Sciences University of Arizona Tucson Arizona USA
+  - Published: 2026-08-29
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Understanding virus occurrence and reduction at advanced treatment facilities for potable water reuse constitutes a high‐priority research need to protect human health and to enhance available water supply alternatives. The objectives were to (1) determine log reduction values (LRVs) of 15 viruses by advanced wastewater treatment; (2) evaluate suitability of the final wastewater effluent for potable reuse; (3) evaluate viruses or groups of viruses as indicators of wastewater treatment efficiency. Reduction data of seven human enteric and eight surrogate viruses were obtained from three potable reuse facilities. LRVs were estimated using a Bayesian model that can handle nondetects and identifies groups of viruses with similar LRVs. Quantitative microbial risk assessments were conducted for adenoviruses, enteroviruses, and noroviruses GI and GII. Mean total LRVs ranged from 5.4 to 11 log 10. Required mean total LRVs for the four pathogenic viruses ranged from 11.3 to 13.4 log 10 . Both male‐specific and somatic coliphages, detected by classical enumeration of infectious virions, are recommended as indicator viruses. Of the pathogenic viruses, adenovirus was found to be the most effective indicator for virus reduction. At all facilities, infection risks were higher than 10 −4 per person per year, implying that the finished water may not comply with existing safety standards. Infection risks may have been overestimated by 2–4 log 10 because only a fraction of the detected virus was infectious. Nevertheless, achieved LRVs were still too low and given the uncertainty on infectious virus fraction, one may accept overestimation of risks to stay on the safe side.
+
+### Scientometrics
+- Field: INNOV
+- Articles: 1
+
+- [Publisher coverage bias in the Stanford/Ioannidis “top 2% of scientists” rankings](https://doi.org/10.1007/s11192-026-05789-6)
+  - DOI: 10.1007/s11192-026-05789-6
+  - Authors: Carl P. Lipo; Beau DiNapoli; Benjamin Andrus
+  - Published: 2026-08-29
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract The “top 2% of scientists” rankings have grown in popularity as a means of research evaluation, with the potential to influence hiring, promotion, and funding decisions for over 230,000 researchers worldwide. We documented 123 universities across 32 countries and cited these rankings in official communications. The rankings rely exclusively on Scopus, a citation database owned by Elsevier, which also publishes a large portfolio of journals indexed in Scopus. We drew a stratified random sample of 600 researchers from the rankings (n=564 successfully matched) across book-heavy, mixed, and journal-heavy fields, and compared each researcher’s Scopus publication count to their OpenAlex record. Median Scopus coverage was 45.3% of OpenAlex publications. We documented systematic coverage disparities: researchers publishing in Elsevier journals had 30.6 percentage points higher coverage than those publishing elsewhere (20.8 pp under an any-Elsevier-vs-none contrast), even though our sample contained more than twice as many Oxford, Cambridge, Wiley, and Springer publications as Elsevier publications. The Elsevier coverage advantage persists even when comparing journals of similar citation impact. Book-focused scholars fare worse: humanities researchers show 43.6 percentage points lower coverage than STEM researchers, with Nobel and Pulitzer Prize winners among those affected. When we recalculated the rankings using the complete OpenAlex dataset, individual researchers shifted by a median of 142,276 positions, with the largest shift exceeding 1.2 million positions. These findings indicate that widely used scientist rankings may reflect both database coverage patterns and research impact, raising concerns about their use in career-determining decisions.
