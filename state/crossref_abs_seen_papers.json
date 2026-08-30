@@ -12354,12 +12354,19 @@
       "abs_journal_title": "Journal of Economic Literature",
       "published_date": "2007-03-01",
       "first_seen": "2026-08-29T12:34:46.178977+00:00"
+    },
+    "10.1177/01492063261449793": {
+      "title": "O*NET Plus: A Review and Organizing Framework Extending O*NET’s Content Model in Management Research",
+      "journal": "Journal of Management",
+      "abs_journal_title": "Journal of Management",
+      "published_date": "2026-08-29",
+      "first_seen": "2026-08-30T11:43:08.387714+00:00"
     }
   },
-  "last_run": "2026-08-29T12:34:46.178977+00:00",
+  "last_run": "2026-08-30T11:43:08.387714+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-08-28",
-    "end_date": "2026-08-29"
+    "start_date": "2026-08-29",
+    "end_date": "2026-08-30"
   }
 }
