@@ -1,0 +1,265 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-08-31
+
+Generated at: 2026-08-31 13:20 UTC
+Crossref date mode: `created`
+Window: `2026-08-30` to `2026-08-31`
+New papers: 27
+
+## AJG 4
+
+### European Journal of Information Systems
+- Field: INFO MAN
+- Articles: 1
+
+- [E-participation and the Metaverse – insights from a Design Science Research project on immersive public participation](https://doi.org/10.1080/0960085x.2026.2721630)
+  - DOI: 10.1080/0960085x.2026.2721630
+  - Authors: Jonas Fegert; Jella Pfeiffer
+  - Affiliations: FZI Research Center for Information Technology, Karlsruhe, Germany; Karlsruhe Insitute of Technology, Karlsruhe
+  - Published: 2026-08-30
+  - Crossref journal: European Journal of Information Systems
+
+### Global Strategy Journal
+- Field: STRAT
+- Articles: 1
+
+- [Home country institutional ties and Chinese                     <scp>SMEs</scp>                     '                     <scp>OFDI</scp>                     : Institutional polycentrism and resource dependence perspectives](https://doi.org/10.1002/gsj.70032)
+  - DOI: 10.1002/gsj.70032
+  - Authors: Zibang Chen; Axèle Giroud; Asmund Rygh; Yanze Liang
+  - Affiliations: Alliance Manchester Business School The University of Manchester Manchester UK; Nottingham University Business School China University of Nottingham Ningbo China Ningbo China
+  - Published: 2026-08-30
+  - Crossref journal: Global Strategy Journal
+  - Abstract:
+    Abstract Research Summary Combining institutional polycentrism and resource dependence perspectives, we theorize that small‐and‐medium‐sized enterprises' (SMEs) outward foreign direct investment (OFDI) depends on the types and levels of home institutional ties , and this relationship is moderated by technological resources. Analyzing a sample of 1123 Chinese listed SMEs from 2009 to 2019, we find that (1) SMEs with local political and industry association ties conduct fewer OFDI than those without such ties, (2) SMEs with central political ties conduct more OFDI than those without such ties, (3) SMEs' technological resources condition some of these relationships. We contribute to global strategy research by highlighting how different types and levels of institutional ties create dependencies that shape SMEs' OFDI, and how firms' technological resources moderate these effects. Managerial Summary This study offers practical guidance for SME managers operating in relationship‐based environments. Our findings show that the value of home institutional ties varies by type and level, shaping how firms design their OFDI strategies. First, managers should carefully assess the various resources available via ties to different institutional centers and the expectations attached to those ties. For instance, local institutional ties provide various domestic resources valuable in the home market and involve pressures to contribute locally, while central political ties facilitate OFDI by offering resources that can be leveraged abroad and aligning firms' strategies with global agendas. Second, such strategic decisions depend on a balance between internal and external resources available to firms. Managers should flexibly balance ties and technological resources when developing OFDI strategies.
+
+### Governance
+- Field: PUB SEC
+- Articles: 1
+
+- [Social Norms, State Punishment, and Motivation Crowding in Anti‐Corruption Messaging: Experimental Evidence From China](https://doi.org/10.1111/gove.70151)
+  - DOI: 10.1111/gove.70151
+  - Authors: Feng Yang; Lin Zhu
+  - Affiliations: Center for Social Research Guanghua School of Management, and Yenching Academy Peking University Beijing China; Center for Chinese Public Administration Research and School of Government Sun Yat‐sen University Guangzhou China
+  - Published: 2026-08-30
+  - Crossref journal: Governance
+  - Abstract:
+    ABSTRACT A growing body of scholarship views corruption not merely as a failure of monitoring and enforcement but as a resilient informal institution sustained by social perceptions—and misperceptions. When citizens believe others tolerate or engage in corruption, resisting it becomes a collective action problem, allowing corruption to perpetuate itself. Using a large‐scale survey experiment in China, this study tests whether correcting exaggerated perceptions of social tolerance for corruption can help break this cycle. We find that providing information about the actual (low) level of tolerance significantly strengthens anti‐corruption attitudes and intentions, especially among those who mistakenly believed a majority tolerated corruption. However, this effect is weakened when paired with punishment cues, suggesting that enforcement information can crowd out the motivational force of norm‐based messages. Our findings demonstrate both the potential and the limits of norm‐based informational interventions and offer implications for anti‐corruption messaging in comparable contexts.
+
+### International Economic Review
+- Field: ECON
+- Articles: 1
+
+- [The Macroeconomic Consequences of Competition for College Admissions](https://doi.org/10.1111/iere.70104)
+  - DOI: 10.1111/iere.70104
+  - Authors: Shijun Gu; Lichen Zhang
+  - Affiliations: School of Economics Central University of Finance and Economics Beijing People's Republic of China; HKU Business School University of Hong Kong Hong Kong SAR People's Republic of China
+  - Published: 2026-08-31
+  - Crossref journal: International Economic Review
+  - Abstract:
+    ABSTRACT To study how college‐admissions competition shapes parental investment and child‐development policies, we develop a heterogeneous‐agent life‐cycle model in which parents invest in children's human capital to raise future labor productivity and compete for limited college seats. Because families ignore their spending's effects on others' admission chances, competition creates a rat race with overinvestment. Estimating the model with Chinese data, we find that this externality accounts for a substantial share of parental monetary investment. Policies that reduce competition raise current‐generation welfare but may diminish future human capital. Taxing private education spending while subsidizing public investment can balance this trade‐off and improve overall welfare.
+
+### Journal of Economic Literature
+- Field: ECON
+- Articles: 19
+
+- [Williams, Robert B. Funding White Supremacy: Federal Wealth Policies and the Modern Racial Wealth Gap](https://doi.org/10.1257/jel.64.3.1058.r8)
+  - DOI: 10.1257/jel.64.3.1058.r8
+  - Authors: Vicki L. Bogan
+  - Affiliations: Duke University.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Vicki L. Bogan of Duke University reviews “Funding White Supremacy: Federal Wealth Policies and the Modern Racial Wealth Gap” by Robert B. Williams. The Econlit abstract of this book begins: “Explores why the racial wealth gap has been widening throughout the last half century, focusing on the current economic system that produces and reproduces racial hierarchy and domination.”
+
+- [Why Is Fertility So Low in High-Income Countries?](https://doi.org/10.1257/jel.20261786)
+  - DOI: 10.1257/jel.20261786
+  - Authors: Melissa S. Kearney; Phillip B. Levine
+  - Affiliations: University of Notre Dame and NBER.; Wellesley College and NBER.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    We consider why fertility has fallen in recent decades in almost all high-income countries. We begin by documenting declining total fertility and rising childlessness across cohorts, highlighting the need to focus on cohort versus period-specific fertility rates. With this motivation, we propose a conceptual model of fertility determination that augments the standard Becker model with an explicit role for social norms and cohort-specific contextual factors, including broad social and economic influences and an expanded set of consumption and lifestyle options. We posit that these forces have led to “shifting priorities,” reducing the centrality of parenthood. We then review existing empirical evidence and conclude that the decline in fertility likely reflects a complex mix of changing norms around work, parenting, gender roles, and leisure consistent with our cohort-based conceptual framework. We conclude with suggestions for future research and a brief discussion of policy implications. (JEL J13, J16, J18, J22, Z13)
+
+- [Selgin, George. False Dawn: The New Deal and the Promise of Recovery, 1933–1947](https://doi.org/10.1257/jel.64.3.1058.r7)
+  - DOI: 10.1257/jel.64.3.1058.r7
+  - Authors: Joshua K. Hausman
+  - Affiliations: University of Michigan.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Joshua K. Hausman of University of Michigan reviews “False Dawn: The New Deal and the Promise of Recovery, 1933–1947” by George Selgin. The Econlit abstract of this book begins: “Explores how the United States recovered from the Great Depression and whether the New Deal helped or hindered that recovery, evaluating specific policies implemented during this period.”
+
+- [Scoring the Behavioral Economics of Crime: Reflections on Unforgiving Places: The Unexpected Origins of American Gun Violence](https://doi.org/10.1257/jel.20251826)
+  - DOI: 10.1257/jel.20251826
+  - Authors: Robert J. Sampson
+  - Affiliations: Harvard University.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    In Unforgiving Places Jens Ludwig makes a strong claim for the behavioral economics of crime, scoring it a knockout when pitted against conventional wisdom. Focusing on gun violence, he proposes a unifying explanation that draws on disciplines beyond economics, especially sociology, criminology, and psychology. Although the intended audience is mainly policymakers and the general public, scholars will benefit from reading Ludwig's thought-provoking book. In this essay, I evaluate the book's evidence and elaborate on the research needed to resolve unsettled hypotheses. I focus on several key issues, including linking self-control theory to cognitive processes, informal neighborhood social control, legitimacy in community policing, toxic environmental effects on cognition, the limits of administrative data, age-specific pathways of gun carrying, and the impact of social change. In the spirit of consilience that Unforgiving Places calls for, I argue that further engagement of the book's framework with these issues yields a promising research agenda. (JEL D11, D72, D90, H76, K14, K42, R23)
+
+- [Rilinger, Georg. Failure by Design: The California Energy Crisis and the Limits of Market Planning](https://doi.org/10.1257/jel.64.3.1058.r6)
+  - DOI: 10.1257/jel.64.3.1058.r6
+  - Authors: Peter Cramton
+  - Affiliations: University of Maryland.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Peter Cramton of University of Maryland reviews “Failure by Design: The California Energy Crisis and the Limits of Market Planning” by Georg Riling. The Econlit abstract of this book begins: “Develops a theoretical framework for studying designer markets as planned structures, considering what lessons can be drawn from California's energy crisis.”
+
+- [Refugees' Economic Integration](https://doi.org/10.1257/jel.20251774)
+  - DOI: 10.1257/jel.20251774
+  - Authors: Dany Bahar; Rebecca Brough; Giovanni Peri
+  - Affiliations: Brown University and the Center for Global Development.; University of California, Davis.; University of California, Davis and NBER.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Refugees are international migrants escaping persecution and crises whose economic success in their countries of destination is threatened by lack of access to labor and credit markets, limited information on employment opportunities, and loss of human capital and assets. In this paper we review the economic literature that analyzes and evaluates interventions designed to address these hurdles and facilitate refugees’ economic integration. We also draw important general lessons from a wide variety of these interventions and identify areas for further research. (JEL J15, J18, J24, J61, K37, K38, Z13)
+
+- [Parkin, Katherine J. The Abortion Market: Buying and Selling Access in the Era Before Roe](https://doi.org/10.1257/jel.64.3.1058.r5)
+  - DOI: 10.1257/jel.64.3.1058.r5
+  - Authors: Theodore Joyce
+  - Affiliations: Baruch College, CUNY.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Theodore Joyce of Baruch College, CUNY reviews “The Abortion Market: Buying and Selling Access in the Era Before Roe” by Katherine J. Parkin. The Econlit abstract of this book begins: “Explores the ways that people bought and sold abortion access in the United States, focusing on the amount of money poured into laying the groundwork for that access, including its ultimate legalization with Roe v. Wade.”
+
+- [JEL Classification System](https://doi.org/10.1257/jel.64.3.1136)
+  - DOI: 10.1257/jel.64.3.1136
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    The categories listed below are used to classify books, book reviews, journal articles, and dissertations indexed in JEL and EconLit. New changes to the classification system appear as soon as possible on www.econlit.org . The JEL classification system may be used freely for scholarly purposes. We suggest the following format: “JEL: A10, B10, etc.”
+
+- [Intermediaries and Asset Prices](https://doi.org/10.1257/jel.20251766)
+  - DOI: 10.1257/jel.20251766
+  - Authors: Valentin Haddad; Tyler Muir
+  - Affiliations: University of California, Los Angeles and NBER.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Intermediary asset pricing posits that financial institutions play a central role in financial markets, and that their decisions shape asset prices beyond simply reflecting the preferences of the average household. This perspective helps make sense of key empirical patterns: the excess volatility of asset prices, differences in price movements across asset classes, the cross-section of expected returns within asset classes, and specific arbitrage opportunities and price dislocations. We also review the implications of intermediary asset pricing for macroeconomic dynamics, international economics, and policy. In this approach, a primary channel of financial regulation and monetary policy is through alleviating constraints or removing risk from intermediary balance sheets during periods of stress. We highlight both existing progress and gaps for future research. (JEL E44, E52, F31, G12, G18, G21, G23)
+
+- [Humans in the Loop: The Next Frontier in the Credibility Revolution](https://doi.org/10.1257/jel.20261775)
+  - DOI: 10.1257/jel.20261775
+  - Authors: Megan T. Stevenson; Joshua B. Fischman
+  - Affiliations: University of Virginia.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Something is amiss in empirical economics. Despite the advances of the credibility revolution, published estimates tend to be inflated and overconfident. We argue that this stems from a weakness in the dominant econometric framework: treating the researcher like a calculator that mechanically implements the econometric method. We use several examples to show how properties of estimators change dramatically with humans in the loop. Under plausible assumptions on researcher behavior, low-power estimators such as instrumental variables exhibit high degrees of bias, even with a first-stage F-statistic of 200. Threshold testing on the first-stage F-statistic can reduce bias, contrary to Angrist and Kolesár (2024). And standard errors understate uncertainty, since they ignore variation due to researchers’ subjective choices. Ignoring the role of humans “in the research loop” can lead to highly biased and unreliable findings. Modifying econometric practices to address the human factor is a critical frontier of the credibility revolution. (JEL C12, C13, C26)
+
+- [Gans, Joshua. The Microeconomics of Artificial Intelligence](https://doi.org/10.1257/jel.64.3.1058.r4)
+  - DOI: 10.1257/jel.64.3.1058.r4
+  - Authors: Maximilian Kasy
+  - Affiliations: Department of Economics, University of Oxford.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Maximilian Kasy of Department of Economics, University of Oxford reviews “The Microeconomics of Artificial Intelligence” by Joshua Gans. The Econlit abstract of this book begins: “Addresses the economic impact of artificial intelligence (AI), focusing on providing identification strategies for analyzing markets where AI plays a significant role and a guidepost for theoretical developments and empirical hypotheses.”
+
+- [Frey, Carl Benedikt. How Progress Ends: Technology, Innovation, and the Fate of Nations](https://doi.org/10.1257/jel.64.3.1058.r3)
+  - DOI: 10.1257/jel.64.3.1058.r3
+  - Authors: David Robinson
+  - Affiliations: Duke University and NBER.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    David Robinson of Duke University and NBER reviews “How Progress Ends: Technology, Innovation, and the Fate of Nations” by Carl Benedikt Frey. The Econlit abstract of this book begins: “Explores the dynamic interaction between technological change and economic progress, highlighting the fragility of progress by means of a historical analysis of autocracies and liberal democracies alike.”
+
+- [Fasteau, Marc, and Ian Fletcher. Industrial Policy for the United States: Winning the Competition for Good Jobs and High-Value Industries](https://doi.org/10.1257/jel.64.3.1058.r2)
+  - DOI: 10.1257/jel.64.3.1058.r2
+  - Authors: Willy C. Shih
+  - Affiliations: Harvard Business School.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Willy C. Shih of Harvard Business School reviews “Industrial Policy for the United States: Winning the Competition for Good Jobs and High-Value Industries” by Marc Fasteau and Ian Fletcher. The Econlit abstract of this book begins: “Addresses industrial policy's underlying economic theory, its policy tools, and how these tools have been successfully and unsuccessfully deployed around the world, in the United States, and in several key industries.”
+
+- [Demand, Competition, and Public Policy in the Automobile Industry](https://doi.org/10.1257/jel.20251792)
+  - DOI: 10.1257/jel.20251792
+  - Authors: Johannes Van Biesebroeck; Frank Verboven
+  - Affiliations: KU Leuven and CEPR (London).
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    We review the flourishing literature on the automobile industry since the seminal work of Berry, Levinsohn, and Pakes (1995), or briefly BLP. Their work provides a structural equilibrium framework that forms a basis for conducting policy counterfactuals in several key areas of interest: competition policy and antitrust, trade policy, and taxation and environmental policy. The demand side of the “BLP framework” is micro-founded and allows for rich consumer heterogeneity to generate flexible substitution patterns between products. The supply side specifies marginal costs and accounts for imperfect competition. Our analysis focuses on two main questions. First, how has the framework been tailored to specific situations and how convincingly has it been evaluated to generate trust in the empirical findings and policy conclusions? Second, what has been learned about policy issues relevant in the automotive industry using the BLP equilibrium framework? (JEL H25, K21, L13, L22, L40, L62, Q58)
+
+- [Deep Learning for Solving Economic Models](https://doi.org/10.1257/jel.20261794)
+  - DOI: 10.1257/jel.20261794
+  - Authors: Jesús Fernández-Villaverde
+  - Affiliations: University of Pennsylvania, NBER, and CEPR.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    The ongoing revolution in deep learning is reshaping research across many fields, including economics. Its effects are especially clear in solving dynamic economic models. These models often lack closed-form solutions, so economists have long relied on numerical methods such as value function iteration, perturbation, and projection techniques. Unfortunately, these approaches suffer from the curse of dimensionality, which makes global solutions computationally infeasible as the number of state variables increases. Deep learning offers a different approach: flexible tools that solve dynamic economic models by minimizing residuals in equilibrium conditions and that can handle high-dimensional problems. This development promises to broaden the scope of quantitative economics. I illustrate the approach using the neoclassical growth model. (JEL C45, C61, D83, O41)
+
+- [Conti-Brown, Peter, and Sean H. Vanatta. Private Finance, Public Power: A History of Bank Supervision in America](https://doi.org/10.1257/jel.64.3.1058.r1)
+  - DOI: 10.1257/jel.64.3.1058.r1
+  - Authors: Joseph R. Mason
+  - Affiliations: Louisiana State University and BVA Group.
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Joseph R. Mason of Louisiana State University and BVA Group reviews “Private Finance, Public Power: A History of Bank Supervision in America” by Peter Conti-Brown and Sean H. Vanatta. The Econlit abstract of this book begins: “Presents a positive theory of how bank supervision works today, explaining how through experimentation, error, and the slow building of sometimes redundant, often warring institutions the American system of bank supervision came to be.”
+
+- [Book Reviews](https://doi.org/10.1257/jel.64.3.1058)
+  - DOI: 10.1257/jel.64.3.1058
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+
+- [Annotated Listing of New Books](https://doi.org/10.1257/jel.64.3.1073)
+  - DOI: 10.1257/jel.64.3.1073
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+  - Abstract:
+    Editor's Note Our policy is to annotate all English-language books on economics and related subjects that are sent to us. A very small number of foreign-language books are called to our attention and annotated by our consulting editors or others. Our staff does not monitor and order books published; therefore, if an annotation of a book does not appear six months after the publication date, please write to us or the publisher concerning the book.
+
+- [<i>Journal of Economic Literature</i>                     , September 2026, Volume LXIV, Number 3](https://doi.org/10.1257/jel.64.3.1)
+  - DOI: 10.1257/jel.64.3.1
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Literature
+
+### Sociology
+- Field: SOC SCI
+- Articles: 3
+
+- [Uncertain intimacies: Intoxication, consent, and moral judgment among young adults](https://doi.org/10.1177/00380385261472820)
+  - DOI: 10.1177/00380385261472820
+  - Authors: Alexandra Bogren; Geoffrey Hunt; Margit Anne Petersen
+  - Affiliations: Department of Sociology, School of Social Sciences, Södertörn University, Sweden; Centre for Alcohol and Drug Research, Department of Psychology and Behavioural Sciences, Aarhus University, Denmark; Institute for Scientific Analysis, Alameda, CA, USA
+  - Published: 2026-08-30
+  - Crossref journal: Sociology
+  - Abstract:
+    How do young adults negotiate consent and responsibility in sexual encounters involving intoxication? Drawing on 31 qualitative interviews with young adults in the Greater Stockholm area, this article conceptualizes such encounters as situations in which taken-for-granted moral orientation may become destabilized. Participants described uncertainty about intentions, consent, responsibility, and the meaning of events, especially where memory loss, uneven intoxication, or unclear reciprocity were involved. To navigate this uncertainty, they relied on practical moral heuristics, including distinctions between being “tipsy” versus “too drunk,” the “dead-drunk” taboo, and ideals of intoxication parity or being on the “same level.” These heuristics translated uncertain internal states into workable social cues for judging fairness, vulnerability, and legitimacy, yet were also shaped by gendered sexual scripts. The article contributes to moral sociology by theorizing moral judgment as a situated accomplishment under conditions of uncertainty.
+
+- [The rod, the child, and the slave: Antislavery campaigners’ selective attention to violence against children](https://doi.org/10.1177/00380385261447200)
+  - DOI: 10.1177/00380385261447200
+  - Authors: Samuel Okyere; Julia O’Connell Davidson
+  - Affiliations: University of Bristol, Bristol, UK
+  - Published: 2026-08-30
+  - Crossref journal: Sociology
+  - Abstract:
+    Campaigns to prohibit the use of corporal punishment against children receive only a fraction of the interest and support that is elicited by campaigns to eliminate ‘child slavery’, even though the latter is said to be defined primarily by the use of violence to control children. This article draws on research with young Ghanaian men and women who, as children, experienced what antislavery NGOs describe as ‘child slavery’ to show that the kind of violent control they were subjected to as supposed ‘child slaves’ was neither qualitatively different from, nor more extreme than, the kinds of violent control they experienced in other contexts, especially the home. The article questions the selective focus on violence in ‘child slavery’ in abolitionist campaigns, arguing that it reflects and reproduces patriarchal, racialised, and colonial thinking about childhood, dependency, and legitimate authority, including the idea that some adults have the right to violently control children.
+
+- [Precarious freedoms: Domestic work, dependency and the afterlives of slavery in Brazil](https://doi.org/10.1177/00380385261477953)
+  - DOI: 10.1177/00380385261477953
+  - Authors: Angelo Martins Junior; Attila Magno e Silva Barbosa; Giovanna Iasiniewicz; Maria Emília Büttow
+  - Affiliations: University of Birmingham, UK; Federal University of Pelotas, Brazil
+  - Published: 2026-08-30
+  - Crossref journal: Sociology
+  - Abstract:
+    This article examines how domestic work in Brazil is shaped by the afterlives of slavery, showing how racialised and gendered structures organise relations of dependency, exclusion and domination. Drawing on fieldwork with domestic workers in Pelotas and historical analysis of domestic labour during and after slavery, it interrogates the recent turn to the language of ‘modern slavery’ in public and academic discourse in Brazil. By framing exploitation as an exceptional moral rupture, this discourse individualises abuse and detaches labour subordination from the legacies of slavery and racial capitalism. Against this framing, the article develops the concept of precarious freedom to show how domestic workers’ lives are shaped not by a binary between slavery and freedom, but by coercive mechanisms embedded in relations of socio-economic dependency, legal regulations and affective governance. This reframes exploitation in domestic work as a constitutive feature of racialised-gendered capitalist relations rather than an exceptional violation.
+
+### Work, Employment and Society
+- Field: HRM&EMP
+- Articles: 1
+
+- [Transnational Care Labour Markets and the Making of (Un)Ethical Recruitment](https://doi.org/10.1177/09500170261467642)
+  - DOI: 10.1177/09500170261467642
+  - Authors: Isabel Shutes
+  - Affiliations: London School of Economics and Political Science, UK
+  - Published: 2026-08-30
+  - Crossref journal: Work, Employment and Society
+  - Abstract:
+    Ethical recruitment is a core principle of policy governing international labour recruitment, yet how it is constituted and violated in practice remains underexplored. This article examines the making of (un)ethical recruitment in transnational care labour markets, focusing on the international recruitment of care workers to the UK. Drawing on interviews with recruiters of care workers, it explores how recruiters understand and navigate ethical and unethical recruitment. Theoretically, the article frames (un)ethical recruitment through the lens of market-making and the externalisation of care. Empirically, it considers how the costs of care labour are externalised onto workers. Externalisation processes involve fee-charging to internationally recruited care workers, limited enforcement of ethical recruitment standards and the design of state immigration policy itself. While some recruiters position themselves as ethical actors, upholding the rights of migrant workers, it is argued that ethical recruitment ultimately requires employers and states to bear the costs of care labour.
