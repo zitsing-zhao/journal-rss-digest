@@ -1,0 +1,225 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-09-03
+
+Generated at: 2026-09-03 11:00 UTC
+Crossref date mode: `created`
+Window: `2026-09-02` to `2026-09-03`
+New papers: 19
+
+## AJG 4*
+
+### Academy of Management Journal
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [Firm Speed and Environmental Accidents](https://doi.org/10.5465/amj.2024.0689)
+  - DOI: 10.5465/amj.2024.0689
+  - Authors: Toby X. Li
+  - Affiliations: Texas A&M University
+  - Published: 2026-09-02
+  - Crossref journal: Academy of Management Journal
+
+### Review of Economic Studies
+- Field: ECON
+- Articles: 1
+
+- [Equity Frictions and Firm Ownership](https://doi.org/10.1093/restud/rdag098)
+  - DOI: 10.1093/restud/rdag098
+  - Authors: Alessandra Peter
+  - Affiliations: New York University
+  - Published: 2026-09-03
+  - Crossref journal: Review of Economic Studies
+  - Abstract:
+    Abstract In this paper, I document systematic heterogeneity in ownership and financing of firms across Eurozone countries. To rationalize these differences, I build a quantitative general equilibrium model of workers and entrepreneurs who choose debt and equity financing of their firms, subject to rich country-specific financial frictions. The novel data on firm ownership and financing, combined with the structure of the model, allows me to quantify the level of debt and equity frictions in each country. Quantitatively, I find much larger output effects from equity frictions: harmonizing them across countries would lead to nearly four times larger output effects compared to debt frictions, and removing them would increase aggregate output by 73\% more. The larger impact on output is due not only to the estimated levels and dispersion of equity frictions but also to the greater risk sharing provided by equity, which further incentivizes entrepreneurs to expand their firms. Through their effect on risk sharing, equity frictions also rationalize the observed negative relationship between equity financing and wealth inequality. Quantitatively, they are responsible for over 70\% of the explained variation in top wealth shares across countries.
+
+### Strategic Management Journal
+- Field: STRAT
+- Articles: 1
+
+- [Interface as a design choice: How the implementation of interfaces influences coordination and performance in modular systems](https://doi.org/10.1002/smj.70121)
+  - DOI: 10.1002/smj.70121
+  - Authors: Daniel Albert; Martin Ganco
+  - Affiliations: Drexel University, Department of Management LeBow College of Business Philadelphia Pennsylvania USA; University of Wisconsin‐Madison Management and Human Resources, Wisconsin School of Business Madison Wisconsin USA
+  - Published: 2026-09-02
+  - Crossref journal: Strategic Management Journal
+  - Abstract:
+    Abstract Research Summary Modular systems play a central role in technological innovation. Such systems emerge when interdependencies among modules in a complex system are isolated through interfaces. While early seminal work highlighted the importance of interface design, subsequent research on modularity has largely overlooked it. We develop a model that treats interfaces as a set of design choices, separate from module choices. This model elucidates the mechanisms through which interface design influences system performance and identifies novel strategies for sequencing the search of interface and module designers to improve outcomes. The framework has implications not only for standalone innovations but also for the design of standards in platforms and ecosystems. Ultimately, it demonstrates that interface design is as much a strategic challenge as it is a technical one. Managerial Summary Managers increasingly rely on modular designs to enable innovation, yet often overlook interfaces as a strategic lever. This study shows that actively designed and periodically updated interfaces can coordinate interdependencies without constraining decentralized search, enabling modular systems to approach the performance of integrated designs. Crucially, sequencing matters: allowing modules to evolve before introducing interfaces improves long‐run performance, as early experimentation generates knowledge that interfaces can later build upon. Finally, infrequent interface redesign is sufficient to sustain coordination, reducing the need for continuous adaptations. Overall, interfaces should be treated as evolving strategic choices that shape innovation trajectories in products, platforms, and ecosystems.
+
+## AJG 4
+
+### Business History
+- Field: BUS HIST & ECON HIST
+- Articles: 1
+
+- [CEOs at war: Great War service and the formation of Britain’s business elites](https://doi.org/10.1080/00076791.2026.2720676)
+  - DOI: 10.1080/00076791.2026.2720676
+  - Authors: Robin J. C. Adams; Michael Aldous
+  - Affiliations: Queen’s Business School, Queen’s University
+  - Published: 2026-09-02
+  - Crossref journal: Business History
+
+### Econometric Theory
+- Field: ECON
+- Articles: 2
+
+- [UNIFIED INFERENCE ON MOMENT RESTRICTIONS WITH NUISANCE PARAMETERS](https://doi.org/10.1017/s0266466626100528)
+  - DOI: 10.1017/s0266466626100528
+  - Authors: Xingyu Li; Xiaojun Song; Zhenting Sun
+  - Affiliations: Zhejiang University; Peking University; University of Melbourne
+  - Published: 2026-09-03
+  - Crossref journal: Econometric Theory
+  - Abstract:
+    This article proposes a simple unified inference approach on moment restrictions in the presence of nuisance parameters. The proposed test is constructed based on a new characterization that avoids the estimation of nuisance parameters and can be broadly applied across diverse settings. Under suitable conditions, the test is shown to be asymptotically size controlled and consistent for both independent and dependent samples. Monte Carlo simulations show that the test performs well in finite samples. Numerical results from the application to conditional moment restriction models with weak instruments demonstrate that the proposed method may improve upon existing approaches in the literature.
+
+- [A NECESSARY AND SUFFICIENT CONDITION FOR SIZE CONTROLLABILITY OF HETEROSKEDASTICITY ROBUST TEST STATISTICS](https://doi.org/10.1017/s0266466626100541)
+  - DOI: 10.1017/s0266466626100541
+  - Authors: Benedikt M. Pötscher; David Preinerstorfer
+  - Affiliations: University of Vienna; Vienna University of Economics and Business
+  - Published: 2026-09-03
+  - Crossref journal: Econometric Theory
+  - Abstract:
+    We revisit size controllability results in Pötscher and Preinerstorfer (2025, Econometric Theory 41, 249–301) concerning heteroskedasticity robust test statistics in regression models. For the special, but important, case of testing a single restriction (e.g., a zero restriction on a single coefficient), we provide a necessary and sufficient condition for size controllability, whereas the condition in Pötscher and Preinerstorfer (2025, Econometric Theory 41, 249–301) is, in general, only sufficient (even in the case of testing a single restriction).
+
+### European Journal of Information Systems
+- Field: INFO MAN
+- Articles: 1
+
+- [Clicks and gazes: investigating the impact of social-relational goals and media capabilities on active and passive social media use](https://doi.org/10.1080/0960085x.2026.2714833)
+  - DOI: 10.1080/0960085x.2026.2714833
+  - Authors: Sabine Matook; Hillol Bala; Stan Karanasios
+  - Affiliations: University of Queensland; Indiana University
+  - Published: 2026-09-02
+  - Crossref journal: European Journal of Information Systems
+
+### Industrial Relations
+- Field: HRM&EMP
+- Articles: 2
+
+- [Issue Information](https://doi.org/10.1111/irel.70042)
+  - DOI: 10.1111/irel.70042
+  - Published: 2026-09-02
+  - Crossref journal: Industrial Relations: A Journal of Economy and Society
+
+- [Gender Washing? Examining the Effectiveness of Corporate Gender Equality Initiatives](https://doi.org/10.1111/irel.70044)
+  - DOI: 10.1111/irel.70044
+  - Authors: Yvonne Ehrstein; Stefano Maiani; Geoffrey Wood
+  - Affiliations: Department of Geography and Earth Sciences Aberystwyth University Aberystwyth UK; Edinburgh Business School Heriot‐Watt University Edinburgh UK; Dan Management Western University Ontario Canada; Department of Management University of Bath Bath UK
+  - Published: 2026-09-02
+  - Crossref journal: Industrial Relations: A Journal of Economy and Society
+  - Abstract:
+    ABSTRACT Amid growing political backlash and the rollback of DEI initiatives in the US and abroad, we explore whether voluntary gender equality programs produce measurable reductions in workplace gender discrimination, and how the political context mediates these effects. We examine the theoretical tension regarding whether such agendas are primarily about window dressing or in genuine pursuit of organizational gender equity. Using a quasi‐natural experiment design, our findings suggest that DEI commitments, when embedded in credible global frameworks, can produce substantive improvements in organizational behavior. This evidence contributes to ongoing debates over the value of corporate DEI efforts.
+
+### International Economic Review
+- Field: ECON
+- Articles: 1
+
+- [Hospital Heterogeneous Responses to a Blended Payment Scheme Reform and the Distributional Consequences](https://doi.org/10.1111/iere.70106)
+  - DOI: 10.1111/iere.70106
+  - Authors: Wei Yan; Hanmo Yang; Junjian Yi; Chuanchuan Zhang
+  - Affiliations: School of Finance Renmin University of China Beijing China; Center for Population and Development Studies Renmin University of China Beijing China; BigData and Responsible Artificial Intelligence for National Governance Renmin University of China Beijing China; School of Population and Health Renmin University of China Beijing China; China Center for Economic Research Peking University Beijing China; National School of Development Peking University Beijing China; Institute for Global Health and Development Peking University Beijing China; School of Economics Zhejiang University Hangzhou China
+  - Published: 2026-09-02
+  - Crossref journal: International Economic Review
+  - Abstract:
+    ABSTRACT Hospital payment schemes designed to control expenditure could also influence the medical resource allocation. We study hospital responses to the introduction of a blended payment scheme—a diagnosis‐based payment scheme with a predetermined global budget—and their distributional consequences. Exploiting a quasi‐experimental reform in China, we find hospitals respond by upcoding, shifting admissions toward categories with higher upcoding potential, and increasing total admissions. Hospitals’ heterogeneous responses widen the disparity in their payments, primarily through heterogeneous upcoding. Hospitals with more coding knowledge, greater reform exposure, higher tier, and larger size secure a larger share of the social health insurance fund.
+
+### International Journal of Operations and Production Management
+- Field: OPS&TECH
+- Articles: 2
+
+- [Financial pressure, equipment reallocation and operational performance: evidence from hospital price reform](https://doi.org/10.1108/ijopm-01-2026-0055)
+  - DOI: 10.1108/ijopm-01-2026-0055
+  - Authors: Dan Jia; Pai Xu
+  - Affiliations: Beijing Normal University , ,; The University of Hong Kong ,
+  - Published: 2026-09-07
+  - Crossref journal: International Journal of Operations &amp; Production Management
+  - Abstract:
+    Purpose This study examines whether financial pressure induced by price regulation motivates selective equipment investment, whether such investment improves patient-level care processes and through what mechanisms these effects arise. Design/methodology/approach We combine 95,256 inpatient records with nearly a decade of equipment procurement data and physician staffing records from a tertiary public hospital in western China. Exploiting China's zero drug markup policy as an exogenous financial shock, we estimate difference-in-differences and triple-differences models to identify the effects of financial pressure on equipment investment and patient care. Findings Financial pressure led to a substantial reallocation of equipment investment toward departments with stronger procedure-based revenue potential. Equipment expansion improved patient care processes by shortening pre-procedure delays, increasing same-day procedural coordination and reducing total episode duration without detectable deterioration in quality outcomes. The gains were concentrated among patients treated by junior physicians, supporting an incentive-alignment mechanism rather than capital-skill complementarity. Equipment type also mattered: flow-enhancing equipment improved upstream patient flow, whereas capacity-expanding therapeutic equipment reduced 30-day readmissions. Although the reform shifted case mix toward more procedure-intensive diagnoses, we find no evidence that clinically severe patients were crowded out. Originality/value The study shows that financial pressure reshapes the composition of hospital capacity, not merely its level. It further demonstrates that the operational consequences of equipment investment depend jointly on how technology enters the care pathway and how physicians respond to expanded capacity.
+
+- [Impact pathway: beyond automation and augmentation – a relational ontology of AI in operations and supply chain management](https://doi.org/10.1108/ijopm-12-2025-1238)
+  - DOI: 10.1108/ijopm-12-2025-1238
+  - Authors: Miriam Wilhelm; Tingting Yan; Christian Hendriksen; Nada Sanders; Pietro Micheli
+  - Affiliations: Vienna University of Economics and Business (WU) Department of Information Systems and Operations Management, , ,; Texas Tech University Department of Marketing and Supply Chain Management, , , ,; Copenhagen Business School Department of Operations Management, , ,; D'Amore-McKim School of Business, Northeastern University , , ,; Warwick Business School, University of Warwick , ,
+  - Published: 2026-09-04
+  - Crossref journal: International Journal of Operations &amp; Production Management
+  - Abstract:
+    Purpose As companies deploy increasingly agentic forms of AI to coordinate and manage workflows, AI can no longer be understood as a discrete technological tool added to existing operations and supply chains. We propose a relational ontology as an alternative theoretical foundation, conceptualising human–AI coordination as an emerging configuration that continuously reconstitutes roles, processes and performance criteria in OSCM practice. Design/methodology/approach We analyze recent practitioner reports on AI in OSCM (2023–2026) to assess how far the discrete-tool paradigm dominates discourse and to identify where its limitations become visible. This grounds our proposed impact pathways. Findings We show that practitioner discourse is systematically founded on the assumption that AI is a discrete tool. Using well-known AI use cases, we demonstrate that this paradigm cannot account for observed shifts in roles, processes and performance criteria. Research limitations/implications Adopting a relational lens, we develop three impact pathways that reframe common empirical puzzles – unexpected role drift, unstable process boundaries and contested performance attribution – as objects of study rather than implementation failures. Originality/value We challenge a foundational and largely unexamined assumption in OSCM research – that AI is a discrete tool deployed onto existing operations – and offer a relational alternative. This shifts the unit of analysis from the technology to the evolving human–AI configuration, helping managers anticipate how AI deployment will reshape jobs, workflows and performance metrics.
+
+### Journal of Organizational Behavior
+- Field: PSYCH (WOP-OB)
+- Articles: 1
+
+- [Who Is to Blame? A Network Perspective on Workplace Injustice](https://doi.org/10.1002/job.70127)
+  - DOI: 10.1002/job.70127
+  - Authors: Jeffrey J. Haynie; Bryan Fuller; Hettie A. Richardson; Christopher L. Martin; Pierre Andrieux
+  - Affiliations: College of Business Administration Louisiana Tech University Ruston Louisiana USA; Neeley School of Business Texas Christian University Fort Worth Texas USA
+  - Published: 2026-09-02
+  - Crossref journal: Journal of Organizational Behavior
+  - Abstract:
+    ABSTRACT Organizational justice research typically assumes that accountability for injustices is localized to the direct offender. Yet growing evidence suggests that blame can extend to indirect actors, calling into question such a narrowed view of injustice. By integrating fairness and power‐dependence theories, we develop a model of blame‐shifting to explain how victims can hold both coworkers (direct offenders) and supervisors (indirect offenders) accountable when coworker offenses arise. Across two studies, we theorize and test the mechanisms through which blame migrates from a direct offender to a background actor, highlighting the importance of power‐based network considerations for workplace injustices. In Study 1, event‐based data demonstrate that coworker injustice predicts supervisor injustice through the sequential mediation of coworker and supervisor blame. Study 2 constructively replicates this effect and tests boundary conditions involving formal (delegation‐based, vertical) and informal (status‐based, horizontal) power asymmetries. Results indicate that perceived intermediary delegation (PID)—the degree to which victims view coworkers as agents acting under supervisory authority—strengthens the blame migrating effect when victims concurrently hold lower relative statuses with their supervisors than their offending coworkers. Together, these findings suggest that accountability judgments arise within power‐laden networks rather than in isolated dyads. Such a network perspective offers a deeper understanding of accountability judgments thereby advancing justice theory and practice.
+
+### Journal of the European Economic Association
+- Field: ECON
+- Articles: 1
+
+- [Polygyny and the Economic Determinants of Family Formation in Sub-Saharan Africa,](https://doi.org/10.1093/jeea/jvag053)
+  - DOI: 10.1093/jeea/jvag053
+  - Authors: Augustin Tapsoba
+  - Affiliations: Toulouse School of Economics ,
+  - Published: 2026-09-02
+  - Crossref journal: Journal of the European Economic Association
+  - Abstract:
+    Abstract Social norms and formal institutions governing marriage markets vary widely across societies. This paper examines how polygyny norms in Sub-Saharan Africa shape marriage market responses to aggregate economic shocks and their resulting welfare implications. Unlike monogamous markets, polygynous markets feature intense competition for brides between young bachelors and older married men seeking a second (junior) wife. I show, both theoretically and empirically, that the latter group is more responsive than the former to aggregate income shocks in areas where the shadow price of marrying a junior wife is low. This difference in sensitivity leads to distinct equilibrium outcomes: adverse shocks increase the incidence of child marriage in monogamous areas but have no detectable effect in polygynous areas. These divergent equilibrium outcomes generate stark differences in the long-term effects of such shocks on female education, literacy, and the utilization of preventive care services.
+
+### Organizational Research Methods
+- Field: ORG STUD
+- Articles: 1
+
+- [Can Generative Large Language Models Serve as Raters for Test Development? A Systematic Evaluation Across Tasks, Models, and Inference Configurations](https://doi.org/10.1177/10944281261475596)
+  - DOI: 10.1177/10944281261475596
+  - Authors: Mina Son; Philseok Lee
+  - Affiliations: George Mason University
+  - Published: 2026-09-02
+  - Crossref journal: Organizational Research Methods
+  - Abstract:
+    The present study investigates the effectiveness of generative large language models (LLMs) as raters across three common rating tasks: (a) social desirability ratings, (b) content validity ratings, and (c) trait importance ratings. Specifically, we examine reliability and validity of LLM-generated ratings across varying occupational contexts, rating methods, LLM families (i.e., GPT-4, GPT-5, and Sonnet 4.5), and inference configurations (i.e., prompt design and temperature settings). Results indicate that LLM ratings exhibit strong reliability and convergent validity in social desirability ratings across occupational contexts, as well as acceptable convergence with human ratings in Likert-type content validity evaluations. In contrast, reliability and convergent validity for trait importance ratings were inconsistent across occupational contexts. Variations in prompt design and temperature settings generally produced small to negligible effects on reliability and validity. Overall, the findings suggest that LLMs can function as effective supplementary raters in test development and validation processes, although greater caution is warranted for certain rating tasks. Practical implications and directions for future research are discussed.
+
+### Regional Studies
+- Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+- Articles: 1
+
+- [Mission-oriented innovation policies in practice: comparative regional responses to Germany’s high-tech strategies](https://doi.org/10.1080/00343404.2026.2702579)
+  - DOI: 10.1080/00343404.2026.2702579
+  - Authors: Linda Bandelow; Kashina Perlinger; Cindy Rentrop
+  - Affiliations: TUM School of Management, Technical University of Munich; Campus Straubing for Biotechnology and Sustainability, Technical University of Munich; Cambridge Centre for Environment, Energy and Natural Resource Governance, University of Cambridge; TUM School of Social Sciences and Technology, Technical University of Munich
+  - Published: 2026-09-02
+  - Crossref journal: Regional Studies
+
+### Risk Analysis
+- Field: SOC SCI
+- Articles: 3
+
+- [Risk Assessment in Peacekeeping: Are Visual Sparse Models Transparent?](https://doi.org/10.1111/risa.70351)
+  - DOI: 10.1111/risa.70351
+  - Authors: Niklas Keller; Uwe Czienskowski; Harald Schaub; Konstantinos V. Katsikopoulos
+  - Affiliations: Harding Centre for Risk Literacy Berlin Germany; Centre for Adaptive Rationality Max Planck Institute for Human Development Berlin Germany; Department of Information Technologies Max Planck Institute for Human Development Berlin Germany; Department of General Psychology and Methodology University of Bamberg Bamberg Germany; IABG (Industrieanlagen‐Betriebsgesellschaft mbH) Ottobrunn Germany; Centre for Behavioural Experimental Action and Research, Department of Decision Analytics and Risk University of Southampton Business School Southampton UK
+  - Published: 2026-09-03
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Decision and risk analysis tools must be accurate and transparent. Classification trees, especially sparse ones, and other visual models, such as scorecards or risk tables, have been claimed to strike this balance. There is, however, little empirical evidence for the transparency of such models. We derive relevant hypotheses and test them in a controlled laboratory experiment with an ecologically valid, high‐risk, critical task: threat classification in peacekeeping. Three classification models are studied: a complete tree, a sparse (specifically, fast‐and‐frugal) tree, and a risk table. To focus on transparency, all three models make identical classifications and thus have equal accuracy. We assess and score three aspects of transparency for each model: time required to learn to a strict criterion, accuracy of application under time pressure, and accuracy in a delayed surprise memory recall test. In a between‐participants design, the fast‐and‐frugal tree is learned more quickly, applied more accurately, and recalled more accurately than the complete tree and the risk table; all statistical effect sizes are large. The recall accuracy of the fast‐and‐frugal tree is, in contrast to the other two models, robust to individual differences in statistical numeracy and risk literacy. In sum, the results of the experiment, together with reflection on limitations and challenges, plus theoretical arguments, suggest that sparse trees might serve as a reasonable benchmark and starting point for designing transparent support for risk assessment.
+
+- [Lost in Projection: Uncertainty is Misrepresented in Climate Risk and Vulnerability Assessments](https://doi.org/10.1111/risa.70331)
+  - DOI: 10.1111/risa.70331
+  - Authors: Patrick Curran; Kendrick Hardaway; Tom Logan
+  - Affiliations: Civil and Environmental Engineering University of Canterbury Christchurch New Zealand; Biological and Agricultural Engineering University of Arkansas Fayetteville Arkansas USA; Urban Intelligence Christchurch New Zealand
+  - Published: 2026-09-02
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT In practice, many climate change risk assessments fail to capture the true depth of uncertainty. Despite widespread scientific recognition of deep uncertainty (large ranges of possibility) in climate conditions, this nuance is often lost in translation to policy and planning contexts; instead, conditions are presented as single projections. This means that communities are making large‐scale infrastructure investments and long‐term policy commitments based on false precision, leaving them unprepared for climate surprises or potentially wasting resources and disrupting communities unnecessarily by overadapting. To examine how climate uncertainties are represented and accounted for in adaptation planning, we conducted a structured review of 39 climate risk and vulnerability assessments from across the world, using sea level rise as a case study. These documents inform policy that guides billions of dollars in infrastructure investments and shape community preparedness strategies. Our analysis reveals that only 54% of these documents correctly represent sea level rise as deeply uncertain. This issue is compounded when making decisions; 71% of decisions were made by misapplying scenarios as individual projections to plan for, rather than as a tool for exploring potential future conditions, directly contradicting their intended use. This demonstrates a gap between scientific understanding of climate uncertainty and planning practice. Addressing this gap requires improved uncertainty communication, moving beyond just quantifying uncertainty to also characterizing uncertainty. This must be done in conjunction with the support of decision makers to incorporate a stronger understanding of uncertainty into planning by using tools designed specifically for decision making in deeply uncertain environments.
+
+- [Assessing the Sensitivities of Input–Output Methods for Natural Hazard‐Induced Power Outage Macroeconomic Impacts](https://doi.org/10.1111/risa.70314)
+  - DOI: 10.1111/risa.70314
+  - Authors: Matthew Sprintson; Edward J. Oughton
+  - Affiliations: Geography and Geoinformation Sciences George Mason University Fairfax Virginia USA; Yale University New Haven Connecticut USA
+  - Published: 2026-09-02
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Power outages are a substantial global issue across both advanced and developing countries, affecting economic productivity and growth. Consequently, numerous studies have examined the potential macroeconomic impacts of these disruptions, employing a wide variety of modeling methods and data parameterization techniques. A frequent approach is the use of input–output macroeconomic modeling, yet there is a lack of clarity about how ex ante parameterization and other methodological decisions affect output estimates, warranting further investigation. In this paper, we quantify the macroeconomic effects of three significant natural hazard US power outages: Hurricane Ian (2022), the 2021 Texas Blackouts, and Tropical Storm Isaias (2020). Our analysis evaluates the sensitivity of three commonly used data parameterization techniques (household interruptions, kWh lost, and satellite luminosity), along with three static models (Leontief and Ghosh, critical input, and inoperability input–output). We find the mean domestic loss estimates for these three blackout events to be $2.42 Bn, $3.24 Bn, and $2.27 Bn, respectively. However, data parameterization techniques can alter estimated losses by up to 52.8% of the mean. Consistent with the wide range of outputs, we find that risk analysis stemming from gross output estimate severity is highly sensitive to model architecture, data parameterization, and analyst assumptions. Results sensitivity is not uniform across models and arises from important a priori analyst decisions, demonstrated by data parameterization techniques yielding up to 55.9% differences from empircal results within a model. To our knowledge, we contribute to the literature the first systematic comparison of multiple IO models and parameterizations across several natural hazard long‐duration power outages, providing guidance and insights for analysts.
