@@ -14069,12 +14069,26 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-09-04",
       "first_seen": "2026-09-05T10:23:23.894630+00:00"
+    },
+    "10.1177/00018392261461268": {
+      "title": "Myopic Expansions on Digital Platforms",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-09-05",
+      "first_seen": "2026-09-06T10:42:50.811919+00:00"
+    },
+    "10.1177/00018392261464889": {
+      "title": "Cold Starts and Burning Desires: Reputation System Misalignment and Late-Career Transitions to Platform Work",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-09-05",
+      "first_seen": "2026-09-06T10:42:50.811919+00:00"
     }
   },
-  "last_run": "2026-09-05T10:23:23.894630+00:00",
+  "last_run": "2026-09-06T10:42:50.811919+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-09-04",
-    "end_date": "2026-09-05"
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-06"
   }
 }
