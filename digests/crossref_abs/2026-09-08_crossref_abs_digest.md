@@ -1,0 +1,286 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-09-08
+
+Generated at: 2026-09-08 11:01 UTC
+Crossref date mode: `created`
+Window: `2026-09-07` to `2026-09-08`
+New papers: 27
+
+## AJG 4*
+
+### Administrative Science Quarterly
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [Legitimizing the Regulatory State: How Institutional Intermediaries Facilitate Inclusive and Effective Co-creation in Emerging Economies](https://doi.org/10.1177/00018392261473620)
+  - DOI: 10.1177/00018392261473620
+  - Authors: Allen Hicken; Edmund J. Malesky; Songkhun “Sunny” Nillasithanukroh; Markus Taussig
+  - Affiliations: University of Michigan, USA; Duke University, USA; VinUniversity, Vietnam; University of Arkansas, USA; Rutgers University, USA
+  - Published: 2026-09-07
+  - Crossref journal: Administrative Science Quarterly
+  - Abstract:
+    Theory indicates that inclusive regulatory co-creation between firms and their governments activates a procedural justice mechanism that improves firms’ views of state legitimacy and leads to rules that better fit the full spectrum of real-world operating conditions. Emerging economies, however, face what we argue is a legitimacy–co-creation paradox: Widely held baseline views of government as corrupt and captured by elite interests lead many firms to balk at engaging with the state, thereby impeding opportunities for mutually beneficial co-creation. To address this challenge, we pilot and test the impact of a third-party intervention that we name the RegRoom, wherein an expert helps firms refine their comments on draft regulation before submitting them and, in so doing, increases the firms’ understanding of the regulation’s public purpose. We hypothesize and find evidence through a field experiment in Thailand that this institutional intermediation improves firms’ perceptions of state legitimacy and observable engagement in regulatory co-creation. Further exploration of our data leads us to theorize a sequence by which institutional intermediaries overcome the legitimacy–co-creation paradox; specifically, legitimacy deficits need to be addressed before capability enhancement can occur. Our study shows how institutional intermediaries can contribute to the expansion of fairer and more-sustainable markets.
+
+### Entrepreneurship Theory and Practice
+- Field: ENT-SBM
+- Articles: 1
+
+- [Are All Patents Equal? How Patent Attributes Shape Market Reactions to Family and Nonfamily Firm Innovation](https://doi.org/10.1177/10422587261470045)
+  - DOI: 10.1177/10422587261470045
+  - Authors: Kimberly A. Eddleston; Francesco Chirico; Pankaj C. Patel
+  - Affiliations: Northeastern University, Boston, MA, USA; Macquarie University – Macquarie University Innovation, Strategy and Entrepreneurship (ISE) Research Centre, Sydney, NSW, Australia; Jonkoping University – Centre for Family Entrepreneurship and Ownership (CeFEO), Sweden; Villanova University, PA, USA
+  - Published: 2026-09-07
+  - Crossref journal: Entrepreneurship Theory and Practice
+  - Abstract:
+    Integrating family firm innovation research with signaling theory, we develop a framework explaining market reactions to patents granted to family versus nonfamily firms. Using a U.S. dataset of 52,241 patents from 2014 to 2018, we find the stock market reacts more positively to patents granted to family firms than nonfamily firms. We then examine reactions to radical versus incremental patents. Patents reflecting radical innovation, measured by novelty and pedigree, create greater market value for family firms than nonfamily firms, although the pedigree effect is only marginally significant. By contrast, patents reflecting incremental innovation, measured by temporal depth, have little effect on nonfamily firms’ market value but reduce family firms’ market value.
+
+## AJG 4
+
+### Industrial Relations
+- Field: HRM&EMP
+- Articles: 1
+
+- [Collective Bargaining in Germany: Trends and Challenges](https://doi.org/10.1111/irel.70043)
+  - DOI: 10.1111/irel.70043
+  - Authors: Lutz Bellmann; Christian Dustmann; Bernd Fitzenberger
+  - Affiliations: IAB and Friedrich‐Alexander University Erlangen‐Nuremberg Erlangen Germany; University College London, IAB and RFBerlin London UK
+  - Published: 2026-09-07
+  - Crossref journal: Industrial Relations: A Journal of Economy and Society
+  - Abstract:
+    ABSTRACT This paper examines the evolution, institutional structure, and challenges of collective bargaining in Germany. Collective bargaining addresses labor market imperfections, redistributes productivity gains, and shapes working conditions. Germany's system centers on industry‐level agreements, complemented by firm‐level agreements and voluntary adoption by formally uncovered firms (“orientation”). Historically, it has fostered cooperative labor–management relations while retaining flexibility during downturns. We document long‐term declines in union density and bargaining coverage, partly offset by orientation, with especially low coverage among low‐wage workers. Finally, we discuss the future of collective bargaining, the growing role of the statutory minimum wage, and comparisons with the US.
+
+### International Economic Review
+- Field: ECON
+- Articles: 3
+
+- [Heterogeneous Markups Cyclicality and Monetary Policy](https://doi.org/10.1111/iere.70109)
+  - DOI: 10.1111/iere.70109
+  - Authors: Andrea Chiavari; Marta Morazzoni; Danila Smirnov
+  - Affiliations: Department of Economics University of Oxford Oxford UK; Department of Economics University College London London UK; CEPR; and Institute for Fiscal Studies London UK; International Monetary Fund Washington District of Columbia USA
+  - Published: 2026-09-07
+  - Crossref journal: International Economic Review
+  - Abstract:
+    ABSTRACT This paper studies aggregate markup cyclicality through firm‐level heterogeneity, reallocation, and aggregation. Using the U.S. firm data for 1990–2016, we find that markups are procyclical for young firms and countercyclical for older firms following monetary policy shocks. Economic activity also reallocates modestly toward young firms. As the firm population ages, the aggregate markup response shifts from acyclical or mildly procyclical to countercyclical. These findings help reconcile conflicting evidence on markup cyclicality and imply that firm demographics shape monetary‐policy transmission and the roles of demand and supply shocks in business cycles.
+
+- [Discussion of “The Dynamics of Gender Norms and Fertility Decline”](https://doi.org/10.1111/iere.70108)
+  - DOI: 10.1111/iere.70108
+  - Authors: Xincheng Qiu
+  - Affiliations: Guanghua School of Management Peking University Beijing China
+  - Published: 2026-09-07
+  - Crossref journal: International Economic Review
+  - Abstract:
+    ABSTRACT This discussion develops a parsimonious framework for norm dynamics. The interaction between social pressure to conform and older generations attachment to past practices generates intergenerational inertia and a persistent wedge between behavior and the frictionless optimum. I characterize the determinants of this wedge and highlight the role of demographic transition. I illustrate the framework's broader applicability to scientific paradigms and policy reform.
+
+- [Demand Uncertainty, Selection, and Trade](https://doi.org/10.1111/iere.70110)
+  - DOI: 10.1111/iere.70110
+  - Authors: Erick Sager; Olga A. Timoshenko
+  - Affiliations: Federal Reserve Board Washington DC USA; Department of Economics Temple University Philadelphia Pennsylvania USA
+  - Published: 2026-09-07
+  - Crossref journal: International Economic Review
+  - Abstract:
+    ABSTRACT This paper examines the effect of idiosyncratic uncertainty on trade elasticities in a canonical heterogeneous‐firm model. We identify two channels through which uncertainty affects elasticities: a selection effect, whereby uncertainty lowers export participation thresholds and a dispersion effect, whereby uncertainty lowers the dispersion of export selection shocks, with an ambiguous impact on elasticities. We develop a methodology to quantify trade elasticities under uncertainty and apply it to Brazilian firm‐level export data. Relative to a complete‐information framework, uncertainty amplifies trade elasticities on average, with heterogeneous effects across industries that are largest among highly substitutable and high‐uncertainty products.
+
+### Journal of Management Studies
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [State De‐Orchestration of Corporate Social Responsibility: The Backlash against                     <scp>CSR</scp>                     in Brazil under the Bolsonaro Government](https://doi.org/10.1111/joms.70147)
+  - DOI: 10.1111/joms.70147
+  - Authors: Alan Brejnholt; Jukka Rintamäki; Gerhard Schnyder
+  - Affiliations: Loughborough University London; ESCP Business School Sustainability Department; Aalto University School of Business
+  - Published: 2026-09-07
+  - Crossref journal: Journal of Management Studies
+  - Abstract:
+    Abstract Governments have become increasingly active players in corporate social responsibility (CSR), with many countries adopting more stringent regulations for firms to pursue goals not limited to profit‐making. However, more recently, some jurisdictions have seen a backlash against CSR, which implies that the state's role in CSR is reversing from facilitating, encouraging, and mandating to prohibiting or undermining CSR. We study one such case of backlash against CSR in Bolsonaro's Brazil. We introduce the concept of state de‐orchestration to capture the reversal of the government's role in CSR in Brazil. We contribute to processual perspectives on state‐business interactions, the government and CSR literature, and the orchestration literature, by identifying the mechanisms by which the state loosens the constraints on and support for firms to pursue public good objectives. We also contribute to the government and CSR literature by demonstrating and theorising the impact de‐orchestration has on corporate discretion. We argue that corporate discretion needs to be conceived as both the liberty to adopt or not adopt CSR practices and the ability to do so. We further show that for some firms, domestic de‐orchestration may impair the exercise of corporate discretion, particularly among those exposed to pressures stemming from transnational CSR norms.
+
+### Organization Studies
+- Field: ORG STUD
+- Articles: 8
+
+- [Something worth doing otherwise: Reframing method as living practice in qualitative research](https://doi.org/10.1177/01708406261488634)
+  - DOI: 10.1177/01708406261488634
+  - Authors: Viviane Sergi; Jeremy Aroles
+  - Published: 2026-09-08
+  - Crossref journal: Organization Studies
+  - Abstract:
+    In our field, the conception of method has become increasingly black-boxed, thereby giving prevalence to the technical and procedural nature of method, obscuring its theoretical, value-laden and embodied character. This essay aims to reconnect method with the doing of research, by making us receptive to what is lost when method becomes too formalistic and ‘hardens’. Thus doing, it fleshes out three core tensions constitutive to qualitative research (epistemology vs. methodology; planned vs. situated action; novelty vs. conformity) and emphasizes the processual, performative and embodied facets of method. In the light of this, we propose a non-exhaustive set of ‘practical’ possibilities to qualitative researchers who may be interested in reframing their conception and practice of method. This essay invites qualitative scholars to reconsider what they take method to be and perhaps, dare we say, fall in love again with method as the core of our practice as researchers.
+
+- [Scaffolded Unlearning: Organizing the reduction of internalized stigma](https://doi.org/10.1177/01708406261488615)
+  - DOI: 10.1177/01708406261488615
+  - Authors: Ira Chatterjee; Johanna Mair; Joakim Wincent
+  - Published: 2026-09-08
+  - Crossref journal: Organization Studies
+  - Abstract:
+    Stigma constrains life chances, social participation, and well-being, yet we know much more about how stigma is reduced through changes in external evaluations than about how internalized stigma is reduced among stigmatized individuals themselves. Drawing on a qualitative case study of a long-standing organizational intervention supporting widowed women in India, we theorize the reduction of internalized stigma as a process of “scaffolded unlearning.” We show how interventions can organize opportunities to engage in alternative practices that enable individuals to adopt new roles, relationships, and social activities while reducing the risks of departing from stigma-consistent expectations. This process unfolds in three interrelated phases—re-fastening, reautonomizing, and reassociating—in which organizational scaffolds support practices associated with belonging and security, pride and self-efficacy, and hope and social recognition. Our findings reveal how organizations reduce internalized stigma by creating the conditions for sustained engagement in alternative practices that repeatedly elicit intertwined emotional and cognitive shifts, thereby advancing research on both destigmatization and scaffolding.
+
+- [Modern Western Organization as a Tool of Colonial Politics: Intersections and Erasures of Resistant Native Organizing](https://doi.org/10.1177/01708406261488585)
+  - DOI: 10.1177/01708406261488585
+  - Authors: nimruji jammulamadaka
+  - Published: 2026-09-08
+  - Crossref journal: Organization Studies
+  - Abstract:
+    This study interrogates the way politics and organisation constitute each other in the colonial context. It asks “what happens when one shifts the lens to the organisation itself as the tool of politics, not just the site?” I interrogate the intersection of organisation of imperial politics with the politics of organising resistance by examining how colonial power controls and subjugates native organising and resistance by drawing boundaries of MWO to demarcate the formal from the informal, the legal from the illegal and disenfranchise the native. By studying two cases of organising and resistance – one historical of Bombay Textile Mills during British colonial rule and another contemporary of Vapi chemical cluster’s pollution in the condition of coloniality. It finds that colonial power controls and subjugates native organising and resistance by using modern western bureaucratic organisation to draw boundaries demarcating the formal from the informal, the legal from the illegal. Colonial politics via formal organisation eliminates native politics of organising resistance rooted in anticipatory action and erases the locus of community’s resistance by shifting it to a distanced third party who follows obligatory action, all under the guise of protecting the abstract interests of subordinated. This study finds that the longue durée of colonial power operates by using MWO as a tool to limit and control the terms through which the disenfranchised may engage in politics of voice and resistance. The study concludes that modern western organisation is not just a site of politics, but actually a tool of control and obedience that dismantles and disables resistance, especially in the colonial context. This paper contributes to the literature on politics of organisation and decolonising management and organisation studies.
+
+- [‘Stakeholder Theory and Its Antecedents: Taylorism, Fascism, and the Pluralist Alternative’](https://doi.org/10.1177/01708406261488587)
+  - DOI: 10.1177/01708406261488587
+  - Authors: Marco Michelotti; Chris Nyland; Petya Puncheva
+  - Published: 2026-09-07
+  - Crossref journal: Organization Studies
+  - Abstract:
+    Recent scholarship positions stakeholder theory as an ethical and democratic response to contemporary authoritarian tendencies in corporate governance. This paper problematises this assumption by showing that many dominant formulations of stakeholder theory reproduce a governance configuration long associated with authoritarianism: the formal recognition of multiple stakeholder voices combined with the retention of ultimate decisional primacy by managerial elites. Drawing on political theory, the history of organisation studies and archival research, we argue that stakeholder theory is internally divided between two divergent trajectories; a unitarist trajectory that legitimises consultation without power, and a pluralist trajectory that embeds enforceable countervailing authority. We develop this argument through a historical reconstruction of three intellectual lineages underpinning stakeholder governance: liberal corporatism, fascist corporatism, and Progressive-era scientific management. While fascist corporatism institutionalised stakeholder representation while centralising authority, Progressive Taylorists articulated a pluralist alternative that linked organisational efficiency to institutionalised power-sharing and by doing so was instrumental in supporting consumer spending and long-lasting economic growth. The paper’s theoretical contribution is threefold. First, it reframes stakeholder theory as a contested political project rather than a unified paradigm. Second, it re-politicises stakeholder governance by reconnecting organisational design to broader structures of political authority. Third, it advances a historically grounded pluralist model of stakeholder democracy capable of countering contemporary forms of corporate and political authoritarianism.
+
+- [The Neoliberal University, Academic Capitalism and the Financialisation of Higher Education: The Case of Brazil](https://doi.org/10.1177/01708406261488599)
+  - DOI: 10.1177/01708406261488599
+  - Authors: Sergio Wanderley; Flavio Vasconcelos
+  - Published: 2026-09-07
+  - Crossref journal: Organization Studies
+  - Abstract:
+    This paper investigates how the rapid and extreme financialisation of higher education in the Brazilian case may contribute to theorising the neoliberal university. We present a first-hand empirical study based on Brazil’s seven listed HEIs. We investigate the new actors that control them and analyse their organisational structure, which represents a variation of the neoliberal university. In Brazil, the state has promoted policies that supported the entry of new financial actors into higher education. The literature on the neoliberal university investigates how state policies have forced universities to adopt managerialist practices in order to engage with the market. In academic capitalism, developing market-like activities does not mean that the neoliberal university has become part of the market, nor that it is structured as a full corporation. At most, it resembles a private enterprise, which can be termed a ‘light neoliberal university’. In Brazil, the full-corporation-neoliberal-university is a conglomerate of HEIs controlled by financial investors from corporate headquarters, where financial indicators are considered the primary drivers of performance to the benefit of shareholders. These market consolidators and market makers do not integrate with the new economy in the manner described by academic capitalism; rather, they incorporate academia. Thus, we frame this form as capitalism in academia, since these are corporations that perform academic-like activities. We posit that the academic logic supporting the social contract between universities and the societies in which they are embedded breaks down when it is replaced by the market logic of generating shareholder value. This is the deleterious effect of the full-corporation-neoliberal-university on the institutional fabric of higher education. The rapid expansion of distance learning at very low tuition fees, which delivers higher financial margins, puts pressure on all types of HEIs and on the academic labour market, while compromising education quality and completion rates.
+
+- [Seeing like a Platform: Netflix and the reorganizing of markets for audiovisual production and consumption](https://doi.org/10.1177/01708406261488553)
+  - DOI: 10.1177/01708406261488553
+  - Authors: Lixin Lu; hans kjellberg; Patrik Strom
+  - Published: 2026-09-07
+  - Crossref journal: Organization Studies
+  - Abstract:
+    While the effects of digital platforms on established markets are widely recognized, we know little about the process that produces these effects. We explore this issue through a longitudinal process study of how Netflix’s entry into the European audiovisual markets reorganized these markets. We find that Netflix’s efforts hinged on the creation and use of a proprietary market information regime, offering an alternative outlook and vision for these markets compared to that of the incumbents. The focus of attention provided by these respective market information regimes had a formative effect on platformization. Rather than following a fixed lifecycle, shifts in the degree of overlap between the market information regimes of Netflix and the market incumbents resulted in a platformization process with sequential phases characterized by teleologic, evolutionary, and dialectic mechanisms. The result was a synthesis combining features of the established and the platform-based market orders. This new order had substantial effects on both production and consumption markets, including a growing imbalance between the supply and demand for creative resources and accelerated consumption, as well as wider societal effects that triggered questions regarding cultural representations and creativity.
+
+- [Feeling the fall: Immediate emotional responses to corporate misconduct and their impact on firm reputation](https://doi.org/10.1177/01708406261488602)
+  - DOI: 10.1177/01708406261488602
+  - Authors: Kevin Curran; Timothy David Hubbard
+  - Published: 2026-09-07
+  - Crossref journal: Organization Studies
+  - Abstract:
+    Organisational reputation has long been understood as a rational stakeholder evaluation of expected future performance based on signals from past actions. Yet when people encounter news of organisational misconduct, these judgements are often immediate, emotional, and moral. How these emotional reactions influence reputation judgements remains poorly understood. To address this lack of understanding, we integrate social judgement research from social psychology with psychophysiological methods to study the affective dimensions of reputational decline. Across three experimental studies involving professionally produced news broadcasts featuring a high-reputation automobile manufacturer, we measure participants’ facial expressions, electrodermal activity, and survey-based reputation assessments. Study 1 (N = 245) demonstrates that character violations generate stronger negative emotions than competence violations. Study 2 (N = 90), conducted in a biometric laboratory, shows that combined character and competence violations produce the strongest negative emotions and elevate contempt—a moral emotion signalling rejection from the community—but not anger or disgust. Study 3 (N = 298) provides evidence of a partial indirect effect where negative emotions transmit the effect of combined violations on early reputational decline. Our findings make two primary contributions. First, our findings suggest that society’s judgements of organisations are not formed solely through reflective evaluation. Rather, immediate emotional responses systematically accompany and mediate early reputation judgements, particularly when misconduct signals failures of organisational character. In particular, contempt emerges as a discrete moral emotion in stakeholders’ negative affective responses. Second, we illustrate how psychophysiological methods—including facial expression analysis and electrodermal activity measurement—can capture the spontaneous affective micro-processes underlying social evaluations.
+
+- [Assessing the suitability of digital data for qualitative research](https://doi.org/10.1177/01708406261488623)
+  - DOI: 10.1177/01708406261488623
+  - Authors: Adam James Nix; Stephanie Decker; David A. Kirsch; Omeghie Okoyomoh
+  - Published: 2026-09-07
+  - Crossref journal: Organization Studies
+  - Abstract:
+    Qualitative organizational researchers value evidence that offers rich insights into social phenomena. While the growing abundance of digital data holds significant potential, researchers are typically not present to observe the processes through which they are created or maintained. This article addresses the challenges this poses for those seeking to use digital data, such as emails, websites, and online videos, that exist as a consequence of naturally occurring interactions and events. We begin by problematizing the assumption that data quality depends on researchers’ presence during data creation, distinguishing a dominant epistemology of observation from an alternative epistemology of reconstruction. Building on this, we elaborate on the distinctive characteristics of digital data and the live and repository settings through which they are accessed. We then integrate these insights with the concepts of provenance and systematicity to develop an evaluative framework for assessing the suitability of naturally occurring digital data. Together, these contributions underscore the value and potential of these data, while providing practical guidance for their use in qualitative organizational research.
+
+### Production and Operations Management
+- Field: OPS&TECH
+- Articles: 4
+
+- [Targeted service improvement for individualized providers](https://doi.org/10.1177/10591478261485796)
+  - DOI: 10.1177/10591478261485796
+  - Authors: Jindong Qin; Pan Zheng; Xiaojun Wang; Yusen Xia
+  - Affiliations: Wuhan University; School of Management, University of Science and Technology of China, Hefei, Anhui, China; University of Birmingham; Georgia State University
+  - Published: 2026-09-07
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Online reviews offer valuable insights for service improvement, especially with the increasing availability of multimodal data (e.g., text and images). However, most existing research has primarily focused on industry- or group-level analyses, often overlooking individual business contexts (e.g., performance and competition), the interaction effects between different service attributes, and the full potential of image information. This study fills these gaps by developing a novel multimodal framework that leverages machine learning and optimization theory to generate targeted service improvement recommendations for individual service providers. The three-stage framework begins with extracting and clustering aspect-opinion pairs from review texts and matching them with corresponding image features. Subsequently, we use a feature distribution smoothing-based Bayesian iterative algorithm to address biases from data imbalance and estimate attribute-level interaction effects. Finally, we construct an interaction effect network, propose a probability-based stepwise optimization algorithm, and integrate image features with large language models to generate specific and actionable recommendations for individual providers. Through a large-scale case study of hotel service improvement, we validate the effectiveness of the proposed framework and demonstrate enhanced predictive accuracy and management insights. A user study with practitioners showed that our method outperformed the best baseline by 19.5 % in practitioner satisfaction.
+
+- [Joint planning and operations of wind power under decision-dependent uncertainty](https://doi.org/10.1177/10591478261484829)
+  - DOI: 10.1177/10591478261484829
+  - Authors: Zhiqiang Chen; Wei Xu; Caihua Chen; Jingshi Cui; Qian Hu
+  - Affiliations: Nanjing University
+  - Published: 2026-09-07
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    We study a joint wind farm planning and operational scheduling problem under decision-dependent uncertainty. Geographic heterogeneity in wind power resources induces stochastic fluctuations that can partially offset one another—a phenomenon known as the smoothing effect. Capturing this effect requires strategic capacity allocation, which introduces decision-dependent uncertainty. At the same time, joint planning and operations must address long-term complexity, where traditional stochastic optimization faces a trade-off between statistical robustness and computational burden. To address these challenges, we propose a two-stage distributionally robust optimization model with a decision-dependent Wasserstein ambiguity set, where both the distribution and the radius adapt to planning decisions. The resulting decision-dependent radius contracts at the O ( N − 1 / 2 ) rate and avoids the dimensionality dependence. The model is reformulated as a mixed-integer second-order cone programming, incorporating an empirical approximation and a regularization term that includes variance-covariance estimates for the wind power resource of each farm. We further establish finite-sample guarantees on both cost and power stability under the theoretically calibrated radius. These theoretical insights motivate an asymmetric sampling strategy that leverages large datasets for variance-covariance estimation while using smaller datasets for optimization. To improve computational efficiency, we develop a constraint generation based solution framework that accelerates the solution procedure by hundreds of times. Numerical experiments using different datasets validate the effectiveness of the solution framework and demonstrate the superior performance of the proposed model in risk management. Our results offer clear managerial implications for renewable energy planning under uncertainty: (i) information quality outweighs quantity—covariance information should be incorporated only when it is sufficiently reliable; otherwise, it may compromise power stability; and (ii) effective data utilization is more valuable than simply increasing data quantity—the asymmetric sampling strategy can achieve comparable performance with substantially lower computational effort.
+
+- [Collateral damage: Environmental risk shocks and process innovation](https://doi.org/10.1177/10591478261484823)
+  - DOI: 10.1177/10591478261484823
+  - Authors: Yushan Zhou; Suvrat Dhanorkar; Jinbo Song
+  - Affiliations: CUHK Business School, The Chinese University of Hong Kong, Shatin, Hong Kong SAR, China; Georgia Institute of Technology; Dalian University of Technology
+  - Published: 2026-09-07
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Unforeseen events such as accidents and disasters cause substantial economic losses to firms worldwide each year. It is, therefore, crucial for firms to make targeted adjustments to their processes to effectively manage operational risks from such events. We examine whether and how firms engage in process innovation in response to elevated environmental risk. By exploiting exogenous shifts in environmental risk created by nearby spill and pollution (SP) accidents, we investigate the impact of such environmental risk exposure on the non-offending (i.e. victim) firms’ environmental process innovation (EPI). Using a stacked difference-in-differences (DiD) design, we find that higher risk exposure results in a substantial increase in firms’ EPI, exhibiting a 23.06% increment compared to the control group. Next, we find that the main effect is contingent on the non-offending firms’ degree of risk tolerance stemming from (i) political, (ii) local regulatory, and (iii) market-based factors. Interestingly, we also find evidence that higher risk exposure propagates through the non-offending firms’ supply chain, giving more credibility to the hypothesized mechanism. We further explore mechanisms (e.g. managerial attention and risk awareness) underlying this relationship and document the role of the severity of environmental accidents. To policymakers, our results highlight that heightened risk exposure can motivate firms’ sustainability efforts even at non-offending firms which, if leveraged (e.g. through timely nudges), could mitigate future environmental accidents.
+
+- [A practical guide to causal inference in healthcare operations using single-world intervention graphs (SWIGs)](https://doi.org/10.1177/10591478261483354)
+  - DOI: 10.1177/10591478261483354
+  - Authors: Amy Louise Cochran; Sebastian Alejandro Alvarez-Avendaño; Fernando Acosta-Perez; Keith Eric Kocher; Brian William Patterson; Gabriel Zayas-Cabán
+  - Affiliations: University of Wisconsin–Madison; Department of Population Health Sciences, University of Wisconsin–Madison, Madison, WI, USA; University of Michigan–Ann Arbor
+  - Published: 2026-09-07
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Observational studies in operations management (OM) increasingly guide managerial, clinical, and policy decisions in healthcare. To strengthen their rigor, empirical OM research has turned toward causal inference. However, reliably attributing specific effects to interventions using observational data remains challenging. This tutorial describes a causal inference approach for healthcare OM, centered on single-world intervention graphs, which unify the potential outcomes and do-calculus frameworks. We emphasize constructing precise causal questions and determining when causal effects can be identified from observed variables. We present a detailed case study examining whether a longer treatment time in the emergency department can reduce unnecessary admissions without adversely affecting downstream patient outcomes. The example shows what applying the proposed framework looks like in practice, from defining causal questions and encoding assumptions graphically to walking through the identification process, thereby illustrating how structured causal reasoning can inform healthcare OM.
+
+### Public Administration
+- Field: PUB SEC
+- Articles: 2
+
+- [Strategies for Public Administration Research: Insights From the Scholarship of Christopher Hood](https://doi.org/10.1111/padm.70088)
+  - DOI: 10.1111/padm.70088
+  - Authors: Ruth Dixon; Rozana Himaz; Maia King; Barbara Maria Piotrowska
+  - Affiliations: University of Oxford Oxford UK; Department of Risk and Disaster Reduction University College London London UK; Department of Political Economy King's College London London UK
+  - Published: 2026-09-07
+  - Crossref journal: Public Administration
+  - Abstract:
+    ABSTRACT In an era of time constraints and publication pressures, scholars risk becoming entrenched in familiar approaches. Christopher Hood's public administration scholarship reminds us that excellence often arises from a broad exploration of ideas. This paper identifies three core elements of Hood's research practice. First, a deep skepticism toward dominant narratives, which often revealed hidden complexities. Second, careful selection of temporal frames: this often meant adopting remarkably long time‐horizons to reveal patterns in administrative and policy reform. Third, genuine interdisciplinarity. While firmly rooted in public administration, Hood drew on concepts, evidence, and methods from a wide range of disciplines. Analyzing how these three elements interacted in Hood's work, the paper reflects on how adopting aspects of his approach can help scholars produce work of lasting value. Hood's legacy is therefore not only a record of past achievement but also a practical guide to navigating the contemporary academic environment.
+
+- [How Artificial Intelligence Facilitates Collaborative Governance? Research on Mechanisms and Multi‐Dimensional Effects Based on Triple Entities](https://doi.org/10.1111/padm.70090)
+  - DOI: 10.1111/padm.70090
+  - Authors: Zhuocheng Lu; Fei Fan; Zhennan Yang; Song Wang
+  - Affiliations: School of Public Policy and Administration, Chongqing University Chongqing China; Economics and Management School, Wuhan University Wuhan China; School of Business Administration, Northeastern University Shenyang China
+  - Published: 2026-09-07
+  - Crossref journal: Public Administration
+  - Abstract:
+    ABSTRACT Collaborative governance is becoming a practical imperative. At the same time, resolving complex public affairs could offer opportunities to overcome bottlenecks, while Artificial Intelligence (AI) could help. This study draws on polycentric governance theory and multilayer network theory to explain why collaborative governance could occur and how it could be influenced by AI, respectively. Mathematical deductions from both micro and macro perspectives are employed to reinforce this theoretical viewpoint. Using Chinese cities as a case study, the impact of AI on collaborative governance has been tested in practice, supported by benchmark regression and subsequent tests for endogeneity and robustness. Mechanism tests demonstrate AI's functions by advancing digital government, lifting corporate transparency, and improving public knowledge. Moreover, econometric evidence from difference‐in‐differences, threshold regressions, and spatial econometric models robustly addresses concerns about AI. This study offers a quantifiable multi‐stakeholder governance framework and actionable policy insights for China and the Global South.
+
+### Public Management Review
+- Field: PUB SEC
+- Articles: 2
+
+- [When tasks feel unjustified: effects of illegitimate tasks on public servants’ citizen-oriented boundary-spanning behaviours](https://doi.org/10.1080/14719037.2026.2725793)
+  - DOI: 10.1080/14719037.2026.2725793
+  - Authors: Nhung Nguyen; Luu Trong Tuan; Diep Nguyen; Dinh Cong Khai; Tuyen Nguyen
+  - Affiliations: Northumbria University; Sunway University; The University of Newcastle; Honours College, University of Economics Ho Chi Minh City, Vietnam; University of Economics (UEH); Cai Ngang Public Administrative Service Center
+  - Published: 2026-09-07
+  - Crossref journal: Public Management Review
+
+- [Performance-measurement systems as actors and boundary objects: a sociomaterial perspective to the provision of prison services](https://doi.org/10.1080/14719037.2026.2725795)
+  - DOI: 10.1080/14719037.2026.2725795
+  - Authors: Noel Hyndman; Mariannunziata Liguori
+  - Affiliations: Queen’s University; Durham University Business School
+  - Published: 2026-09-07
+  - Crossref journal: Public Management Review
+
+### Regional Studies
+- Field: REGIONAL STUDIES, PLANNING AND ENVIRONMENT
+- Articles: 1
+
+- [Beyond agglomeration: putting the ‘place’ back in place-based policy for ‘left behind’ regions](https://doi.org/10.1080/00343404.2026.2718331)
+  - DOI: 10.1080/00343404.2026.2718331
+  - Authors: Grete Gansauer; Stefania Fiorentino
+  - Affiliations: University of Wyoming; University of Cambridge
+  - Published: 2026-09-08
+  - Crossref journal: Regional Studies
+
+### Scientometrics
+- Field: INNOV
+- Articles: 1
+
+- [Assessing and comparing the coverage of publications of six Italian universities in OpenCitations](https://doi.org/10.1007/s11192-026-05788-7)
+  - DOI: 10.1007/s11192-026-05788-7
+  - Authors: Erica Andreose; Ivan Heibi; Silvio Peroni; Leonardo Zilli
+  - Published: 2026-09-08
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract Recent initiatives advocating responsible, transparent research assessment have intensified the call to use open research information rather than proprietary databases. This study evaluates the coverage and citation representation of publications recorded in the Current Research Information Systems (CRIS), all instances of the IRIS software platform, of six Italian universities within OpenCitations, a community-owned open infrastructure. Using persistent identifiers (DOIs, PMIDs, and ISBNs) specified in the IRIS installations involved, we matched the publications recorded in OpenCitations Meta and extracted the related citation links from the OpenCitations Index. Results show that OpenCitations covers, on average, over 40% of IRIS publications, which is quantitatively comparable to those reported by Scopus and Web of Science in another study. However, gaps persist, particularly for publication types prevalent in the Social Sciences and Humanities, such as monographs and critical editions. Overall, the findings demonstrate the growing maturity of OpenCitations and, more broadly, of Open Science infrastructures as viable alternatives as sources of research information, while highlighting areas where further metadata enrichment and interoperability efforts are needed.
+
+### Work, Employment and Society
+- Field: HRM&EMP
+- Articles: 2
+
+- [You don’t look sick: Invisible disability, moral injury, and organisational betrayal on the retail front-line](https://doi.org/10.1177/09500170261476001)
+  - DOI: 10.1177/09500170261476001
+  - Authors: Milena Tekeste; Amal Abdellatif; Anastasios Hadjisolomou; Jordan
+  - Affiliations: Henley Business School, University of Reading, UK; Newcastle Business School, Northumbria University, Newcastle upon Tyne, UK; University of Strathclyde, Glasgow, UK; School of Tourism and Hospitality, University of Johannesburg, South Africa
+  - Published: 2026-09-07
+  - Crossref journal: Work, Employment and Society
+  - Abstract:
+    This article examines how the gap between invisible impairment and formal recognition shapes employment experiences. We draw on Jordan’s account as a front-line retail worker in Germany living with a chronic kidney condition that significantly affects work capacity but falls below the threshold for disability classification under the German Sozialgesetzbuch IX (SGB IX). Jordan’s testimony reveals a workplace where support depends on individual managers rather than institutional structures, and where the absence of formal classification renders suffering invisible to the systems designed to address it. We argue that the harm described is best understood as moral injury. Drawing on literature on invisible disability and on moral injury, we demonstrate how classification thresholds, combined with unsupportive employer care, produce institutional betrayal that erodes both worker well-being and organisational attachment.
+
+- [Open to all? Examining class inequality in UK museum work through Bourdieu’s field-logics and the construction of ‘ideal’ career norms](https://doi.org/10.1177/09500170261471091)
+  - DOI: 10.1177/09500170261471091
+  - Authors: Samantha Evans; Rebecca Whiting
+  - Affiliations: Royal Holloway Business School, University of London, UK; Birkbeck Business School, University of London, UK
+  - Published: 2026-09-07
+  - Crossref journal: Work, Employment and Society
+  - Abstract:
+    This article provides a new theoretical framing – combining Bourdieu’s field-logics with ideal career norms – to investigate how occupational structures and cultures contribute to class inequality. Using a critical discourse analysis of interview, focus group and secondary data, it shows how logics and career norms are constructed in UK museum work; a field in flux. Three logics; (a) foundational, (b) market, (c) public service, interact to shape career norms within UK museums. While the former two multiply class inequalities, the public service logic can potentially mitigate them. The logic-career norm framing shifts attention from class inequality as an individualised, universalised phenomenon, to one shaped by the distinct culture and structures of a field, its relations within and without; showing here the effects of government policy and ideology. The article extends the political potential of Bourdieu’s framework, explaining not just how class inequality persists, but also why.
