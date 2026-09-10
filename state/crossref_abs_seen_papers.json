@@ -14538,12 +14538,96 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-09-08",
       "first_seen": "2026-09-09T11:06:45.549007+00:00"
+    },
+    "10.1111/puar.70186": {
+      "title": "Restoring the Deformed Administrative State? Bureaucratic Repair After Illiberal Rule",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1287/opre.2025.1854": {
+      "title": "Mitigating Market Incompleteness with Minor Market Distortions: The Case of Negative Spot Prices for Electricity",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-09-09",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1287/opre.2024.1250": {
+      "title": "Increasing Parents’ Engagement on EdTech Platforms: Evidence from the Field",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-09-09",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1111/ehr.70154": {
+      "title": "Impacts of coal smoke on infant mortality: Evidence from industrializing Japan",
+      "journal": "The Economic History Review",
+      "abs_journal_title": "Economic History Review",
+      "published_date": "2026-09-09",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1080/14719037.2026.2731444": {
+      "title": "Unlocking the transformative potential of design: reflections from practice on navigating barriers to designing for societal transformation",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-09-09",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1111/padm.70089": {
+      "title": "How Were Governance Pathways Formed for Public Service Co‐Production? A Contingency Perspective",
+      "journal": "Public Administration",
+      "abs_journal_title": "Public Administration",
+      "published_date": "2026-09-09",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1080/01621459.2026.2730499": {
+      "title": "Bending the Learning Curve for EHR Research via Knowledge-Driven Online Multimodal Automated Phenotyping System",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-09",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1093/jopart/muag029": {
+      "title": "Institutional Conversion and Digital Transformation in Local Governments: A Longitudinal Analysis of Trajectories",
+      "journal": "Journal of Public Administration Research and Theory",
+      "abs_journal_title": "Journal of Public Administration Research and Theory",
+      "published_date": "2026-09-09",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1080/07421222.2026.2714828": {
+      "title": "Correction",
+      "journal": "Journal of Management Information Systems",
+      "abs_journal_title": "Journal of Management Information Systems",
+      "published_date": "2026-09-09",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1080/07350015.2026.2718882": {
+      "title": "STRAP: Smooth Tests for Multivariate Homogeneity using Random Projections*",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "abs_journal_title": "Journal of Business and Economic Statistics",
+      "published_date": "2026-09-09",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1111/iere.70111": {
+      "title": "Discussion of “Does Digitalization Widen Labor Income Inequality?”",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-09-09",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1111/isj.70063": {
+      "title": "Data‐Driven Procurement for Managing Crises: Lessons From a European Automotive Manufacturer",
+      "journal": "Information Systems Journal",
+      "abs_journal_title": "Information Systems Journal",
+      "published_date": "2026-09-09",
+      "first_seen": "2026-09-10T11:04:17.014535+00:00"
     }
   },
-  "last_run": "2026-09-09T11:06:45.549007+00:00",
+  "last_run": "2026-09-10T11:04:17.014535+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-09-08",
-    "end_date": "2026-09-09"
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-10"
   }
 }
