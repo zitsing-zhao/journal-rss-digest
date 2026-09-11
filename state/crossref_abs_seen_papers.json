@@ -14622,12 +14622,180 @@
       "abs_journal_title": "Information Systems Journal",
       "published_date": "2026-09-09",
       "first_seen": "2026-09-10T11:04:17.014535+00:00"
+    },
+    "10.1093/restud/rdag101": {
+      "title": "Stockups, Stockouts, and the Role for Strategic Reserves",
+      "journal": "Review of Economic Studies",
+      "abs_journal_title": "Review of Economic Studies",
+      "published_date": "2026-09-11",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1111/padm.70092": {
+      "title": "Responsible Algorithmization in the Public Sector: A “Natural Perspective” Based on Ethnographic Research in Regulation, Policing, and Healthcare",
+      "journal": "Public Administration",
+      "abs_journal_title": "Public Administration",
+      "published_date": "2026-09-11",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1111/padm.70069": {
+      "title": "Issue Information",
+      "journal": "Public Administration",
+      "abs_journal_title": "Public Administration",
+      "published_date": "2026-09-11",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1111/joms.70158": {
+      "title": "Reimagining Interdisciplinarity: Sensitization, Reflexivity, and Mobilization Across Landscapes of Practice",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-09-11",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1177/02683962261491404": {
+      "title": "Digital Asset Creation and Orchestration: Empirical Evidence from Industrial Manufacturing",
+      "journal": "Journal of Information Technology",
+      "abs_journal_title": "Journal of Information Technology",
+      "published_date": "2026-09-11",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1002/smj.70125": {
+      "title": "Knowledge protection and modularity of innovation activities in firms: Evidence from US trade secrecy law",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1111/puar.70193": {
+      "title": "Investor Orientation and Commitment in Outcomes‐Based Public Service Contracts",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1287/mnsc.2025.03155": {
+      "title": "From Trees to Treewidth: Inventory Management in Complex Supply Chain Networks",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1037/apl0001414.supp": {
+      "title": "Supplemental Material for Do Interactions Matter? Assessing the Role of Job Characteristics Interactions on Employee Well-Being",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1037/apl0001412.supp": {
+      "title": "Supplemental Material for Adverse Impact, Job Performance, and Diversity Outcomes of Applicant Attraction: A Simulation and Paradox",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1037/apl0001408": {
+      "title": "Critical mass theory: An integrative conceptual review.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1177/00380385261450506": {
+      "title": "Exclusion and labour control regimes: A tale of two tea plantations",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1177/10944281261469432": {
+      "title": "Multilevel Latent Profile Analyses: A Comprehensive Guide",
+      "journal": "Organizational Research Methods",
+      "abs_journal_title": "Organizational Research Methods",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1007/s10107-026-02421-6": {
+      "title": "On integer programs with irrational data",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1080/01621459.2026.2732172": {
+      "title": "Privacy-Preserving Transfer Learning for Community Detection using Locally Distributed Multiple Networks",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1080/01621459.2026.2729128": {
+      "title": "Model-free Feature Screening and False Discovery Control for High-dimensional Quantile Regressions",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1080/01621459.2026.2731642": {
+      "title": "Asymptotic FDR Control with Model-X Knockoffs: Is Moments Matching Sufficient?",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1111/joms.70155": {
+      "title": "The Narrative Construction of Internal Organizational Legitimacy",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1111/isj.70061": {
+      "title": "From the Digital Divide to Digital Equity: Building Local Government Capacity",
+      "journal": "Information Systems Journal",
+      "abs_journal_title": "Information Systems Journal",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1080/00076791.2026.2720802": {
+      "title": "Challenge or opportunity? A Dutch firm and the exploitation of foreign colonial empires in West Central Africa (1880s–1910s)",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1080/00076791.2026.2717236": {
+      "title": "Business and politics: The City of London and the political debates on European monetary policy 1979–1990",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1111/1467-8551.70105": {
+      "title": "Marginal Learning: Uncovering the Hidden Side of the Learning Curve",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-09-10",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1287/mnsc.2024.07730": {
+      "title": "The Eco-Gender Gap in Boardrooms",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
+    },
+    "10.1287/mnsc.2026.eb.v72n9": {
+      "title": "Editorial Board",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-11T11:01:06.091472+00:00"
     }
   },
-  "last_run": "2026-09-10T11:04:17.014535+00:00",
+  "last_run": "2026-09-11T11:01:06.091472+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-09-09",
-    "end_date": "2026-09-10"
+    "start_date": "2026-09-10",
+    "end_date": "2026-09-11"
   }
 }

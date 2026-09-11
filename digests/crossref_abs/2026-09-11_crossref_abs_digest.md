@@ -1,0 +1,256 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-09-11
+
+Generated at: 2026-09-11 11:01 UTC
+Crossref date mode: `created`
+Window: `2026-09-10` to `2026-09-11`
+New papers: 24
+
+## AJG 4*
+
+### Journal of Applied Psychology
+- Field: PSYCH (WOP-OB)
+- Articles: 3
+
+- [Supplemental Material for Do Interactions Matter? Assessing the Role of Job Characteristics Interactions on Employee Well-Being](https://doi.org/10.1037/apl0001414.supp)
+  - DOI: 10.1037/apl0001414.supp
+  - Published: 2026-09-10
+  - Crossref journal: Journal of Applied Psychology
+
+- [Supplemental Material for Adverse Impact, Job Performance, and Diversity Outcomes of Applicant Attraction: A Simulation and Paradox](https://doi.org/10.1037/apl0001412.supp)
+  - DOI: 10.1037/apl0001412.supp
+  - Published: 2026-09-10
+  - Crossref journal: Journal of Applied Psychology
+
+- [Critical mass theory: An integrative conceptual review.](https://doi.org/10.1037/apl0001408)
+  - DOI: 10.1037/apl0001408
+  - Authors: Traci Sitzmann; Rong Su; Zhengyan Kang
+  - Published: 2026-09-10
+  - Crossref journal: Journal of Applied Psychology
+
+### Management Science
+- Field: OR&MANSCI
+- Articles: 3
+
+- [From Trees to Treewidth: Inventory Management in Complex Supply Chain Networks](https://doi.org/10.1287/mnsc.2025.03155)
+  - DOI: 10.1287/mnsc.2025.03155
+  - Authors: Philippe Blaettchen; Andre P. Calmon; Georgina Hall; Mohit Tawarmalani
+  - Affiliations: Lee Kong Chian School of Business, Singapore Management University, 178899 Singapore; Scheller College of Business, Georgia Institute of Technology, Atlanta, Georgia 30308; Decision Sciences, INSEAD, 77305 Fontainebleau, France; Mitch Daniels School of Business, Purdue University, West Lafayette, Indiana 47907
+  - Published: 2026-09-10
+  - Crossref journal: Management Science
+  - Abstract:
+    We propose an exact linear programming (LP)-based solution approach to the Guaranteed Service Model (GSM), one of the most widely applied models for optimizing safety stock placement in supply chain networks. Our approach handles any directed acyclic network and any cost function that depends on a stage’s incoming and outgoing service times. It scales polynomially in the number of nodes n in the network, pseudo-polynomially with respect to the bit size of the maximum replenishment time M, and (for fixed M) exponentially in its treewidth, which quantifies how “tree-like” a network is and can be much smaller than n. This contrasts with existing approaches, which scale exponentially in n. The proof of exactness relies crucially on showing that the join of transportation-like polytopes remains integral and is more broadly applicable to other Operations Management problems. In addition to an exact formulation, our LP-based approach enables a practical solution strategy for the GSM built on a hierarchy of LP relaxations. These relaxations provide valid lower bounds, certify optimality when integral, and can strengthen existing exact methods. In our computational study, the smallest relaxation already recovers an optimal GSM solution on every real-world benchmark instance, leading to substantial speed-ups over the state-of-the-art exact algorithm and commercial general-purpose solvers. The framework also supports sensitivity analysis and accommodates additional operational constraints. Overall, our approach builds a new bridge between Operations Management and Computer Science, providing new theoretical foundations and practical tools for managing safety stocks in complex modern supply chain networks. This paper was accepted by Jeannette Song, operations management. Funding: A. P. Calmon acknowledges financial support provided by the Ray C. Anderson Center for Sustainable Business. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03155 .
+
+- [The Eco-Gender Gap in Boardrooms](https://doi.org/10.1287/mnsc.2024.07730)
+  - DOI: 10.1287/mnsc.2024.07730
+  - Authors: Po-Hsuan Hsu; Kai Li; Yihui Pan
+  - Affiliations: Department of Quantitative Finance, College of Technology Management, National Tsing Hua University, Hsinchu City 300044, Taiwan; Sauder School of Business, University of British Columbia, Vancouver, British Columbia V6T 1Z2, Canada; Department of Finance, David Eccles School of Business, University of Utah, Salt Lake City, Utah 84112
+  - Published: 2026-09-01
+  - Crossref journal: Management Science
+  - Abstract:
+    To examine what women bring to the boardroom table, we first show a significant gender gap in viewing the tradeoff between environmental and economic benefits, using the Gallup Poll. We next demonstrate that such a gender gap extends into boardrooms. Having female directors is associated with more environmentally friendly business operations, but also with higher investment in environmental protection at the same time. Results from an analysis using a California law change that imposed board gender quotas point to a potentially causal effect of female directors. Employing a rich set of director demographics and board characteristics, we show that none consistently supersedes the share of female directors in explaining corporate environmental performance, suggesting that female directors play a unique role in explaining firms’ investment in environmental protection. This paper was accepted by Caroline Flammer, sustainability. Funding: P.-H. Hsu acknowledges the Yushan Fellow Program by the Ministry of Education and the National Science and Technology Council, Taiwan [Grants MOE-108-YSFMS-0004-012-P1 and NSTC 113-2410-H-007-008-MY3], the Mack Institute for Innovation Management at the Wharton School, University of Pennsylvania, and the E.SUN Academic Award for financial and research support. K. Li received financial support from the Canada Research Chair in Corporate Governance, the Social Sciences and Humanities Research Council of Canada [Grant 435-2022-0285], and the Montalbano Centre for Responsible Leadership Development at UBC Sauder School of Business. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07730 .
+
+- [Editorial Board](https://doi.org/10.1287/mnsc.2026.eb.v72n9)
+  - DOI: 10.1287/mnsc.2026.eb.v72n9
+  - Published: 2026-09-01
+  - Crossref journal: Management Science
+
+### Public Administration Review
+- Field: PUB SEC
+- Articles: 1
+
+- [Investor Orientation and Commitment in Outcomes‐Based Public Service Contracts](https://doi.org/10.1111/puar.70193)
+  - DOI: 10.1111/puar.70193
+  - Authors: Fernando D. Domingos; Antonio D. R. E. Caluz; Michael Gibson; Vinícius M. Magnani
+  - Affiliations: Sao Paulo School of Business Administration, Fundação Getulio Vargas (FGV EAESP) São Paulo São Paulo Brazil; School of Economics, Business and Accounting of Ribeirão Preto (FEA‐RP), Universidade de São Paulo (USP) Ribeirão Preto São Paulo Brazil; Government Outcomes Lab (GOLab), Blavatnik School of Government, University of Oxford Oxford UK
+  - Published: 2026-09-10
+  - Crossref journal: Public Administration Review
+  - Abstract:
+    ABSTRACT Outcomes‐based contracts (OBCs) organize public service delivery around measurable results, yet little is known about how different investors engage with these instruments. This article examines how investor orientation (social, financial, or dual‐purpose) shapes investor commitment in OBCs worldwide. Drawing on a global dataset of 338 contracts, we combine descriptive analyses, regression models, and qualitative interviews to investigate how investor orientation relates to investment scale. We hypothesize that OBCs involving socially oriented investors are associated with higher levels of investment than those involving financially or dual‐purpose investors. Consistent with this prediction, socially oriented investors consistently commit larger amounts, whereas financially oriented and dual‐purpose investors typically participate with smaller contributions. These patterns challenge a central premise of OBCs: that such instruments would mobilize significant mainstream private capital for public services. Interview evidence points to reputational risks, limited familiarity with local conditions, and outcome measurement complexity as key deterrents.
+
+### Review of Economic Studies
+- Field: ECON
+- Articles: 1
+
+- [Stockups, Stockouts, and the Role for Strategic Reserves](https://doi.org/10.1093/restud/rdag101)
+  - DOI: 10.1093/restud/rdag101
+  - Authors: Brett Green; Cyrus Mevorach; Curtis R Taylor
+  - Affiliations: Washington University in St. Louis; Duke University
+  - Published: 2026-09-11
+  - Crossref journal: Review of Economic Studies
+  - Abstract:
+    Abstract We study how supply disruptions interact with monopoly pricing, inventory management, and consumer stockpiling in a continuous-time model. Preemption incentives—consumers prefer to stock up before a price hike while the firm prefers to hike before consumers stock up—lead to an equilibrium with gradual stockpiling and endogenous uncertainty over the timing of a price hike, which can trigger a run at the disruption onset. Consumer storage introduces welfare losses from randomized pricing, but can also strengthen the firm’s incentive to hold buffer stock. Rationing, price controls, and reserve mandates can each improve welfare, but only strategic government reserves can implement the social optimum.
+
+### Strategic Management Journal
+- Field: STRAT
+- Articles: 1
+
+- [Knowledge protection and modularity of innovation activities in firms: Evidence from US trade secrecy law](https://doi.org/10.1002/smj.70125)
+  - DOI: 10.1002/smj.70125
+  - Authors: Eunkwang Seo; Christopher P. Dinkel
+  - Affiliations: Spears School of Business Oklahoma State University Stillwater Oklahoma USA
+  - Published: 2026-09-10
+  - Crossref journal: Strategic Management Journal
+  - Abstract:
+    Abstract Research Summary Strategy scholars have theoretically explored the relationship between legal knowledge protection and modularity of innovation activities in firms, but this relationship has yet to be empirically tested in the literature. Leveraging state‐level changes in US trade secrecy law and using a network modularity measure, this paper examines how trade secret protection affects the modularity of firms' innovation activities. Analyzing intrafirm inventor collaboration patterns in US patent data from 783 high‐tech firms between 1976 and 2017, we find that increased trade secret protection is negatively associated with the modularity of innovation activities within firms. This effect is more pronounced for firms with superior technologies and those geographically collocated with competitors—factors that enhance firms' knowledge appropriability concerns—and less pronounced for firms in industries where alternative appropriability mechanisms are highly effective. Moreover, our findings suggest that the increased betweenness centrality of new hires (skilled and junior) serves as an important underlying mechanism for the treatment effect. These results contribute to the literature by illuminating how firms strategize their internal innovation activities for knowledge protection and by underscoring its underlying mechanism. Managerial Summary Firms often modularize innovation activities to safeguard proprietary knowledge, but this approach can undermine innovation performance by restricting knowledge integration within organizations. This study demonstrates that stronger legal mechanisms alleviating firms' knowledge protection concerns, such as increased trade secret protection, encourage firms to adopt a less modularized, more integrated innovation system. Furthermore, we find that under such protections, firms are more likely to position new hires, including both skilled and junior employees, in central roles to connect innovation communities within the organization. These findings offer valuable insights for managers, illustrating how knowledge protection concerns can shape the structure of firms' innovation activities.
+
+## AJG 4
+
+### British Journal of Management
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [Marginal Learning: Uncovering the Hidden Side of the Learning Curve](https://doi.org/10.1111/1467-8551.70105)
+  - DOI: 10.1111/1467-8551.70105
+  - Authors: Vinit M. Desai; Peter Madsen
+  - Affiliations: School of Business University of Colorado 1475 Lawrence Street, PO Box 173364, Campus Box 165 Denver CO 80217‐3364 USA; Marriott School of Business Brigham Young University 730 TNRB Provo UT 84602‐3113 USA
+  - Published: 2026-09-10
+  - Crossref journal: British Journal of Management
+  - Abstract:
+    Abstract Research on organizational learning curves widely finds that organizations learn and improve as they gain experience, albeit at a declining rate. We know surprisingly little about this decline and its determinants. Why do some experienced firms continue to learn, while learning and performance taper off at others? We develop new theory regarding these differences, beginning here with a central component of experience – its potentially routine nature – and we predict that simpler, more routine experiences will lead to more sustained learning than complex, nonroutine experiences. We arrive at this conclusion by theorizing that experienced organizations will take advantage of simpler events by using these as opportunities to learn and improve in more innovative ways, given the lower chances of failure. We test our theory in the setting of coronary artery bypass graft surgery and find supportive evidence for greater sustained learning following more routine procedures. We also find support for our proposed mechanism, as routine surgeries led to higher utilization rates of a riskier, more advanced surgical technique. The study contributes to organizational learning theory by revealing new differences in how learning diminishes and by uniquely suggesting that certain experiences may become more or less important as they accumulate.
+
+### Business History
+- Field: BUS HIST & ECON HIST
+- Articles: 2
+
+- [Challenge or opportunity? A Dutch firm and the exploitation of foreign colonial empires in West Central Africa (1880s–1910s)](https://doi.org/10.1080/00076791.2026.2720802)
+  - DOI: 10.1080/00076791.2026.2720802
+  - Authors: Gijs Dreijer
+  - Affiliations: History Department, Erasmus University Rotterdam
+  - Published: 2026-09-10
+  - Crossref journal: Business History
+
+- [Business and politics: The City of London and the political debates on European monetary policy 1979–1990](https://doi.org/10.1080/00076791.2026.2717236)
+  - DOI: 10.1080/00076791.2026.2717236
+  - Authors: Juliane Clegg
+  - Affiliations: Department of Business History, University of Stuttgart
+  - Published: 2026-09-10
+  - Crossref journal: Business History
+
+### Information Systems Journal
+- Field: INFO MAN
+- Articles: 1
+
+- [From the Digital Divide to Digital Equity: Building Local Government Capacity](https://doi.org/10.1111/isj.70061)
+  - DOI: 10.1111/isj.70061
+  - Authors: Atiya Avery; Takiyah J. Thomas; Christian Maier
+  - Affiliations: Division of Business and Economics Morehouse College Atlanta Georgia USA; Department of Information Technology Clayton County Board of Commissioners Jonesboro Georgia USA; University of Bamberg Bamberg Germany
+  - Published: 2026-09-10
+  - Crossref journal: Information Systems Journal
+  - Abstract:
+    ABSTRACT More than 2.5 billion people worldwide still lack internet access, while many others lack the devices, skills or support needed to benefit from digital services. This digital inequity has significant implications for health, education and employment. Closing the digital divide requires more than broadband infrastructure and isolated digital inclusion programmes. It also requires local governments to coordinate resources, actors and services over time. We examine how Clayton County, Georgia, United States, established an Office of Digital Equity (ODE), led by a dedicated Digital Equity Administrator (DEA), as a local government division. The ODE was the first county‐run Office of Digital Equity in Georgia and has received external recognition for its work. Drawing on a collaborative autoethnographic case grounded in longitudinal practitioner experience, narrative accounts, organisational artefacts and public records, we examine how local government capacity for digital equity is built in practice. We derive five recommendations for municipal leaders: secure political legitimacy while preserving operational autonomy; develop the DEA role; build partnerships to address resource constraints; tailor outreach and provide consistent training and events; and use data‐driven insights to guide decisions. These recommendations show that institutionalising digital equity through a dedicated local government division differs from operating standalone initiatives or coalitions because it requires sustained authority, coordination and accountability. We position digital equity as an ongoing local governance challenge and show how dedicated organisational structures can help local governments move from addressing the digital divide to sustaining digital equity.
+
+### Journal of Information Technology
+- Field: INFO MAN
+- Articles: 1
+
+- [Digital Asset Creation and Orchestration: Empirical Evidence from Industrial Manufacturing](https://doi.org/10.1177/02683962261491404)
+  - DOI: 10.1177/02683962261491404
+  - Authors: Gabriele Piccoli; Joaquin Rodriguez
+  - Affiliations: Louisiana State University; Grenoble Ecole de Management
+  - Published: 2026-09-11
+  - Crossref journal: Journal of Information Technology
+  - Abstract:
+    This study advances the digital transformation literature by focusing on a critical challenge for incumbent industrial manufacturers: the need to rearchitect their stand-alone physical products into digital assets that can be orchestrated as part of a digital service stack. Examining a pioneer of the professional coffee machine industry, this study reveals how rearchitecting stand-alone industrial products unfolds through specific design moves stemming from three design principles: unified programmatic interface, standardized machine codebase, and component decoupling and extensibility. The application of these principles results in a design hierarchy inversion, whereby digital resources and the digital architecture assume primacy over the traditional mechanical architecture of the machines. Our investigation of the hierarchical inversion phenomenon contributes to theory on ontological reversal and digital transformation. It demonstrates the central role that digital resources, along with their architecture and integration within digital service stacks, play for legacy industrial manufacturing organizations. By tracing how CoffeeCo rearchitected its machines to be orchestrated as modules of novel digital service stacks, our findings suggest that ontological reversal is not merely a temporal reversal in the manufacturing sequence, but a reconfiguration of design hierarchy in which digital solutions inform physical product architecture.
+
+### Journal of Management Studies
+- Field: ETHICS-CSR-MAN
+- Articles: 2
+
+- [Reimagining Interdisciplinarity: Sensitization, Reflexivity, and Mobilization Across Landscapes of Practice](https://doi.org/10.1111/joms.70158)
+  - DOI: 10.1111/joms.70158
+  - Authors: Ryan Nolan; Frank Siedlok; Paul Hibbert
+  - Affiliations: University of Salford; University of St Andrews
+  - Published: 2026-09-11
+  - Crossref journal: Journal of Management Studies
+  - Abstract:
+    Abstract Interdisciplinary research (IDR) is widely promoted as essential for addressing complex societal challenges, yet its enactment remains fraught. We argue that dominant typological and structural approaches miscast IDR and underplay the practical work through which it unfolds. Drawing on practice theory, we reconceptualize IDR as bundles of practices enacted across landscapes of practice. We theorize three guiding constructs: sensitization, reflexivity, and mobilization that support the coordination of IDR without collapsing its ontological multiplicity through misplaced attempts at epistemological integration. A practice lens clarifies why structural and typological interventions supply conditions that support IDR but do not guarantee outcomes; foregrounds the fragility, temporality, and politics of doing IDR; and reframes evaluation around practices rather than proxy measures such as bibliometrics. We outline implications for organizing and leading IDR and a research agenda linking IDR to wider debates in management and organization studies. Our contribution shifts attention from what IDR is to how it is enacted, sustained, and sometimes unravelled in practice.
+
+- [The Narrative Construction of Internal Organizational Legitimacy](https://doi.org/10.1111/joms.70155)
+  - DOI: 10.1111/joms.70155
+  - Authors: Kerrie E. Howard; Andrew D. Brown
+  - Affiliations: Royal Holloway University of London; University of Bath
+  - Published: 2026-09-10
+  - Crossref journal: Journal of Management Studies
+  - Abstract:
+    Abstract Organizations torn by significant contradictions may struggle to maintain internal legitimacy. Taking a narrative perspective, and drawing on a case study of Walgreens, a Fortune 500 retail pharmacy, we develop a process model that shows how organizations with an entrenched conflict in their official narratives manage the resulting polyphony of members' personal narratives through the development of myths that sustain internal legitimacy by making the contradiction ‘liveable’. The model reveals how myths that represent contradictions as temporary and project a future in which they will be satisfactorily resolved help people to cope with inconsistencies in processes of organizing and support the status quo . Our theorizing suggests that internal legitimacy is constituted by the narratives that individuals author about the desirability, propriety, and appropriateness of their organization and its practices. From a narratological perspective, rather than existing on a continuum from high to low and being a resource that can be stockpiled, internal legitimacy may be theorized as a polyphony of distinctive narratives that while discursively dynamic is also generally durable.
+
+### Journal of the American Statistical Association
+- Field: ECON
+- Articles: 3
+
+- [Privacy-Preserving Transfer Learning for Community Detection using Locally Distributed Multiple Networks](https://doi.org/10.1080/01621459.2026.2732172)
+  - DOI: 10.1080/01621459.2026.2732172
+  - Authors: Xiao Guo; Xuming He; Xiangyu Chang; Shujie Ma
+  - Affiliations: School of Mathematics, Northwest University; Department of Statistics and Data Science, Washington University in St. Louis; School of Management, Xi’an Jiaotong University; Department of Statistics, University of California-Riverside
+  - Published: 2026-09-10
+  - Crossref journal: Journal of the American Statistical Association
+
+- [Model-free Feature Screening and False Discovery Control for High-dimensional Quantile Regressions](https://doi.org/10.1080/01621459.2026.2729128)
+  - DOI: 10.1080/01621459.2026.2729128
+  - Authors: Cong Cheng; Tianyi Zhang; Runze Li; Yuan Ke
+  - Affiliations: Department of Statistics, University of Georgia; Department of Statistics, Pennsylvania State University
+  - Published: 2026-09-10
+  - Crossref journal: Journal of the American Statistical Association
+
+- [Asymptotic FDR Control with Model-X Knockoffs: Is Moments Matching Sufficient?](https://doi.org/10.1080/01621459.2026.2731642)
+  - DOI: 10.1080/01621459.2026.2731642
+  - Authors: Yingying Fan; Lan Gao; Jinchi Lv; Xiaocong Xu
+  - Affiliations: University of Southern California; University of Tennessee; University of Pittsburgh
+  - Published: 2026-09-10
+  - Crossref journal: Journal of the American Statistical Association
+
+### Mathematical Programming
+- Field: OR&MANSCI
+- Articles: 1
+
+- [On integer programs with irrational data](https://doi.org/10.1007/s10107-026-02421-6)
+  - DOI: 10.1007/s10107-026-02421-6
+  - Authors: Seyedmohammadhossein Hosseinian; Andrew J. Schaefer
+  - Published: 2026-09-10
+  - Crossref journal: Mathematical Programming
+  - Abstract:
+    Abstract An integer program (IP) with a finite number of feasible solutions may have an unbounded continuous relaxation if it contains irrational parameters, due to implicit constraints induced by those irrational numbers. For IPs with polynomial constraints, we show that these implicit constraints can be derived explicitly when the irrational parameters belong to an extension field of the rational numbers by roots of integers, leading to a rational reformulation. We also present a weaker result for IPs involving the broader class of algebraic irrational numbers, which extends to IPs containing a particular form of transcendental numbers.
+
+### Organizational Research Methods
+- Field: ORG STUD
+- Articles: 1
+
+- [Multilevel Latent Profile Analyses: A Comprehensive Guide](https://doi.org/10.1177/10944281261469432)
+  - DOI: 10.1177/10944281261469432
+  - Authors: Simon A. Houle; Alexandre J.S. Morin; Jean-François Harvey
+  - Affiliations: Université du Québec à Trois-Rivières, Trois-Rivières, QC, Canada; Substantive-Methodological Synergy Research Laboratory, Concordia University, Montreal, Canada; Concordia University; Optentia Research Unit, North-West University, Vanderbijlpark, South Africa; Department of Entrepreneurship and Innovation, HEC Montréal, Montréal, QC, Canada
+  - Published: 2026-09-10
+  - Crossref journal: Organizational Research Methods
+  - Abstract:
+    The organizational sciences have recently seen an uptake in the use of both person-centered analyses, most typically implemented via latent profile analyses (LPA), and multilevel analyses. Yet their combination remains conceptually underdeveloped and forms the focus of the current article. On the one hand, LPA is perfectly suited to the identification of subpopulations, or profiles, of participants characterized by distinct configurations on a set of variables. On the other hand, multilevel models are aptly suited to uncover, or control for, phenomena unfolding across individual, group, and organizational levels. In combination, multilevel-LPA provides the best of both worlds, enabling researchers to identify subpopulations of individuals and/or groups corresponding to distinct prototypical states, while modeling within-group and between-group variability. In the current article, we provide a comprehensive guide for multilevel-LPA implementation to monitor group contexts, climates, and cultures. We present six types of multilevel-LPA specifications—additive, dispersion, additive-dispersion, dispersion-heterogeneity, restrictive cross-level, and full cross-level—that ought to be carefully selected based on the nature of the constructs being measured and the research questions being asked. In doing so, we aim provide researchers with the analytical and conceptual tools to select and apply the appropriate multilevel person-centered model to achieve their research objectives.
+
+### Public Administration
+- Field: PUB SEC
+- Articles: 2
+
+- [Responsible Algorithmization in the Public Sector: A “Natural Perspective” Based on Ethnographic Research in Regulation, Policing, and Healthcare](https://doi.org/10.1111/padm.70092)
+  - DOI: 10.1111/padm.70092
+  - Authors: Albert Meijer; Lukas Lorenz; Isabelle Donatz‐Fest; Jan‐Luuk Hoff
+  - Affiliations: Utrecht University School of Governance Utrecht the Netherlands; Pd Berlin Germany; Vrije Universiteit Amsterdam Amsterdam the Netherlands; Productiviteitsraad Den Haag the Netherlands
+  - Published: 2026-09-11
+  - Crossref journal: Public Administration
+  - Abstract:
+    ABSTRACT Responsible algorithmization refers to the use of algorithms in the public sector while safeguarding public values. Approaches to responsible algorithmization suggested by the EU, OECD, and others depart from a rational perspective and highlight formal structures and procedures. This paper complements this perspective by adding a “natural perspective,” which emphasizes sense‐making and actual practices. This natural perspective is used for a set of ethnographic studies of algorithmization in three domains in the Netherlands: regulation, policing, and healthcare. Our findings show that algorithmization of government organizations is an emergent, political, open, and fragmented process, rather than, as assumed by rational approaches to responsible algorithmization, pre‐structured, neutral, closed, and simple. This means that rational approaches fall short of providing a comprehensive basis for establishing responsible algorithmization. We conclude that not only passive responsibility but also active responsibility for algorithmization in the public sector needs to be addressed to safeguard public values.
+
+- [Issue Information](https://doi.org/10.1111/padm.70069)
+  - DOI: 10.1111/padm.70069
+  - Published: 2026-09-11
+  - Crossref journal: Public Administration
+
+### Sociology
+- Field: SOC SCI
+- Articles: 1
+
+- [Exclusion and labour control regimes: A tale of two tea plantations](https://doi.org/10.1177/00380385261450506)
+  - DOI: 10.1177/00380385261450506
+  - Authors: Khandakar Shahadat; Shahzad Uddin
+  - Affiliations: University of York, UK; University of Essex, Colchester, UK; VSB – Technical University of Ostrava, Ostrava, Czechia
+  - Published: 2026-09-10
+  - Crossref journal: Sociology
+  - Abstract:
+    This article examines labour control in residential workplaces through a comparative study of traditional (colonial-era) and new tea plantations in Bangladesh. It extends Burawoy’s analysis of coercion and consent by showing how exclusion operates as a structuring condition of labour regimes. Traditional plantations rely on cumulative social, spatial, legal, and political exclusions that disconnect workers from alternative livelihoods, embed generational dependency, and sustain overtly coercive control. New plantations reconfigure exclusion through selective inclusion, combining limited mobility and negotiated consent with insecurity and continued dependence on employer-controlled resources. The analysis shows how the state, often treated as a neutral arbiter, actively reproduces exclusion through differentiated rights and weak enforcement. By conceptualising exclusion as structured disconnection from rights, resources, and exit options, the article demonstrates how differing configurations of exclusion shape the forms and intensity of labour control within dormitory labour regimes.
