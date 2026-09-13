@@ -14972,12 +14972,19 @@
       "abs_journal_title": "Business History",
       "published_date": "2026-09-11",
       "first_seen": "2026-09-12T10:29:42.662035+00:00"
+    },
+    "10.1080/14719037.2026.2725790": {
+      "title": "Introducing public management and global sporting mega-events: public value, ecosystems, learning and temporality",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-09-12",
+      "first_seen": "2026-09-13T11:32:34.628551+00:00"
     }
   },
-  "last_run": "2026-09-12T10:29:42.662035+00:00",
+  "last_run": "2026-09-13T11:32:34.628551+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-09-11",
-    "end_date": "2026-09-12"
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-13"
   }
 }
