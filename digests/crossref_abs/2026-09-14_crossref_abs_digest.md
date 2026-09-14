@@ -1,0 +1,58 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-09-14
+
+Generated at: 2026-09-14 12:27 UTC
+Crossref date mode: `created`
+Window: `2026-09-13` to `2026-09-14`
+New papers: 4
+
+## AJG 4*
+
+### Public Administration Review
+- Field: PUB SEC
+- Articles: 1
+
+- [Elites, Policies and State Reconfiguration: Transforming the French Welfare Regime. By WilliamGenieys and Mohammad‐SaïdDarviche, Cham, Switzerland: Palgrave Macmillan, 2023. 209 pp. $169.99 (hardcover). ISBN: 978‐3‐03‐141581‐4](https://doi.org/10.1111/puar.70204)
+  - DOI: 10.1111/puar.70204
+  - Authors: Hasan Isgandar
+  - Affiliations: Western Carolina University Cullowhee North Carolina USA
+  - Published: 2026-09-13
+  - Crossref journal: Public Administration Review
+
+## AJG 4
+
+### Business History Review
+- Field: BUS HIST & ECON HIST
+- Articles: 1
+
+- [Rolling Stone and the Rise of Hip Capitalism.                     <i>By</i>                     Charles L. Ponce de Leon. Chapel Hill: The University of North Carolina Press, 2026. 304 pp. Hardback, $30.00. ISBN: 978-1-4696-9439-9.](https://doi.org/10.1017/s0007680526102177)
+  - DOI: 10.1017/s0007680526102177
+  - Authors: Richard Popp
+  - Affiliations: University of Wisconsin-Milwaukee
+  - Published: 2026-09-14
+  - Crossref journal: Business History Review
+
+### Journal of Management Studies
+- Field: ETHICS-CSR-MAN
+- Articles: 1
+
+- [Beyond the Management Gene: Rethinking and Advancing the Genetic Perspective in Management](https://doi.org/10.1111/joms.70160)
+  - DOI: 10.1111/joms.70160
+  - Authors: Ahmed Maged Nofal; Marcus Wolfe
+  - Affiliations: emlyon business school; University of North Texas
+  - Published: 2026-09-13
+  - Crossref journal: Journal of Management Studies
+  - Abstract:
+    Abstract Genetics has emerged as a promising avenue for explaining differences in management outcomes, attracting attention from leadership, entrepreneurship, and organizational behaviour scholars. Nonetheless, the field has faced scepticism and made only limited progress, stagnating in the pursuit of a so‐called ‘management gene’ (e.g., leadership gene and entrepreneurial gene). We argue that framing research around the search for a management gene has been theoretically limiting and empirically counterproductive, and that the genetic perspective could realize its promise through a nuanced understanding of how genetics relate to management outcomes. Drawing on five core genetic concepts (penetrance, phenocopy, polygenicity, pleiotropy, and epigenetics), we develop a framework comprising three intertwined stages that organize genetic methods according to their inferential strength. The stages focus on establishing whether genetic variance exists, identifying where it resides, and explaining when and why genetic predispositions become organizationally expressed. In doing so, the framework reframes non‐detections as theoretically informative, revealing when and why genetic predispositions go unexpressed. It thus turns what were previously seen as dead ends into evidence that advances theory. It positions gene–environment relationships as a core theoretical concern, redirecting the field away from the search for a management gene and towards understanding why individuals produce divergent outcomes.
+
+### Strategic Entrepreneurship Journal
+- Field: ENT-SBM
+- Articles: 1
+
+- [Caught in the framing: How consumer reactivity links typicality and market appeal for creative products](https://doi.org/10.1002/sej.70044)
+  - DOI: 10.1002/sej.70044
+  - Authors: Guang Zhu; Tao Wang; Xiaofei Qu
+  - Affiliations: School of Management Xi'an Jiaotong University Xi'an, Shaanxi China; Department of Strategy &amp; Organization, InvEnt Research Center Emlyon Business School Lyon France; Advanced Institute of Business Tongji University Shanghai China
+  - Published: 2026-09-13
+  - Crossref journal: Strategic Entrepreneurship Journal
+  - Abstract:
+    Abstract Research Summary While consumers' perceptions of creative products' framing typicality are guided by existing category structures, research on social evaluation emphasizes consumers' active role in shaping and redefining these structures. To tackle consumers being caught in the framing, we propose consumer reactivity as a mediator between framing typicality and market appeal, defined as consumers' extension and modification of categorical guidance in social evaluations. Specifically, we suggest that creative products with less typical framings elicit greater consumer reactivity, which in turn enhances their market appeal. Empirical analyses of a unique dataset of games on Steam using BERT‐based measures, topic modeling, and psycholinguistic analysis (LIWC) lend support to our theoretical arguments. Our work contributes to creative market studies and the category literature. Managerial Summary Consumers typically rely on category cues, so products that fit expectations often seem more appealing. However, they also actively engage with products, exploring features that don't fit categorical expectations. We show that consumer reactivity explains this dynamic: creative products with less typical framings generate stronger engagement, which in turn boosts market appeal. Our analyses of a unique Steam game dataset using BERT‐based measures, topic modeling, and psycholinguistic analysis (LIWC) support this pattern. For practitioners, the key insight is to acknowledge the potential of seemingly less‐fit products. By thoughtfully monitoring consumer interests and initiatives and cultivating their engagement, creative producers can enhance the market performance of creative products.
