@@ -15007,12 +15007,103 @@
       "abs_journal_title": "Journal of Management Studies",
       "published_date": "2026-09-13",
       "first_seen": "2026-09-14T12:27:06.204279+00:00"
+    },
+    "10.1037/apl0001429.supp": {
+      "title": "Supplemental Material for Who Do Employees Follow? An Analysis of Contrasting and Compensatory Effects Between Abusive Supervisors in Multiple Team Membership Contexts",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.1037/apl0001420.supp": {
+      "title": "Supplemental Material for A Meta-Analytic Examination of the Criterion-Related Validity and Cognitive Loading Associated With Traditional and New Situational Judgment Test Paradigms",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.1037/apl0001414": {
+      "title": "Do interactions matter? Assessing the role of job characteristics interactions on employee well-being.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.1037/apl0001421": {
+      "title": "Breadcrumbs to transformational acts: Enacting implicit leader prototypes to become psychologically empowered as a leader.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.1037/apl0001412": {
+      "title": "Adverse impact, job performance, and diversity outcomes of applicant attraction: A simulation and paradox.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.5465/amr.2026.0703": {
+      "title": "Out with the Old, in with the New? A Response to “How AI Reshapes Multimodal Theorization”",
+      "journal": "Academy of Management Review",
+      "abs_journal_title": "Academy of Management Review",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.1007/s10107-026-02416-3": {
+      "title": "Real-weighted general factors on subcubic graphs",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.1007/s10107-026-02412-7": {
+      "title": "Minimax-optimal Halpern iterations for Lipschitz maps",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.1007/s10107-026-02418-1": {
+      "title": "Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.1080/01621459.2026.2732273": {
+      "title": "Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.1002/job.70129": {
+      "title": "Her Vision Guiding Him Toward Change: The Interactive Effects of Visionary Leadership, Leader Gender, and Follower Gender",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.1080/07350015.2026.2732033": {
+      "title": "Efficient estimation of regression models with user-specified parametric model for heteroskedasticity*",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "abs_journal_title": "Journal of Business and Economic Statistics",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
+    },
+    "10.1080/07350015.2026.2734093": {
+      "title": "A Recentered Method of Moments Estimator for Spatial Dynamic Panels",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "abs_journal_title": "Journal of Business and Economic Statistics",
+      "published_date": "2026-09-14",
+      "first_seen": "2026-09-15T11:31:47.516639+00:00"
     }
   },
-  "last_run": "2026-09-14T12:27:06.204279+00:00",
+  "last_run": "2026-09-15T11:31:47.516639+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-09-13",
-    "end_date": "2026-09-14"
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-15"
   }
 }
