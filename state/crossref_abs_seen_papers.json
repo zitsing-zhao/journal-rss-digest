@@ -15525,12 +15525,236 @@
       "abs_journal_title": "Academy of Management Perspectives",
       "published_date": "2026-09-16",
       "first_seen": "2026-09-17T11:26:47.387005+00:00"
+    },
+    "10.1007/s11192-026-05813-9": {
+      "title": "Evaluating the reliability of web of science citation function classification: evidence from manual annotation and large language models",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-09-18",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1287/opre.2024.0842": {
+      "title": "Prophet Inequalities for a New Class of Overbooking Problems in Container Shipping",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1287/mnsc.2024.08449": {
+      "title": "Beyond Value: On the Role of Symmetry in Demand for Information",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1057/s41267-026-00896-1": {
+      "title": "The impact of migration and institutions on new business creation: integrating social capital theory and institutional theory",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1057/s41267-026-00906-2": {
+      "title": "The historical evolution of international business: growth trajectory of an academic field of study",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1037/apl0001429": {
+      "title": "Who do employees follow? An analysis of contrasting and compensatory effects between abusive supervisors in multiple team membership contexts.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1037/apl0001428": {
+      "title": "Is the job-hopping penalty merited? Predicting selection decisions, turnover, and performance of job hoppers.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1037/apl0001399": {
+      "title": "How leaders respond to team time urgency diversity: A functional leadership perspective.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1037/apl0001419": {
+      "title": "Extrapolation in congruence research: A conceptual framework and diagnostic strategy.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1093/ej/ueag098": {
+      "title": "Intergroup Contact, Empathy Education, and Refugee-Native Integration in Lebanon",
+      "journal": "The Economic Journal",
+      "abs_journal_title": "Economic Journal",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1007/s11192-026-05823-7": {
+      "title": "Productivity rate metrics for awards and investigators funded by the US National Cancer Institute",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1111/risa.70366": {
+      "title": "Two Foundational Ideas of Risk—Undesirability and Unexpectedness—With Implications for Risk Science and Its Applications",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1111/risa.70358": {
+      "title": "Research on Risk Classification of Online Public Opinion in Emergencies Based on FHCO Algorithm",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1111/risa.70362": {
+      "title": "Probabilistic Assessment of the Relative Source Contribution Factor While Accounting for Exposure to Other Regulated Media: A Toxicokinetic Proof‐of‐Concept for Volatile Drinking Water Contaminants",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1080/14719037.2026.2733924": {
+      "title": "Unpacking local government responsiveness to social media: evidence from Mexico",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1080/07350015.2026.2734092": {
+      "title": "Testing Alphas in Linear Factor Models: A Portfolio Approach",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "abs_journal_title": "Journal of Business and Economic Statistics",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1111/irel.70045": {
+      "title": "Labor Market Frictions and Product Differentiation: Evidence From Salary History Bans",
+      "journal": "Industrial Relations: A Journal of Economy and Society",
+      "abs_journal_title": "Industrial Relations",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1002/gsj.70033": {
+      "title": "The innovation tug‐of‐war: Local grit versus global grit in emerging markets",
+      "journal": "Global Strategy Journal",
+      "abs_journal_title": "Global Strategy Journal",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1080/00076791.2026.2730032": {
+      "title": "Crusading for globalization: US multinationals and their opponents since 1945",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.5465/amp.2026.0328": {
+      "title": "Renovating for Relevance: How to Rewrite a Traditional Manuscript for\n                    <i>Academy of Management Perspectives</i>",
+      "journal": "Academy of Management Perspectives",
+      "abs_journal_title": "Academy of Management Perspectives",
+      "published_date": "2026-09-17",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1861": {
+      "title": "Transaction Costs and the Gains from Trade in Water Markets",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1871": {
+      "title": "The Intergenerational Transmission of Employers and the Earnings of Young Workers",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1863": {
+      "title": "Social Ties and Fiscal Transfers in a Regional Economy: A Quantitative Spatial Analysis",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1865": {
+      "title": "Scientific Talent Leaks Out of Funding Gaps",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1866": {
+      "title": "Return to Office and the Tenure Distribution",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1872": {
+      "title": "Losing Political Representation",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1868": {
+      "title": "Job Loss, Unemployment Insurance, and Health: Evidence from Brazil",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1864": {
+      "title": "Insurance Choice with Non-Monetary Plan Attributes: Limited Consideration in Medicare Part D",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1870": {
+      "title": "Gender and Electoral Incentives: Evidence from COVID-19 Response",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1867": {
+      "title": "Gender Discrimination in Access to Capital: A Field Experiment in Ethiopia",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1862": {
+      "title": "From Micro to Macro in an Equilibrium Diffusion Model",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
+    },
+    "10.1162/rest.a.1869": {
+      "title": "Estimating the Macroeconomic Effects of Oil Supply News",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-08",
+      "first_seen": "2026-09-18T11:00:43.674733+00:00"
     }
   },
-  "last_run": "2026-09-17T11:26:47.387005+00:00",
+  "last_run": "2026-09-18T11:00:43.674733+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-09-16",
-    "end_date": "2026-09-17"
+    "start_date": "2026-09-17",
+    "end_date": "2026-09-18"
   }
 }
