@@ -47669,7 +47669,1337 @@
       "link": "https://doi.org/10.1093/ser/mwag048",
       "published": "2026-09-09",
       "first_seen": "2026-09-14T14:42:57.200833+00:00"
+    },
+    "10.1111/1475-679x.70085": {
+      "title": "When Is It Fairer to Allocate Resources for Training to Lower Performing Versus Higher Performing Employees?",
+      "journal": "Journal of Accounting Research",
+      "link": "https://doi.org/10.1111/1475-679x.70085",
+      "published": "2026-09-20",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1086/744117": {
+      "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+      "journal": "Journal of Political Economy",
+      "link": "https://doi.org/10.1086/744117",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1086/744118": {
+      "title": "Data, Privacy Laws and Firm Production: Evidence from the GDPR",
+      "journal": "Journal of Political Economy",
+      "link": "https://doi.org/10.1086/744118",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1086/744119": {
+      "title": "Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions",
+      "journal": "Journal of Political Economy",
+      "link": "https://doi.org/10.1086/744119",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/qje/qjag047": {
+      "title": "Attention to the Macroeconomy",
+      "journal": "Quarterly Journal of Economics",
+      "link": "https://doi.org/10.1093/qje/qjag047",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/restud/rdag107": {
+      "title": "Revisiting Retirement and Social Security Claiming Decisions",
+      "journal": "Review of Economic Studies",
+      "link": "https://doi.org/10.1093/restud/rdag107",
+      "published": "2026-09-21",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/restud/rdag106": {
+      "title": "The End of Oil",
+      "journal": "Review of Economic Studies",
+      "link": "https://doi.org/10.1093/restud/rdag106",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/restud/rdag108": {
+      "title": "Entry and Profits in an Aging Economy: The Role of Consumer Inertia",
+      "journal": "Review of Economic Studies",
+      "link": "https://doi.org/10.1093/restud/rdag108",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/restud/rdag103": {
+      "title": "Demographics, Wealth, and Global Imbalances in the Twenty-First Century",
+      "journal": "Review of Economic Studies",
+      "link": "https://doi.org/10.1093/restud/rdag103",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/restud/rdag105": {
+      "title": "Machine Learning for Dynamic Incentive Problems",
+      "journal": "Review of Economic Studies",
+      "link": "https://doi.org/10.1093/restud/rdag105",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/restud/rdag099": {
+      "title": "Measuring Markets for Network Goods",
+      "journal": "Review of Economic Studies",
+      "link": "https://doi.org/10.1093/restud/rdag099",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.5465/amj.2025.0640": {
+      "title": "Ambiguity as Opportunity: A Theoretical Model of Conspiracy Entrepreneurship",
+      "journal": "Academy of Management Journal",
+      "link": "https://doi.org/10.5465/amj.2025.0640",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.5465/amr.2024.0311": {
+      "title": "Vibe Managers, Gurus, and Rockstars: Decoding the Strategic Use of Unconventional Job Titles in Organizations",
+      "journal": "Academy of Management Review",
+      "link": "https://doi.org/10.5465/amr.2024.0311",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.5465/amr.2026.1082": {
+      "title": "Facing Strong Currents… But with an Even Stronger Crew",
+      "journal": "Academy of Management Review",
+      "link": "https://doi.org/10.5465/amr.2026.1082",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.5465/amr.2026.0703": {
+      "title": "Out with the Old, in with the New? A Response to “How AI Reshapes Multimodal Theorization”",
+      "journal": "Academy of Management Review",
+      "link": "https://doi.org/10.5465/amr.2026.0703",
+      "published": "2026-09-14",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1016/j.jfineco.2026.104364": {
+      "title": "Discounting timing strategies",
+      "journal": "Journal of Financial Economics",
+      "link": "https://doi.org/10.1016/j.jfineco.2026.104364",
+      "published": "2026-11",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1016/j.jfineco.2026.104360": {
+      "title": "Do rights offerings reduce bargaining complexity in Chapter 11?",
+      "journal": "Journal of Financial Economics",
+      "link": "https://doi.org/10.1016/j.jfineco.2026.104360",
+      "published": "2026-11",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/rfs/hhag082": {
+      "title": "Corporate Bond Multipliers: Substitutes Matter",
+      "journal": "Review of Financial Studies",
+      "link": "https://doi.org/10.1093/rfs/hhag082",
+      "published": "2026-09-19",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/rfs/hhag081": {
+      "title": "Adverse Selection and the Government Intervention Trap",
+      "journal": "Review of Financial Studies",
+      "link": "https://doi.org/10.1093/rfs/hhag081",
+      "published": "2026-09-19",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/rfs/hhag086": {
+      "title": "The Coherence Side of Rationality Theory and Evidence from Firm Plans",
+      "journal": "Review of Financial Studies",
+      "link": "https://doi.org/10.1093/rfs/hhag086",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/rfs/hhag083": {
+      "title": "Optimal Time-Consistent Debt Policies",
+      "journal": "Review of Financial Studies",
+      "link": "https://doi.org/10.1093/rfs/hhag083",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/1748-8583.70066": {
+      "title": "Workplace Interventions to Promote Employees' Pro‐Environmental Behaviour: A Meta‐Analysis",
+      "journal": "Human Resource Management Journal (UK)",
+      "link": "https://doi.org/10.1111/1748-8583.70066",
+      "published": "2026-09-21",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1057/s41267-026-00896-1": {
+      "title": "The impact of migration and institutions on new business creation: integrating social capital theory and institutional theory",
+      "journal": "Journal of International Business Studies",
+      "link": "https://doi.org/10.1057/s41267-026-00896-1",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1057/s41267-026-00906-2": {
+      "title": "The historical evolution of international business: growth trajectory of an academic field of study",
+      "journal": "Journal of International Business Studies",
+      "link": "https://doi.org/10.1057/s41267-026-00906-2",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/isre.2025.2140": {
+      "title": "Unlocking Profits in Generative AI: The Impact of AI Adaptive Learning on Freemium Strategy",
+      "journal": "Information Systems Research",
+      "link": "https://doi.org/10.1287/isre.2025.2140",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.5465/amle.2026.0628": {
+      "title": "We Care a Lot (For Academy of Management Learning & Education )—and Urgent Reflections on the State of AI Journal Policies",
+      "journal": "Academy of Management Learning and Education",
+      "link": "https://doi.org/10.5465/amle.2026.0628",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1002/jcpy.70039": {
+      "title": "Issue Information",
+      "journal": "Journal of Consumer Psychology",
+      "link": "https://doi.org/10.1002/jcpy.70039",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/jcr/ucag026": {
+      "title": "Brief Commentary: An Independent Replication Study of the Mere Urgency Effect",
+      "journal": "Journal of Consumer Research",
+      "link": "https://doi.org/10.1093/jcr/ucag026",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/jcr/ucag037": {
+      "title": "Turning Uncertainty into Opportunity: Preference Uncertainty Can Be Beneficial When Consumers Have Outcome Uncertainty",
+      "journal": "Journal of Consumer Research",
+      "link": "https://doi.org/10.1093/jcr/ucag037",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/jcr/ucag039": {
+      "title": "Time-Duration Asymmetries in Consumer Decision-Making",
+      "journal": "Journal of Consumer Research",
+      "link": "https://doi.org/10.1093/jcr/ucag039",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/00222437261491290": {
+      "title": "EXPRESS: EV Charging Availability and Grocery Store Performance",
+      "journal": "Journal of Marketing Research",
+      "link": "https://doi.org/10.1177/00222437261491290",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/00222437261490921": {
+      "title": "EXPRESS: When Consumers Prefer Point Versus Range Estimates of Product Performance",
+      "journal": "Journal of Marketing Research",
+      "link": "https://doi.org/10.1177/00222437261490921",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1007/s11747-026-01204-x": {
+      "title": "From liability to asset: How campaign context determines whether body weight helps or hurts online fundraisers",
+      "journal": "Journal of the Academy of Marketing Science",
+      "link": "https://doi.org/10.1007/s11747-026-01204-x",
+      "published": "2026-09-21",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1007/s11747-026-01205-w": {
+      "title": "Pathways to premium: How habits and benefits shape conversion and retention in freemium subscription models",
+      "journal": "Journal of the Academy of Marketing Science",
+      "link": "https://doi.org/10.1007/s11747-026-01205-w",
+      "published": "2026-09-21",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1007/s11747-026-01203-y": {
+      "title": "Minds in motion: The effect of perceived social mobility on distant brand extension",
+      "journal": "Journal of the Academy of Marketing Science",
+      "link": "https://doi.org/10.1007/s11747-026-01203-y",
+      "published": "2026-09-19",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/mksc.2024.0800": {
+      "title": "Global Product Strategies and Cultural Promotion in the Context of Culture-Commerce Interactions",
+      "journal": "Marketing Science",
+      "link": "https://doi.org/10.1287/mksc.2024.0800",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/mksc.2024.0964": {
+      "title": "The Challenges of Deploying an Algorithmic Pricing Tool: Evidence from Airbnb",
+      "journal": "Marketing Science",
+      "link": "https://doi.org/10.1287/mksc.2024.0964",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/mnsc.2024.05008": {
+      "title": "Index-Based Yield Protection for Smallholder Farmers",
+      "journal": "Management Science",
+      "link": "https://doi.org/10.1287/mnsc.2024.05008",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/mnsc.2023.00580": {
+      "title": "Bad News Bearers: The Negative Tilt of the Financial Press",
+      "journal": "Management Science",
+      "link": "https://doi.org/10.1287/mnsc.2023.00580",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/mnsc.2024.08449": {
+      "title": "Beyond Value: On the Role of Symmetry in Demand for Information",
+      "journal": "Management Science",
+      "link": "https://doi.org/10.1287/mnsc.2024.08449",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/mnsc.2024.07171": {
+      "title": "Crossborder Carbon Taxes and Shareholder Wealth",
+      "journal": "Management Science",
+      "link": "https://doi.org/10.1287/mnsc.2024.07171",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/mnsc.2024.04540": {
+      "title": "Sequential Search Transformer: A Deep Structural Econometric Model",
+      "journal": "Management Science",
+      "link": "https://doi.org/10.1287/mnsc.2024.04540",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/opre.2024.1190": {
+      "title": "Reinforcement Learning for Intensity Control: An Application to Choice-Based Network Revenue Management",
+      "journal": "Operations Research",
+      "link": "https://doi.org/10.1287/opre.2024.1190",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/opre.2024.0842": {
+      "title": "Prophet Inequalities for a New Class of Overbooking Problems in Container Shipping",
+      "journal": "Operations Research",
+      "link": "https://doi.org/10.1287/opre.2024.0842",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/opre.2024.1376": {
+      "title": "Conformal Inverse Optimization for Adherence-Aware Prescriptive Analytics",
+      "journal": "Operations Research",
+      "link": "https://doi.org/10.1287/opre.2024.1376",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/opre.2025.2528": {
+      "title": "Finite-Time Minimax Bounds and an Optimal Lyapunov Policy in Queueing Control",
+      "journal": "Operations Research",
+      "link": "https://doi.org/10.1287/opre.2025.2528",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1287/opre.2026.eb.v7405": {
+      "title": "Editorial Board",
+      "journal": "Operations Research",
+      "link": "https://doi.org/10.1287/opre.2026.eb.v7405",
+      "published": "2026-09",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/apl0001429": {
+      "title": "Who do employees follow? An analysis of contrasting and compensatory effects between abusive supervisors in multiple team membership contexts.",
+      "journal": "Journal of Applied Psychology",
+      "link": "https://doi.org/10.1037/apl0001429",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/apl0001419": {
+      "title": "Extrapolation in congruence research: A conceptual framework and diagnostic strategy.",
+      "journal": "Journal of Applied Psychology",
+      "link": "https://doi.org/10.1037/apl0001419",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/apl0001399": {
+      "title": "How leaders respond to team time urgency diversity: A functional leadership perspective.",
+      "journal": "Journal of Applied Psychology",
+      "link": "https://doi.org/10.1037/apl0001399",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/apl0001428": {
+      "title": "Is the job-hopping penalty merited? Predicting selection decisions, turnover, and performance of job hoppers.",
+      "journal": "Journal of Applied Psychology",
+      "link": "https://doi.org/10.1037/apl0001428",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/puar.70198": {
+      "title": "Propaganda, Administrative Deformation, and the Erosion of State Capacity: The Case of the “Censorship Industrial Complex”",
+      "journal": "Public Administration Review",
+      "link": "https://doi.org/10.1111/puar.70198",
+      "published": "2026-09-20",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/puar.70203": {
+      "title": "Routledge Handbook on Crisis, Polycrisis, and Public Administration. By KimMoloney, Gloria J.Billingsley, Bok GyoJeong, PabloSanabria‐Pulido, Tonya E.Thornton, and EricZeemering, New York, New York: Routledge, 2025. 390 pp. $280.00 (hardback) ( eBook $58.39). ISBN: 978‐1‐00‐333363‐0",
+      "journal": "Public Administration Review",
+      "link": "https://doi.org/10.1111/puar.70203",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/00031224261476317": {
+      "title": "Strategic Inversion: How Refugees Reconfigure Everyday Resistance under Benevolent Oppression",
+      "journal": "American Sociological Review",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/00031224261476317?ai=2b4&mi=ehikzz&af=R",
+      "published": "",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/00031224261475238": {
+      "title": "Organizational Consolidation: How Organizations Reflect or Refract Societal Hierarchies",
+      "journal": "American Sociological Review",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/00031224261475238?ai=2b4&mi=ehikzz&af=R",
+      "published": "",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1002/smj.70130": {
+      "title": "Drifting to the top? The effects of category erraticism on status mobility in the U.S. venture capital industry",
+      "journal": "Strategic Management Journal",
+      "link": "https://doi.org/10.1002/smj.70130",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1002/smj.70127": {
+      "title": "Does innovation success need advocacy? Stakeholder involvement in firm innovation",
+      "journal": "Strategic Management Journal",
+      "link": "https://doi.org/10.1002/smj.70127",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1002/smj.70128": {
+      "title": "Firm divisionalization and the gender gap in CEO promotion",
+      "journal": "Strategic Management Journal",
+      "link": "https://doi.org/10.1002/smj.70128",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/1911-3846.70089": {
+      "title": "Users' Solicitation of Disclosure When Accounting Standards Restrict Managers' Discretion Over Financial Reporting: Evidence From Conference Calls",
+      "journal": "Contemporary Accounting Research",
+      "link": "https://doi.org/10.1111/1911-3846.70089",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/1911-3846.70085": {
+      "title": "Black Accountants' Pursuit of Partnership",
+      "journal": "Contemporary Accounting Research",
+      "link": "https://doi.org/10.1111/1911-3846.70085",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/1911-3846.70078": {
+      "title": "Strategic Reporting Through Counterpoised Disclosure: Evidence From the Biopharma Industry",
+      "journal": "Contemporary Accounting Research",
+      "link": "https://doi.org/10.1111/1911-3846.70078",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/1911-3846.70080": {
+      "title": "The Virtual Pivot: Adaptive Investor Relations in the Face of Disruption",
+      "journal": "Contemporary Accounting Research",
+      "link": "https://doi.org/10.1111/1911-3846.70080",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1007/s11142-026-09990-z": {
+      "title": "Ownership complexity and firm value: evidence from Korean chaebols",
+      "journal": "Review of Accounting Studies",
+      "link": "https://doi.org/10.1007/s11142-026-09990-z",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/biomet/asag039": {
+      "title": "Benign Overfitting Beyond Prediction: The Ordinary Least Squares Interpolator",
+      "journal": "Biometrika",
+      "link": "https://doi.org/10.1093/biomet/asag039",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/ej/ueag098": {
+      "title": "Intergroup Contact, Empathy Education, and Refugee-Native Integration in Lebanon",
+      "journal": "Economic Journal",
+      "link": "https://doi.org/10.1093/ej/ueag098",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/ej/ueag116": {
+      "title": "Media Slant is Contagious",
+      "journal": "Economic Journal",
+      "link": "https://doi.org/10.1093/ej/ueag116",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/ej/ueag110": {
+      "title": "Government Recommendations and Health Behaviours: Evidence from Breast Cancer Screening Guidelines",
+      "journal": "Economic Journal",
+      "link": "https://doi.org/10.1093/ej/ueag110",
+      "published": "2026-09-14",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/iere.70113": {
+      "title": "A Quantile Model of Firm Investment",
+      "journal": "International Economic Review",
+      "link": "https://doi.org/10.1111/iere.70113",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/iere.70115": {
+      "title": "Discussion of “Human Capital as a Driver of Automation: Theory and Evidence from China's College Expansion”",
+      "journal": "International Economic Review",
+      "link": "https://doi.org/10.1111/iere.70115",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/iere.70117": {
+      "title": "Discussion of “Connectivity and Selective Rural Migration”",
+      "journal": "International Economic Review",
+      "link": "https://doi.org/10.1111/iere.70117",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/07350015.2026.2732285": {
+      "title": "Changes-in-Changes for Ordered Choice Models with Underreporting",
+      "journal": "Journal of Business and Economic Statistics",
+      "link": "https://doi.org/10.1080/07350015.2026.2732285",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/07350015.2026.2736042": {
+      "title": "Approximate Factor Models for Functional Time Series",
+      "journal": "Journal of Business and Economic Statistics",
+      "link": "https://doi.org/10.1080/07350015.2026.2736042",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/07350015.2026.2734092": {
+      "title": "Testing Alphas in Linear Factor Models: A Portfolio Approach",
+      "journal": "Journal of Business and Economic Statistics",
+      "link": "https://doi.org/10.1080/07350015.2026.2734092",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/07350015.2026.2732033": {
+      "title": "Efficient estimation of regression models with user-specified parametric model for heteroskedasticity*",
+      "journal": "Journal of Business and Economic Statistics",
+      "link": "https://doi.org/10.1080/07350015.2026.2732033",
+      "published": "2026-09-14",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/07350015.2026.2734093": {
+      "title": "A Recentered Method of Moments Estimator for Spatial Dynamic Panels",
+      "journal": "Journal of Business and Economic Statistics",
+      "link": "https://doi.org/10.1080/07350015.2026.2734093",
+      "published": "2026-09-14",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/01621459.2026.2732273": {
+      "title": "Two-way Homogeneity Pursuit for Quantile Network Vector Autoregression",
+      "journal": "Journal of the American Statistical Association",
+      "link": "https://doi.org/10.1080/01621459.2026.2732273",
+      "published": "2026-09-14",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/jrsssb/qkag125": {
+      "title": "CP-factorization for high-dimensional tensor time series and double projection iterations",
+      "journal": "Journal of the Royal Statistical Society. Series B: Statistical Methodology",
+      "link": "https://doi.org/10.1093/jrsssb/qkag125",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1093/jrsssb/qkag128": {
+      "title": "Correction to: Consistent and fast inference in compartmental models of epidemics using Poisson Approximate Likelihoods",
+      "journal": "Journal of the Royal Statistical Society. Series B: Statistical Methodology",
+      "link": "https://doi.org/10.1093/jrsssb/qkag128",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1863": {
+      "title": "Social Ties and Fiscal Transfers in a Regional Economy: A Quantitative Spatial Analysis",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1863",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1871": {
+      "title": "The Intergenerational Transmission of Employers and the Earnings of Young Workers",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1871",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1866": {
+      "title": "Return to Office and the Tenure Distribution",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1866",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1864": {
+      "title": "Insurance Choice with Non-Monetary Plan Attributes: Limited Consideration in Medicare Part D",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1864",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1861": {
+      "title": "Transaction Costs and the Gains from Trade in Water Markets",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1861",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1862": {
+      "title": "From Micro to Macro in an Equilibrium Diffusion Model",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1862",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1870": {
+      "title": "Gender and Electoral Incentives: Evidence from COVID-19 Response",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1870",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1872": {
+      "title": "Losing Political Representation",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1872",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1865": {
+      "title": "Scientific Talent Leaks Out of Funding Gaps",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1865",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1869": {
+      "title": "Estimating the Macroeconomic Effects of Oil Supply News",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1869",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1867": {
+      "title": "Gender Discrimination in Access to Capital: A Field Experiment in Ethiopia",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1867",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest.a.1868": {
+      "title": "Job Loss, Unemployment Insurance, and Health: Evidence from Brazil",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest.a.1868",
+      "published": "2026-09-08",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01489": {
+      "title": "Measuring Economic Growth with a Fully Identified Three-Signal Model",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01489",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01499": {
+      "title": "The Impact of Children’s Health Shocks on Parents’ Labor Earnings and Mental Health",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01499",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01475": {
+      "title": "Do Tax Deferred Accounts Improve Lifecycle Savings? Experimental Evidence",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01475",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01465": {
+      "title": "A Nearly Similar Powerful Test for Mediation",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01465",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01512": {
+      "title": "Persecution and Migrant Self-Selection: Evidence from the Collapse of the Communist Bloc",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01512",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01518": {
+      "title": "Heterogeneity in Damages from a Pandemic",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01518",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01480": {
+      "title": "The Unintended Consequences of Home-Buying Restriction in China",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01480",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01524": {
+      "title": "Did Monetary Policy Kill the Phillips Curve? Some Simple Arithmetics",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01524",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01483": {
+      "title": "The Value of Piped Water and Sewers: Evidence from 19th Century Chicago",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01483",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01491": {
+      "title": "Mobilization and Backlash: Asymmetric Updating in Response to Campaign Ads",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01491",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01505": {
+      "title": "Do Firms Value Court Enforceability of Noncompete Agreements? A Revealed Preference Approach",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01505",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01462": {
+      "title": "On Recoding Ordered Treatments as Binary Indicators",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01462",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01481": {
+      "title": "The Emergence of the Socioeconomic Gradient in Women’s Marriage Outcomes",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01481",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01572": {
+      "title": "The Impact of Consequence Information on Insurance Choice",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01572",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01488": {
+      "title": "First Sale Doctrine and Public Library Provision of Print and Electronic Books",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01488",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01517": {
+      "title": "Carry Trades and FX Risk Buffers: Foreign Currency Debt of Emerging Market Firms",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01517",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01523": {
+      "title": "Reservation Wages and the Wage Flexibility Puzzle",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01523",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1162/rest_a_01494": {
+      "title": "Intergenerational Spillovers of Integration Policies: Evidence from Finland’s Integration Plans",
+      "journal": "Review of Economics and Statistics",
+      "link": "https://doi.org/10.1162/rest_a_01494",
+      "published": "2026-09-02",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1002/sej.70045": {
+      "title": "Balancing coherence and resonance through linguistic framing: A longitudinal study of German biotechnology ventures' responses to the Covid‐19 pandemic",
+      "journal": "Strategic Entrepreneurship Journal",
+      "link": "https://doi.org/10.1002/sej.70045",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.5465/amp.2026.0328": {
+      "title": "Renovating for Relevance: How to Rewrite a Traditional Manuscript for Academy of Management Perspectives",
+      "journal": "Academy of Management Perspectives",
+      "link": "https://doi.org/10.5465/amp.2026.0328",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.5465/amp.2026.0180": {
+      "title": "My Campaign to Influence How CEOs Lead Their Top Management Teams: A Partial Success Story",
+      "journal": "Academy of Management Perspectives",
+      "link": "https://doi.org/10.5465/amp.2026.0180",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/1467-8551.70107": {
+      "title": "Correction to ‟Unlocking Social Media Success: How Prosumers Drive Brand Engagement through Authentic Conversations with Consumers”",
+      "journal": "British Journal of Management",
+      "link": "https://doi.org/10.1111/1467-8551.70107",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/joms.70165": {
+      "title": "What Future for Genetics in Management Research?",
+      "journal": "Journal of Management Studies",
+      "link": "https://doi.org/10.1111/joms.70165",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1017/s0022109026103159": {
+      "title": "Private Equity and Gas Emissions: Evidence from Electric Power Plants",
+      "journal": "Journal of Financial and Quantitative Analysis",
+      "link": "https://doi.org/10.1017/s0022109026103159",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/jmcb.70091": {
+      "title": "Unconventional but Different After All? A Unified Series of Narrative Monetary Policy Shocks a",
+      "journal": "Journal of Money, Credit and Banking",
+      "link": "https://doi.org/10.1111/jmcb.70091",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/jmcb.70090": {
+      "title": "The Effects of Financial Liberalization on Country‐Level Emissions",
+      "journal": "Journal of Money, Credit and Banking",
+      "link": "https://doi.org/10.1111/jmcb.70090",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/jmcb.70087": {
+      "title": "Editor's Introduction",
+      "journal": "Journal of Money, Credit and Banking",
+      "link": "https://doi.org/10.1111/jmcb.70087",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1002/hrm.70101": {
+      "title": "Explaining Uneven and Reversible Gender Equality Outcomes: A Relational Open‐Systems Perspective on Gender Diversity and Inclusion in Multinational Corporations",
+      "journal": "Human Resource Management (USA)",
+      "link": "https://doi.org/10.1002/hrm.70101",
+      "published": "2026-09-20",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1002/hrm.70099": {
+      "title": "The Alignment Paradox: A Theory of AI ‐Driven Misalignment in HR Systems",
+      "journal": "Human Resource Management (USA)",
+      "link": "https://doi.org/10.1002/hrm.70099",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/irel.70045": {
+      "title": "Labor Market Frictions and Product Differentiation: Evidence From Salary History Bans",
+      "journal": "Industrial Relations",
+      "link": "https://doi.org/10.1111/irel.70045",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/09500170261454074": {
+      "title": "Employment as a Foreign Realm: Spatial Alienation and Conceptions of Work among People with Experience of Homelessness",
+      "journal": "Work, Employment and Society",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/09500170261454074?ai=2b4&mi=ehikzz&af=R",
+      "published": "",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/09500170261472822": {
+      "title": "Labelled unemployed: Neighbourhood composition and the enforcement of employment norms",
+      "journal": "Work, Employment and Society",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/09500170261472822?ai=2b4&mi=ehikzz&af=R",
+      "published": "",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/0960085x.2026.2723258": {
+      "title": "Scaling data management capabilities for enterprise AI: a maturity model for the banking industry",
+      "journal": "European Journal of Information Systems",
+      "link": "https://doi.org/10.1080/0960085x.2026.2723258",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1108/ijopm-03-2026-0445": {
+      "title": "When stability becomes a liability: the negative effects of supplier network stability on green innovation diversity and quality",
+      "journal": "International Journal of Operations and Production Management",
+      "link": "https://doi.org/10.1108/ijopm-03-2026-0445",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/10591478261492947": {
+      "title": "EXPRESS: Launching “what” versus “when”: Pacing successive new product releases",
+      "journal": "Production and Operations Management",
+      "link": "https://doi.org/10.1177/10591478261492947",
+      "published": "2026-09-21",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/10591478261493185": {
+      "title": "EXPRESS: Toward ‘Omniscient’ Supply Chains: Enabling and Incentivizing Sustainable Operations",
+      "journal": "Production and Operations Management",
+      "link": "https://doi.org/10.1177/10591478261493185",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/10591478261492770": {
+      "title": "EXPRESS: Cost-effectiveness of a network of lethal ovitraps for dengue control",
+      "journal": "Production and Operations Management",
+      "link": "https://doi.org/10.1177/10591478261492770",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/10591478261490760": {
+      "title": "EXPRESS: Purpose-Driven Business Schools: Reframing the Value Proposition",
+      "journal": "Production and Operations Management",
+      "link": "https://doi.org/10.1177/10591478261490760",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/10591478261490953": {
+      "title": "EXPRESS: Let Clickstream Talk: A Graph Neural Network Approach to Sales Forecasting",
+      "journal": "Production and Operations Management",
+      "link": "https://doi.org/10.1177/10591478261490953",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/10591478261492009": {
+      "title": "EXPRESS: Focused versus Diversified Nonprofit Organizations: Aligning Operations Strategies with Donor Types",
+      "journal": "Production and Operations Management",
+      "link": "https://doi.org/10.1177/10591478261492009",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/10591478261491419": {
+      "title": "EXPRESS: To Cooperate or Not? A Finite-Capacity Manufacturer’s Decision to Enter the Sharing Market",
+      "journal": "Production and Operations Management",
+      "link": "https://doi.org/10.1177/10591478261491419",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1007/s10107-026-02419-0": {
+      "title": "A PTAS for triangle-free 2-matching",
+      "journal": "Mathematical Programming",
+      "link": "https://doi.org/10.1007/s10107-026-02419-0",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1007/s10107-026-02422-5": {
+      "title": "Online proportional apportionment",
+      "journal": "Mathematical Programming",
+      "link": "https://doi.org/10.1007/s10107-026-02422-5",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1007/s10107-026-02416-3": {
+      "title": "Real-weighted general factors on subcubic graphs",
+      "journal": "Mathematical Programming",
+      "link": "https://doi.org/10.1007/s10107-026-02416-3",
+      "published": "2026-09-14",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1007/s10107-026-02412-7": {
+      "title": "Minimax-optimal Halpern iterations for Lipschitz maps",
+      "journal": "Mathematical Programming",
+      "link": "https://doi.org/10.1007/s10107-026-02412-7",
+      "published": "2026-09-14",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1007/s10107-026-02418-1": {
+      "title": "Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms",
+      "journal": "Mathematical Programming",
+      "link": "https://doi.org/10.1007/s10107-026-02418-1",
+      "published": "2026-09-14",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/00187267261480593": {
+      "title": "Algorithmic identity regulation in the platform-based gig work of Indian food delivery workers",
+      "journal": "Human Relations",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/00187267261480593?ai=2b4&mi=ehikzz&af=R",
+      "published": "",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1017/s0140525x25103440": {
+      "title": "Why I am not a biological naturalist",
+      "journal": "Behavioral and Brain Sciences",
+      "link": "https://doi.org/10.1017/s0140525x25103440",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1017/s0140525x26105640": {
+      "title": "How does institutional reasoning develop?",
+      "journal": "Behavioral and Brain Sciences",
+      "link": "https://doi.org/10.1017/s0140525x26105640",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1017/s0140525x26106396": {
+      "title": "Beyond social tinkering: Toward a mechanistic and multilevel theory of cultural complexity",
+      "journal": "Behavioral and Brain Sciences",
+      "link": "https://doi.org/10.1017/s0140525x26106396",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1017/s0140525x25103774": {
+      "title": "Compatibilist emergence for the science of consciousness",
+      "journal": "Behavioral and Brain Sciences",
+      "link": "https://doi.org/10.1017/s0140525x25103774",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1017/s0140525x25103889": {
+      "title": "Meatless minds vs. beast machines: Are simulated subjects impossible?",
+      "journal": "Behavioral and Brain Sciences",
+      "link": "https://doi.org/10.1017/s0140525x25103889",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1017/s0140525x25103695": {
+      "title": "Biological naturalism, synthetic phenomenology, and the physics of awareness",
+      "journal": "Behavioral and Brain Sciences",
+      "link": "https://doi.org/10.1017/s0140525x25103695",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1017/s0140525x25103725": {
+      "title": "Separating the conscious wheat from the unconscious chaff: Towards a biologically grounded computationalism",
+      "journal": "Behavioral and Brain Sciences",
+      "link": "https://doi.org/10.1017/s0140525x25103725",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1017/s0140525x26106426": {
+      "title": "Social tinkering generates complexity, but also system-scale fragility and collective delusions",
+      "journal": "Behavioral and Brain Sciences",
+      "link": "https://doi.org/10.1017/s0140525x26106426",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/xge0001999": {
+      "title": "Equity rewards the true self: True-self attributions drive perceptions of equity-based justice.",
+      "journal": "Journal of Experimental Psychology: General",
+      "link": "https://doi.org/10.1037/xge0001999",
+      "published": "2026-09-21",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/xge0001983.supp": {
+      "title": "Supplemental Material for What Predicts Expertise in Baduk? Intelligence, Practice, and a Natural Test of the Range Restriction Hypothesis",
+      "journal": "Journal of Experimental Psychology: General",
+      "link": "https://doi.org/10.1037/xge0001983.supp",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/xge0001994.supp": {
+      "title": "Supplemental Material for Bridging Real-World Summarization and Laboratory-Based Memory Recall",
+      "journal": "Journal of Experimental Psychology: General",
+      "link": "https://doi.org/10.1037/xge0001994.supp",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/xge0001999.supp": {
+      "title": "Supplemental Material for Equity Rewards the True Self: True-Self Attributions Drive Perceptions of Equity-Based Justice",
+      "journal": "Journal of Experimental Psychology: General",
+      "link": "https://doi.org/10.1037/xge0001999.supp",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/xge0001998.supp": {
+      "title": "Supplemental Material for The Moralized Coalitions Model: How Coalitional Thinking and Moralization Shape Social Perception",
+      "journal": "Journal of Experimental Psychology: General",
+      "link": "https://doi.org/10.1037/xge0001998.supp",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/pspa0000495": {
+      "title": "When and why are social categories overused relative to individuating information? A Bayesian approach to identifying biases in impression formation processes.",
+      "journal": "Journal of Personality and Social Psychology",
+      "link": "https://doi.org/10.1037/pspa0000495",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/pspp0000612": {
+      "title": "Dynamic processes in narcissism and affect across Chinese and American individuals: A registered report.",
+      "journal": "Journal of Personality and Social Psychology",
+      "link": "https://doi.org/10.1037/pspp0000612",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1177/01461672261480534": {
+      "title": "On Confederate Monuments, Their Removal and Racial Bias",
+      "journal": "Personality and Social Psychology Bulletin",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/01461672261480534?ai=2b4&mi=ehikzz&af=R",
+      "published": "",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/rev0000639": {
+      "title": "Sequence learning as Bayesian filtering.",
+      "journal": "Psychological Review",
+      "link": "https://doi.org/10.1037/rev0000639",
+      "published": "2026-09-21",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/rev0000645.supp": {
+      "title": "Supplemental Material for Dynamics of Variability and Bias in Working Memory",
+      "journal": "Psychological Review",
+      "link": "https://doi.org/10.1037/rev0000645.supp",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1037/rev0000647.supp": {
+      "title": "Supplemental Material for Why Most Stereotypes Are Negative",
+      "journal": "Psychological Review",
+      "link": "https://doi.org/10.1037/rev0000647.supp",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/joop.70157": {
+      "title": "Enhancing team effectiveness through responsible leadership: A dual harmony perspective",
+      "journal": "Journal of Occupational and Organizational Psychology",
+      "link": "https://doi.org/10.1111/joop.70157",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1002/job.70130": {
+      "title": "Who Benefits From Compressed Workweeks? The Role of Job Autonomy and Task Interdependence in Shaping Longitudinal Changes",
+      "journal": "Journal of Organizational Behavior",
+      "link": "https://doi.org/10.1002/job.70130",
+      "published": "2026-09-20",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1002/job.70129": {
+      "title": "Her Vision Guiding Him Toward Change: The Interactive Effects of Visionary Leadership, Leader Gender, and Follower Gender",
+      "journal": "Journal of Organizational Behavior",
+      "link": "https://doi.org/10.1002/job.70129",
+      "published": "2026-09-14",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/02678373.2026.2722069": {
+      "title": "Leisure under lock: cognitive activation and motivation erosion as mechanisms undermining experiential quality of leisure time",
+      "journal": "Work and Stress",
+      "link": "https://doi.org/10.1080/02678373.2026.2722069",
+      "published": "2026-09-19",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/gove.70153": {
+      "title": "Digital Co‐Production of Public Services: Citizens, Challenges and Cases. By TacoBrandsen, InaRadtke, A.Paula Rodriguez Müller, and TruiSteen (Eds.), Cheltenham: Edward Elgar Publishing, 2026. 204 pp. Open Access (ebook)",
+      "journal": "Governance",
+      "link": "https://doi.org/10.1111/gove.70153",
+      "published": "2026-09-18",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/padm.70095": {
+      "title": "The Right Key for the Right Lock: How Government Response Methods and Demand Types Affect Citizen Satisfaction",
+      "journal": "Public Administration",
+      "link": "https://doi.org/10.1111/padm.70095",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/padm.70094": {
+      "title": "From Civic Tech to DOGE : The Role of Tech Movements in the American Administrative State",
+      "journal": "Public Administration",
+      "link": "https://doi.org/10.1111/padm.70094",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/14719037.2026.2731445": {
+      "title": "Bricolage in bureaucracies: public leadership and bricolage behaviour in turbulent situations",
+      "journal": "Public Management Review",
+      "link": "https://doi.org/10.1080/14719037.2026.2731445",
+      "published": "2026-09-21",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/14719037.2026.2733924": {
+      "title": "Unpacking local government responsiveness to social media: evidence from Mexico",
+      "journal": "Public Management Review",
+      "link": "https://doi.org/10.1080/14719037.2026.2733924",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/14719037.2026.2720763": {
+      "title": "Welfare State Convergence or Robustness? Comparing Nonprofit Marketization Patterns Across Belgium, Sweden and the United States",
+      "journal": "Public Management Review",
+      "link": "https://doi.org/10.1080/14719037.2026.2720763",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/14719037.2026.2733934": {
+      "title": "From co-production to value co-creation: NGOs as catalysts of cyclical public value in rural China",
+      "journal": "Public Management Review",
+      "link": "https://doi.org/10.1080/14719037.2026.2733934",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/14719037.2026.2729793": {
+      "title": "Brake or bridge? The dual impact of clientelism on hospital corporatization in Iran",
+      "journal": "Public Management Review",
+      "link": "https://doi.org/10.1080/14719037.2026.2729793",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/14719037.2026.2726494": {
+      "title": "Insider or outsider: negative performance feedback and top manager succession in the public sector",
+      "journal": "Public Management Review",
+      "link": "https://doi.org/10.1080/14719037.2026.2726494",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/14719037.2026.2733942": {
+      "title": "Revisiting the political-social dimension of public value",
+      "journal": "Public Management Review",
+      "link": "https://doi.org/10.1080/14719037.2026.2733942",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/00130095.2026.2718196": {
+      "title": "Flood Protection and Adaptation Labor in Jakarta, Indonesia",
+      "journal": "Economic Geography",
+      "link": "https://doi.org/10.1080/00130095.2026.2718196",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/00130095.2026.2701018": {
+      "title": "The Role of Regional Recombination Capacity in Shaping the Technological Space",
+      "journal": "Economic Geography",
+      "link": "https://doi.org/10.1080/00130095.2026.2701018",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/00343404.2026.2721342": {
+      "title": "Cities and regions in transformation: subnational frontiers of transformative innovation policy",
+      "journal": "Regional Studies",
+      "link": "https://doi.org/10.1080/00343404.2026.2721342",
+      "published": "2026-09-21",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/00343404.2026.2723299": {
+      "title": "Silent deindustrialisation: a qualitative account of regional industrial decline in Gongju, South Korea",
+      "journal": "Regional Studies",
+      "link": "https://doi.org/10.1080/00343404.2026.2723299",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/00343404.2026.2721338": {
+      "title": "Business families and rural social entrepreneurship: an institutional logics perspective",
+      "journal": "Regional Studies",
+      "link": "https://doi.org/10.1080/00343404.2026.2721338",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1080/00343404.2026.2723293": {
+      "title": "The geographical and entrepreneurial outcomes of borrower discouragement",
+      "journal": "Regional Studies",
+      "link": "https://doi.org/10.1080/00343404.2026.2723293",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70348": {
+      "title": "Health Shocks, Perceived Mortality Risk, and Financial Preferences: Longitudinal Evidence From Share",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70348",
+      "published": "2026-09-21",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70358": {
+      "title": "Research on Risk Classification of Online Public Opinion in Emergencies Based on FHCO Algorithm",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70358",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70362": {
+      "title": "Probabilistic Assessment of the Relative Source Contribution Factor While Accounting for Exposure to Other Regulated Media: A Toxicokinetic Proof‐of‐Concept for Volatile Drinking Water Contaminants",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70362",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70366": {
+      "title": "Two Foundational Ideas of Risk—Undesirability and Unexpectedness—With Implications for Risk Science and Its Applications",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70366",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70360": {
+      "title": "Simulation Study of the Decision Logic for 95% Upper Confidence Limit Calculations Applied in ProUCL 5.2",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70360",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70364": {
+      "title": "Issue Information",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70364",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70357": {
+      "title": "Can Knowledge Counteract Conflict? A Partial Replication Study of PFAS Science Communication",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70357",
+      "published": "2026-09-16",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70359": {
+      "title": "Communicating and Constructing Risk: Government and Public Interactions in Responding to Heat Risks",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70359",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70346": {
+      "title": "Regional Variance‐Based Sensitivity Analysis and a Study of Regional Equifinality",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70346",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70356": {
+      "title": "Toward AI‐Assisted Methodological Evaluations of Health Risk Analyses Using Diverse Types of Evidence",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70356",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70354": {
+      "title": "Propagation Mechanisms of Security Risks in Public Data Circulation via Inter‐Risk Dependencies: A DSM‐Based Network Analysis",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70354",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70361": {
+      "title": "Optimal Combination of Measures for Flood Risk Mitigation Within Probabilistic and Uncertain Situations",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70361",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1111/risa.70349": {
+      "title": "The Influence of Different Types of Trust, Perceived Objectivity, and Perceived Risk on the Preferred Involvement of AI for Subjective and Objective Tasks",
+      "journal": "Risk Analysis",
+      "link": "https://doi.org/10.1111/risa.70349",
+      "published": "2026-09-15",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
+    },
+    "10.1002/gsj.70033": {
+      "title": "The innovation tug‐of‐war: Local grit versus global grit in emerging markets",
+      "journal": "Global Strategy Journal",
+      "link": "https://doi.org/10.1002/gsj.70033",
+      "published": "2026-09-17",
+      "first_seen": "2026-09-21T14:49:38.753956+00:00"
     }
   },
-  "last_run": "2026-09-14T14:42:57.200833+00:00"
+  "last_run": "2026-09-21T14:49:38.753956+00:00"
 }
