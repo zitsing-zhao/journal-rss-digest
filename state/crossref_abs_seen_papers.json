@@ -15931,12 +15931,194 @@
       "abs_journal_title": "Operations Research",
       "published_date": "2026-09-01",
       "first_seen": "2026-09-21T12:33:51.588386+00:00"
+    },
+    "10.1002/smj.70123": {
+      "title": "Accommodation in the vertical supply chain: Implications of manufacturer dual tracking",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1093/restud/rdag109": {
+      "title": "Markup Estimation using Production and Demand Data: An Application to the US Brewing Industry",
+      "journal": "Review of Economic Studies",
+      "abs_journal_title": "Review of Economic Studies",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1287/isre.2023.0790": {
+      "title": "Improving Competitiveness: A Freelancer-Centric Approach for Recommending Reskilling Strategies",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1007/s11192-026-05807-7": {
+      "title": "Comparing for the best: reinforcement learning for source citation identification with large language models",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1002/smj.70126": {
+      "title": "From accidents to assets—The value pathways of patents for serendipitous inventions",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1111/puar.70202": {
+      "title": "The Fragility of Merit: Presidential Power and the Civil Service Under Trump. By J. EdwardKellough, New York: Routledge, 2024. 152 pp. $52.99 (paperback). ISBN: 978‐1‐03‐265634‐2; $190.00 (hardcover). ISBN: 978‐1‐03‐265637‐3",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1111/puar.70208": {
+      "title": "Managing Collaboration Dynamics Under Pressure: Lessons From the\n                    <scp>COVID</scp>\n                    ‐19 Medical Supply Shortage",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1287/opre.2025.2370": {
+      "title": "Feature-Rich, Data-Private: A Sparse Learning Framework for the High-Dimensional Newsvendor",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1287/opre.2024.0944": {
+      "title": "Dynamic Contract Design with Learning",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1287/mnsc.2025.05353": {
+      "title": "Motivated Procrastination",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1287/mnsc.2024.07272": {
+      "title": "Communicating Corporate Culture in Labor Markets: Evidence from Job Postings",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1177/01492063261480030": {
+      "title": "Passing on Talent: A Generativity Perspective on the Effects of Perceived Overqualification Among Older Employees",
+      "journal": "Journal of Management",
+      "abs_journal_title": "Journal of Management",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1057/s41267-026-00902-6": {
+      "title": "Cross-border cooperation among securities regulators and supply chain collaboration: evidence from U.S.-listed foreign firms",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1111/1756-2171.70055": {
+      "title": "Managing Procurement Auction Failure: Bid Requirements or Reserve Prices?",
+      "journal": "The RAND Journal of Economics",
+      "abs_journal_title": "RAND Journal of Economics",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1093/ej/ueag119": {
+      "title": "Knowledge diffusion, rising inequality, and the dynamics of a pulled front",
+      "journal": "The Economic Journal",
+      "abs_journal_title": "Economic Journal",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1002/sej.70034": {
+      "title": "Temporal grammars of novelty: How carbon removal entrepreneurs frame new technologies",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1111/risa.70348": {
+      "title": "Health Shocks, Perceived Mortality Risk, and Financial Preferences: Longitudinal Evidence From Share",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1080/00343404.2026.2721342": {
+      "title": "Cities and regions in transformation: subnational frontiers of transformative innovation policy",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1111/padm.70096": {
+      "title": "Regulatory Capture, Public Trust and Pro‐Environmental Behaviors",
+      "journal": "Public Administration",
+      "abs_journal_title": "Public Administration",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1177/10591478261492947": {
+      "title": "EXPRESS: Launching “what” versus “when”: Pacing successive new product releases",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1111/joms.70166": {
+      "title": "The Relational Dynamics of Multiparty Alliances: An Interdependence‐Based View",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1111/iere.70103": {
+      "title": "What Explains Growing Gender and Racial Education Gaps?",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1080/00076791.2026.2730992": {
+      "title": "Mediating metabolic change. The sanitation industry’s response to the introduction of\n                    <i>tout-à-l’égout</i>\n                    in late 19th-century Paris",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-09-21",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1162/rest.x.1825": {
+      "title": "Response to the Comment on “Raising Health Awareness in Rural Communities: A Randomized Experiment in Bangladesh and India” (Siddique et al., 2024)",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-15",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1162/rest.x.1827": {
+      "title": "Author Requests for Removal from “Raising Health Awareness in Rural Communities: A Randomized Experiment in Bangladesh and India” (Siddique et al., 2024)",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-15",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1162/rest.x.1823": {
+      "title": "A Comment on “Raising Health Awareness in Rural Communities: A Randomized Experiment in Bangladesh and India” by Siddique et al. (2024)",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-09-15",
+      "first_seen": "2026-09-22T11:22:31.309116+00:00"
     }
   },
-  "last_run": "2026-09-21T12:33:51.588386+00:00",
+  "last_run": "2026-09-22T11:22:31.309116+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-09-20",
-    "end_date": "2026-09-21"
+    "start_date": "2026-09-21",
+    "end_date": "2026-09-22"
   }
 }
