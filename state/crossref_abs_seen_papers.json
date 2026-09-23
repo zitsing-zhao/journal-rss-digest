@@ -16113,12 +16113,152 @@
       "abs_journal_title": "Review of Economics and Statistics",
       "published_date": "2026-09-15",
       "first_seen": "2026-09-22T11:22:31.309116+00:00"
+    },
+    "10.1007/s11192-026-05818-4": {
+      "title": "Growth, concentration, and internationalisation of research output at a post-reform regional university in Ecuador: bibliometric evidence from Scopus (2016–2025)",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-09-23",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1111/risa.70363": {
+      "title": "Mapping Global and Regional Risks: Structural Insights From Systems Thinking and Interpretive Structural Modeling",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-09-23",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1287/opre.2025.1828": {
+      "title": "Erratum: “Dynamic Pricing and Matching for Two-Sided Queues”",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1287/mnsc.2024.06050": {
+      "title": "Social Networks as Information Conduits for Online Credit Supply and Demand",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1086/744130": {
+      "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1177/01492063261481739": {
+      "title": "Beyond Good and Bad: Understanding the Contradictory Effects of Positive Leadership Behavior and Negative Leadership Behavior",
+      "journal": "Journal of Management",
+      "abs_journal_title": "Journal of Management",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1287/isre.2023.0031": {
+      "title": "From Data-Model Fit to Model-World Fit: A Framework for Integrating Domain Knowledge into Artificial Intelligence",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1080/14719037.2026.2737343": {
+      "title": "Executive agencies in developing countries: the case of the parastatal organizations in Suriname",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1080/14719037.2026.2728027": {
+      "title": "Design anthropology for transforming power relations in societal transitions",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1177/10591478261489979": {
+      "title": "When small costs make big impacts: Vertical contracts with menu costs",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1080/01621459.2026.2736788": {
+      "title": "Optimal Model Selection for Conformalized Robust Optimization",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1080/01621459.2026.2735065": {
+      "title": "Entity Ranking with Covariates and Sparse Intrinsic Scores",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1080/01621459.2026.2736783": {
+      "title": "Effect Decomposition of Functional-Output Computer Experiments via Orthogonal Additive Gaussian Processes",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1080/01621459.2026.2737387": {
+      "title": "A flexible Bayesian framework for detecting cross-sample spatial expression variability in heterogeneous tissues",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1111/joms.70164": {
+      "title": "Is the Gene‐ie Out of the Bottle? The Problems and Perils of Genetics Research in Management",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1080/07350015.2026.2737286": {
+      "title": "Testing High-Dimensional Effects in Quantile Regression with High-Dimensional Confounding: A Decorrelated Approach",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "abs_journal_title": "Journal of Business and Economic Statistics",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1080/07350015.2026.2721418": {
+      "title": "Estimating Unobserved Cross-Sectional Network Links with Large-T Panel Data",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "abs_journal_title": "Journal of Business and Economic Statistics",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1111/isj.70064": {
+      "title": "How Third‐Party Sellers Respond to Platform Owner Entry: Reselling Versus Private‐Label Modes in E‐Commerce",
+      "journal": "Information Systems Journal",
+      "abs_journal_title": "Information Systems Journal",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.1111/gove.70155": {
+      "title": "Taming the Careerists: The Politics of Foreign Policy Implementation. By MinjuKim, New York: Cambridge University Press, 2026. 224 pp. $100 (hardback); $33 (ebook). ISBN: 9781009789721",
+      "journal": "Governance",
+      "abs_journal_title": "Governance",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
+    },
+    "10.5465/amp.2025.0051": {
+      "title": "Avoiding the Golden Cage: How to Capitalize on Governmental Support in SME Internationalization?",
+      "journal": "Academy of Management Perspectives",
+      "abs_journal_title": "Academy of Management Perspectives",
+      "published_date": "2026-09-22",
+      "first_seen": "2026-09-23T11:17:43.929452+00:00"
     }
   },
-  "last_run": "2026-09-22T11:22:31.309116+00:00",
+  "last_run": "2026-09-23T11:17:43.929452+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-09-21",
-    "end_date": "2026-09-22"
+    "start_date": "2026-09-22",
+    "end_date": "2026-09-23"
   }
 }
