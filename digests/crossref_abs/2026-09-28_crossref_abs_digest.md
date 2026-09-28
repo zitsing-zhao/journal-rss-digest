@@ -1,0 +1,545 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-09-28
+
+Generated at: 2026-09-28 13:32 UTC
+Crossref date mode: `created`
+Window: `2026-09-27` to `2026-09-28`
+New papers: 52
+
+## ABS 4*
+
+### Entrepreneurship & Small Business
+
+#### Entrepreneurship Theory and Practice
+- Rating: ABS 4*
+- Articles: 1
+
+- [Appearance-Based Legitimate Distinctiveness: Founder Attractiveness, Gender, and Venture Evaluations](https://doi.org/10.1177/10422587261485961)
+  - DOI: 10.1177/10422587261485961
+  - Authors: Henrik Lekkas; Torben Antretter; Ivo Blohm; Charlotta Sirén; Joakim Wincent
+  - Affiliations: University of St.Gallen, Switzerland; Hanken School of Economics, Finland
+  - Published: 2026-09-28
+  - Crossref journal: Entrepreneurship Theory and Practice
+  - Abstract:
+    This study proposes a way to reconcile the beauty premium and beauty-is-beastly arguments by suggesting that founder appearance is processed through two separable and countervailing channels: perceived legitimacy and perceived distinctiveness. We further theorize that in startups, the relationship is gendered, because women do not fit the entrepreneurial prototype, limiting their perceived legitimacy. A field study of 359 founders supports our theorizing that male founders are evaluated best when moderately attractive, while female founders see no significant attractiveness effects. A preregistered experiment with 771 participants, using AI-manipulated attractiveness, does not confirm these patterns but supports our theorizing about both mediators.
+
+### General Management, Ethics & CSR
+
+#### Administrative Science Quarterly
+- Rating: ABS 4*
+- Articles: 1
+
+- [“Clean” Meat? Regulatory Entrepreneurship and Jurisdictional Contestation in a Nascent Industry](https://doi.org/10.1177/00018392261477694)
+  - DOI: 10.1177/00018392261477694
+  - Authors: Cheng Gao; Alicia DeSantola; Nina Guilbeault
+  - Affiliations: University of Michigan, USA; University of Washington, USA; Former Lecturer, UC Berkeley, USA
+  - Published: 2026-09-28
+  - Crossref journal: Administrative Science Quarterly
+  - Abstract:
+    In nascent industries, uncertainty about which regulatory agency has jurisdiction is often a major challenge for pioneering ventures. Yet, much of the literature on new ventures’ nonmarket strategy takes for granted the existence of a designated regulator. How do ventures manage regulatory jurisdictional uncertainty? We conduct an inductive, multi-case research study on how entrepreneurial organizations pioneering the nascent cell-cultivated-meat industry navigated such uncertainty in the United States between 2015 and 2019. Drawing on extensive semi-structured interviews and archival data, we uncover stratagems and processes that organizations employ across three phases of regulatory jurisdictional uncertainty: jurisdictional void, contestation, and convergence. Our resulting theoretical framework distinguishes two overarching strategies— complementary and oppositional —and unpacks their underlying mechanisms, theorizing how they enable organizations to influence jurisdictional uncertainty. Our study uniquely elucidates the rich dynamics among the disparate actors that compose nascent technology-enabled industries: new ventures, nonprofits, incumbents, investors, and regulators. More broadly, it provides a fresh perspective on how entrepreneurial organizations shape the regulatory architecture of the industries they are striving to create.
+
+### Public Sector & Health Care
+
+#### Public Administration Review
+- Rating: ABS 4*
+- Articles: 1
+
+- [Artificial Intelligence, Bureaucratic Discretion, and Democratic Administration](https://doi.org/10.1111/puar.70201)
+  - DOI: 10.1111/puar.70201
+  - Authors: L. Jason Anastasopoulos
+  - Affiliations: University of Georgia Athens Georgia USA
+  - Published: 2026-09-27
+  - Crossref journal: Public Administration Review
+  - Abstract:
+    ABSTRACT Since the start of the COVID ‐19 pandemic, many countries have been using artificial intelligence ( AI ) to replace civil service personnel. We argue that this practice undermines core democratic values. Using the public values framework, we identify four clusters of values that are threatened when bureaucratic discretion is transferred to algorithms: accountability, fairness and equity, individual consideration, and reason‐giving. Each of these values is incompatible with how algorithms render decisions. Because algorithms produce outputs based on statistical regularities, they diffuse responsibility across multiple parties, fail to make accurate predictions about anomalous cases, and attenuate citizens' claims to individualized consideration. Thus, this article frames AI adoption as a constitutional question about which decisions can be automated, and which should remain under human control because they implicate democratic values. We propose a centaur model in which AI supports rather than replaces human officials, which can preserve efficiency while protecting democratic governance.
+
+### Strategy
+
+#### Strategic Management Journal
+- Rating: ABS 4*
+- Articles: 2
+
+- [Correction to “Revisiting Zuckerman's (1999) categorical imperative: An application of epistemic maps for replication”](https://doi.org/10.1002/smj.70131)
+  - DOI: 10.1002/smj.70131
+  - Published: 2026-09-28
+  - Crossref journal: Strategic Management Journal
+
+- [Designing for unanticipated uses: How product attributes shape community‐led exaptation](https://doi.org/10.1002/smj.70132)
+  - DOI: 10.1002/smj.70132
+  - Authors: Shi‐Ying Lim; Tian Heong Chan
+  - Affiliations: School of Computing, National University of Singapore Singapore; Goizueta Business School, Emory University Atlanta Georgia USA
+  - Published: 2026-09-27
+  - Crossref journal: Strategic Management Journal
+  - Abstract:
+    Abstract Research Summary Users often discover new uses for products that firms may later commercialize, which we call community‐led exaptation. We examine how product attributes shape users' discovery of new functions versus new functionalities. Using 1925 IKEA product hacks, we find that modularity increases the likelihood of new functions. This effect strengthens when product components are compatible across product lines but weakens when esthetic product variants exist. Visual simplicity, conversely, increases the likelihood of new functionalities. These findings suggest that firms can structure the opportunity space for discovery through product design. Exploratory analysis of archival data and interviews further illustrates how IKEA responds to these discoveries. We contribute to exaptation, user innovation, and design research by showing how product attributes shape the types of new uses communities discover. Managerial Summary How can firms design products to facilitate community‐led exaptation? We find that product attributes can shape what users discover. Modular products enable users to find new functions (i.e., applications), while visually simple products enable users to find new functionalities (i.e., new product capabilities). Firms' decisions to offer components that are compatible across product lines and esthetic product variants can influence the likelihood of new functions. Additionally, firms can capitalize on these new uses by showcasing promising community‐discovered functions on official channels or incorporate them as complements to existing product lines. However, functional modifications can raise safety concerns and may require additional development. Firms should therefore design for intended use, and for the kinds of new uses they are willing to seed and commercialize.
+
+## ABS 4
+
+### Business & Economic History
+
+#### Business History Review
+- Rating: ABS 4
+- Articles: 5
+
+- [The Emergence of Iron Shipbuilding on the River Tyne: A Study of Entrepreneurial Agency](https://doi.org/10.1017/s0007680526101986)
+  - DOI: 10.1017/s0007680526101986
+  - Authors: John F. Wilson; Mark Stoddart
+  - Affiliations: Northumbria University
+  - Published: 2026-09-28
+  - Crossref journal: Business History Review
+  - Abstract:
+    Abstract From the 1840s, Tyneside emerged as a key center for iron shipbuilding, rivaling Britain’s established hubs. This industrial shift was driven initially not by legacy firms but by migrant entrepreneurs from Aberdeen—John Coutts, Charles Mitchell, and Andrew Leslie. This article investigates the divergent trajectories of these entrepreneurs, asking why two succeeded in establishing sustainable enterprises while the other failed. Drawing on the entrepreneurship literature, it explores this divergence by focusing on the entrepreneurs’ ability to convert opportunity into commercial success in a new industrial landscape. Despite archival limitations, triangulated evidence reveals the importance of trust and personal reputation in establishing a new business, alongside the pursuit of cautious strategies that were based on meticulous cashflow management.
+
+- [Home Protection: Frances Willard’s Anti-Monopoly Crusade](https://doi.org/10.1017/s0007680526102050)
+  - DOI: 10.1017/s0007680526102050
+  - Authors: Richard R. John
+  - Affiliations: Columbia University
+  - Published: 2026-09-28
+  - Crossref journal: Business History Review
+  - Abstract:
+    Abstract The neo-Brandeisian anti-monopoly movement that emerged in the United States following the 2008 financial crisis provides a new perspective on anti-monopoly thought, politics, and practice in the less recent past. The “home protection” crusade led by renowned temperance activist Frances Willard is a case in point. To combat addiction, domestic violence, and child abuse, Willard joined like-minded temperance activists in the 1870s to form the Woman’s Christian Temperance Union, a grassroots women-led social movement to ban the “liquor traffic.” To free the nation from its “ monopoly in sin ,” Willard opposed federal alcohol taxes and municipal liquor-retailing licensing fees. Inspired by the utopian journalist Edward Bellamy and the Fabian socialists Sidney and Beatrice Webb, Willard reinvented herself in the 1890s as a Christian socialist committed to improving the living conditions of the poor—an anti-monopoly ideal more expansive than anything championed by the lawmakers who drafted the 1890 law known today as the Sherman Act.
+
+- [Contractual Innovation and Corporate Finance in Seventeenth-Century Toulouse](https://doi.org/10.1017/s0007680526102049)
+  - DOI: 10.1017/s0007680526102049
+  - Authors: David Le Bris; William Goetzmann; Sébastien Pouget
+  - Affiliations: TBS Education; Yale School of Management; Toulouse School of Economics; Toulouse 1 University Capitole Toulouse School of Management
+  - Published: 2026-09-28
+  - Crossref journal: Business History Review
+  - Abstract:
+    Abstract In Toulouse, after a destructive flood in 1641, a coordination failure made traditional capital calls ineffective, preventing the recapitalization of the Castel Mills. Drawing on agreements registered with the Parlement of Toulouse, we show how shareholders crafted a solution combining a temporary governance regime with three classes of equity claims featuring distinct risk–return profiles and intertemporal payoffs. This menu of claims accommodated heterogeneous investors with different risk tolerances, liquidity constraints, and expectations about the repairs’ success. Corporate innovation can thus arise from profit-seeking investors relying on explicit contracts, addressing agency problems through the reallocation of control rights and access to information while explicitly seeking to preserve the firm’s continuity. The case challenges teleological narratives of the joint-stock company’s origins and speaks to debates on capitalism’s development, convergent evolution in business organizations, institutions and economic growth, the flexibility of “corporations by contract” in a civil-law setting, and cooperation among individuals.
+
+- [Arthur H. Cole: Rethinking Entrepreneurship in Society](https://doi.org/10.1017/s0007680526102013)
+  - DOI: 10.1017/s0007680526102013
+  - Authors: Christina Lubinski
+  - Affiliations: Copenhagen Business School
+  - Published: 2026-09-28
+  - Crossref journal: Business History Review
+  - Abstract:
+    Abstract This article offers a biographical reappraisal of Arthur H. Cole (1889–1974) as a field creator and architect of business history’s mid-century ambitions. It traces how institutional position and financial security enabled Cole to develop a research program for entrepreneurial history by redefining its evidentiary base, organizing it as a collective and interdisciplinary endeavor, and articulating an analytical framework for it. The article argues that Cole advanced two arguments that continue to provoke the field. First, he promoted the study of entrepreneurship without heroes, resisting great-firm and great-man narratives by treating entrepreneurial change primarily as a knowledge problem. Second, he sought to align levels of analysis, tracing the entrepreneurial function from micro-level decision-making through meso-level interfirm ecologies to macro-level social legitimacy. To communicate this complex agenda, Cole often theorized in metaphors, notably the “entrepreneurial stream,” that helped his ideas travel even when his synthesis proved difficult to canonize.
+
+- [A Voyage “Among the Most Idealistic and Disinterested of Men” and Women](https://doi.org/10.1017/s0007680526102165)
+  - DOI: 10.1017/s0007680526102165
+  - Authors: Madeline Woker
+  - Affiliations: Princeton University
+  - Published: 2026-09-28
+  - Crossref journal: Business History Review
+
+### Economics
+
+#### American Economic Journal: Applied Economics
+- Rating: ABS 4
+- Articles: 16
+
+- [Who Profits from Amateurism? Rent Sharing in Modern College Sports](https://doi.org/10.1257/app.20220595)
+  - DOI: 10.1257/app.20220595
+  - Authors: Craig Garthwaite; Nicole Holz; Jordan Keener; Matthew Notowidigdo
+  - Affiliations: Northwestern University and NBER (email: ); Walmart (email: ); University of Michigan (email: ); University of Chicago, Booth School of Business and NBER (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    Intercollegiate amateur athletics in the United States have historically prevented student-athletes from receiving market wages, creating substantial economic rents that are primarily generated by men's football and basketball programs. Using financial data from college athletic departments, we estimate rent-sharing elasticities to measure how rents flow to women's sports and other men's sports and lead to increased spending on athletic facilities and coaches' salaries. Using player-level data, we find that the rent-sharing transfers spending away from students who are more likely to be Black and come from poor neighborhoods toward students more likely to be White and come from higher-income neighborhoods. (JEL I23, J15, J16, J31, L83, Z21, Z22)
+
+- [Who Gets a Family? The Consequences of Family and Congregate Care Allocation for Child Outcomes](https://doi.org/10.1257/app.20210798)
+  - DOI: 10.1257/app.20210798
+  - Authors: Cameron Taylor
+  - Affiliations: PhD student at Stanford Graduate School of Business (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    Hundreds of thousands of children grow up in the US foster care system every year and are at high risk of experiencing negative outcomes such as incarceration and homelessness. This paper documents how the placement of foster children into families rather than congregate care improves their outcomes, using the exits of other children from families as an instrument for their placement setting. Policies that change which children are matched to families can achieve a large percentage of the gains from policies that add families to the foster care system due to heterogeneity in treatment effects. (JEL J12, J13, J18, K42)
+
+- [University as a Melting Pot: Long-Term Effects of Internationalization](https://doi.org/10.1257/app.20250329)
+  - DOI: 10.1257/app.20250329
+  - Authors: Stanislav Avdeev
+  - Affiliations: University of Amsterdam (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    This paper provides the first evidence on the impact of exposure to international students on the long-term outcomes of native students. I combine unique survey and administrative data from the Netherlands covering one million students across three decades and employ an across-cohort design. I find that exposure to international students leads natives to (i) form social ties with nonnatives, (ii) hold more positive attitudes towards migration and learning about other cultures, and (iii) seek opportunities abroad. Notably, I find precisely estimated zero effects on employment, income, entrepreneurship, and the share of international coworkers up to 25 years after university entry. (JEL F22, I23, I26, J15, Z13)
+
+- [The Long-Term Effects of Cash Assistance](https://doi.org/10.1257/app.20210064)
+  - DOI: 10.1257/app.20210064
+  - Authors: David J. Price; Jae Song
+  - Affiliations: University of Toronto (email: ); Social Security Administration (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    We investigate the long-term effects of cash assistance on beneficiaries and their children among participants in the Seattle-Denver Income Maintenance Experiment. Treated families in this randomized experiment received thousands of dollars in extra government benefits for three or five years in the 1970s. We match experimental records to Social Security Administration data using a novel algorithm, finding that treatment decreased adults' postexperimental annual earnings by $1,800 and increased their disability benefit applications. Effects were strongest around retirement age; evidence suggests possible occupational mechanisms. In contrast, children experienced no significant effects on earnings or interaction with the disability system. (JEL G51, H55, H75, I32, I38, J12, J14)
+
+- [Money, Time, and Grant Design](https://doi.org/10.1257/app.20240477)
+  - DOI: 10.1257/app.20240477
+  - Authors: Kyle Myers; Wei Yang Tham
+  - Affiliations: Harvard Business School and NBER (email: ); University of Toronto (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    We conduct survey experiments to test how the design of scientific grants—the money and time awarded—can be used to manage researchers. On average, researchers are relatively unwilling to trade off money for time when choosing among grants. However, there is significant heterogeneity in researchers' preferences. Conditional on receiving a grant, different designs cause only minor changes in researchers' plans for how they would use the funding. Marginal changes in grant design are more relevant for selection effects (funders' ability to attract certain researchers) than treatment effects (funders' ability to change researchers' strategies). (JEL C83, I23, O31)
+
+- [Innovation through Inventor Mobility: Evidence from Noncompete Agreements](https://doi.org/10.1257/app.20240804)
+  - DOI: 10.1257/app.20240804
+  - Authors: Kate Reinmuth; Emma Rockall
+  - Affiliations: Stanford University and Stanford Law School (email: ); Stanford University (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    Proponents of labor mobility restrictions argue that innovation incentives more than offset harm to workers. Yet the causal effect of such policies on innovation is an open empirical question. Leveraging plausibly exogenous state-level changes in the enforceability of noncompete agreements (NCAs), we find a significant negative effect on innovation. This effect is even larger for the most novel and innovative patents and firms. Further analysis shows these negative effects on innovation cannot be explained by entry alone and instead likely result from reduced knowledge flows. Our findings suggest that labor mobility plays a crucial role in spreading knowledge across firms. (JEL E24, J08, J21, K31, O31, O33)
+
+- [Globalization, Capital Taxation, and Development: Evidence from a Macrohistorical Database](https://doi.org/10.1257/app.20240746)
+  - DOI: 10.1257/app.20240746
+  - Authors: Pierre Bachas; Matthew Fisher-Post; Anders Jensen; Gabriel Zucman
+  - Affiliations: World Bank Research (email: ); Paris School of Economics (email: ); Harvard Kennedy School and NBER (email: ); Paris School of Economics, UC Berkeley, and NBER (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    This paper builds and analyzes a new global macrohistorical database of effective tax rates on capital and labor in 154 countries. We establish a new stylized fact: While effective capital tax rates fell in developed countries between 1965 and 2018, they rose in developing countries after 1990. Multiple country-, sector-, and firm-level research designs suggest that trade openness contributed to this rise by increasing the share of output produced in corporations and larger firms, where effective capital taxation is higher. In contrast to a common view, globalization appears in many countries to have supported governments' ability to tax capital. (JEL F41, F62, H24, H25, O19, O23)
+
+- [Front Matter](https://doi.org/10.1257/app.18.4.i)
+  - DOI: 10.1257/app.18.4.i
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+
+- [From Access to Achievement: The Primary School-Age Impacts of an At-Scale Preschool Construction Program in Highly Deprived Communities](https://doi.org/10.1257/app.20240364)
+  - DOI: 10.1257/app.20240364
+  - Authors: Marina Bassi; Bruno Besbas; Lelys Dinarte-Diaz; Saravana Ravindran; Ana Reynoso
+  - Affiliations: The World Bank (email: ); (email: ); Development Research Group, The World Bank (email: ); Lee Kuan Yew School of Public Policy, National University of Singapore (email: ); University of Michigan (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    We evaluate a large-scale public preschool construction program in deprived rural communities in Mozambique using a randomized controlled trial. The program increased preschool enrollment from 2 to 75 percent, improved primary school enrollment and progression, and led treated children to score higher in cognitive and social-emotional skills tests. Impacts were strongest among children of illiterate parents, in less poor households, and living near preschools. We provide evidence that preschool construction mediates later educational success at primary school age. We also detect increased parental investment in children and higher preschool enrollment for younger siblings. Finally, we estimate the program was implemented cost-effectively. (JEL I21, I26, I32, J13, O15, O18)
+
+- [Early Grade Retention Harms Adult Earnings](https://doi.org/10.1257/app.20230121)
+  - DOI: 10.1257/app.20230121
+  - Authors: Jiee Zhong
+  - Affiliations: Miami University (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    This paper provides new causal evidence on the effects of grade retention on educational attainment, behavioral outcomes, and labor market performance by analyzing Texas's reading test–based retention policy. Using a fuzzy regression discontinuity design, I find that third-grade retention significantly reduces annual earnings at age 26 by $3,477 (19 percent). While temporarily improving test scores, retention increases absenteeism, violent behavior, and juvenile crime, and reduces the likelihood of high school graduation. Moreover, retained students exhibit higher community college enrollment but lower public university attendance, though neither estimate is statistically significant. (JEL D91, H75, I21, I26, I28, J31)
+
+- [Do Workfare Programs Live Up to Their Promises? Experimental Evidence from Côte d'Ivoire](https://doi.org/10.1257/app.20240586)
+  - DOI: 10.1257/app.20240586
+  - Authors: Marianne Bertrand; Bruno Crépon; Alicia Marguerie; Patrick Premand
+  - Affiliations: Booth School of Business, University of Chicago (); CREST-ENSAE (); World Bank ()
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    We study contemporaneous and post-program impacts of a public works program which provides urban youth seven months of employment at the formal minimum wage with complementary training in entrepreneurship or job search. During the program, the employment rate only increases slightly, but we find a shift toward wage jobs, higher earnings and savings, as well as positive changes in work habits, behaviors, and well-being. After the program, we find no lasting impact on employment or behaviors, with only limited gains in earnings stemming from independent activities. Using machine learning to analyze heterogeneity, we show that alternative targeting approaches can substantially improve welfare. (JEL C45, G51, H53, I38, J13, J64, O15)
+
+- [Disastrous Displacement: The Long-Run Impacts of Landslides](https://doi.org/10.1257/app.20240759)
+  - DOI: 10.1257/app.20240759
+  - Authors: Travis Baseler; Jakob Hennig
+  - Affiliations: University of Rochester (email: ); Deraja (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    Natural disasters displace millions of people a year, but their economic impacts are difficult to study when the affected population becomes dispersed. This paper estimates the long-run impacts of six landslides in Uganda on nearly the full affected population. The analysis exploits the sharp boundaries between households residing along a landslide path and those on the same slopes but outside the path. Years after the landslides, affected households earn 50 percent less income and are 18 percentage points less likely to report being satisfied with their lives. Further analysis points to social capital as a determinant of successful post-disaster recovery. (JEL H84, J11, O12, O13, Q54, R23, Z13)
+
+- [Detection of Collusive Networks in Multistage Auctions](https://doi.org/10.1257/app.20240232)
+  - DOI: 10.1257/app.20240232
+  - Authors: Bruno Baránek; Leon Musolff; Vítězslav Titl
+  - Affiliations: Government Analytical Unit, Office of the Government of the Czech Republic (email: ); University of Pennsylvania and NBER (email: ); School of Economics, Utrecht University, Department of Economics and Empirical Legal Studies, Faculty of Law, Charles University, and CESifo (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    We develop a method for detecting cartels in multistage auctions. Our approach allows firms to act collusively against cartel members yet competitively otherwise. In these auctions, bidders submit initial bids and can later revise them downward. As initial bids are shaded, close initial bids indicate similar costs and thus create strong incentives to undercut rivals. We classify firm pairs as collusive if they ignore this incentive by failing to update bids against each other, relative to other pairs with similarly close initial bids. Our algorithm predicts Ukraine's Antimonopoly Committee sanctions: Classified pairs are nine times more likely to be sanctioned. (JEL D22, D44, H57, K21, L12, P31, P35)
+
+- [Designing Incentives for Impatient People: An RCT Promoting Exercise to Manage Diabetes](https://doi.org/10.1257/app.20240564)
+  - DOI: 10.1257/app.20240564
+  - Authors: Shilpa Aggarwal; Rebecca Dizon-Ross; Ariel Zucker
+  - Affiliations: Indian School of Business (email: ); Booth School of Business, University of Chicago (email: ); University of California, Santa Cruz (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    Many people are impatient. We introduce domain-specific discounting to a contracting model and test a strategy for improving incentives when people are impatient over effort: implement time-bundled contracts that make the payment for future effort increase in current effort. Using a randomized evaluation of an exercise incentive program among diabetics in India, we find that time-bundled contracts generate equivalent effort to time-separable contracts at 15 percent lower cost. Moreover, they perform 30 percent better among individuals with above-median effort impatience. Pooled across contracts, incentives increase steps by 20 percent and improve blood sugar relative to a control group. (JEL D86, D91, I12, I18, O12)
+
+- [Deadwood Labor? The Effects of Eliminating Employment Protection for Older Workers](https://doi.org/10.1257/app.20250414)
+  - DOI: 10.1257/app.20250414
+  - Authors: Emmanuel Saez; Benjamin Schoefer; David Seim
+  - Affiliations: University of California, Berkeley (email: ); Stockholm University (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    We analyze mandatory retirement in Sweden, which eliminates employment protection at age 67. Employment falls by about 10 percent and total average earnings by about 20 percent immediately at age 67. Eight percent of jobs separate immediately due to loss of protection, with effects stemming from jobs with stronger initial employment protection (long tenure, firms subject to “last in, first out” rules), and those in the public sector. We examine the effects on continuing jobs. While wages appear rigid, we uncover novel, sizable intensive-margin hours reductions, resulting in an 8 percent drop in earnings conditional on staying on the job. (JEL J14, J22, J26, J31, J63, K31)
+
+- [All Roads Lead to Rome: Global Air Connectivity and Bilateral Trade](https://doi.org/10.1257/app.20240370)
+  - DOI: 10.1257/app.20240370
+  - Authors: Zheng Wang; Feicheng Wang; Zhuo Zhou
+  - Affiliations: Guangzhou College of Commerce and University of Dundee (email: ); University of Groningen, IZA@LISER, and GLO (email: ); Shanghai Academy of Social Sciences (email: )
+  - Published: 2026-10-01
+  - Crossref journal: American Economic Journal: Applied Economics
+  - Abstract:
+    Using itinerary-level global air traffic data, this paper proposes a novel instrumental variable to estimate the effect of in-person interactions on bilateral trade. By exploiting exogenous variations in air connectivity that are driven by third-country connecting capacities, we show that increased air connections boost trade, especially for complex industries and new products. Online interactions appear to be a limited substitute for in-person contact. These findings confirm the role of in-person communications in reducing information-sharing barriers. Our estimation approach also provides a useful tool for evaluating the social and economic impacts of a complex transport network. (JEL D83, F14, L93, R41)
+
+### Finance
+
+#### Journal of Corporate Finance
+- Rating: ABS 4
+- Articles: 1
+
+- [Monetary policy and mergers and acquisitions](https://doi.org/10.1016/j.jcorpfin.2026.103096)
+  - DOI: 10.1016/j.jcorpfin.2026.103096
+  - Authors: Johannes J. Fischer; Carl-Wolfram Horn
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Corporate Finance
+
+### General Management, Ethics & CSR
+
+#### British Journal of Management
+- Rating: ABS 4
+- Articles: 3
+
+- [‘If I Don't Get That Belonging Among Us It All Falls Down’: How Middle Managers Experience Belonging Through Self and Others](https://doi.org/10.1111/1467-8551.70110)
+  - DOI: 10.1111/1467-8551.70110
+  - Authors: Laura J. Reeves; Clare Rigg
+  - Affiliations: The University of Suffolk Waterfront Building 19 Neptune Quay Ipswich IP4 1QJ UK; Lancaster University Management School Bailrigg Lancaster LA1 4YX UK
+  - Published: 2026-09-28
+  - Crossref journal: British Journal of Management
+  - Abstract:
+    Abstract Belonging at work is a fundamental yet complex experience, associated with acceptance, inclusion and recognition, and underpinned by relational dynamics in organizations. Despite increasing interest, little is known about how belonging is experienced by middle managers, a group positioned between hierarchical levels and responsible for others. Drawing on 22 semi‐structured interviews and two focus groups, this paper explores this issue. The findings show that managerial belonging is structured through two interrelated orientations: self‐focused and other‐orientated. Self‐focused belonging reflects managers’ experience through organizational alignment, role legitimacy and interpersonal relationships. Other‐orientated belonging captures how managers’ own sense of belonging is shaped through their perceptions of whether those they manage belong. Rather than operating separately, these orientations are mutually constitutive, producing a recursive dynamic in which managers evaluate their own belonging through the perceived belonging of their teams. This extends the notion of double‐relationality by showing how managers’ intermediary positioning can have recursive consequences for their own belonging. The paper contributes empirically by foregrounding middle managers as a distinct group within belonging research and conceptually by showing how managerial belonging can be recursively evaluated through managers’ perceptions of the belonging of those for whom they hold responsibility.
+
+- [The Effect of Lead Directors on Corporate Social Responsibility](https://doi.org/10.1111/1467-8551.70108)
+  - DOI: 10.1111/1467-8551.70108
+  - Authors: Carol Alexander; Douglas J. Cumming; David Javakhadze; Tijana Rajkovic
+  - Affiliations: University of Sussex Business School Sussex House, Falmer Brighton BN1 9RH UK; School of Business Stevens Institute of Technology 525 River Street Hoboken NJ 07,030 USA; College of Business Florida Atlantic University Kaye Hall 141A, 777 Glades Road Boca Raton FL 33431 USA; Lucas College and Graduate School of Business San Jose State University One Washington Square BT851 San Jose CA 95192 USA
+  - Published: 2026-09-28
+  - Crossref journal: British Journal of Management
+  - Abstract:
+    Abstract Drawing on insights from the compromise board leadership structure theory, which posits that the presence of a lead independent director on corporate boards enables management to maintain unity of command through consolidated leadership and autonomy while also ensuring effective oversight, we theorize that this balance creates an equilibrium in which the firm is more likely to achieve stronger corporate social responsibility (CSR) performance. We further propose that improved financial flexibility serves as the economic mechanism through which the main effect operates. We also posit that these collaborative efforts are expected to contribute to superior long‐term firm performance. Additionally, we argue that women in the influential role of lead independent director bring distinctive qualities to the board that further enhance firm outcomes in this context. Our findings, robust to potential endogeneity concerns, are consistent with these propositions, underscoring the significant impact of board structure and female leadership in a key position on advancing CSR performance and firm profitability.
+
+- [Interdisciplinary Theorizing I Tell You Folks, It's Harder Than It Looks](https://doi.org/10.1111/1467-8551.70109)
+  - DOI: 10.1111/1467-8551.70109
+  - Authors: Matthew A. Cronin
+  - Affiliations: George Mason University Mail Stop 5F5 Fairfax VA 22030 USA
+  - Published: 2026-09-28
+  - Crossref journal: British Journal of Management
+  - Abstract:
+    Abstract Calls for interdisciplinary scholarship are ubiquitous, but what that means and why/how it is done are more often assumed than explained. Clarifying what it takes to theorize across disciplines, why it is important and how to set the conditions for success is the point of this essay. Authors, reviewers and readers should know what interdisciplinary theorizing is, and why/how to establish its value.
+
+### HRM & Employment Studies
+
+#### British Journal of Industrial Relations
+- Rating: ABS 4
+- Articles: 1
+
+- [From Assemblies to Institutions and Back Again? Cycles of Democracy and Representation in the Spanish Labour Movement](https://doi.org/10.1111/bjir.70080)
+  - DOI: 10.1111/bjir.70080
+  - Authors: Martí López‐Andreu
+  - Affiliations: Newcastle University Business School Newcastle upon Tyne UK
+  - Published: 2026-09-28
+  - Crossref journal: British Journal of Industrial Relations
+  - Abstract:
+    ABSTRACT Despite growing interest in union renewal, worker voice and new forms of labour organisation, industrial relations scholarship has paid limited attention to assemblies as an organisational form in their own right. This article argues that assemblies constitute a historically recurring democratic repertoire through which workers negotiate the relationship between participation and representation, rather than a residual or transitional stage in the development of trade unionism. Drawing on a historiographical analysis of the Spanish labour movement from the early 20th century to the present, the article examines the changing role of asamblearismo (assembly‐based decision‐making) across successive political and institutional contexts. The analysis traces the evolution of assemblies from the anarcho‐syndicalist tradition of the Confederación Nacional del Trabajo (CNT), through their reconfiguration within clandestine workers' commissions under Francoism and their displacement following the institutionalisation of trade unionism after democratisation. It then examines their persistence within radical unions and social movements and their renewed prominence in labour struggles among precarious workers, where assemblies coexist with selective engagement with trade unions and formal institutions in hybrid forms of representation. The article makes three contributions to industrial relations scholarship. First, it conceptualises assemblies as workers’ organisational repertoire whose historical evolution has remained largely absent from debates on union democracy, worker representation and labour revitalisation. Second, it demonstrates that the relationship between assemblies and institutional representation is cyclical rather than linear, with participatory practices repeatedly re‐emerging when institutional arrangements struggle to accommodate new worker subjectivities and forms of employment. Third, it shows how historiographical analysis can enrich industrial relations theory by revealing the historical continuity of organisational forms frequently presented as contemporary innovations. The Spanish case, therefore, offers broader insights into the democratic foundations of worker representation under conditions of institutional change and labour market fragmentation.
+
+#### Work, Employment and Society
+- Rating: ABS 4
+- Articles: 1
+
+- [Book Review: Knut Laaser and Jan Ch. Karlsson,                     <i>The Politics of Working Life and Meaningful Waged Work</i>                     LaaserKnutKarlssonJan ChThe Politics of Working Life and Meaningful Waged WorkCambridge University Press: London and Cambridge, 2025, £29.99 pbk, (ISBN: 978 1 009 096355), 300pp.](https://doi.org/10.1177/09500170261471054)
+  - DOI: 10.1177/09500170261471054
+  - Authors: Stephen Ackroyd
+  - Affiliations: Lancaster University Management School, UK
+  - Published: 2026-09-28
+  - Crossref journal: Work, Employment and Society
+
+### Information Management
+
+#### Information Systems Journal
+- Rating: ABS 4
+- Articles: 1
+
+- [Resilience Practices Under Platformed Displacement: A Phenomenology of Refugee Digital Entrepreneurs](https://doi.org/10.1111/isj.70066)
+  - DOI: 10.1111/isj.70066
+  - Authors: Deniz Tunçalp; Uğur Yetkin
+  - Affiliations: Department of Management Engineering Istanbul Technical University Istanbul Turkey; Department of Management Kadir Has University Istanbul Turkey
+  - Published: 2026-09-28
+  - Crossref journal: Information Systems Journal
+  - Abstract:
+    ABSTRACT Digital technologies are often depicted as equalizers, yet high‐skilled refugees encounter platform‐mediated constraints that shape their entrepreneurial pursuits across borders. Through Interpretative Phenomenological Analysis of eight Syrian digital entrepreneurs in Istanbul, we examine how founders experience constraints in payments, identity verification, and platform access controls. Drawing on a practice‐based perspective, we conceptualize resilience as situated agency enacted through creative reconfiguration of sociotechnical arrangements. Our analysis describes three core resilience practices: platformed improvisation, institutional workarounds, and transformative identity work. Through these practices, founders recombine digital services, navigate opaque compliance regimes, and sustain professional continuity. We interpret these experiential patterns alongside platform governance documents and NGO/policy reports to contextualize how founders encountered, made sense of, and responded to eligibility checks, account restrictions, and compliance routines. This study offers an experience‐first account of platformed displacement, tracing how agency and meaning‐making are enacted under platform‐mediated constraints and contributing to research on refugee entrepreneurship, digital infrastructure, and resilience as practice.
+
+### Innovation
+
+#### Journal of Product Innovation Management
+- Rating: ABS 4
+- Articles: 2
+
+- [When Does Digital Capability Enable Innovation Capability for Competitive Performance in an Emerging Economy? An Examination of Two Institutional Forces](https://doi.org/10.1111/jpim.70058)
+  - DOI: 10.1111/jpim.70058
+  - Authors: Ruby P. Lee; Xinlin Tang; Haisu Zhang
+  - Affiliations: Rockwood School of Marketing Herbert Wertheim College of Business Tallahassee Florida USA; Department of Business Analytics, Information Systems and Supply Chain Herbert Wertheim College of Business Tallahassee Florida USA; Martin Tuchman School of Management New Jersey Institute of Technology Newark New Jersey USA
+  - Published: 2026-09-27
+  - Crossref journal: Journal of Product Innovation Management
+  - Abstract:
+    ABSTRACT Academic Summary Despite growing interest in digital transformation in emerging economies, the relationships among digital capability, product innovation capability (product IC), process innovation capability (process IC), and firm performance remain insufficiently understood, especially under varying institutional conditions. The authors draw on the IT‐enabled organizational capabilities perspective, grounded in the lens of dynamic capabilities, to first develop a chain model, showing how digital capability enables product IC and process IC, two higher‐level organizational capabilities for a firm's competitive performance. The authors then integrate institutional theory to examine the roles that dysfunctional competition and government support, two institutional forces prominent in emerging economies, play in the chain model. Based on data from 241 firms in China, the findings reveal that digital capability enables product IC and process IC for stronger competitive performance. However, this chain effect is contingent on institutional context: dysfunctional competition and government support showcase distinct moderating effects on different links in the chain model. The authors discuss the results and their implications for theory and practice toward the end. Managerial Summary Firms should view digital transformation as more than a technology investment. Managers need to develop digital capability that can support innovation capability. However, the benefits of establishing and leveraging both digital and innovation capabilities are not universal. Two institutional forces, that is, dysfunctional competition and government support, common in emerging economies affect how digital capability translates into innovation capability and performance. Their effects differ across product and process innovation capabilities, suggesting that managers should consider the broader institutional context when building and leveraging different types of organizational capabilities.
+
+- [Managing Innovation in the Entrepreneurial Family Galaxy: Toward a New Research Agenda](https://doi.org/10.1111/jpim.70060)
+  - DOI: 10.1111/jpim.70060
+  - Authors: Emanuela Rondi; Alfredo De Massis; Francesco Chirico; Nadine Kammerlander; Luis R. Gomez‐Mejia
+  - Affiliations: School of Management Politecnico di Milano Milan Italy; Department of Management and Business Administration University G. d’Annunzio of Chieti‐Pescara Pescara Italy; IMD Business School Lausanne Switzerland; Lancaster University Lancaster UK; Institute for Entrepreneurs and Institute of Family Business Zhejiang University Hangzhou China; Corvinus Institute for Advanced Studies Corvinus University of Budapest Budapest Hungary; Macquarie University Innovation, Strategy and Entrepreneurship (ISE) Research Centre, Department of Management Macquarie Business School—Macquarie University Sydney Australia; Jönköping International Business School Jonkoping University, Center for Family Entrepreneurship and Ownership (CeFEO) Jönköping Sweden; Institute of Family Business and Mittelstand WHU—Otto Beisheim School of Management Vallendar Germany; Bond Business School Bond University Robina Queensland Australia; Department of Management and Entrepreneurship W. P. Carey School of Business, Arizona State University Tempe Arizona USA
+  - Published: 2026-09-27
+  - Crossref journal: Journal of Product Innovation Management
+  - Abstract:
+    ABSTRACT Academic Summary Innovation management is central to the long‐run competitiveness and renewal of entrepreneurial families, and prior research has documented how socioemotional wealth preservation, risk preferences, long‐term orientation, and idiosyncratic endowments shape their innovative behavior. We welcomed contributions that deepened our understanding of how family involvement shapes innovation inputs, processes, and outcomes; moved beyond R&D intensity and patenting; and extended the analysis to the diversity of actors, governance arrangements, and organizational forms through which entrepreneurial families innovate. The nine featured articles answer that call across multiple levels of analysis, from board and top management team composition, through succession and intra‐family relational dynamics, to firms' embeddedness in local knowledge ecosystems. These studies show that the predominant unit of analysis remains the single operating firm, systematically underestimating the transgenerational and multientity character of innovation in entrepreneurial families that today operate across a multitude of firms, family offices, foundations, holding companies, academies, and trust companies. To organize these contributions and chart the next wave of research, in this article we draw on and extend the entrepreneurial family galaxy perspective, combining its five dimensions (shape, mass, luminosity, distance from the center, and regeneration rate) with the input–process–outcome framework. Drawing on our examination, we have developed an agenda for future research on innovation in the entrepreneurial family galaxy. Managerial Summary Innovation management is decisive for the long‐run competitiveness and renewal of entrepreneurial families that own and govern their businesses. Family firms, the dominant organizational form worldwide, generate a substantial share of global GDP and employment, so how they innovate matters not only to the firms themselves but also to society at large. Existing research and practice have accumulated a rich understanding of how families' emotional attachment to the business, risk preferences, long‐term horizon, and unique resources drive or constrain innovation. Yet most current thinking still treats the family firm as an isolated entity, whereas today entrepreneurial families increasingly operate across a galaxy of organizations—operating companies, family offices, philanthropic and artistic foundations, holding companies, new ventures, and trust companies—through which innovation emerges, evolves, and accumulates over generations. This work extends current understanding across multiple levels: how boards and top management teams shape innovation intentions, how succession redesigns innovation trajectories, how families balance financial and socioemotional goals in their innovation choices, how tradition can serve as a springboard for international product innovation, how absorptive capacity turns emotional commitment into green innovation, and how local knowledge ecosystems support the transition to sustainability‐driven innovation. We introduce the entrepreneurial family galaxy as a practical lens for understanding innovation management in this ecosystem. For families and their advisors, the galaxy's five dimensions—shape, mass, luminosity, distance from the center, and regeneration rate—provide a tool for assessing and strengthening the innovation inputs, processes, and outcomes of the entire entrepreneurial ecosystem across generations.
+
+#### Scientometrics
+- Rating: ABS 4
+- Articles: 4
+
+- [Research productivity and funding efficiency in Spain: a bibliometric analysis of the national R&amp;D plan (2018–2020)](https://doi.org/10.1007/s11192-026-05832-6)
+  - DOI: 10.1007/s11192-026-05832-6
+  - Authors: Alicia Moreno-Delgado; Rafael Repiso
+  - Published: 2026-09-28
+  - Crossref journal: Scientometrics
+
+- [Large language models for literature-based analysis: constructing ontology-grounded citation knowledge graphs](https://doi.org/10.1007/s11192-026-05825-5)
+  - DOI: 10.1007/s11192-026-05825-5
+  - Authors: Muhammad Saad Salman; Imran Ihsan
+  - Published: 2026-09-28
+  - Crossref journal: Scientometrics
+
+- [From paper content to journal quality: an LLM-based comparative assessment approach within the REF 2021 framework](https://doi.org/10.1007/s11192-026-05838-0)
+  - DOI: 10.1007/s11192-026-05838-0
+  - Authors: Jiangbo Li; Shihang Niu; Chunlin Jiang
+  - Published: 2026-09-28
+  - Crossref journal: Scientometrics
+
+- [Exploring the patterns of citation-related static features of highly cited papers across disciplines](https://doi.org/10.1007/s11192-026-05833-5)
+  - DOI: 10.1007/s11192-026-05833-5
+  - Authors: Pan Zhang; Cang Wu; Junying Cui; Xueyu Meng; Yongzheng Tian; Zhiqiang Cai
+  - Published: 2026-09-28
+  - Crossref journal: Scientometrics
+
+### Operations & Technology Management
+
+#### International Journal of Operations and Production Management
+- Rating: ABS 4
+- Articles: 1
+
+- [Employment protection and firms' reliance on trade credit: international evidence](https://doi.org/10.1108/ijopm-12-2025-1293)
+  - DOI: 10.1108/ijopm-12-2025-1293
+  - Authors: Jinyan Ji; Zhangfan Cao; Cherry Yi Zhang; Xiaolan Zheng
+  - Affiliations: School of Accounting, Zhejiang University of Finance and Economics , ,; University of Nottingham Ningbo China , ,
+  - Published: 2026-09-29
+  - Crossref journal: International Journal of Operations &amp; Production Management
+  - Abstract:
+    Purpose Employment protection legislation (EPL) constitutes a salient institutional source of labor adjustment rigidity, yet firms' financing responses within the supply chain remain underexplored. Drawing on financing advantage theory and operations–finance research on transaction-embedded supplier financing, this paper examines how firms' reliance on trade credit varies with major changes in EPL strictness in a large international sample. It further investigates the operational, financing, and informational mechanisms underlying this association, as well as firm- and country-level boundary conditions that moderate its strength. Design/methodology/approach Based on 315,625 firm-year observations across 29 countries during 1991–2019, this study constructs a reform-based country-year measure of major changes in EPL strictness and estimates fixed-effects panel models. The analysis further examines three mechanisms – operational rigidity, financial constraints, and information asymmetry – and investigates how firm-level characteristics and country-level institutional environments condition the association between EPL reforms and firms' reliance on trade credit. Findings The results suggest that (1) stricter EPL is associated with firms' greater reliance on trade credit; (2) this effect is intensified under greater operational rigidity, tighter financial constraints, and more severe information asymmetry; (3) at the firm level, the association is stronger for firms with weaker market power and greater growth opportunities; (4) at the country level, the association is more pronounced in countries with weaker creditor protection, higher labor unionization, lower political risk, and greater social embeddedness. Originality/value This research advances the literature on the operations–finance interface, trade credit, and employment protection by linking national labor-market regulation to firms' use of transaction-embedded supplier financing. By showing that supplier-provided trade credit becomes more salient under EPL-related labor adjustment rigidity, the study highlights an interfirm financing channel through which firms respond to labor-market institutions.
+
+### Public Sector & Health Care
+
+#### Public Administration
+- Rating: ABS 4
+- Articles: 2
+
+- [The 150‐Year‐Old Hybrid Organization: A Historical View on Municipally Owned Corporations (                     <scp>MOC</scp>                     ) in Sweden](https://doi.org/10.1111/padm.70098)
+  - DOI: 10.1111/padm.70098
+  - Authors: Anna Thomasson; Olof Hallonsten
+  - Affiliations: Department of Accounting Copenhagen Business School Copenhagen Denmark; School of Economics and Management Lund University Lund Sweden
+  - Published: 2026-09-27
+  - Crossref journal: Public Administration
+  - Abstract:
+    ABSTRACT This article presents a 150‐year longitudinal analysis of the development of municipally owned corporations (MOCs) in Sweden, tracing their emergence in the mid‐nineteenth century, their expansion during the growth of the welfare state, and their transformation in the era of market‐oriented public sector reform. While MOCs are commonly discussed in relation to New Public Management (NPM) and contemporary forms of hybrid governance, this perspective overlooks their much longer historical trajectory. Drawing on three major Swedish government inquiries (1924, 1965, and 1982), complemented by secondary historical sources, we examine how MOCs have evolved across changing political, economic, and administrative contexts. The article conceptualizes MOCs as constitutional hybrids, organizations that combine elements of public authority and corporate governance by design, and employs insights from institutional theory and historical institutionalism to analyze their long‐term development. The findings identify three historical phases characterized by changing functions, governance rationales, and institutional expectations. Across these periods, MOCs were repeatedly reinterpreted and adapted to new circumstances while maintaining their basic organizational form. The study contributes to the literature on hybridity by demonstrating that hybridity should be understood not merely as a contemporary consequence of public sector reform, but as a historically evolving institutional condition. We argue that the enduring presence of MOCs reflects the adaptive capacity of hybrid organizational forms, whose flexibility allows them to accommodate shifting demands for efficiency, legitimacy, accountability, and public value. By historicizing hybridity, the article offers a new perspective on institutional resilience, and the long‐term evolution of public governance.
+
+- [A Replication of “Your Money, Your Life, or Your Freedom? A Discrete Choice Experiment on Trade‐Offs During a Public Health Crisis”](https://doi.org/10.1111/padm.70099)
+  - DOI: 10.1111/padm.70099
+  - Authors: Binzizi Dong; Chung‐An Chen; Soojin Kim; Chih‐Wei Hsieh
+  - Affiliations: Centre for Public Affairs and Law City University of Hong Kong Kowloon Hong Kong; Public Policy and Global Affairs Programme, School of Social Sciences Nanyang Technological University Singapore Singapore; Department of Public and International Affairs City University of Hong Kong Kowloon Hong Kong
+  - Published: 2026-09-27
+  - Crossref journal: Public Administration
+  - Abstract:
+    ABSTRACT A prior experiment conducted in Italy examined how individuals navigate trade‐offs among money, life, and freedom during government‐mandated lockdowns. This study replicates that experiment across three Confucian societies: Shanghai (China), Singapore, and Taipei (Taiwan). The findings indicate that, in the aggregate sample, the preference pattern of “money > life > freedom” mirrors that reported in the original study. However, when analyzed separately, residents of Taipei show stronger preferences for income and freedom than their counterparts in Singapore and Shanghai. Conversely, Singaporeans demonstrate heightened concern regarding the loss of life. In addition to replicating previous findings, this study contributes to the field of comparative public administration by highlighting the importance of considering contextual nuances in the formulation of crisis‐management practices by public managers.
+
+#### Public Management Review
+- Rating: ABS 4
+- Articles: 3
+
+- [Towards a theory of public-sector organizations with targeted mandates: a case study of New Zealand’s Māori Health Authority](https://doi.org/10.1080/14719037.2026.2736656)
+  - DOI: 10.1080/14719037.2026.2736656
+  - Authors: Adeel Akmal; Nataliya Podgorodnichenko; Robin Gauld; Tim Stokes
+  - Affiliations: University of Iceland, Reykjavik; University of Otago, Dunedin; University of Otago; Bond University, Gold Coast
+  - Published: 2026-09-27
+  - Crossref journal: Public Management Review
+
+- [Strategic planning for digital technology adoption: drivers and mechanisms in the public sector](https://doi.org/10.1080/14719037.2026.2733927)
+  - DOI: 10.1080/14719037.2026.2733927
+  - Authors: Zhenming Huang; Shangrui Wang; Haolin Li; Zheng Liang
+  - Affiliations: Renmin University of China; Tsinghua University; Central China Normal University
+  - Published: 2026-09-27
+  - Crossref journal: Public Management Review
+
+- [Does level of government and messaging influence public evacuations? Examining public compliance and agency trust](https://doi.org/10.1080/14719037.2026.2738179)
+  - DOI: 10.1080/14719037.2026.2738179
+  - Authors: Jaclyn Piatak; Colt Jensen
+  - Affiliations: The University of North Carolina at Charlotte; The University of North Carolina at Chapel Hill
+  - Published: 2026-09-27
+  - Crossref journal: Public Management Review
+
+### Regional Studies, Planning & Environment
+
+#### Regional Studies
+- Rating: ABS 4
+- Articles: 3
+
+- [Long-term effects of regional shocks on new opportunity and necessity entrepreneurship](https://doi.org/10.1080/00343404.2026.2726959)
+  - DOI: 10.1080/00343404.2026.2726959
+  - Authors: Emilio Congregado; Frank M. Fossen; Nicola Rubino; David Troncoso-Ponce
+  - Affiliations: University of Huelva; University of Nevada-Reno; University of Valencia; University of Seville
+  - Published: 2026-09-28
+  - Crossref journal: Regional Studies
+
+- [Knowledge search and regional technological diversification](https://doi.org/10.1080/00343404.2026.2726950)
+  - DOI: 10.1080/00343404.2026.2726950
+  - Authors: Carlo Corradini; Erica Santini; Claudia Vecciolini
+  - Affiliations: University of Reading; University of Trento; King’s College London
+  - Published: 2026-09-28
+  - Crossref journal: Regional Studies
+
+- [Dual geographical and institutional boundary effects on intercity disparity in public services](https://doi.org/10.1080/00343404.2026.2723302)
+  - DOI: 10.1080/00343404.2026.2723302
+  - Authors: Hehui Yuan; Qunwei Wang
+  - Affiliations: Nanjing University of Aeronautics and Astronautics; Dalian University of Technology
+  - Published: 2026-09-28
+  - Crossref journal: Regional Studies
+
+### Social Sciences & Sociology
+
+#### Risk Analysis
+- Rating: ABS 4
+- Articles: 3
+
+- [The Interactive Dynamic Social Trust Network‐Based Failure Mode and Effect Analysis Method Considering Correlative Cause and Effect Relationships](https://doi.org/10.1111/risa.70370)
+  - DOI: 10.1111/risa.70370
+  - Authors: Ying Li; Xiaoli Wang; Peide Liu
+  - Affiliations: School of Management Engineering Shandong Jianzhu University Jinan China; The School of Management Science and Engineering Shandong University of Finance and Economics Jinan China
+  - Published: 2026-09-28
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Failure mode and effects analysis (FMEA) is a widely utilized tool for risk assessment and reliability analysis. The application of FMEA entails the engagement of members with diverse knowledge and backgrounds, giving rise to numerous issues during the process of determining evaluation information and resulting in deviations in risk management. Thus, an improved FMEA method considering the connection of the interactive dynamic trust relationship in social networks with the interactive mechanism among expert opinions is proposed. First, aiming to derive a comprehensive social trust matrix and expert weights, a multipath and parameter social trust network completion model based on evidence theory is developed. Second, considering the mutual influence between expert evaluation opinions and trust relationships, a dual‐interactive‐dynamic risk assessment feedback model based on opinion similarity and trust value is established, and the risk levels of each failure mode are quantified through linguistic distribution assessment (LDA). Finally, considering the correlative relationships among risk factors, the improved method considering correlative cause‐and‐effect relationships is employed for risk priority ranking. By applying the proposed method to the case of high‐quality development engineering in the Yellow River Basin, its effectiveness and superiority have been validated through sensitivity and comparative analyses.
+
+- [Lexical Utilities, Precautionary Principle, and Continuous Quantities](https://doi.org/10.1111/risa.70374)
+  - DOI: 10.1111/risa.70374
+  - Authors: Panagiotis Karadimas
+  - Affiliations: National and Kapodistrian University of Athens Athens Greece; Hellenic Air Force Academy Acharnes Greece
+  - Published: 2026-09-28
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Lexical utilities have been proposed as an attempt to model the precautionary principle. However, critics argue that this introduces hypersensitivity and allows for sweeping interventions for the sake of precaution no matter the possible costs. Advocates of lexical precautionary principle (LPP) have advanced a counterargument to this objection by suggesting that in lexicographic structures lower‐ranked criteria causally impact on higher‐ordered ones and so LPPs are not hypersensitive for they are seeking the precaution that minimizes overall risk. However, lexicographic models preclude, by definition, causal interaction between lower and higher‐ordered criteria and, second, they cannot model continuous quantities that are almost always necessary when cost‐benefit calculations take place. As a result, lexical utilities constitute a rather impossible modeling strategy of the precautionary principle.
+
+- [How Can Multi‐Criteria Portfolio Decision Analysis Help Mitigate Mis/Disinformation?](https://doi.org/10.1111/risa.70369)
+  - DOI: 10.1111/risa.70369
+  - Authors: Ahti Salo; Leevi Olander; Tuomas Raivio
+  - Affiliations: Systems Analysis Laboratory Department of Mathematics and Systems Analysis Aalto University School of Science Aalto Finland
+  - Published: 2026-09-28
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT In this paper, we examine and illustrate the relevance of multi‐criteria portfolio decision analysis as an approach to addressing mis/disinformation risks. After summarizing representative applications of these methods, we draw on the framework for societal resilience developed in the Finnish COVID‐19 Science to Panel to elaborate on the range of capabilities that can be leveraged to mitigate mis/disinformation, for example, by maintaining alertness, implementing risk management actions, and interacting with stakeholders to promote awareness. We then present a numerical case study that illustrates how multi‐criteria portfolio decision analysis can be combined with probabilistic approaches for modeling voting behavior and the spread of mis/disinformation to identify cost‐efficient strategies consisting of combinations of risk management actions. We conclude by discussing some of the challenges posed by mis/disinformation.
+
+#### Sociology
+- Rating: ABS 4
+- Articles: 1
+
+- [Teaching sociology in higher education: Pedagogical practices and possibilities](https://doi.org/10.1177/00380385261489177)
+  - DOI: 10.1177/00380385261489177
+  - Authors: Carli Ria Rowell; Rachel Brooks
+  - Affiliations: Department of Sociology University of Sussex, Brighton, UK; Department of Education, University of Oxford, UK
+  - Published: 2026-09-28
+  - Crossref journal: Sociology
+  - Abstract:
+    British sociology has historically devoted relatively little time to discussing the pedagogical practices and possibilities of sociological teaching within higher education. This article discusses the changing landscape of higher education and the pressures and pulls currently shaping teaching within the discipline of sociology. It then presents a brief distillation and outline of the articles that feature in this special issue, each of which presents an innovative approach to sociological pedagogy to best bring alive the discipline. In this way, the issue makes a significant contribution to the pedagogy of sociology at a time when the discipline and the wider work of the university are often under attack.
