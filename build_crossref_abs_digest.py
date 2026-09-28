@@ -53,6 +53,7 @@ def config_journal_to_dataclass(item: dict[str, Any]) -> Journal:
         ajg2024=normalize_ajg_rating(item.get("ajg_2024", "")),
         ajg2021=normalize_ajg_rating(item.get("ajg_2021", "")),
         ajg2018=normalize_ajg_rating(item.get("ajg_2018", "")),
+        alt_issns=tuple(str(issn).strip() for issn in item.get("alt_issns", []) if str(issn).strip()),
     )
 
 
