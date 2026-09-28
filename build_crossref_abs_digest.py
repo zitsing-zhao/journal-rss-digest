@@ -143,6 +143,31 @@ FIELD_NAMES = {
     "STRAT": "Strategy",
 }
 
+# Short labels for the side navigation; ABS field codes where they are already short.
+FIELD_ABBREVIATIONS = {
+    "ACCOUNT": "ACCOUNT",
+    "BUS HIST & ECON HIST": "BUS HIST",
+    "ECON": "ECON",
+    "ENT-SBM": "ENT-SBM",
+    "ETHICS-CSR-MAN": "ETHICS-CSR",
+    "FINANCE": "FINANCE",
+    "HRM&EMP": "HRM&EMP",
+    "IB&AREA": "IB&AREA",
+    "INFO MAN": "INFO MAN",
+    "INNOV": "INNOV",
+    "MDEV&EDU": "MDEV&EDU",
+    "OPS&TECH": "OPS&TECH",
+    "OR&MANSCI": "OR&MANSCI",
+    "ORG STUD": "ORG STUD",
+    "POL SCI": "POL SCI",
+    "PSYCH (WOP-OB)": "PSYCH",
+    "PUB SEC": "PUB SEC",
+    "REGIONAL STUDIES, PLANNING AND ENVIRONMENT": "REGIONAL",
+    "SOC SCI": "SOC SCI",
+    "STRAT": "STRAT",
+}
+FIELD_ABBREVIATION_BY_NAME = {FIELD_NAMES[code]: abbr for code, abbr in FIELD_ABBREVIATIONS.items()}
+
 Grouped = dict[str, dict[str, dict[str, list[dict[str, str]]]]]
 
 
@@ -282,7 +307,7 @@ def build_nav_html(grouped: Grouped) -> str:
         field_links = "".join(
             f"""
             <tr><td style="padding:3px 0 3px 12px;font:13px Arial,sans-serif;line-height:1.35;">
-              <a href="#{slug(tier, field)}" style="color:#314154;text-decoration:none;">{h(field)}</a>
+              <a href="#{slug(tier, field)}" title="{h(field)}" style="color:#314154;text-decoration:none;">{h(FIELD_ABBREVIATION_BY_NAME.get(field, field))}</a>
               <span style="color:#8a99a8;">({sum(len(items) for items in journals.values())})</span>
             </td></tr>
             """
@@ -438,7 +463,7 @@ def build_html_email(
     if nav_html:
         body_html = f"""
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>
-          <td class="nav" width="210" valign="top" style="width:210px;padding-right:18px;">{nav_html}</td>
+          <td class="nav" width="170" valign="top" style="width:170px;padding-right:18px;">{nav_html}</td>
           <td class="main" valign="top">{content_html}{error_html}</td>
         </tr></table>
         """
