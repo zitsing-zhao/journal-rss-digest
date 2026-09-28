@@ -53,6 +53,7 @@ def config_journal_to_dataclass(item: dict[str, Any]) -> Journal:
         ajg2024=normalize_ajg_rating(item.get("ajg_2024", "")),
         ajg2021=normalize_ajg_rating(item.get("ajg_2021", "")),
         ajg2018=normalize_ajg_rating(item.get("ajg_2018", "")),
+        tier=normalize_ajg_rating(item.get("tier", "")),
         alt_issns=tuple(str(issn).strip() for issn in item.get("alt_issns", []) if str(issn).strip()),
     )
 
@@ -119,8 +120,102 @@ def sort_records(records: list[dict[str, str]]) -> list[dict[str, str]]:
     )
 
 
+FIELD_NAMES = {
+    "ACCOUNT": "Accounting",
+    "BUS HIST & ECON HIST": "Business & Economic History",
+    "ECON": "Economics",
+    "ENT-SBM": "Entrepreneurship & Small Business",
+    "ETHICS-CSR-MAN": "General Management, Ethics & CSR",
+    "FINANCE": "Finance",
+    "HRM&EMP": "HRM & Employment Studies",
+    "IB&AREA": "International Business & Area Studies",
+    "INFO MAN": "Information Management",
+    "INNOV": "Innovation",
+    "MDEV&EDU": "Management Development & Education",
+    "OPS&TECH": "Operations & Technology Management",
+    "OR&MANSCI": "Operations Research & Management Science",
+    "ORG STUD": "Organisation Studies",
+    "POL SCI": "Political Science",
+    "PSYCH (WOP-OB)": "Psychology (Work, Org & OB)",
+    "PUB SEC": "Public Sector & Health Care",
+    "REGIONAL STUDIES, PLANNING AND ENVIRONMENT": "Regional Studies, Planning & Environment",
+    "SOC SCI": "Social Sciences & Sociology",
+    "STRAT": "Strategy",
+}
+
+# Short labels for the side navigation; ABS field codes where they are already short.
+FIELD_ABBREVIATIONS = {
+    "ACCOUNT": "ACCOUNT",
+    "BUS HIST & ECON HIST": "BUS HIST",
+    "ECON": "ECON",
+    "ENT-SBM": "ENT-SBM",
+    "ETHICS-CSR-MAN": "ETHICS-CSR",
+    "FINANCE": "FINANCE",
+    "HRM&EMP": "HRM&EMP",
+    "IB&AREA": "IB&AREA",
+    "INFO MAN": "INFO MAN",
+    "INNOV": "INNOV",
+    "MDEV&EDU": "MDEV&EDU",
+    "OPS&TECH": "OPS&TECH",
+    "OR&MANSCI": "OR&MANSCI",
+    "ORG STUD": "ORG STUD",
+    "POL SCI": "POL SCI",
+    "PSYCH (WOP-OB)": "PSYCH",
+    "PUB SEC": "PUB SEC",
+    "REGIONAL STUDIES, PLANNING AND ENVIRONMENT": "REGIONAL",
+    "SOC SCI": "SOC SCI",
+    "STRAT": "STRAT",
+}
+FIELD_ABBREVIATION_BY_NAME = {FIELD_NAMES[code]: abbr for code, abbr in FIELD_ABBREVIATIONS.items()}
+
+Grouped = dict[str, dict[str, dict[str, list[dict[str, str]]]]]
+
+
 def md_escape(value: str) -> str:
     return value.replace("\n", " ").strip()
+
+
+def record_tier(record: dict[str, str]) -> str:
+    return record.get("digest_tier") or record.get("abs_ajg2024") or "Unrated"
+
+
+def tier_sort_key(tier: str) -> tuple[int, str]:
+    return ({"4*": 0, "4": 1}.get(tier, 2), tier)
+
+
+def tier_label(tier: str) -> str:
+    return f"ABS {tier}" if tier in {"4*", "4"} else tier
+
+
+def field_label(field: str) -> str:
+    return FIELD_NAMES.get(field, field or "Other")
+
+
+def rating_text(record: dict[str, str]) -> str:
+    if record.get("abs_ajg2024"):
+        return f"ABS {record['abs_ajg2024']}"
+    return f"Not ABS-rated; grouped with ABS {record_tier(record)}"
+
+
+def slug(*parts: str) -> str:
+    text = "-".join(parts).lower().replace("*", "star")
+    return "".join(ch if ch.isalnum() else "-" for ch in text).strip("-")
+
+
+def group_records(records: list[dict[str, str]]) -> Grouped:
+    """Group records as tier -> field -> journal, each level sorted for display."""
+    grouped: Grouped = {}
+    for record in sort_records(records):
+        journal = record.get("abs_journal_title") or record.get("journal") or "Unknown journal"
+        field = field_label(record.get("abs_field", ""))
+        grouped.setdefault(record_tier(record), {}).setdefault(field, {}).setdefault(journal, []).append(record)
+    return {
+        tier: {
+            field: dict(sorted(grouped[tier][field].items()))
+            for field in sorted(grouped[tier])
+        }
+        for tier in sorted(grouped, key=tier_sort_key)
+    }
 
 
 def build_markdown(
@@ -145,46 +240,40 @@ def build_markdown(
     if not records:
         lines.extend(["No new papers found for this run.", ""])
 
-    grouped: dict[str, dict[str, list[dict[str, str]]]] = {}
-    for record in sort_records(records):
-        rating = record.get("abs_ajg2024") or "Unrated"
-        journal = record.get("abs_journal_title") or record.get("journal") or "Unknown journal"
-        grouped.setdefault(rating, {}).setdefault(journal, []).append(record)
-
-    for rating in sorted(grouped, key=lambda x: (x != "4*", x)):
-        lines.extend([f"## AJG {rating}", ""])
-        for journal in sorted(grouped[rating]):
-            items = grouped[rating][journal]
-            sample = items[0]
-            lines.extend(
-                [
-                    f"### {journal}",
-                    f"- Field: {sample.get('abs_field', '')}",
-                    f"- Articles: {len(items)}",
-                    "",
-                ]
-            )
-            for item in items:
-                title = md_escape(item.get("title", "") or "(untitled)")
-                url = item.get("url", "").strip()
-                if url:
-                    lines.append(f"- [{title}]({url})")
-                else:
-                    lines.append(f"- {title}")
-                if item.get("doi"):
-                    lines.append(f"  - DOI: {item['doi']}")
-                if item.get("authors"):
-                    lines.append(f"  - Authors: {item['authors']}")
-                if item.get("affiliations"):
-                    lines.append(f"  - Affiliations: {item['affiliations']}")
-                if item.get("published_date"):
-                    lines.append(f"  - Published: {item['published_date']}")
-                if item.get("journal"):
-                    lines.append(f"  - Crossref journal: {item['journal']}")
-                if item.get("abstract"):
-                    lines.append("  - Abstract:")
-                    lines.append(f"    {md_escape(item['abstract'])}")
-                lines.append("")
+    for tier, fields in group_records(records).items():
+        lines.extend([f"## {tier_label(tier)}", ""])
+        for field, journals in fields.items():
+            lines.extend([f"### {field}", ""])
+            for journal, items in journals.items():
+                lines.extend(
+                    [
+                        f"#### {journal}",
+                        f"- Rating: {rating_text(items[0])}",
+                        f"- Articles: {len(items)}",
+                        "",
+                    ]
+                )
+                for item in items:
+                    title = md_escape(item.get("title", "") or "(untitled)")
+                    url = item.get("url", "").strip()
+                    if url:
+                        lines.append(f"- [{title}]({url})")
+                    else:
+                        lines.append(f"- {title}")
+                    if item.get("doi"):
+                        lines.append(f"  - DOI: {item['doi']}")
+                    if item.get("authors"):
+                        lines.append(f"  - Authors: {item['authors']}")
+                    if item.get("affiliations"):
+                        lines.append(f"  - Affiliations: {item['affiliations']}")
+                    if item.get("published_date"):
+                        lines.append(f"  - Published: {item['published_date']}")
+                    if item.get("journal"):
+                        lines.append(f"  - Crossref journal: {item['journal']}")
+                    if item.get("abstract"):
+                        lines.append("  - Abstract:")
+                        lines.append(f"    {md_escape(item['abstract'])}")
+                    lines.append("")
 
     if errors:
         lines.extend(["## Crossref Errors", ""])
@@ -199,20 +288,91 @@ def h(value: str) -> str:
     return html.escape(value or "", quote=True)
 
 
-def group_records(records: list[dict[str, str]]) -> dict[str, dict[str, list[dict[str, str]]]]:
-    grouped: dict[str, dict[str, list[dict[str, str]]]] = {}
-    for record in sort_records(records):
-        rating = record.get("abs_ajg2024") or "Unrated"
-        journal = record.get("abs_journal_title") or record.get("journal") or "Unknown journal"
-        grouped.setdefault(rating, {}).setdefault(journal, []).append(record)
-    return grouped
-
-
 def short_text(value: str, limit: int = 900) -> str:
     value = " ".join((value or "").split())
     if len(value) <= limit:
         return value
     return value[: limit - 1].rstrip() + "..."
+
+
+def anchor(anchor_id: str) -> str:
+    # Both forms, because some mail clients honour only one of id / name targets.
+    return f'<a id="{h(anchor_id)}" name="{h(anchor_id)}"></a>'
+
+
+def build_nav_html(grouped: Grouped) -> str:
+    blocks: list[str] = []
+    for tier, fields in grouped.items():
+        tier_count = sum(len(items) for journals in fields.values() for items in journals.values())
+        field_links = "".join(
+            f"""
+            <tr><td style="padding:3px 0 3px 12px;font:13px Arial,sans-serif;line-height:1.35;">
+              <a href="#{slug(tier, field)}" title="{h(field)}" style="color:#314154;text-decoration:none;">{h(FIELD_ABBREVIATION_BY_NAME.get(field, field))}</a>
+              <span style="color:#8a99a8;">({sum(len(items) for items in journals.values())})</span>
+            </td></tr>
+            """
+            for field, journals in fields.items()
+        )
+        blocks.append(
+            f"""
+            <tr><td style="padding:14px 0 4px;font:700 14px Arial,sans-serif;">
+              <a href="#{slug(tier)}" style="color:#0f2f4a;text-decoration:none;">{h(tier_label(tier))}</a>
+              <span style="font-weight:400;color:#8a99a8;">({tier_count})</span>
+            </td></tr>
+            {field_links}
+            """
+        )
+    return f"""
+    <div class="nav-inner" style="position:sticky;top:12px;padding:6px 16px 16px;background:#ffffff;border:1px solid #d9e2ec;border-radius:8px;">
+      <div style="padding-top:10px;font:700 11px Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#637487;">Contents</div>
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0">{''.join(blocks)}</table>
+    </div>
+    """
+
+
+def build_paper_html(item: dict[str, str]) -> str:
+    title = item.get("title") or "(untitled)"
+    url = item.get("url", "").strip()
+    linked_title = (
+        f'<a href="{h(url)}" style="color:#0b5cab;text-decoration:none;">{h(title)}</a>'
+        if url
+        else h(title)
+    )
+    meta_parts = [
+        item.get("published_date", ""),
+        f"DOI: {item.get('doi', '')}" if item.get("doi") else "",
+        item.get("journal", ""),
+    ]
+    meta = " | ".join(part for part in meta_parts if part)
+    abstract = short_text(item.get("abstract", ""))
+    return f"""
+    <tr>
+      <td style="padding:16px 0;border-top:1px solid #edf2f7;">
+        <div style="font:700 16px Arial,sans-serif;line-height:1.35;color:#14324a;">{linked_title}</div>
+        {f'<div style="margin-top:6px;font:12px Arial,sans-serif;color:#637487;">{h(meta)}</div>' if meta else ''}
+        {f'<div style="margin-top:10px;font:13px Arial,sans-serif;line-height:1.45;color:#314154;"><strong>Authors:</strong> {h(item.get("authors", ""))}</div>' if item.get("authors") else ''}
+        {f'<div style="margin-top:6px;font:13px Arial,sans-serif;line-height:1.45;color:#314154;"><strong>Affiliations:</strong> {h(short_text(item.get("affiliations", ""), 450))}</div>' if item.get("affiliations") else ''}
+        {f'<div style="margin-top:10px;padding:10px 12px;background:#f6f8fb;border-left:3px solid #2b7bbb;font:13px Arial,sans-serif;line-height:1.5;color:#314154;">{h(abstract)}</div>' if abstract else ''}
+      </td>
+    </tr>
+    """
+
+
+def build_journal_html(journal: str, items: list[dict[str, str]]) -> str:
+    return f"""
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
+           style="margin:0 0 14px;background:#ffffff;border:1px solid #d9e2ec;border-radius:8px;">
+      <tr>
+        <td style="padding:15px 18px 4px;">
+          <div style="font:700 17px Arial,sans-serif;color:#0f2f4a;">{h(journal)}</div>
+          <div style="margin-top:5px;font:12px Arial,sans-serif;color:#637487;">
+            {h(rating_text(items[0]))} | Articles: {len(items)}
+          </div>
+        </td>
+      </tr>
+      <tr><td style="padding:0 18px 2px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0">{''.join(build_paper_html(item) for item in items)}</table></td></tr>
+    </table>
+    """
 
 
 def build_html_email(
@@ -228,19 +388,19 @@ def build_html_email(
     affiliation_count = sum(bool(record.get("affiliations")) for record in records)
     rating_counts: dict[str, int] = {}
     for record in records:
-        rating = record.get("abs_ajg2024") or "Unrated"
+        rating = record_tier(record)
         rating_counts[rating] = rating_counts.get(rating, 0) + 1
 
     stat_cards = [
         ("New papers", str(total)),
-        ("AJG 4*", str(rating_counts.get("4*", 0))),
-        ("AJG 4", str(rating_counts.get("4", 0))),
+        ("ABS 4*", str(rating_counts.get("4*", 0))),
+        ("ABS 4", str(rating_counts.get("4", 0))),
         ("With abstracts", str(abstract_count)),
         ("With affiliations", str(affiliation_count)),
     ]
     stat_html = "".join(
         f"""
-        <td style="padding:0 8px 12px 0;">
+        <td class="stat" style="padding:0 8px 12px 0;">
           <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
                  style="background:#ffffff;border:1px solid #d9e2ec;border-radius:8px;">
             <tr><td style="padding:12px 14px 4px;font:12px Arial,sans-serif;color:#5b6b7a;">{h(label)}</td></tr>
@@ -250,6 +410,9 @@ def build_html_email(
         """
         for label, value in stat_cards
     )
+
+    grouped = group_records(records)
+    nav_html = build_nav_html(grouped) if records else ""
 
     if not records:
         content_html = """
@@ -262,61 +425,24 @@ def build_html_email(
         """
     else:
         sections: list[str] = []
-        grouped = group_records(records)
-        for rating in sorted(grouped, key=lambda x: (x != "4*", x)):
-            journal_blocks: list[str] = []
-            for journal in sorted(grouped[rating]):
-                items = grouped[rating][journal]
-                sample = items[0]
-                paper_blocks: list[str] = []
-                for item in items:
-                    title = item.get("title") or "(untitled)"
-                    url = item.get("url", "").strip()
-                    linked_title = (
-                        f'<a href="{h(url)}" style="color:#0b5cab;text-decoration:none;">{h(title)}</a>'
-                        if url
-                        else h(title)
-                    )
-                    meta_parts = [
-                        item.get("published_date", ""),
-                        f"DOI: {item.get('doi', '')}" if item.get("doi") else "",
-                        item.get("journal", ""),
-                    ]
-                    meta = " | ".join(part for part in meta_parts if part)
-                    abstract = short_text(item.get("abstract", ""))
-                    paper_blocks.append(
-                        f"""
-                        <tr>
-                          <td style="padding:16px 0;border-top:1px solid #edf2f7;">
-                            <div style="font:700 16px Arial,sans-serif;line-height:1.35;color:#14324a;">{linked_title}</div>
-                            {f'<div style="margin-top:6px;font:12px Arial,sans-serif;color:#637487;">{h(meta)}</div>' if meta else ''}
-                            {f'<div style="margin-top:10px;font:13px Arial,sans-serif;line-height:1.45;color:#314154;"><strong>Authors:</strong> {h(item.get("authors", ""))}</div>' if item.get("authors") else ''}
-                            {f'<div style="margin-top:6px;font:13px Arial,sans-serif;line-height:1.45;color:#314154;"><strong>Affiliations:</strong> {h(short_text(item.get("affiliations", ""), 450))}</div>' if item.get("affiliations") else ''}
-                            {f'<div style="margin-top:10px;padding:10px 12px;background:#f6f8fb;border-left:3px solid #2b7bbb;font:13px Arial,sans-serif;line-height:1.5;color:#314154;">{h(abstract)}</div>' if abstract else ''}
-                          </td>
-                        </tr>
-                        """
-                    )
-                journal_blocks.append(
+        for tier, fields in grouped.items():
+            field_blocks: list[str] = []
+            for field, journals in fields.items():
+                journal_html = "".join(build_journal_html(journal, items) for journal, items in journals.items())
+                field_blocks.append(
                     f"""
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
-                           style="margin:0 0 14px;background:#ffffff;border:1px solid #d9e2ec;border-radius:8px;">
-                      <tr>
-                        <td style="padding:15px 18px 4px;">
-                          <div style="font:700 17px Arial,sans-serif;color:#0f2f4a;">{h(journal)}</div>
-                          <div style="margin-top:5px;font:12px Arial,sans-serif;color:#637487;">
-                            Field: {h(sample.get("abs_field", ""))} | Articles: {len(items)}
-                          </div>
-                        </td>
-                      </tr>
-                      <tr><td style="padding:0 18px 2px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0">{''.join(paper_blocks)}</table></td></tr>
-                    </table>
+                    <tr><td style="padding:10px 0 8px;font:700 15px Arial,sans-serif;color:#2b5f8a;border-bottom:2px solid #d9e2ec;">
+                      {anchor(slug(tier, field))}{h(field)}
+                    </td></tr>
+                    <tr><td style="padding-top:12px;">{journal_html}</td></tr>
                     """
                 )
             sections.append(
                 f"""
-                <tr><td style="padding:22px 0 8px;font:700 20px Arial,sans-serif;color:#0f2f4a;">AJG {h(rating)}</td></tr>
-                <tr><td>{''.join(journal_blocks)}</td></tr>
+                <tr><td style="padding:22px 0 8px;font:700 20px Arial,sans-serif;color:#0f2f4a;">
+                  {anchor(slug(tier))}{h(tier_label(tier))}
+                </td></tr>
+                {''.join(field_blocks)}
                 """
             )
         content_html = f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0">{"".join(sections)}</table>'
@@ -334,16 +460,40 @@ def build_html_email(
         </table>
         """
 
+    if nav_html:
+        body_html = f"""
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>
+          <td class="nav" width="170" valign="top" style="width:170px;padding-right:18px;">{nav_html}</td>
+          <td class="main" valign="top">{content_html}{error_html}</td>
+        </tr></table>
+        """
+    else:
+        body_html = f"{content_html}{error_html}"
+
     return f"""<!doctype html>
 <html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      html {{ scroll-behavior: smooth; }}
+      a[name] {{ display: block; scroll-margin-top: 16px; }}
+      .nav a:hover {{ text-decoration: underline !important; }}
+      @media (max-width: 720px) {{
+        .nav, .main {{ display: block !important; width: 100% !important; padding-right: 0 !important; }}
+        .nav-inner {{ position: static !important; margin-bottom: 16px; }}
+        .stat {{ display: inline-block !important; width: 46% !important; }}
+      }}
+    </style>
+  </head>
   <body style="margin:0;padding:0;background:#eef3f7;">
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#eef3f7;">
       <tr>
         <td align="center" style="padding:24px 12px;">
-          <table role="presentation" width="760" cellpadding="0" cellspacing="0"
-                 style="max-width:760px;width:100%;background:#f8fafc;border-radius:12px;overflow:hidden;">
+          <table role="presentation" width="1000" cellpadding="0" cellspacing="0"
+                 style="max-width:1000px;width:100%;background:#f8fafc;border-radius:12px;">
             <tr>
-              <td style="padding:28px 30px;background:#0f2f4a;color:#ffffff;">
+              <td style="padding:28px 30px;background:#0f2f4a;color:#ffffff;border-radius:12px 12px 0 0;">
                 <div style="font:700 24px Arial,sans-serif;line-height:1.25;">Daily ABS 4*/4 Crossref Digest</div>
                 <div style="margin-top:8px;font:14px Arial,sans-serif;line-height:1.45;color:#dbeafe;">
                   {h(start_date)} to {h(end_date)} | mode: {h(mode)} | generated {h(generated_at.strftime('%Y-%m-%d %H:%M UTC'))}
@@ -355,10 +505,11 @@ def build_html_email(
                 <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>{stat_html}</tr></table>
               </td>
             </tr>
-            <tr><td style="padding:0 22px 24px;">{content_html}{error_html}</td></tr>
+            <tr><td style="padding:0 22px 24px;">{body_html}</td></tr>
             <tr>
-              <td style="padding:16px 24px;background:#e7eef5;font:12px Arial,sans-serif;line-height:1.45;color:#536475;">
+              <td style="padding:16px 24px;background:#e7eef5;font:12px Arial,sans-serif;line-height:1.45;color:#536475;border-radius:0 0 12px 12px;">
                 The Markdown and CSV versions are attached. Abstracts and affiliations appear only when Crossref supplies them.
+                Journals without an ABS rating (political science, some sociology) are grouped with the ABS tier matching their standing in their field.
               </td>
             </tr>
           </table>
@@ -448,6 +599,7 @@ def write_csv(records: list[dict[str, str]], path: Path) -> None:
         "abs_ajg2024",
         "abs_ajg2021",
         "abs_ajg2018",
+        "digest_tier",
     ]
     with path.open("w", newline="", encoding="utf-8-sig") as handle:
         writer = csv.DictWriter(handle, fieldnames=fieldnames)

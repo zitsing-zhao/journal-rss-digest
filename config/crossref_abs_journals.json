@@ -1,5 +1,5 @@
 {
-  "source_note": "ABS/AJG 2024 rows with AJG2024 equal to 4* or 4. Generated from local workbook ABS Journal Ranking 2024 (4_ and 4).xlsx. FINANCE journals and alt_issns (print ISSNs) added manually.",
+  "source_note": "ABS/AJG 2024 rows with AJG2024 equal to 4* or 4. Generated from local workbook ABS Journal Ranking 2024 (4_ and 4).xlsx. FINANCE and ACCOUNT journals and alt_issns (print ISSNs) added manually. Entries with 'tier' and empty ajg_2024 (political science, Social Forces) are not ABS-rated here; 'tier' only sets the digest section.",
   "crossref_mailto": "ziqing.zhao@dauphine.eu",
   "app_name": "ABSJournalMonitor/1.0",
   "journals": [
@@ -952,6 +952,140 @@
       "publisher": "Wiley-Blackwell",
       "field": "FINANCE",
       "ajg_2024": "4"
+    },
+    {
+      "name": "Accounting Review",
+      "issn": "1558-7967",
+      "alt_issns": [
+        "0001-4826"
+      ],
+      "publisher": "American Accounting Association",
+      "field": "ACCOUNT",
+      "ajg_2024": "4*"
+    },
+    {
+      "name": "Journal of Accounting Research",
+      "issn": "1475-679X",
+      "alt_issns": [
+        "0021-8456"
+      ],
+      "publisher": "Wiley-Blackwell",
+      "field": "ACCOUNT",
+      "ajg_2024": "4*"
+    },
+    {
+      "name": "Accounting, Organizations and Society",
+      "issn": "1873-6289",
+      "alt_issns": [
+        "0361-3682"
+      ],
+      "publisher": "Elsevier",
+      "field": "ACCOUNT",
+      "ajg_2024": "4*"
+    },
+    {
+      "name": "Contemporary Accounting Research",
+      "issn": "1911-3846",
+      "alt_issns": [
+        "0823-9150"
+      ],
+      "publisher": "Wiley-Blackwell",
+      "field": "ACCOUNT",
+      "ajg_2024": "4"
+    },
+    {
+      "name": "Review of Accounting Studies",
+      "issn": "1573-7136",
+      "alt_issns": [
+        "1380-6653"
+      ],
+      "publisher": "Springer Nature",
+      "field": "ACCOUNT",
+      "ajg_2024": "4"
+    },
+    {
+      "name": "Social Forces",
+      "issn": "1534-7605",
+      "alt_issns": [
+        "0037-7732"
+      ],
+      "publisher": "Oxford University Press",
+      "field": "SOC SCI",
+      "ajg_2024": "",
+      "tier": "4",
+      "tier_note": "Not ABS-rated here; tier assigned by standing in its field."
+    },
+    {
+      "name": "American Political Science Review",
+      "issn": "1537-5943",
+      "alt_issns": [
+        "0003-0554"
+      ],
+      "publisher": "Cambridge University Press",
+      "field": "POL SCI",
+      "ajg_2024": "",
+      "tier": "4*",
+      "tier_note": "Not ABS-rated here; tier assigned by standing in its field."
+    },
+    {
+      "name": "American Journal of Political Science",
+      "issn": "1540-5907",
+      "alt_issns": [
+        "0092-5853"
+      ],
+      "publisher": "Wiley-Blackwell",
+      "field": "POL SCI",
+      "ajg_2024": "",
+      "tier": "4*",
+      "tier_note": "Not ABS-rated here; tier assigned by standing in its field."
+    },
+    {
+      "name": "Journal of Politics",
+      "issn": "1468-2508",
+      "alt_issns": [
+        "0022-3816"
+      ],
+      "publisher": "University of Chicago Press",
+      "field": "POL SCI",
+      "ajg_2024": "",
+      "tier": "4*",
+      "tier_note": "Not ABS-rated here; tier assigned by standing in its field."
+    },
+    {
+      "name": "British Journal of Political Science",
+      "issn": "1469-2112",
+      "alt_issns": [
+        "0007-1234"
+      ],
+      "publisher": "Cambridge University Press",
+      "field": "POL SCI",
+      "ajg_2024": "",
+      "tier": "4",
+      "tier_note": "Not ABS-rated here; tier assigned by standing in its field."
+    },
+    {
+      "name": "International Organization",
+      "issn": "1531-5088",
+      "alt_issns": [
+        "0020-8183"
+      ],
+      "publisher": "Cambridge University Press",
+      "field": "POL SCI",
+      "ajg_2024": "",
+      "tier": "4",
+      "tier_note": "Not ABS-rated here; tier assigned by standing in its field."
+    },
+    {
+      "name": "World Politics",
+      "issn": "1086-3338",
+      "alt_issns": [
+        "0043-8871"
+      ],
+      "publisher": "Cambridge University Press",
+      "field": "POL SCI",
+      "ajg_2024": "",
+      "tier": "4",
+      "tier_note": "Not ABS-rated here; tier assigned by standing in its field."
     }
   ]
 }
