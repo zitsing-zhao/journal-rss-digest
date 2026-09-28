@@ -47,6 +47,8 @@ Edit `config/crossref_abs_journals.json` directly to add, remove, or change jour
 
 The `issn` field is the key field Crossref uses. Keep it in `NNNN-NNNN` format when possible.
 
+Optionally add `"alt_issns": ["NNNN-NNNN"]` with the journal's other ISSN (print or electronic). The journal is then matched on any of its ISSNs. This matters for Elsevier journals, whose Crossref records usually carry only the print ISSN, so querying the electronic ISSN alone returns nothing.
+
 To regenerate the config from a new Excel list:
 
 ```powershell

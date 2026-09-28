@@ -34,6 +34,11 @@ class Journal:
     ajg2024: str
     ajg2021: str
     ajg2018: str
+    alt_issns: tuple[str, ...] = ()
+
+    @property
+    def all_issns(self) -> tuple[str, ...]:
+        return tuple(dict.fromkeys(i for i in (self.issn, *self.alt_issns) if i))
 
 
 def normalize_issn(value: Any) -> str:
@@ -237,7 +242,7 @@ def crossref_get(url: str, params: dict[str, str | int], headers: dict[str, str]
     raise RuntimeError("Unreachable retry state.")
 
 
-def date_filter_for_mode(mode: str, start_date: str, end_date: str, issn: str) -> str:
+def date_filter_for_mode(mode: str, start_date: str, end_date: str, issns: str | Iterable[str]) -> str:
     filter_names = {
         "published": ("from-pub-date", "until-pub-date"),
         "online": ("from-online-pub-date", "until-online-pub-date"),
@@ -245,7 +250,11 @@ def date_filter_for_mode(mode: str, start_date: str, end_date: str, issn: str) -
         "updated": ("from-update-date", "until-update-date"),
     }
     from_name, until_name = filter_names[mode]
-    return f"type:journal-article,issn:{issn},{from_name}:{start_date},{until_name}:{end_date}"
+    if isinstance(issns, str):
+        issns = [issns]
+    # Crossref ORs repeated filters of the same name, so a work matches if it carries any listed ISSN.
+    issn_filters = ",".join(f"issn:{issn}" for issn in issns)
+    return f"type:journal-article,{issn_filters},{from_name}:{start_date},{until_name}:{end_date}"
 
 
 def fetch_journal_works(
@@ -264,7 +273,7 @@ def fetch_journal_works(
 
     while True:
         params: dict[str, str | int] = {
-            "filter": date_filter_for_mode(mode, start_date, end_date, journal.issn),
+            "filter": date_filter_for_mode(mode, start_date, end_date, journal.all_issns),
             "rows": rows,
             "cursor": cursor,
             "mailto": mailto,
