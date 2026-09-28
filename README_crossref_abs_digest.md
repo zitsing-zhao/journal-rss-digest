@@ -49,6 +49,8 @@ The `issn` field is the key field Crossref uses. Keep it in `NNNN-NNNN` format w
 
 Optionally add `"alt_issns": ["NNNN-NNNN"]` with the journal's other ISSN (print or electronic). The journal is then matched on any of its ISSNs. This matters for Elsevier journals, whose Crossref records usually carry only the print ISSN, so querying the electronic ISSN alone returns nothing.
 
+For a journal without an ABS rating, leave `ajg_2024` empty and set `"tier": "4*"` or `"4"`. The tier only decides which section of the digest the journal appears in; the digest labels it as not ABS-rated. The digest is organised as ABS 4* and ABS 4 sections, each split by field, with a side navigation bar linking to every section and field.
+
 To regenerate the config from a new Excel list:
 
 ```powershell

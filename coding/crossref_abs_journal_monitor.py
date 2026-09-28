@@ -35,6 +35,12 @@ class Journal:
     ajg2021: str
     ajg2018: str
     alt_issns: tuple[str, ...] = ()
+    # Digest section for journals without an ABS rating (e.g. political science); ABS rating wins when present.
+    tier: str = ""
+
+    @property
+    def digest_tier(self) -> str:
+        return self.ajg2024 or self.tier
 
     @property
     def all_issns(self) -> tuple[str, ...]:
@@ -319,6 +325,7 @@ def parse_paper(item: dict[str, Any], journal: Journal) -> dict[str, str]:
         "abs_ajg2024": journal.ajg2024,
         "abs_ajg2021": journal.ajg2021,
         "abs_ajg2018": journal.ajg2018,
+        "digest_tier": journal.digest_tier,
     }
 
 
@@ -358,6 +365,7 @@ def write_outputs(records: list[dict[str, str]], output_dir: Path, start_date: s
         "abs_ajg2024",
         "abs_ajg2021",
         "abs_ajg2018",
+        "digest_tier",
     ]
 
     with csv_path.open("w", newline="", encoding="utf-8-sig") as handle:
