@@ -198,8 +198,10 @@ def rating_text(record: dict[str, str]) -> str:
 
 
 def slug(*parts: str) -> str:
+    # Mail sanitizers (e.g. Gmail) drop ids that do not start with a letter, so always prefix.
     text = "-".join(parts).lower().replace("*", "star")
-    return "".join(ch if ch.isalnum() else "-" for ch in text).strip("-")
+    text = "".join(ch if ch.isalnum() else "-" for ch in text)
+    return "sec-" + "-".join(part for part in text.split("-") if part)
 
 
 def group_records(records: list[dict[str, str]]) -> Grouped:
@@ -295,9 +297,10 @@ def short_text(value: str, limit: int = 900) -> str:
     return value[: limit - 1].rstrip() + "..."
 
 
-def anchor(anchor_id: str) -> str:
-    # Both forms, because some mail clients honour only one of id / name targets.
-    return f'<a id="{h(anchor_id)}" name="{h(anchor_id)}"></a>'
+def anchored(anchor_id: str, text: str) -> str:
+    # The target wraps the heading text: mail sanitizers strip empty anchors, and some
+    # clients honour only one of id / name, so set both.
+    return f'<a id="{h(anchor_id)}" name="{h(anchor_id)}" style="color:inherit;text-decoration:none;">{h(text)}</a>'
 
 
 def build_nav_html(grouped: Grouped) -> str:
@@ -307,7 +310,7 @@ def build_nav_html(grouped: Grouped) -> str:
         field_links = "".join(
             f"""
             <tr><td style="padding:3px 0 3px 12px;font:13px Arial,sans-serif;line-height:1.35;">
-              <a href="#{slug(tier, field)}" title="{h(field)}" style="color:#314154;text-decoration:none;">{h(FIELD_ABBREVIATION_BY_NAME.get(field, field))}</a>
+              <a href="#{slug(tier, field)}" title="{h(field)}" style="color:#0b5cab;text-decoration:none;">{h(FIELD_ABBREVIATION_BY_NAME.get(field, field))}</a>
               <span style="color:#8a99a8;">({sum(len(items) for items in journals.values())})</span>
             </td></tr>
             """
@@ -432,7 +435,7 @@ def build_html_email(
                 field_blocks.append(
                     f"""
                     <tr><td style="padding:10px 0 8px;font:700 15px Arial,sans-serif;color:#2b5f8a;border-bottom:2px solid #d9e2ec;">
-                      {anchor(slug(tier, field))}{h(field)}
+                      {anchored(slug(tier, field), field)}
                     </td></tr>
                     <tr><td style="padding-top:12px;">{journal_html}</td></tr>
                     """
@@ -440,7 +443,7 @@ def build_html_email(
             sections.append(
                 f"""
                 <tr><td style="padding:22px 0 8px;font:700 20px Arial,sans-serif;color:#0f2f4a;">
-                  {anchor(slug(tier))}{h(tier_label(tier))}
+                  {anchored(slug(tier), tier_label(tier))}
                 </td></tr>
                 {''.join(field_blocks)}
                 """
@@ -477,7 +480,7 @@ def build_html_email(
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
       html {{ scroll-behavior: smooth; }}
-      a[name] {{ display: block; scroll-margin-top: 16px; }}
+      a[name] {{ scroll-margin-top: 16px; }}
       .nav a:hover {{ text-decoration: underline !important; }}
       @media (max-width: 720px) {{
         .nav, .main {{ display: block !important; width: 100% !important; padding-right: 0 !important; }}
