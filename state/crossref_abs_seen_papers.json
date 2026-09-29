@@ -17058,12 +17058,397 @@
       "abs_journal_title": "Journal of Corporate Finance",
       "published_date": "2026-09-01",
       "first_seen": "2026-09-28T13:32:34.843269+00:00"
+    },
+    "10.1016/j.jeconom.2026.106344": {
+      "title": "Treatment evaluation at the intensive and extensive margins",
+      "journal": "Journal of Econometrics",
+      "abs_journal_title": "Journal of Econometrics",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1108/ijopm-10-2026-026": {
+      "title": "Guest editorial: Labour conditions in supply chains: a continuum from extreme exploitation to decent work",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1177/00380385261481465": {
+      "title": "Book review: Hartmut Rosa, Frédéric Vandenberghe (editor), Christophe Fricker (translator),\n                    <i>Time and World</i>\n                    RosaHartmut (author), VandenbergheFrédéric (editor), FrickerChristophe (translator), Time and World, Polity Press: Cambridge, 2025; 220 pp.: ISBN: 9781509566273",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1007/s11192-026-05840-6": {
+      "title": "Research quality metrics as a complement to bibliometrics: an opinion paper",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1007/s11192-026-05827-3": {
+      "title": "Mapping the evolution of artificial intelligence: an LLM-driven patent network analysis",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1017/s0022109026103378": {
+      "title": "Resolution Design and Investment in Banking Groups – CORRIGENDUM",
+      "journal": "Journal of Financial and Quantitative Analysis",
+      "abs_journal_title": "Journal of Financial and Quantitative Analysis",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1017/s0022109026103172": {
+      "title": "Flow Diversification",
+      "journal": "Journal of Financial and Quantitative Analysis",
+      "abs_journal_title": "Journal of Financial and Quantitative Analysis",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1111/irel.70047": {
+      "title": "Artificial Intelligence‐Related Digital Skills and Employment Outcomes for Underrepresented Women",
+      "journal": "Industrial Relations: A Journal of Economy and Society",
+      "abs_journal_title": "Industrial Relations",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1017/s0003055426101968": {
+      "title": "What Would It Mean to Democratize Finance? An Evaluation of Divergent Conceptions of Democracy and Finance",
+      "journal": "American Political Science Review",
+      "abs_journal_title": "American Political Science Review",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1017/s0003055426101890": {
+      "title": "Marriage as Slavery: Oroonoko, the Slave Trade, and the Origins of English Feminism",
+      "journal": "American Political Science Review",
+      "abs_journal_title": "American Political Science Review",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1017/s0003055426101889": {
+      "title": "Democratic Accountability with Citizen Coproduction",
+      "journal": "American Political Science Review",
+      "abs_journal_title": "American Political Science Review",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1111/jofi.70088": {
+      "title": "An IV Hazard Model of Loan Default with an Application to Subprime Mortgage Cohorts",
+      "journal": "The Journal of Finance",
+      "abs_journal_title": "Journal of Finance",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1287/opre.2025.2478": {
+      "title": "Subsidised Proportionality in Fair Allocation",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1287/opre.2022.0630": {
+      "title": "In Which Matching Markets Do Costly Compatibility Inspections Lead to a Deadlock?",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1287/mnsc.2025.02137": {
+      "title": "Who Directs the Control Tower? Customer vs. Supplier-Managed Inventory in Supply Chains",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1287/mnsc.2024.07339": {
+      "title": "How Awareness of Media Slant Affects Reaction to News: Field and Experimental Evidence from Microblog Users",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1057/s41267-026-00907-1": {
+      "title": "Commentary on Han et al.’s meta-analytic work on high-investment human resource practices: through the 3P lens for workforce management",
+      "journal": "Journal of International Business Studies",
+      "abs_journal_title": "Journal of International Business Studies",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1037/apl0001424": {
+      "title": "The shape of recovery activities: A person-centered study of evening recovery activity profiles, their work antecedents, and outcomes.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1037/apl0001420": {
+      "title": "A meta-analytic examination of the criterion-related validity and cognitive loading associated with traditional and new situational judgment test paradigms.",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1111/1475-679x.70089": {
+      "title": "Partisanship, Information, and Punishment for Misconduct at Work",
+      "journal": "Journal of Accounting Research",
+      "abs_journal_title": "Journal of Accounting Research",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1177/10422587261485969": {
+      "title": "How Can We Research Social Mobility in Entrepreneurship?",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1086/744185": {
+      "title": "A Farewell to Public Religion? Retheorizing and Assessing the Public Relevance of Religion",
+      "journal": "American Journal of Sociology",
+      "abs_journal_title": "American Journal of Sociology",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1177/09500170261471066": {
+      "title": "Precarious platform work, Precarious platform workers? A multi-level approach towards the economic situation of platform workers in Germany",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1177/09500170261468238": {
+      "title": "Life’s dignity within and beyond the workplace: Results from a national sample of US workers",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1177/09500170261476006": {
+      "title": "Establishing digital presence: How occupational status, job insecurity and job dissatisfaction shape digital availability, visibility and faking behaviours among home-based workers",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1080/02678373.2026.2718054": {
+      "title": "Disruption, emotion, and self-management: a temporal framework for sustainable career outcomes – a systematic review",
+      "journal": "Work &amp; Stress",
+      "abs_journal_title": "Work and Stress",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1002/sej.70048": {
+      "title": "Startup multihoming in enterprise software ecosystems: The role of skill breadth and organizational learning",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1177/00380385261477965": {
+      "title": "‘Only by safeguarding democracy can we freely chase stars’: How Taiwan’s K-pop fans renovated the movement culture",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1111/risa.70375": {
+      "title": "Incorporating Hormesis Into Policy: Opportunities, Risks, and Governance Challenges",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1111/risa.70365": {
+      "title": "Assessing the Lagged Regional Economic Output Gaps After the 2015 South India Flood",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1080/14719037.2026.2737335": {
+      "title": "Unveiling the intangible: a systemic perspective for creativity and innovation in public organizations",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1177/10591478261495686": {
+      "title": "EXPRESS: The Role of Post-Purchase Communications on Product Returns and Downstream Consequences in Online Apparel Retail",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1177/10591478261495674": {
+      "title": "EXPRESS: Learning to Price under Competition with Reference Price Effects",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1177/10591478261495695": {
+      "title": "EXPRESS: Agile Approaches for Gaming Software Development",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1177/10944281261479058": {
+      "title": "Field Philosophy: A Methodological Approach to Organizational Philosophy-in-Practice",
+      "journal": "Organizational Research Methods",
+      "abs_journal_title": "Organizational Research Methods",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1007/s10107-026-02424-3": {
+      "title": "Envelopes of sets and functions via algebraic closings and openings on complete lattices",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1007/s10107-026-02425-2": {
+      "title": "Correction to: Real-weighted general factors on subcubic graphs",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1080/01621459.2026.2740825": {
+      "title": "Tensor Completion using Subspace Information",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1080/01621459.2026.2735971": {
+      "title": "Structure-Adaptive E-Value Filter for Detecting Regional Signals in Brain Imaging",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1080/01621459.2026.2739444": {
+      "title": "Physics-guided Statistical Data Fusion for Reconstructing 3D Current Fields of Oceanic Eddies",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1080/01621459.2026.2737403": {
+      "title": "High-dimensional Clustering and Signal Recovery under Block Signals",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1080/01621459.2026.2739658": {
+      "title": "Deep Transformation Model",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1080/01621459.2026.2735068": {
+      "title": "ARMA-Design: Optimal Treatment Allocation Strategies for A/B Testing in Partially Observable Experiments",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1080/01621459.2026.2735067": {
+      "title": "A general randomized test for Alpha",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1111/joms.70167": {
+      "title": "Between Play and Reason: Integrating Sensible Foolishness Into Strategy‐Making Workshops",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1111/1911-3846.70087": {
+      "title": "Estimating the Private Value of Financial Statement Statistics",
+      "journal": "Contemporary Accounting Research",
+      "abs_journal_title": "Contemporary Accounting Research",
+      "published_date": "2026-09-28",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.2308/tar-2024-0791": {
+      "title": "The Issuance and Design of Sustainability-Linked Loans",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-09-26",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.2308/tar-2025-0006": {
+      "title": "CEO Tax Lock-In and Share Pledging",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-09-25",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1086/744159": {
+      "title": "Recent Referees",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1086/743929": {
+      "title": "JPE Turnaround Times",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1086/744158": {
+      "title": "Front Matter",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1287/isre.2026.resspot.v37.n3": {
+      "title": "Research Spotlights",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1287/isre.2026.eb.v37n3": {
+      "title": "Editorial Board",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1287/isre.2026.abtheau.v37.n3": {
+      "title": "About Our Authors",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1016/j.ejor.2026.09.021": {
+      "title": "Permutation tests on common production frontiers in nonparametric models",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-29T12:34:26.013679+00:00"
     }
   },
-  "last_run": "2026-09-28T13:32:34.843269+00:00",
+  "last_run": "2026-09-29T12:34:26.013679+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-09-27",
-    "end_date": "2026-09-28"
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-29"
   }
 }
