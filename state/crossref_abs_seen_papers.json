@@ -17443,12 +17443,474 @@
       "abs_journal_title": "European Journal of Operational Research",
       "published_date": "2026-09-01",
       "first_seen": "2026-09-29T12:34:26.013679+00:00"
+    },
+    "10.1016/j.jbusvent.2026.106657": {
+      "title": "Who will I be? Refugee entrepreneurship and founder identity",
+      "journal": "Journal of Business Venturing",
+      "abs_journal_title": "Journal of Business Venturing",
+      "published_date": "2027-01-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1016/j.leaqua.2026.102004": {
+      "title": "Psychological Reactions to Subordinates’ LLM Use at Work",
+      "journal": "The Leadership Quarterly",
+      "abs_journal_title": "Leadership Quarterly",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1016/j.obhdp.2026.104525": {
+      "title": "The revenue halo effect: How revenues and expenses asymmetrically affect perceptions of profitability",
+      "journal": "Organizational Behavior and Human Decision Processes",
+      "abs_journal_title": "Organizational Behavior and Human Decision Processes",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1016/j.jeconom.2026.106345": {
+      "title": "Nonparametric identification of first-price auction with unobserved competition: A density discontinuity framework",
+      "journal": "Journal of Econometrics",
+      "abs_journal_title": "Journal of Econometrics",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1016/s0022-0531(26)00123-7": {
+      "title": "Editorial Board",
+      "journal": "Journal of Economic Theory",
+      "abs_journal_title": "Journal of Economic Theory",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20240209": {
+      "title": "What Drives the Recent Surge in Inflation? The Historical Decomposition Roller Coaster",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20230278": {
+      "title": "Wage Adjustment in Efficient Long-Term Employment Relationships",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20220304": {
+      "title": "Procyclical Fiscal Policy and Asset Market Incompleteness",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20210258": {
+      "title": "Price Setting and Volatility: Evidence from Oil Price Volatility Shocks",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20250382": {
+      "title": "Population and Welfare: Measuring Growth When Life Is Worth Living",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20240248": {
+      "title": "Optimal Taxation of Inflation",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20240295": {
+      "title": "Oil Prices, Monetary Policy, and Inflation Surges",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20230017": {
+      "title": "Long-Distance Trade and Long-Term Persistence",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20220388": {
+      "title": "Leaning against the Global Financial Cycle",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20240207": {
+      "title": "Labor Market Discrimination and the Racial Unemployment Gap: Can Monetary Policy Make a Difference?",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20230289": {
+      "title": "Information and the Formation of Inflation Expectations by Firms: Evidence from a Survey of Israeli Firms",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20240013": {
+      "title": "Health Sector Structural Change",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.18.4.i": {
+      "title": "Front Matter",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20230033": {
+      "title": "Firm Heterogeneity, Market Power, and Macroeconomic Fragility",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1257/mac.20240526": {
+      "title": "Distortions, Producer Dynamics, and Aggregate Productivity: A General Equilibrium Analysis",
+      "journal": "American Economic Journal: Macroeconomics",
+      "abs_journal_title": "American Economic Journal: Macroeconomics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/jofi.70092": {
+      "title": "The Real Channel for Nominal Bond‐Stock Puzzles",
+      "journal": "The Journal of Finance",
+      "abs_journal_title": "Journal of Finance",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/jofi.70091": {
+      "title": "Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers",
+      "journal": "The Journal of Finance",
+      "abs_journal_title": "Journal of Finance",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/jofi.70087": {
+      "title": "Mind the App: Mobile Access to Financial Information and Consumer Behavior",
+      "journal": "The Journal of Finance",
+      "abs_journal_title": "Journal of Finance",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1287/orsc.2024.19305": {
+      "title": "Phantom Networks: Window on Agency in Social Mechanisms",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1287/opre.2025.1758": {
+      "title": "The Sooner, the Better? Optimal Vaccination Policy with Limited Vaccine Supply",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1177/10422587261485972": {
+      "title": "Transitional Path or Optimal State? Hybrid Entrepreneurship and the Decisions to Enter and Exit Entrepreneurship",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1007/s11192-026-05744-5": {
+      "title": "Identifying and evaluating emerging scientific trends through temporal n-gram analysis",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/joms.70169": {
+      "title": "Reframing Top‐Down and Bottom‐Up Dynamics in Sustainability Research: A Multilevel Framework for\n                    <scp>OB</scp>\n                    /\n                    <scp>HRM</scp>\n                    Scholars",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/joms.70168": {
+      "title": "Reframing Bricolage as a Way of Inhabiting the World: Beyond Scarcity and Innovation with Lévi‐Strauss",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1017/s0022109026103354": {
+      "title": "How Does Domestic Competition Affect Firms’ Foreign Market Expansion?",
+      "journal": "Journal of Financial and Quantitative Analysis",
+      "abs_journal_title": "Journal of Financial and Quantitative Analysis",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1017/s0007680526102062": {
+      "title": "The Legal Form of Enterprise",
+      "journal": "Business History Review",
+      "abs_journal_title": "Business History Review",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1017/s0007123426101732": {
+      "title": "When, Where, and Why Might Elected Political Elites Reach for Democratic Innovations?",
+      "journal": "British Journal of Political Science",
+      "abs_journal_title": "British Journal of Political Science",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1017/s0007123426101707": {
+      "title": "The Legacy of Mexico’s Drug War on Youth Political Attitudes",
+      "journal": "British Journal of Political Science",
+      "abs_journal_title": "British Journal of Political Science",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1017/s0007123426101719": {
+      "title": "Critical Ties: How NGOs Become Reliable Information Suppliers to International Organizations",
+      "journal": "British Journal of Political Science",
+      "abs_journal_title": "British Journal of Political Science",
+      "published_date": "2026-09-30",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/jofi.70094": {
+      "title": "Money to Burn: Crowdfunding Wildfire Recovery",
+      "journal": "The Journal of Finance",
+      "abs_journal_title": "Journal of Finance",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/puar.70218": {
+      "title": "Reply to Kettl: Beyond Bureaucracy: Why\n                    <scp>AI</scp>\n                    Demands a Fourth Way in Public Administration",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/puar.70210": {
+      "title": "Public Management of Deregulated Systems: Challenges and Opportunities in the Public Management of Retail Energy Markets",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1287/opre.2025.2265": {
+      "title": "Diffusion Approximation Error for Queueing Systems with General Primitives",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1287/mnsc.2024.08260": {
+      "title": "Impact of Short-Form Videos on Screentime and Sleep: Evidence from TikTok",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1287/mnsc.2024.05152": {
+      "title": "Data-Driven Population Tracking in Service Systems",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/1475-679x.70090": {
+      "title": "Book Value Risk Management of Banks: Limited Hedging, HTM Accounting, and Rising Interest Rates",
+      "journal": "Journal of Accounting Research",
+      "abs_journal_title": "Journal of Accounting Research",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.5465/annals.2025.0093": {
+      "title": "Toward a Framework of Social Marginalization: An Integrative Review and Research Agenda",
+      "journal": "Academy of Management Annals",
+      "abs_journal_title": "Academy of Management Annals",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.5465/annals.2025.0072": {
+      "title": "Intergenerational Transmission",
+      "journal": "Academy of Management Annals",
+      "abs_journal_title": "Academy of Management Annals",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1002/sej.70046": {
+      "title": "Logical reframing: A theory‐based view of entrepreneurial persuasion",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/risa.70334": {
+      "title": "When Losses Matter More: A Dynamic Reference‐Dependent Evaluation of Suicide Risk",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1002/job.70132": {
+      "title": "Linking Leader Overqualification to Employee Organizational Citizenship Behaviors Toward the Leader: A Personal Identification Process Model",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/jmcb.70088": {
+      "title": "Network Effects in Corporate Emissions: Evidence from a Data‐Dependent Spatial Panel Model",
+      "journal": "Journal of Money, Credit and Banking",
+      "abs_journal_title": "Journal of Money, Credit and Banking",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1080/07350015.2026.2740570": {
+      "title": "Fast and Efficient Estimation of Macromodels with Large Shocks",
+      "journal": "Journal of Business &amp; Economic Statistics",
+      "abs_journal_title": "Journal of Business and Economic Statistics",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/1911-3846.70083": {
+      "title": "Opportunities for Enhancing Professional Skepticism Prior to Entering the Accounting Profession",
+      "journal": "Contemporary Accounting Research",
+      "abs_journal_title": "Contemporary Accounting Research",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/1911-3846.70084": {
+      "title": "Collaborative Innovation and R&amp;D Disclosures: Evidence From Co‐Patents",
+      "journal": "Contemporary Accounting Research",
+      "abs_journal_title": "Contemporary Accounting Research",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1080/00076791.2026.2711835": {
+      "title": "State-fuelled imperial giants: How businessmen shaped government support for the formation of British industrial giants, 1914–1930",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1080/00076791.2026.2724932": {
+      "title": "Economic warfare through informal imperialism: The pre–World War II struggle for Chinese tungsten between Britain and Nazi Germany",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1086/744129": {
+      "title": "“When they go low, we kick them”: The reciprocal nature of citizens’ support for democratic transgressions",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1086/744217": {
+      "title": "The Left-Wing Peace &amp; The Right-Wing Peace",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1086/744219": {
+      "title": "The Evolution of Collective Action: Evidence from Mexico",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1086/744221": {
+      "title": "Surveil Thy Neighbor: Priming Policy Preferences and Support for State Surveillance",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1086/744128": {
+      "title": "Exclusionary Backlash to Job Loss: Evidence from Germany",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1086/744218": {
+      "title": "Consequential histories: A field experiment at the US Holocaust Memorial Museum",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1086/744220": {
+      "title": "Causes and Consequences of Gendered Bureaucratic Recruitment: A Study of China",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-09-29",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1111/risa.70372": {
+      "title": "Risk Characterization for a Multi‐Pathway Quantitative Risk Assessment Model: A Case Study on Extended‐Spectrum Beta‐Lactamas Producing\n                    <i>E. coli</i>\n                    Spread From Broiler Production",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1016/j.lrp.2026.102692": {
+      "title": "The Double-Edged Sword of Political Connections: How Environmental Information Disclosure Standards Trigger Strategic Reversal in Corporate Green Investment",
+      "journal": "Long Range Planning",
+      "abs_journal_title": "Long Range Planning",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1016/j.lrp.2026.102690": {
+      "title": "Place-based institutional work in sustainable entrepreneurial ecosystems: Evidence from an Italian rural ecosystem",
+      "journal": "Long Range Planning",
+      "abs_journal_title": "Long Range Planning",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1016/j.jcorpfin.2026.103095": {
+      "title": "The voting behavior of women-led mutual funds",
+      "journal": "Journal of Corporate Finance",
+      "abs_journal_title": "Journal of Corporate Finance",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1016/j.ejor.2026.09.047": {
+      "title": "Strategic cooperation: Winning in live-streaming e-commerce with key opinion leaders",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1016/j.ejor.2026.09.043": {
+      "title": "Applying Distributionally Robust Optimization frameworks to tackle travel-time uncertainty in the ambulance location and dispatching problem",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
+    },
+    "10.1016/j.ejor.2026.09.042": {
+      "title": "A new cut-and-solve-based approach for the single-source capacitated facility location problem",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-09-01",
+      "first_seen": "2026-09-30T12:21:31.229741+00:00"
     }
   },
-  "last_run": "2026-09-29T12:34:26.013679+00:00",
+  "last_run": "2026-09-30T12:21:31.229741+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-09-28",
-    "end_date": "2026-09-29"
+    "start_date": "2026-09-29",
+    "end_date": "2026-09-30"
   }
 }
