@@ -1,0 +1,426 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-10-01
+
+Generated at: 2026-10-01 12:55 UTC
+Crossref date mode: `created`
+Window: `2026-09-30` to `2026-10-01`
+New papers: 36
+
+## ABS 4*
+
+### Accounting
+
+#### Accounting Review
+- Rating: ABS 4*
+- Articles: 1
+
+- [The Nonproduction of an Accounting Standard: Climate Change, Emissions Trading, and Legitimacy Shielding](https://doi.org/10.2308/tar-2025-0166)
+  - DOI: 10.2308/tar-2025-0166
+  - Authors: Jonathan Tweedie; Marian Konstantin Gatzweiler; Matteo Ronzani; Max Baker
+  - Affiliations: The University of Manchester; The University of Edinburgh; The University of Sydney
+  - Published: 2026-09-30
+  - Crossref journal: The Accounting Review
+  - Abstract:
+    ABSTRACT We examine the work of the International Accounting Standards Board (IASB) on accounting for carbon emission allowances. Despite commencing work in 2002, no accounting standard or guidance has been put in place to date. To understand how a standard-setter defends its legitimacy while not settling this important financial accounting issue, we conduct a qualitative case study of over two decades of archival materials. We investigate nonproduction of a standard as a means for the IASB to protect legitimacy in circumstances where standardization would leave it open to controversy and resistance. Building on institutional research on communication, we show how nonproduction unfolds through four communicative patterns: commitment signaling, equivocal messaging, conveying complexity, and downplaying urgency. Our study provides new insights into how standard-setters navigate difficult-to-settle accounting issues of wide public concern. It also shows how communication shields standard-setters’ legitimacy by prolonging stakeholder engagement and postponing closure on a contentious accounting issue.
+
+#### Accounting, Organizations and Society
+- Rating: ABS 4*
+- Articles: 1
+
+- [Do bonus deferral and bonus recovery affect employee effort?](https://doi.org/10.1016/j.aos.2026.101663)
+  - DOI: 10.1016/j.aos.2026.101663
+  - Authors: Mandy M. Cheng; Tami Dinh; Maria Lotze; Alexander Schäffer; Wolfgang Schultze
+  - Published: 2026-12-01
+  - Crossref journal: Accounting, Organizations and Society
+
+#### Journal of Accounting Research
+- Rating: ABS 4*
+- Articles: 1
+
+- [Mimicking Regulatory Peers](https://doi.org/10.1111/1475-679x.70086)
+  - DOI: 10.1111/1475-679x.70086
+  - Authors: MINJAE KIM
+  - Affiliations: University of Alberta
+  - Published: 2026-09-30
+  - Crossref journal: Journal of Accounting Research
+  - Abstract:
+    ABSTRACT Bank regulators use peer information for bank evaluations and publicly disclose this information. This study investigates whether the regulatory use and disclosure of peer information induce herding behavior in banks' regulatory capital ratios. I examine this question using a 2004 peer group reform that introduced class‐of peer groups for newly chartered banks, grouping them exclusively with their cohorts, while established banks continued to be compared with similar‐sized banks. The results show that, post‐reform, banks exhibit heightened herding behavior in their regulatory capital ratios. Depending on their relative capital position, banks either become more sensitive to changes in the peer group average or converge toward it. Additionally, I find that under‐capitalized banks adjust loan portfolios to manage their capital ratios, and this gap‐closing behavior is associated with worse subsequent loan quality, higher bank failure rates during the financial crisis, and, at the bank holding company level, larger systemic‐risk contributions. These findings highlight significant implications of regulatory disclosure for bank behavior and stability.
+
+### Economics
+
+#### Quarterly Journal of Economics
+- Rating: ABS 4*
+- Articles: 1
+
+- [The Origin of Risk](https://doi.org/10.1093/qje/qjag048)
+  - DOI: 10.1093/qje/qjag048
+  - Authors: Alexandr Kopytov; Mathieu Taschereau-Dumouchel; Zebang Xu
+  - Affiliations: University of Rochester ,; Cornell University ,
+  - Published: 2026-09-30
+  - Crossref journal: The Quarterly Journal of Economics
+  - Abstract:
+    Abstract We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other firms. Aggregate risk arises when firms select productivity processes that are correlated with one another. The theory predicts that larger firms and those with lower markups are less volatile and less correlated with aggregate productivity. We find support for these predictions in the data. Through their impact on risk-taking decisions, distortions such as taxes and markups can make GDP more volatile in equilibrium. In a calibrated version of the model, removing distortions significantly reduces GDP volatility.
+
+### Finance
+
+#### Journal of Finance
+- Rating: ABS 4*
+- Articles: 1
+
+- [The Politicization of Social Responsibility](https://doi.org/10.1111/jofi.70093)
+  - DOI: 10.1111/jofi.70093
+  - Authors: TODD A. GORMLEY; MANISH JHA; MENG WANG
+  - Published: 2026-09-30
+  - Crossref journal: The Journal of Finance
+  - Abstract:
+    ABSTRACT Institutional investors are less likely to support shareholder proposals on environmental and social issues for firms headquartered in Republican‐led states. The decline in support has become more pronounced in recent years, aligning with politicians emphasizing companies’ social responsibility efforts, and among firms receiving state‐level subsidies and tax breaks. Investor support also varies with shifts in state leadership, dropping by 12 percentage points in the same state when Republicans are in control instead of Democrats. The findings indicate that institutional investors prioritize maximizing shareholder value and that politicians can influence investor votes by altering the value implications of shareholder proposals.
+
+### General Management, Ethics & CSR
+
+#### Administrative Science Quarterly
+- Rating: ABS 4*
+- Articles: 1
+
+- [In Pursuit of Ideal Data: Epistemic Enchantment and the Unintended Consequences of Datafying for Artificial Intelligence](https://doi.org/10.1177/00018392261484887)
+  - DOI: 10.1177/00018392261484887
+  - Authors: Elmira van den Broek; Natalia Levina
+  - Affiliations: Stockholm School of Economics, Sweden; New York University, USA
+  - Published: 2026-10-01
+  - Crossref journal: Administrative Science Quarterly
+  - Abstract:
+    The increasing datafication of work has become a pervasive theme within organizations, particularly with the rise of artificial intelligence (AI) technologies that rely on data and machine learning to generate insights and decisions. Prior research has shown that datafication practices aimed at administrative control and accountability can transform organizations in profound and often unintended ways. Our research moves beyond investigating datafication for administrative purposes to explore how it unfolds when actors intend to extract knowledge through AI predictive modeling. Drawing on a three-year ethnography of a human resources (HR) department introducing AI for candidate screening, we find that datafication expanded far beyond the technology’s initially envisioned scope. We explain this scope expansion by introducing the concept of epistemic enchantment : a collective process through which organizational members become captivated and mobilized by AI’s promise to generate predictive, objective, and continuously improving insights from data, while overlooking the costs and risks involved. Our study reveals how datafication practices can expand endlessly as organizational members, enchanted by AI’s epistemic promises, pursue the notion of ideal data as an ever-desired but never reachable goal.
+
+#### Journal of Management
+- Rating: ABS 4*
+- Articles: 1
+
+- [To Settle or Not to Settle: Defending Firm Reputation in Litigation Response](https://doi.org/10.1177/01492063261487124)
+  - DOI: 10.1177/01492063261487124
+  - Authors: Fei Li; He Gao; Qi Zhu; Matthew Semadeni
+  - Affiliations: University of Nevada, Reno; University of Delaware; Hong Kong Polytechnic University; Arizona State University
+  - Published: 2026-09-30
+  - Crossref journal: Journal of Management
+  - Abstract:
+    Litigation can pose significant threats to a firm’s competitive advantage, requiring firms to respond strategically, particularly in deciding whether to settle. While prior research on litigation responses has primarily emphasized legal and economic drivers, it has paid limited attention to reputational considerations, offering an incomplete account of settlement decisions. Drawing on the theoretical mechanism of stakeholders’ situational expectations of the firm, we propose and show that a firm’s reputation for innovation is associated with a lower likelihood of settlement in patent litigation. We further find that this relationship is contingent on industry-level innovation intensity and plaintiff type. By examining how reputation shapes litigation responses, we make several important contributions to research on reputation and litigation.
+
+### Innovation
+
+#### Research Policy
+- Rating: ABS 4*
+- Articles: 1
+
+- [Who receives R&amp;D tax incentives? Firm capabilities and stage-dependent access](https://doi.org/10.1016/j.respol.2026.105635)
+  - DOI: 10.1016/j.respol.2026.105635
+  - Authors: Manuel Chu; Sergio Afcha; Ivet M. del-Sol-Alonso
+  - Published: 2026-12-01
+  - Crossref journal: Research Policy
+
+### International Business & Area Studies
+
+#### Journal of International Business Studies
+- Rating: ABS 4*
+- Articles: 1
+
+- [Your manuscript has received a revise and resubmit decision, what next? Delivering an effective manuscript revision and response letter](https://doi.org/10.1057/s41267-026-00908-0)
+  - DOI: 10.1057/s41267-026-00908-0
+  - Authors: Esther Tippmann; A. Rebecca Reuber
+  - Published: 2026-09-30
+  - Crossref journal: Journal of International Business Studies
+
+### Operations Research & Management Science
+
+#### Management Science
+- Rating: ABS 4*
+- Articles: 3
+
+- [The Effects of Stock Ownership on Individual Spending, Investments, and Loyalty](https://doi.org/10.1287/mnsc.2024.05567)
+  - DOI: 10.1287/mnsc.2024.05567
+  - Authors: Paolina C. Medina; Vrinda Mittal; Michaela Pagel
+  - Affiliations: C. T. Bauer College of Business, University of Houston, Houston, Texas 77204; Kenan-Flagler Business School, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599; Olin Business School, National Bureau of Economic Research, and CEPR, Washington University in St. Louis, St. Louis, Missouri 63130
+  - Published: 2026-09-30
+  - Crossref journal: Management Science
+  - Abstract:
+    In this paper, we analyze how one of the most fundamental behavioral biases in investing—people’s preference for buying specific stocks rather than holding the market portfolio—affects their life-cycle consumption, savings, and stock market participation. We first show that when investors receive stocks from specific companies, they increase their spending in those companies’ stores. Although specific stock ownership increases total spending in the short run, individuals’ overall stock market investments increase in the long run. For identification, we use the staggered allocation of brokerage accounts to individuals over time as well as quasirandomly distributed stock grants. This paper was accepted by Will Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05567 .
+
+- [Managing Inventory and Pricing with Contextual Robust Optimization](https://doi.org/10.1287/mnsc.2024.06402)
+  - DOI: 10.1287/mnsc.2024.06402
+  - Authors: Xun Zhang; Qinshen Tang; Zhi Chen; Li Chen
+  - Affiliations: International Institute of Finance, School of Management, University of Science and Technology of China, Hefei 230026, China; Division of Information Technology & Operations Management, Nanyang Business School, Nanyang Technological University, Singapore 639798; Department of Decisions, Operations and Technology, CUHK Business School, The Chinese University of Hong Kong, Hong Kong; The University of Sydney Business School, The University of Sydney, Sydney, New South Wales 2006, Australia
+  - Published: 2026-09-30
+  - Crossref journal: Management Science
+  - Abstract:
+    Multiproduct inventory and pricing problems are traditionally approached by estimating a presumed sufficiently accurate demand model and then optimizing with this specified model to determine optimal inventory and pricing decisions. However, obtaining an accurate demand model is nearly impossible because of unobservable parameters, resulting in parameter uncertainty; meanwhile, the unknown distribution of the error term in the stochastic demand model raises residual ambiguity. Additionally, the predicted demand is endogenously affected by pricing, leading to decision-dependent prediction that often brings about intractable optimization problems. We introduce a contextual robust optimization model that simultaneously addresses these challenges. Our proposed model possesses attractive finite-sample performance guarantees and can be effectively approached using an enhanced affine recourse adaptation to resolve the issue of intractability, and it can be extended to broader contextual decision-making problems under mild conditions. Extensive numerical studies demonstrate the effectiveness of our approach, showing that it outperforms the conventional estimate-then-optimize approach and the residual-based robust optimization approach that does not account for parameter uncertainty, particularly when the available data are limited. Notably, our proposed model exhibits greater resilience when contextual information is disregarded, reflecting practical situations in which collecting such information might be impossible or costly. This paper was accepted by Peng Sun, optimization and decision analytics. Funding: The research of X. Zhang is supported by the National Natural Science Foundation of China [Grant 72501273], the Anhui Provincial Natural Science Foundation [Grant 2408085QG222], and the Fundamental Research Funds for the Central Universities [Grant BJ2040160100]. The research of Q. Tang was supported by the Ministry of Education, Singapore [Tier 1 Grants RG47/24, RG139/25]. Z. Chen is funded in part by the National Natural Science Foundation of China [Grants 72422002, 72394395], the Hong Kong Research Grants Council General Research Fund [Grant CUHK-11502422], and the Asian Institute of Supply Chains and Logistics. L. Chen acknowledges support from the Emerging Scholar Research Fellowships, The University of Sydney Business School. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06402 .
+
+- [Constant Regret Primal-Dual Policy for Multiway Dynamic Matching](https://doi.org/10.1287/mnsc.2023.01668)
+  - DOI: 10.1287/mnsc.2023.01668
+  - Authors: Yehua Wei; Jiaming Xu; Sophie H. Yu
+  - Affiliations: The Fuqua School of Business, Duke University, Durham, North Carolina 27708; The Wharton School of the University of Pennsylvania, Philadelphia, Pennsylvania 19104
+  - Published: 2026-09-30
+  - Crossref journal: Management Science
+  - Abstract:
+    We study a discrete-time dynamic multiway matching model. There are finitely many agent types that arrive stochastically and wait to be matched. State-of-the-art dynamic matching policies in the literature require the knowledge of all system parameters to determine an optimal basis of the fluid relaxation, and focus on controlling the number of waiting agents using only matches within the optimal basis. In this paper, we propose a primal-dual policy that schedules matches for future arrivals based on an estimator for the dual solution. Our policy does not require the knowledge of the arrival rates and operates with greater flexibility as it does not restrict matches to only the match types within an optimal basis. We show that our policy is the first to achieve constant regret at all times under unknown arrival rates, and when the arrival rates are known, it achieves the optimal scaling. Furthermore, when the arrival rates are known, the primal-dual policy significantly outperforms alternative dynamic matching policies in several numerical simulations. This paper was accepted by Baris Ata, stochastic models and simulation. Funding: J. Xu is supported in part by the National Science Foundation [Grant CCF-1856424 and NSF CAREER award CCF-2144593]. S. H. Yu is supported in part by the National Science Foundation [Grant CCF-1856424]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01668 .
+
+### Public Sector & Health Care
+
+#### Public Administration Review
+- Rating: ABS 4*
+- Articles: 3
+
+- [Citizens' Expectations vs. Recruitment Signals: Are Public Administrations Trying to Attract the Ideal Public Servant?](https://doi.org/10.1111/puar.70199)
+  - DOI: 10.1111/puar.70199
+  - Authors: Melissa Satzger Grøn; Dominik Vogel
+  - Affiliations: University of Hamburg Hamburg Germany; Harz University of Applied Sciences Halberstadt Germany
+  - Published: 2026-10-01
+  - Crossref journal: Public Administration Review
+  - Abstract:
+    ABSTRACT Job advertisements play a crucial role in attracting applicants, yet little is known about how closely they reflect the values citizens expect from public servants. Drawing on signaling theory and prior research on citizens' normative expectations of ideal public servants, this study employs a large language model to analyze 1825 job advertisements from health and transportation departments across seven U.S. states. Compared to the values citizens associate with ideal public servants in previous research, job advertisements predominantly emphasize values, such as expertise and dedication, while undersignaling relational values like serviceability, responsiveness, and honesty. Our findings suggest a misalignment between the values signaled in recruitment practices and those citizens associate with the ideal public servant. By adopting a citizen‐driven perspective, this study prompts scholars and public managers to question recruitment practices that may underemphasize values citizens prioritize in public servants, potentially limiting public administrations' ability to attract qualified candidates.
+
+- [The Right‐Wing Idea Factory: From Traditionalism to Trumpism. By Donald F.Kettl, New York: Oxford University Press, 2026. 248 pp. (hardback). ISBN: 978‐0‐19‐777829‐6](https://doi.org/10.1111/puar.70207)
+  - DOI: 10.1111/puar.70207
+  - Authors: Alasdair Roberts
+  - Affiliations: University of Massachusetts Amherst Amherst Massachusetts USA
+  - Published: 2026-09-30
+  - Crossref journal: Public Administration Review
+
+- [Artificial Intelligence in Policing and Perceived Legitimacy: Does Gender Representation Make a Difference?](https://doi.org/10.1111/puar.70214)
+  - DOI: 10.1111/puar.70214
+  - Authors: Canyu Gao; Norma M. Riccucci
+  - Affiliations: School of Public Affairs and Administration, Rutgers University‐Newark Newark New Jersey USA
+  - Published: 2026-09-30
+  - Crossref journal: Public Administration Review
+  - Abstract:
+    ABSTRACT As artificial intelligence (AI) increasingly transforms public administration, understanding its impact on perceived legitimacy becomes paramount, particularly, in high‐stakes areas such as policing. While existing research offers mixed evidence on whether government AI use enhances or undermines citizens' perceptions of fairness and trust, the conditions moderating these effects remain underexplored. Drawing on representative bureaucracy theory, this study uses a survey experiment to investigate how gender representation moderates the effect of AI use on citizens' perceived fairness and trust in domestic violence units (DVUs). Results show that female representation positively moderates the legitimacy impact of a DVU's AI use; whereas AI use decreases female respondents' perceived fairness and trust in male‐dominated DVUs, these negative effects disappear in female‐dominated DVUs. Our findings identify representation as a key context shaping citizens' responses to government AI use, extending representative bureaucracy theory by demonstrating its indirect symbolic effects.
+
+### Strategy
+
+#### Strategic Management Journal
+- Rating: ABS 4*
+- Articles: 1
+
+- [Government as orchestrator: Ecosystem transformation at scale and speed](https://doi.org/10.1002/smj.70129)
+  - DOI: 10.1002/smj.70129
+  - Authors: Ron Adner
+  - Affiliations: Tuck School of Business Dartmouth College Hanover New Hampshire USA
+  - Published: 2026-10-01
+  - Crossref journal: Strategic Management Journal
+  - Abstract:
+    Abstract Research Summary Grand challenges are ecosystem challenges: success depends on aligning a multilateral set of public and private sector actors whose interdependent contributions determine whether a mission is achieved. This study examines how government can orchestrate ecosystem alignment by leveraging distinctive capabilities to deliver solutions at scale with urgency. Using an ecosystem‐as‐structure analytic approach, it draws on Operation Warp Speed, the U.S. government COVID‐19 vaccine initiative, to surface mechanisms and dynamics of ecosystem transformation. The analysis introduces coordinative fiat as a mode of coordination distinct from hierarchy, coercion, or market signals; considers the choices involved in designing a purpose‐built orchestrating entity; links orchestration of the external ecosystem to reconfiguration of the orchestrator's own internal ecosystem; and identifies orchestration capacity as a key constraint on ecosystem strategy. Managerial Summary Grand challenges are ecosystem challenges: success depends on aligning a multilateral set of public and private sector actors whose interdependent contributions determine whether a mission is achieved. The Operation Warp Speed COVID‐19 vaccine initiative demonstrates how government can drive alignment at speed and scale to address such challenges. The analysis highlights four lessons for leaders: (i) the use of coordinative fiat to align independent actors without relying on hierarchy or coercion; (ii) the design of orchestrating entities; (iii) linking transformation of external ecosystems to the transformation of internal ecosystems; and (iv) strategizing orchestration capacity as a key constraint on scope. While the discussion is anchored in the public sector, it holds clear implications for private‐sector initiatives as well.
+
+## ABS 4
+
+### Business & Economic History
+
+#### Business History Review
+- Rating: ABS 4
+- Articles: 1
+
+- [Inside the Dollhouse: Litigation, Corporate Power, and Competition in the American Mid-Twentieth Century Toy Industry](https://doi.org/10.1017/s0007680526102232)
+  - DOI: 10.1017/s0007680526102232
+  - Authors: Valeria Giacomin; Marina Nicoli
+  - Affiliations: Bocconi University
+  - Published: 2026-10-01
+  - Crossref journal: Business History Review
+  - Abstract:
+    Abstract We use Mattel’s rise in the 1950s and 1960s, particularly Barbie’s 1959 launch, to examine how intellectual property became a competitive tool in postwar American capitalism. Why did firms in fast-moving, design-driven industries supplement product innovation, distribution, and advertising with IP enforcement and aggressive litigation? Building on legal recognition of copyright and trademark, we argue that Mattel’s early-1960s litigation targeted a specific business model and competitive environment. Barbie was conceived as a scalable product supported by outfits, accessories, companion dolls, heavy investment in brand differentiation, and Ruth Handler’s narrative of originality. Yet Barbie entered a fashion-doll market shaped by earlier pioneers. Manufacturing’s shift to East Asia intensified competition by lowering imitation costs and making copying difficult to counter through innovation alone. Drawing on archival papers, court records, oral histories, and collectors’ materials, we show how IP enforcement moved beyond protecting creativity to structuring markets in a low-tech, seasonal, copy-prone industry.
+
+#### Economic History Review
+- Rating: ABS 4
+- Articles: 1
+
+- [Management in interwar Britain: Continuity and changeJohn F.Wilson, (Routledge, 2026). Pp. 260. Hbk £145. ISBN 9781041014720.](https://doi.org/10.1111/ehr.70161)
+  - DOI: 10.1111/ehr.70161
+  - Authors: Kevin D. Tennent
+  - Affiliations: University of York York UK
+  - Published: 2026-10-01
+  - Crossref journal: The Economic History Review
+
+### Economics
+
+#### Economic Journal
+- Rating: ABS 4
+- Articles: 1
+
+- [Agrarian Origins of Individualism and Collectivism](https://doi.org/10.1093/ej/ueag125)
+  - DOI: 10.1093/ej/ueag125
+  - Authors: Martin Fiszbein; Yeonha Jung; Dietrich Vollrath
+  - Affiliations: Boston University Department of Economics, , Boston, MA ,; NBER, Cambridge , MA ,; Sungkyunkwan University Department of Economics, , Seoul ,; University of Houston Department of Economics, , Houston, TX ,
+  - Published: 2026-09-30
+  - Crossref journal: The Economic Journal
+  - Abstract:
+    Abstract This study examines the influence of agricultural labour intensity on individualism across U.S. counties. We measure historical labour intensity in agriculture by combining data on crop-specific labour requirements with county-level crop mix around 1900. Potential endogeneity in agricultural labour intensity is addressed using climate-induced variation in crop mix. The estimates indicate that a one standard deviation increase in labour intensity is associated with a reduction of 0.2-0.3 standard deviations in individualism (as captured by the share of children with infrequent names). We also document significant changes in individualism over time, in relation to within-county shifts in labour intensity due to mechanisation and the boll weevil shock. Further evidence from contemporary online search queries and social media language suggests that historical labour intensity continues to influence geographic variation in individualism today. Lastly, our decomposition of labour intensity provides insights into the mechanisms underlying this cultural impact.
+
+#### Journal of Economic Theory
+- Rating: ABS 4
+- Articles: 1
+
+- [Recursive Expected Uncertain Utility](https://doi.org/10.1016/j.jet.2026.106249)
+  - DOI: 10.1016/j.jet.2026.106249
+  - Authors: Simon Grant
+  - Published: 2026-09-01
+  - Crossref journal: Journal of Economic Theory
+
+#### Journal of the American Statistical Association
+- Rating: ABS 4
+- Articles: 1
+
+- [Optimal estimators and tests for reciprocal effects](https://doi.org/10.1080/01621459.2026.2736314)
+  - DOI: 10.1080/01621459.2026.2736314
+  - Authors: Qunqiang Feng; Jiashun Jin; Yaru Tian; Ting Yan
+  - Affiliations: Department of Statistics and Finance, University of Science and Technology of China; School of Statistics and Data Science, Southeast University; School of Mathematics and Statistics, Central China Normal University
+  - Published: 2026-09-30
+  - Crossref journal: Journal of the American Statistical Association
+
+### Finance
+
+#### Journal of Money, Credit and Banking
+- Rating: ABS 4
+- Articles: 2
+
+- [Price Setting before and during the Pandemic: Evidence from Swiss Consumer Prices](https://doi.org/10.1111/jmcb.70095)
+  - DOI: 10.1111/jmcb.70095
+  - Authors: BARBARA RUDOLF; PASCAL SEILER
+  - Published: 2026-09-30
+  - Crossref journal: Journal of Money, Credit and Banking
+  - Abstract:
+    Abstract Using microdata underlying the Swiss consumer price index from 2008 to 2025, we document new features of price rigidity and assess their implications for inflation dynamics. The frequency of price changes increased in the decade before the pandemic, driven by items shifting to online price collection, as confirmed by causal identification from an event study around a collection‐mode switch. During the pandemic, the aggregate frequency response was muted, masking large cross‐sectional heterogeneity: demand contractions and stricter government interventions each reduced the frequency of adjustments, while demand contractions amplified their size. In response to aggregate shocks, firms adjust mainly the size rather than the frequency of price changes, consistent with time‐dependent pricing. However, nonlinear local projections reveal that when price flexibility is high or price selection is strong, firms respond along both margins, monetary nonneutrality falls, and the appropriate macro model switches from time‐dependent to state‐dependent.
+
+- [Climate Regulation, Firm Emissions, and Green Takeovers                     <sup>a</sup>](https://doi.org/10.1111/jmcb.70089)
+  - DOI: 10.1111/jmcb.70089
+  - Authors: OLIVIER DE JONGHE; KLAAS MULIER; GLENN SCHEPENS; LEONARD STIMPFLE
+  - Published: 2026-09-30
+  - Crossref journal: Journal of Money, Credit and Banking
+  - Abstract:
+    Abstract We show that an unexpected tightening of the EU Emissions Trading System led high‐emission‐intensity firms to cut emissions relative to low‐intensity peers within the same industry, without reducing output, thereby improving emission efficiency. Effects are stronger for power producers than for manufacturing firms. Examining mergers and acquisitions (M&As), we find that high‐intensity manufacturing firms acquire more green targets after the tightening than low‐intensity firms, with no change in the overall number of acquisitions, indicating a shift in focus rather than activity. Finally, we show that these green M&As contributed to the observed emission reductions over the study period.
+
+### Operations & Technology Management
+
+#### International Journal of Operations and Production Management
+- Rating: ABS 4
+- Articles: 2
+
+- [The influence of natural disasters on supply chain concentration: the moderating role of digital capability](https://doi.org/10.1108/ijopm-01-2026-0028)
+  - DOI: 10.1108/ijopm-01-2026-0028
+  - Authors: Qianqian Han; Shenyang Jiang; Wenlan Zhang; Miao Hu
+  - Affiliations: Qingdao University , ,; The Hong Kong Polytechnic University Department of Logistics and Maritime Studies, , ,; School of Politics and Public Administration, Soochow University , ,
+  - Published: 2026-10-02
+  - Crossref journal: International Journal of Operations &amp; Production Management
+  - Abstract:
+    Purpose Natural disasters impose substantial operational and strategic challenges on firms. Drawing on Resource Dependence Theory (RDT), this study examines how natural disasters (specifically, typhoons and earthquakes) affect firms' supply chain concentration and investigates the moderating role of digital capability in this relationship. Design/methodology/approach Using a panel of A-share-listed firms on the Shanghai and Shenzhen stock exchanges from 2010 to 2023, comprising 27,578 firm-year observations, we exploit a staggered difference-in-differences (DID) design to identify the causal effect of natural disasters on firms' supply chain concentration. Findings We find that firms exposed to natural disasters significantly reduce both supplier and customer concentration. Moreover, higher levels of digital capability strengthen the negative effect of natural disasters on supply chain concentration, suggesting that digital capabilities enhance firms' ability to reconfigure their supply chains in response to environmental shocks. These findings are robust to a series of robustness checks. Heterogeneity analyses further show that the effects vary systematically with key firm characteristics, including industry pollution intensity, ownership structure, financial constraints, and managerial optimism. Finally, analyses by disaster type reveal that typhoons significantly reduce both supplier and customer concentration, whereas earthquakes have no significant effect. Originality/value This study contributes to the literature by identifying natural disasters (typhoons vs. earthquakes) as an important environmental determinant of supply chain concentration and by highlighting digital capability as a key capability that enables firms to strategically reconfigure supply chain relationships in response to external disruptions.
+
+- [Human rights allegations in supply chains: the impact of reverberation on financial markets and social evaluations](https://doi.org/10.1108/ijopm-11-2025-1149)
+  - DOI: 10.1108/ijopm-11-2025-1149
+  - Authors: Annachiara Longoni; Frank Wiengarten; Jing Tan; Jordi Vives-Gabriel
+  - Affiliations: ESADE – Ramon Llull University , ,; IESE Business School , ,; University of St Gallen , ,
+  - Published: 2026-10-01
+  - Crossref journal: International Journal of Operations &amp; Production Management
+  - Abstract:
+    Purpose This study examines the relationship between the reverberation of follow-up news of a firm's human rights allegations concerning working conditions on share price volatility and social score. These allegations may generate reputational risks that are amplified by NGO and media coverage, thereby shaping financial and social analysts' evaluations of the firm's ability to manage such risks. We also test whether the adoption of human rights policies moderates these potential negative effects. Design/methodology/approach To test our hypotheses, we constructed a firm-year panel comprising 147 US-based firms from 2015 to 2022. We combined data on human rights allegations against firms and their follow-up news from the Business and Human Rights Research Center, sustainability information from the Bloomberg ESG module, financial data from Compustat and stock market data from the CRSP database. Findings Our results show that follow-up news reverberation of a firm's human rights allegations is associated with reduced share price volatility, as sustained information may make a firm's actions more visible and predictable to shareholders. Conversely, this reverberation negatively affects a firm's social score, especially in the case of negative follow-up news and in the presence of human rights policies. Reverberation may reveal a decoupling between a firm's stated commitments and its actual behavior regarding human rights. Originality/value This paper reframes human rights allegations as reputational and human rights risks perceived by investors and social evaluators, who respond differently based on the reverberation of such allegations as amplified by NGOs and the media.
+
+### Operations Research & Management Science
+
+#### European Journal of Operational Research
+- Rating: ABS 4
+- Articles: 5
+
+- [Privacy-preserving multi-source transfer learning for credit risk prediction with mixture cure models](https://doi.org/10.1016/j.ejor.2026.09.045)
+  - DOI: 10.1016/j.ejor.2026.09.045
+  - Authors: Xiaoyan Wang; Ankang Jiao; Jingmao Li; Kuangnan Fang
+  - Published: 2026-09-01
+  - Crossref journal: European Journal of Operational Research
+
+- [Minimum risk consensus model based on consensus breakdown probability](https://doi.org/10.1016/j.ejor.2026.09.036)
+  - DOI: 10.1016/j.ejor.2026.09.036
+  - Authors: Weiwei Guo; Yunyun Wang; Zaiwu Gong; Xiaoqin Chen; Xiao Tan; Shuli Yan
+  - Published: 2026-09-01
+  - Crossref journal: European Journal of Operational Research
+
+- [Inter-terminal collaboration: Optimizing multi-terminal berth allocation with container ground transfers](https://doi.org/10.1016/j.ejor.2026.09.041)
+  - DOI: 10.1016/j.ejor.2026.09.041
+  - Authors: Di Zhang; Jian Gang Jin; Hai Wang
+  - Published: 2026-09-01
+  - Crossref journal: European Journal of Operational Research
+
+- [Integrated deployment and operational planning of offshore wind-aquaculture coupled systems](https://doi.org/10.1016/j.ejor.2026.09.044)
+  - DOI: 10.1016/j.ejor.2026.09.044
+  - Authors: Zhiyuan Yang; Miaomiao Wang; Lu Zhen; Shuaian Wang
+  - Published: 2026-09-01
+  - Crossref journal: European Journal of Operational Research
+
+- [BEYOND THE PITCH: AN INTEGRATED MACHINE LEARNING AND OPERATIONS RESEARCH METHODOLOGY FOR FINANCIALLY SUSTAINABLE SQUAD FORMATION](https://doi.org/10.1016/j.ejor.2026.09.039)
+  - DOI: 10.1016/j.ejor.2026.09.039
+  - Authors: Enzo Villafuerte; Felipe Aros-Vera
+  - Published: 2026-09-01
+  - Crossref journal: European Journal of Operational Research
+
+### Political Science
+
+#### British Journal of Political Science
+- Rating: Not ABS-rated; grouped with ABS 4
+- Articles: 2
+
+- [The Threshold Effect: Preference Falsification Versus Weak Preferences in Russian War Support](https://doi.org/10.1017/s0007123426101768)
+  - DOI: 10.1017/s0007123426101768
+  - Authors: Isabelle DeSisto; Grigore Pop-Eleches; Jacob R. Tucker
+  - Affiliations: Princeton University; New York University
+  - Published: 2026-10-01
+  - Crossref journal: British Journal of Political Science
+  - Abstract:
+    Abstract How reliable are surveys in autocracies? Using data from wartime Russia, we show why list experiments – commonly used to detect preference falsification – do not always reveal hidden dissent. We identify and test what we call the ‘threshold effect’: respondents may report support for a sensitive item in a direct question but omit it in a list experiment, not because they are lying, but because the list format can create a higher threshold for expressing support. We provide direct evidence of this effect and use two approaches to distinguish preference falsification from weak preferences. Both suggest that outright lying in Russia is limited, but many attitudes are weak and easily shaped by question framing. We conclude that while many Russians genuinely support the war against Ukraine, this support is shallow. Our findings suggest that researchers should take care when designing and interpreting survey questions that measure sensitive attitudes using indirect methods.
+
+- [Policlim: A Dataset of Climate Change Discourse in the Political Manifestos of Forty-Five Countries from 1990 to 2022 – CORRIGENDUM](https://doi.org/10.1017/s0007123426101677)
+  - DOI: 10.1017/s0007123426101677
+  - Authors: Mary Sanford; Silvia Pianta; Nicolas Schmid; Giorgio Musto
+  - Published: 2026-10-01
+  - Crossref journal: British Journal of Political Science
+
+### Public Sector & Health Care
+
+#### Public Management Review
+- Rating: ABS 4
+- Articles: 1
+
+- [Policymaking in a multilevel setting: perverse effects on regulating gambling](https://doi.org/10.1080/14719037.2026.2740705)
+  - DOI: 10.1080/14719037.2026.2740705
+  - Authors: Silvia Iacuzzi; Paolo Fedele; Andrea Garlatti
+  - Affiliations: University of Udine
+  - Published: 2026-10-01
+  - Crossref journal: Public Management Review
+
+### Social Sciences & Sociology
+
+#### Risk Analysis
+- Rating: ABS 4
+- Articles: 1
+
+- [Temporal and Environmental Influences on the Survival of                     <i>Escherichia coli</i>                     in Poultry Litter‐Based Soil Amendments in Georgia Sweet Onion Production Systems](https://doi.org/10.1111/risa.70330)
+  - DOI: 10.1111/risa.70330
+  - Authors: Harsimran Kaur Kapoor; Amelia Payne; Krishna Prabha; Laurel L. Dunn; Govindaraj Dev Kumar; Chris Tyson; Manan Sharma; Keith R. Schneider; Aditya Kumar Mishra; Alda F. A. Pires; Patrick Baur; Abhinav Mishra
+  - Affiliations: Department of Food Science and Technology University of Georgia Athens Georgia USA; Center for Food Safety University of Georgia Griffin Georgia USA; Vidalia Onion and Vegetable Research Center University of Georgia Lyons Georgia USA; Environmental Microbial and Food Safety Laboratory USDA ARS, Beltsville Agricultural Research Center Beltsville Maryland USA; Food Science and Human Nutrition Department University of Florida Gainesville Florida USA; Department of Statistics University of Georgia Athens Georgia USA; Department of Population Health and Reproduction, School of Veterinary Medicine University of California Davis California USA; Sustainable Agriculture and Food Systems Program Department of Fisheries, Animal, and Veterinary Sciences University of Rhode Island Kingston Rhode Island USA
+  - Published: 2026-09-30
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Previous studies have shown that pathogen survival in the biological soil amendments of animal origin (BSAAO) is mediated by meteorological conditions. Hence, a 2‐year field study was conducted in Georgia with four soil amendment treatments (heat‐treated poultry pellets, HTPPs; composted poultry litter, PL; unamended, UN) inoculated with Escherichia coli TVS 353 (a surrogate for Salmonella enterica ) and negative control plots (unamended, non‐inoculated). Additionally, 14‐day‐old sweet onion bulbs were transplanted into plots managed by HTPP (O‐HTPP), harvested, and left to cure for 14 days in the field. A linear‐mixed‐effect model (LME) was fitted to E. coli population data enumerated from the soil samples collected at specified intervals over 161 days from three replicate plots amended with different soil amendment treatments during both years of the study. Amendment type (UN, PL, HTPP, O‐HTPP) and weather factors (cumulative rainfall (cmrain 2 ), average air temperature (at60 12 ), relative humidity (RH 12 ), soil temperature (ast 12 ) for 2 days before sampling, and wind speed 1 day before sampling (W 1 )) were the predictors for the LME models developed. Significant weather predictors that affected the survival of E. coli across soil amendment treatment plots were RH 12 (+0.35) (Year 1); W 1 (−0.77), at60 12 (−1.66), and ast 12 (+1.57) (Year 2). For plots with and without onions, W 1 (+0.69) (Year 1); at60 12 (−0.92), ast 12 (+1.35), cmrain 2 (+0.37), and W 1 (−0.36) (Year 2) were significant. All coefficient values represent the estimated change in log 10 CFU or Most Probable Number (MPN)/g associated with a one‐unit increase in the respective weather predictor, as estimated by the LME model ( p ≤ 0.05).
+
+#### Sociology
+- Rating: ABS 4
+- Articles: 1
+
+- [Negotiating beauty duty: Beauty practices and gendered power dynamics in China](https://doi.org/10.1177/00380385261481665)
+  - DOI: 10.1177/00380385261481665
+  - Authors: Shuang Qiu; Hua Ma
+  - Affiliations: School of Sociology and Social Policy, University of Leeds, UK; Stirling College, Chengdu University, China
+  - Published: 2026-09-30
+  - Crossref journal: Sociology
+  - Abstract:
+    In post-socialist China, beauty has emerged as a key site where gender, identity and power are negotiated within intimate and family life. While dominant discourses continue to promote beauty ideals such as ‘pale, young and slim’, Confucian expectations of moral femininity persist, positioning women as virtuous wives and good mothers. This article explores how beauty is understood, practised and negotiated within marriage and family life. Rather than viewing beauty as either oppressive or empowering, it examines beauty as a relational practice shaped by intimate recognition, familial surveillance, marketised consumer culture and household power. The findings show that participants both complied with and resisted beauty servitude, while drawing on ideas of inner beauty to negotiate alternative forms of worth. This study offers a localised account of beauty practices and shows how beauty operates as an unstable resource whose value shifts across different relational settings.
+
+### Strategy
+
+#### Long Range Planning
+- Rating: ABS 4
+- Articles: 1
+
+- [Open Strategy and AI: A new actor in the strategy process?](https://doi.org/10.1016/j.lrp.2026.102693)
+  - DOI: 10.1016/j.lrp.2026.102693
+  - Authors: Julia Hautz; Christian Stadler; Richard Whittington
+  - Published: 2026-09-01
+  - Crossref journal: Long Range Planning
