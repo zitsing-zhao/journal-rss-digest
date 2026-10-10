@@ -19536,12 +19536,117 @@
       "abs_journal_title": "European Journal of Operational Research",
       "published_date": "2026-10-01",
       "first_seen": "2026-10-09T12:58:57.008064+00:00"
+    },
+    "10.1016/j.jsis.2026.102008": {
+      "title": "Design-logic alignment in digital transformation: A qualitative meta-analysis of Kodak",
+      "journal": "The Journal of Strategic Information Systems",
+      "abs_journal_title": "Journal of Strategic Information Systems",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.1093/restud/rdag113": {
+      "title": "Quality Regulation and Competition: Evidence from Pharmaceutical Markets",
+      "journal": "Review of Economic Studies",
+      "abs_journal_title": "Review of Economic Studies",
+      "published_date": "2026-10-10",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.1007/s11142-026-09992-x": {
+      "title": "So similar, yet so different: comparing the US GAAP and IFRS experience at eliciting greater transparency on pension asset disclosures",
+      "journal": "Review of Accounting Studies",
+      "abs_journal_title": "Review of Accounting Studies",
+      "published_date": "2026-10-10",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.1177/10591478261489977": {
+      "title": "Modeling collective action in POM: The Strategy–Operations–People framework",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-10-10",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.2308/tar-2024-0017": {
+      "title": "Social Media Toxicity and Capital Markets",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-10-09",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.2308/tar-2023-0595": {
+      "title": "Building Better Information: Reporting Technology, Internal Information Frictions, and Investment Efficiency",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-10-09",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.1111/puar.70224": {
+      "title": "Public Interest Capacity: The Case of Direct File",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-10-09",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.1287/mnsc.2025.02975": {
+      "title": "Collective Activism",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-10-09",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.1093/rof/rfag047": {
+      "title": "The Depositary of Last Resort",
+      "journal": "Review of Finance",
+      "abs_journal_title": "Review of Finance",
+      "published_date": "2026-10-09",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.1080/01621459.2026.2744399": {
+      "title": "Partial Gini Covariance-based Robust Inference for High-dimensional Linear Models with Heavy-tailed Errors",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-10-09",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.1080/01621459.2026.2704939": {
+      "title": "Interconnections in Clinical Treatment Measures at the Pan-Disease Level: A Deep Neural Network Analysis of SEER-Medicare",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-10-09",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.1080/01621459.2026.2744433": {
+      "title": "How many labelers do you have? A closer look at gold-standard labels",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-10-09",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.1016/j.leaqua.2026.102007": {
+      "title": "Corrigendum regarding missing Declaration of Competing Interest statements in previously published articles",
+      "journal": "The Leadership Quarterly",
+      "abs_journal_title": "Leadership Quarterly",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.1016/j.jet.2026.106268": {
+      "title": "Existence of Bayesian Equilibria in Incomplete Information Games without Common Priors",
+      "journal": "Journal of Economic Theory",
+      "abs_journal_title": "Journal of Economic Theory",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
+    },
+    "10.5465/amj.2024.0656": {
+      "title": "Hostile Frame Takeover: Co-opting the Security Frame in the Nuclear Energy Debate",
+      "journal": "Academy of Management Journal",
+      "abs_journal_title": "Academy of Management Journal",
+      "published_date": "2026-03-03",
+      "first_seen": "2026-10-10T12:16:24.126227+00:00"
     }
   },
-  "last_run": "2026-10-09T12:58:57.008064+00:00",
+  "last_run": "2026-10-10T12:16:24.126227+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-10-08",
-    "end_date": "2026-10-09"
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-10"
   }
 }

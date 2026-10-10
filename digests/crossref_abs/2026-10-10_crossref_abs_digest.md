@@ -1,0 +1,196 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-10-10
+
+Generated at: 2026-10-10 12:16 UTC
+Crossref date mode: `created`
+Window: `2026-10-09` to `2026-10-10`
+New papers: 15
+
+## ABS 4*
+
+### Accounting
+
+#### Accounting Review
+- Rating: ABS 4*
+- Articles: 2
+
+- [Social Media Toxicity and Capital Markets](https://doi.org/10.2308/tar-2024-0017)
+  - DOI: 10.2308/tar-2024-0017
+  - Authors: Elizabeth Blankespoor; Jedson Pinto; Kirti Sinha
+  - Affiliations: University of Washington; The University of Texas at Dallas
+  - Published: 2026-10-09
+  - Crossref journal: The Accounting Review
+  - Abstract:
+    ABSTRACT This paper asks about the existence, determinants, and implications of toxic content in financial social media. Using machine learning algorithms to measure toxicity in Seeking Alpha articles and comments, we find measurable toxicity concentrated primarily in user-generated comments rather than articles. Comment toxicity is greater for firms with more investor attention or uncertainty. We document three key results about toxicity in capital markets. First, toxicity displays a feedback loop in platform participation: past toxicity is associated with more future toxic contributors for a given firm. Second, firms receiving more toxic comments have greater retail trading volume but less informative retail trades, especially when comments disagree. Third, toxicity is associated with slower price discovery around earnings announcements. Our findings suggest that financial social media toxicity relates to both user behavior and market outcomes and raise important considerations for platform governance in financial markets. Data Availability: The Seeking Alpha articles and comments used in this study were obtained directly from Seeking Alpha under a data-sharing arrangement and are proprietary; we are not permitted to redistribute them. These data may be requested from Seeking Alpha. Compustat, Execucomp, CRSP, and New York Stock Exchange (NYSE) Trade and Quote (TAQ) data are available through Wharton Research Data Services (WRDS) to subscribing institutions. JEL Classifications: G14; G41; D83; D91.
+
+- [Building Better Information: Reporting Technology, Internal Information Frictions, and Investment Efficiency](https://doi.org/10.2308/tar-2023-0595)
+  - DOI: 10.2308/tar-2023-0595
+  - Authors: Philip G. Berger; Feng Li; Lisa Yao Liu; M. H. Franco Wong
+  - Affiliations: The University of Chicago; Shanghai Jiao Tong University; Columbia University; University of California, Irvine
+  - Published: 2026-10-09
+  - Crossref journal: The Accounting Review
+  - Abstract:
+    ABSTRACT We assess how firms use spending on reporting infrastructure to improve managerial reporting quality (MRQ) and whether doing so improves investment efficiency. Using the Sarbanes-Oxley Act’s internal control provisions (SOX 404) as a shock to MRQ demand, we find that treated firms increase reporting infrastructure spending, including for information technology and communications. We next examine variation across segments in the benefits and costs of improving reporting infrastructure. Segments increase spending more when facing larger internal moral hazard frictions and when they are less likely to have voluntarily improved MRQ before SOX (including segments insulated from competition, facing difficulty obtaining enterprise resource planning (ERP) systems, or lacking internal control personnel). Finally, we find that treated firms improve investment efficiency post-SOX 404, with larger gains among firms with higher spending on reporting infrastructure. Our findings indicate that regulatory mandates can improve investment efficiency by inducing reporting infrastructure improvements that enhance MRQ. JEL Classifications: D83; G15; G18; G38; L15; M41; M42.
+
+### Economics
+
+#### Review of Economic Studies
+- Rating: ABS 4*
+- Articles: 1
+
+- [Quality Regulation and Competition: Evidence from Pharmaceutical Markets](https://doi.org/10.1093/restud/rdag113)
+  - DOI: 10.1093/restud/rdag113
+  - Authors: Juan Pablo Atal; José Ignacio Cuesta; Morten Sæthre
+  - Affiliations: University of Pennsylvania and NBER; Stanford University and NBER; Norwegian School of Economics
+  - Published: 2026-10-10
+  - Crossref journal: Review of Economic Studies
+  - Abstract:
+    Abstract Quality regulation seeks to ensure quality and foster competition by reducing vertical differentiation, but it may also have adverse effects on market structure. We study this trade-off in the context of pharmaceutical bioequivalence, which is the primary quality standard for generic drugs. By exploiting the introduction of bioequivalence in Chile, we find that stronger regulation reduced the number of drugs in the market by 18% and increased average paid prices by 13%. We estimate a model of drug entry, certification, and demand to study how drug quality, aversion to generics, and certification costs shape the equilibrium effects of quality regulation. We find that quality regulation increased demand for generic drugs by resolving asymmetric information and reducing aversion to unbranded generics, which induced the entry of high-quality drugs in place of low-quality drugs. Consumer welfare increased despite higher prices and a lower number of firms. We compare minimum quality standards with alternative designs of quality regulation, including quality disclosure.
+
+### General Management, Ethics & CSR
+
+#### Academy of Management Journal
+- Rating: ABS 4*
+- Articles: 1
+
+- [Hostile Frame Takeover: Co-opting the Security Frame in the Nuclear Energy Debate](https://doi.org/10.5465/amj.2024.0656)
+  - DOI: 10.5465/amj.2024.0656
+  - Authors: Stephan Bohn; Nora Lohmeyer; Harsh Kumar Jha; Juliane Reinecke
+  - Affiliations: Freie Universität Berlin; Radboud University; Indian Institute of Management Udaipur; University of Oxford
+  - Published: 2026-03-03
+  - Crossref journal: Academy of Management Journal
+
+### Operations Research & Management Science
+
+#### Management Science
+- Rating: ABS 4*
+- Articles: 1
+
+- [Collective Activism](https://doi.org/10.1287/mnsc.2025.02975)
+  - DOI: 10.1287/mnsc.2025.02975
+  - Authors: Craig Doidge; Alexander Dyck; Liyan Yang
+  - Affiliations: Rotman School of Management, University of Toronto, Toronto, Ontario M5S3E6, Canada
+  - Published: 2026-10-09
+  - Crossref journal: Management Science
+  - Abstract:
+    Can investor stewardship codes that call for coordinated activism be satisfied by an Investor Collective Action Organization (ICAO)? In an ICAO, investors work collectively, like a large shareholder, to monitor management and increase value. We analyze the endogenous formation of an ICAO and its equilibrium size, considering free-rider problems and coordination costs. While the ICAO overcomes free-rider problems among its members, it exacerbates them between the ICAO and solo activists. The benefit of joining an ICAO is hump-shaped in size. With moderate coordination costs, ICAO formation features multiple equilibria. Small changes in coordination costs significantly influence ICAO formation and activism. This paper was accepted by Will Cong, finance. Funding: L. Yang thanks the support from the Social Sciences and Humanities Research Council of Canada [Grants 435-2021-0040, 435-2026-0060] and the Bank of Canada [Fellowship]. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2025.02975 .
+
+### Public Sector & Health Care
+
+#### Public Administration Review
+- Rating: ABS 4*
+- Articles: 1
+
+- [Public Interest Capacity: The Case of Direct File](https://doi.org/10.1111/puar.70224)
+  - DOI: 10.1111/puar.70224
+  - Authors: Donald Moynihan; Pam Herd; Xiaoyang Xu
+  - Affiliations: Ford School of Public Policy University of Michigan Ann Arbor Michigan USA; Department of Political Science University of South Carolina Columbia South Carolina USA
+  - Published: 2026-10-09
+  - Crossref journal: Public Administration Review
+  - Abstract:
+    ABSTRACT This article describes the conditions for creating and undermining public interest capacity, that is, the ability of the state to generate public goods with widely distributed benefits. The creation and elimination of Direct File, a free, online public tax reporting system in the United States, offers an instrumental case. The creation of Direct File depended upon political commitment sufficient to overcome private interests: both the traditional dependence on private contractors to produce digital products, and the opposition of the private tax preparation industry which saw Direct File as a competitor. Political will was not enough: creating internal capacity in the form of skilled government tech teams who could build a quality digital product was also necessary. But without this political commitment in the Trump administration, which instead pursued downsizing and was receptive to the tax preparation industry arguments, both Direct File and the team that built it were eliminated.
+
+## ABS 4
+
+### Accounting
+
+#### Review of Accounting Studies
+- Rating: ABS 4
+- Articles: 1
+
+- [So similar, yet so different: comparing the US GAAP and IFRS experience at eliciting greater transparency on pension asset disclosures](https://doi.org/10.1007/s11142-026-09992-x)
+  - DOI: 10.1007/s11142-026-09992-x
+  - Authors: Divya Anantharaman; Elizabeth Chuk; Tonni Shijun Xia
+  - Published: 2026-10-10
+  - Crossref journal: Review of Accounting Studies
+  - Abstract:
+    Abstract We exploit two regulatory changes, one under US GAAP and the other under IFRS, that mandate improved disclosure of pension asset allocation. While the changes are otherwise similar, US GAAP retains the expected rate of return (“ERR”) on pension assets, which preparers can more easily manipulate if asset allocation remains opaque, while IFRS eliminates the ERR. We find that the IFRS standard improves pension asset transparency more than the US standard, which only mandates higher-quality disclosure without changing recognition or measurement and hence leaves unchanged preparers’ incentives to obfuscate. The US standard elicits a mixed response that reduces transparency in some respects. We isolate the relative deterioration in US firms’ transparency to firms with stronger incentives to inflate ERRs. Overall, our study highlights the potential for standard setters to learn from each other by comparing their regulatory experience on a specific accounting topic with clearly identifiable managerial incentives.
+
+### Economics
+
+#### Journal of Economic Theory
+- Rating: ABS 4
+- Articles: 1
+
+- [Existence of Bayesian Equilibria in Incomplete Information Games without Common Priors](https://doi.org/10.1016/j.jet.2026.106268)
+  - DOI: 10.1016/j.jet.2026.106268
+  - Authors: Denis Kojevnikov; Kyungchul Song
+  - Published: 2026-10-01
+  - Crossref journal: Journal of Economic Theory
+
+#### Journal of the American Statistical Association
+- Rating: ABS 4
+- Articles: 3
+
+- [Partial Gini Covariance-based Robust Inference for High-dimensional Linear Models with Heavy-tailed Errors](https://doi.org/10.1080/01621459.2026.2744399)
+  - DOI: 10.1080/01621459.2026.2744399
+  - Authors: Yilin Zhang; Songshan Yang; Yunan Wu; Lan Wang
+  - Affiliations: Department of Statistics and Actuarial Science, University of Hong Kong; Center for Applied Statistics, Brain and Institute of Statistics and Big Data, Renmin University of China; Yau Mathematical Science Center, Tsinghua University; Department of Management Science, Miami Herbert Business School, University of Miami
+  - Published: 2026-10-09
+  - Crossref journal: Journal of the American Statistical Association
+
+- [Interconnections in Clinical Treatment Measures at the Pan-Disease Level: A Deep Neural Network Analysis of SEER-Medicare](https://doi.org/10.1080/01621459.2026.2704939)
+  - DOI: 10.1080/01621459.2026.2704939
+  - Authors: Jiping Wang; Tong Wang; Shuangge Ma
+  - Affiliations: Department of Biostatistics, Yale School of Public Health; School of Statistics and Data Science, Southeast University
+  - Published: 2026-10-09
+  - Crossref journal: Journal of the American Statistical Association
+
+- [How many labelers do you have? A closer look at gold-standard labels](https://doi.org/10.1080/01621459.2026.2744433)
+  - DOI: 10.1080/01621459.2026.2744433
+  - Authors: Chen Cheng; Hilal Asi; John Duchi
+  - Affiliations: Department of Statistics, Stanford University; Department of Electrical Engineering, Stanford University; Departments of Statistics and Electrical Engineering, Stanford University
+  - Published: 2026-10-09
+  - Crossref journal: Journal of the American Statistical Association
+
+### Finance
+
+#### Review of Finance
+- Rating: ABS 4
+- Articles: 1
+
+- [The Depositary of Last Resort](https://doi.org/10.1093/rof/rfag047)
+  - DOI: 10.1093/rof/rfag047
+  - Authors: Pamfili Antipa; Kilian Rieder
+  - Affiliations: London School of Economics and Political Science . Houghton St, London WC2A 2AE,; Oesterreichische Nationalbank (Eurosystem) & CEPR . Otto-Wagner-Platz 3, 1090 Vienna,
+  - Published: 2026-10-09
+  - Crossref journal: Review of Finance
+  - Abstract:
+    Abstract What are the consequences of making central bank deposits accessible to actors beyond the banking sector? We collect novel micro data on deposit accounts historically held with the Bank of England by individuals and firms other than banks to study their role in the financial panic of 1866. We document that the use of deposit accounts at the central bank soared during the crisis, while commercial banks permanently lost funding. The expansion in the number of active accounts was fueled by individuals, but the intensive margin increase in balances came almost entirely from firms. Recourse to central bank deposits was heterogeneous and persisted well beyond the panic, reflecting easy access, low opportunity costs, and positive network externalities. At the same time, retail borrowers seeking liquidity support from the Bank during the crisis preferred receiving loan proceeds in the form of cash rather than deposits. JEL Classification: E58, G01, G11, G20, N13, N23
+
+### Information Management
+
+#### Journal of Strategic Information Systems
+- Rating: ABS 4
+- Articles: 1
+
+- [Design-logic alignment in digital transformation: A qualitative meta-analysis of Kodak](https://doi.org/10.1016/j.jsis.2026.102008)
+  - DOI: 10.1016/j.jsis.2026.102008
+  - Authors: Amir Ashrafi; Panos Constantinides; Jason Bennett Thatcher; Nikolay Mehandjiev
+  - Published: 2026-12-01
+  - Crossref journal: The Journal of Strategic Information Systems
+
+### Operations & Technology Management
+
+#### Production and Operations Management
+- Rating: ABS 4
+- Articles: 1
+
+- [Modeling collective action in POM: The Strategy–Operations–People framework](https://doi.org/10.1177/10591478261489977)
+  - DOI: 10.1177/10591478261489977
+  - Authors: Guillaume Roels; Ludo Van der Heyden
+  - Affiliations: INSEAD
+  - Published: 2026-10-10
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    While many business situations relevant to production and operations management (POM), such as supply chain coordination or sustainable operations, involve some form of collective action; managerial frameworks for collective action rarely appear in POM contexts. Valuable insights may thus be missed, reducing the effectiveness and implementability of the proposed POM solutions. To bridge this gap, this paper presents a framework for collective action that has its roots in the organizational behavior literature. We formalize it mathematically not only to offer definitional clarity, but also to relate it to common POM modeling approaches. We then illustrate its relevance to POM by mapping it to case studies in supply chain coordination and sustainable operations. The proposed framework, named the Strategy–Operations–People (SOP) framework, is structured in three levels, comprising three elements, two elements, and one element, respectively. First, the Strategy level induces and enforces solidarity among all team members by specifying common goals, shared values, and well-defined rules. Second, the Operations level organizes the decentralized execution of collective action in autonomous subgroups through a detailed specification of roles and processes. Third, the People level requires the individual commitment of all team members to the proposed collective action program, since a team’s performance rests on the individual contributions of its members. The framework thus addresses the common, subgroup, and individual dimensions of collective action. The SOP framework also contributes to the broader fields of team leadership and organizational behavior in two ways. First, its mathematical formalization brings operational clarity on the defining scope of the framework’s elements. Second, mapping the framework to two problems in supply chain management and sustainable operations illustrates its broad applicability, moving beyond collective action within organizations, to guide collective action taking place across organizations.
+
+### Organisation Studies
+
+#### Leadership Quarterly
+- Rating: ABS 4
+- Articles: 1
+
+- [Corrigendum regarding missing Declaration of Competing Interest statements in previously published articles](https://doi.org/10.1016/j.leaqua.2026.102007)
+  - DOI: 10.1016/j.leaqua.2026.102007
+  - Published: 2026-10-01
+  - Crossref journal: The Leadership Quarterly
