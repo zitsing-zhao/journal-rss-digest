@@ -20047,12 +20047,215 @@
       "abs_journal_title": "European Journal of Operational Research",
       "published_date": "2026-10-01",
       "first_seen": "2026-10-13T13:58:24.074513+00:00"
+    },
+    "10.1016/j.respol.2026.105637": {
+      "title": "Training and productivity in micro-firms",
+      "journal": "Research Policy",
+      "abs_journal_title": "Research Policy",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1016/j.aos.2026.101664": {
+      "title": "How do audit committee members' and audit partners' communication styles jointly influence client managers’ negotiation behavior?",
+      "journal": "Accounting, Organizations and Society",
+      "abs_journal_title": "Accounting, Organizations and Society",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1016/j.jfineco.2026.104379": {
+      "title": "Disagreement of disagreement",
+      "journal": "Journal of Financial Economics",
+      "abs_journal_title": "Journal of Financial Economics",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1111/jofi.70082": {
+      "title": "Externalities of Responsible Investments",
+      "journal": "The Journal of Finance",
+      "abs_journal_title": "Journal of Finance",
+      "published_date": "2026-10-14",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1111/puar.70223": {
+      "title": "Between the Lines: Decoding Signaling Differences in Public and Private Sector Job Advertisements",
+      "journal": "Public Administration Review",
+      "abs_journal_title": "Public Administration Review",
+      "published_date": "2026-10-14",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1007/s11192-026-05826-4": {
+      "title": "Intelligent technological problem–solution recommendation using large language models and heterogeneous graph neural networks",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-10-14",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1007/s11192-026-05854-0": {
+      "title": "From resources to results: how interim outputs improve and mediate R&amp;D output prediction",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-10-14",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1111/risa.70368": {
+      "title": "Ambient Air Pollution Health Impacts in High‐Income Countries, Part II: A Case Study in the United Arab Emirates",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-10-14",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1017/s0266466626100619": {
+      "title": "PROXIMAL ESTIMATION AND INFERENCE",
+      "journal": "Econometric Theory",
+      "abs_journal_title": "Econometric Theory",
+      "published_date": "2026-10-14",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1111/ajps.70085": {
+      "title": "Spatiality of preemptive coercion: How autocrats demolish informal settlements for political control",
+      "journal": "American Journal of Political Science",
+      "abs_journal_title": "American Journal of Political Science",
+      "published_date": "2026-10-14",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1287/opre.2024.1279": {
+      "title": "Optimality of Public Persuasion for Single-Good Allocation",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1287/opre.2024.1415": {
+      "title": "Community-Oriented Market Design for Nonprofit Resource Exchange",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1287/mnsc.2024.07607": {
+      "title": "Comment Letters, Connected Investors, and Corporate Bond Issuance",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1086/744485": {
+      "title": "Firm Heterogeneity and the Impact of Immigration: Evidence from German Establishments",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1086/744482": {
+      "title": "Buying Data from Consumers: The Impact of Monitoring in U.S. Auto Insurance",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1177/09500170261484733": {
+      "title": "Affective order of time discipline: The emotional foundation of time pressure in the online gig economy",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1002/sej.70059": {
+      "title": "Theorizing future phenomena: Metaverse, wearables, and humanoids",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1177/10944281261468211": {
+      "title": "Triangulation as Methodology and Mindset: Developing Practice-Based Guidance for Organizational Research",
+      "journal": "Organizational Research Methods",
+      "abs_journal_title": "Organizational Research Methods",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1093/jeea/jvag064": {
+      "title": "Trade, Human Capital, and Income Risk,",
+      "journal": "Journal of the European Economic Association",
+      "abs_journal_title": "Journal of the European Economic Association",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1111/1911-3846.70093": {
+      "title": "Could That Happen to Me? Auditor Response When Colleagues Are Named in Lawsuits",
+      "journal": "Contemporary Accounting Research",
+      "abs_journal_title": "Contemporary Accounting Research",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1086/744412": {
+      "title": "“Rights Talk” Can Inhibit Persuasion and Compromise",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1086/744414": {
+      "title": "The Ground of Judgment",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1086/744415": {
+      "title": "Diffuse Review, Diminished Accountability: Public Reactions to Judicial Checks on Executives",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1086/744413": {
+      "title": "Are Citizens Inoculated by Past Democratic Backsliding?",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-10-13",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.2308/tar-2024-0348": {
+      "title": "Determinants and Consequences of Auditors’ Consultations with the National Office",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-10-12",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1016/j.jinteco.2026.104344": {
+      "title": "Capturing international influences in U.S. monetary policy through a Natural Language Processing approach",
+      "journal": "Journal of International Economics",
+      "abs_journal_title": "Journal of International Economics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1016/j.ejor.2026.10.005": {
+      "title": "Single machine optimistic bilevel scheduling problems with selection: State-of-the-art and new results",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1016/j.ejor.2026.10.012": {
+      "title": "Integrating response time and attention duration in Bayesian preference learning for multiple criteria decision aiding",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
+    },
+    "10.1016/j.ejor.2026.10.013": {
+      "title": "A two-stage optimization framework for maintenance depot location and technician allocation in urban rail transit systems",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-14T11:37:04.513722+00:00"
     }
   },
-  "last_run": "2026-10-13T13:58:24.074513+00:00",
+  "last_run": "2026-10-14T11:37:04.513722+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-10-12",
-    "end_date": "2026-10-13"
+    "start_date": "2026-10-13",
+    "end_date": "2026-10-14"
   }
 }
