@@ -1,0 +1,403 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-10-16
+
+Generated at: 2026-10-16 11:08 UTC
+Crossref date mode: `created`
+Window: `2026-10-15` to `2026-10-16`
+New papers: 39
+
+## ABS 4*
+
+### Accounting
+
+#### Accounting Review
+- Rating: ABS 4*
+- Articles: 1
+
+- [Beyond Greenwashing: Environmental Commitments and Gas Flaring in the African Oil Sector](https://doi.org/10.2308/tar-2025-0361)
+  - DOI: 10.2308/tar-2025-0361
+  - Authors: Samuel Chang; Hans B. Christensen; Andrew McKinley
+  - Affiliations: The University of Chicago; Northwestern University
+  - Published: 2026-10-15
+  - Crossref journal: The Accounting Review
+  - Abstract:
+    ABSTRACT Corporations make substantial progress toward their Zero Routine Flaring commitments globally, particularly in Africa where preexisting environmental standards are weak. Moreover, committers’ flaring reductions on the continent are driven primarily by operational improvements rather than offloading assets and are concentrated among committers facing greater stakeholder pressure. Although flaring is higher for assets continuously operated by, awarded to, or divested to noncommitters, corporate actions to uphold commitments are associated with a conservatively estimated 10 percent net reduction in flaring in Africa without a corresponding reduction in oil production or local economic activity in extraction communities. Our findings suggest that environmental commitments are backed by corporate policies akin to establishing a uniform cost of pollution across the firm’s global operations and therefore may alleviate the problems posed by globally fragmented regulation. Data Availability: All data except for Enverus oil and gas are publicly available. Enverus is available for purchase on a subscription basis. JEL Classifications: F18; K23; K32; L71; M14; M48; N57; O13; Q35; Q52; Q53; Q56.
+
+### Economics
+
+#### Journal of Political Economy
+- Rating: ABS 4*
+- Articles: 2
+
+- [Closing Ranks: Organized Labor and Immigration](https://doi.org/10.1086/744504)
+  - DOI: 10.1086/744504
+  - Authors: Carlo Medici
+  - Published: 2026-10-15
+  - Crossref journal: Journal of Political Economy
+
+- [A Theory of Economic Coercion and Fragmentation](https://doi.org/10.1086/744505)
+  - DOI: 10.1086/744505
+  - Authors: Christopher Clayton; Matteo Maggiori; Jesse Schreger
+  - Published: 2026-10-15
+  - Crossref journal: Journal of Political Economy
+
+### Innovation
+
+#### Research Policy
+- Rating: ABS 4*
+- Articles: 3
+
+- [Who Gains from creative destruction? Evidence from high-quality entrepreneurship in the United States](https://doi.org/10.1016/j.respol.2026.105642)
+  - DOI: 10.1016/j.respol.2026.105642
+  - Authors: Astrid Marinoni; John Voorheis
+  - Published: 2027-01-01
+  - Crossref journal: Research Policy
+
+- [Innovation adoption across regions: psychological openness and the early diffusion of digital platforms](https://doi.org/10.1016/j.respol.2026.105610)
+  - DOI: 10.1016/j.respol.2026.105610
+  - Authors: Tobias Ebert; Martin Obschonka; Luca M. Aiello; Jeff Potter; P. Jason Rentfrow; Samuel D. Gosling
+  - Published: 2027-01-01
+  - Crossref journal: Research Policy
+
+- [External collaboration and local knowledge divergence in regional knowledge spaces](https://doi.org/10.1016/j.respol.2026.105641)
+  - DOI: 10.1016/j.respol.2026.105641
+  - Authors: Jisoo Hur; Dieter F. Kogler; Keungoui Kim
+  - Published: 2027-01-01
+  - Crossref journal: Research Policy
+
+### Operations Research & Management Science
+
+#### Management Science
+- Rating: ABS 4*
+- Articles: 2
+
+- [Shipment Monitoring, Allocation, and the Impact on Food Waste](https://doi.org/10.1287/mnsc.2024.07382)
+  - DOI: 10.1287/mnsc.2024.07382
+  - Authors: Tao Lu
+  - Affiliations: School of Business, University of Connecticut, Storrs, Connecticut 06269
+  - Published: 2026-10-15
+  - Crossref journal: Management Science
+  - Abstract:
+    Often advocated for the potential to reduce waste in fresh produce supply chains, sensor technologies enable firms to monitor the condition of each product unit and allocate them to markets at different transportation distances, thereby matching units with shorter shelf lives with closer markets. In this paper, we consider a firm purchasing and transporting a fresh produce product for sale in two destination markets. Postharvest processes cause a proportion of the product to be in risky condition, potentially becoming unsalable (“spoiled”) due to shelf-life deterioration during transportation. With monitoring technology, the firm first determines a purchase quantity and then decides how to allocate each unit (in either good or risky condition) between markets. We characterize the optimal allocation policies, which can be used to efficiently determine the optimal purchase quantity. Our analysis shows that such technology may inadvertently increase total waste by inducing larger purchase quantities; this increase is often, but not always, accompanied by a lower waste rate and improved distribution efficiency. As firms increasingly adopt monitoring technology for shipment allocation, additional policy and managerial attention may be required. Improvements in postharvest processes can strengthen the waste-reduction benefits of monitoring technology. Firms seeking to maintain their sustainability goals can capture most of the profit gains from monitoring by carefully moderating increases in purchase quantities. This paper was accepted by Jeannette Song, operations management. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.07382 .
+
+- [Retail on Wheels: A Time-Sensitive Traveling Salesman Problem](https://doi.org/10.1287/mnsc.2023.04259)
+  - DOI: 10.1287/mnsc.2023.04259
+  - Authors: Zhuolun Dong; Junyu Cao; Wei Qi
+  - Affiliations: McCombs School of Business, The University of Texas at Austin, Austin, Texas 78712; Department of Industrial Engineering, Tsinghua University, Beijing 100084, China
+  - Published: 2026-10-15
+  - Crossref journal: Management Science
+  - Abstract:
+    Rapid advancement in self-driving technology has brought mobile retail into the spotlight. Motivated by its potential, we present a model, theory, and insights into the operations of mobile retail, where a fleet of wheeled stores traverses a service region, selectively seeks locations in which to perch, and fulfills local customer demand. The goal of retailers is to strike a balance between perching and migrating to maximize total revenue. To dispatch such stores, retailers need to consider the following time-sensitive factors: (i) how busy the service is, (ii) how soon customers will arrive, and (iii) how quickly freshness decays. We propose and analyze a model that incorporates these factors into the classical traveling salesman problem (TSP), which we call the “time-sensitive TSP.” Using the continuous approximation approach, we derive the optimal revenue as well as the upper and lower bounds in the asymptotic regime as candidate locations increase to infinity. The tightness of the bounds is validated. Our analysis demonstrates that store mobility creates value by bringing proximity to customers. We further uncover the effects of these time-sensitive features on decision making. Specifically, the scaling relationship between revenue and fleet size is affected by customer tardiness and busyness. Busyness determines stores’ ability to expand their service, whereas tardiness affects how effectively stores can utilize the initial high-freshness period. These findings deepen our understanding of mobile retail operations. This paper was accepted by Karan Girotra, operations management. Funding: J. Cao acknowledges the support from McCombs Research Excellence Grant. W. Qi acknowledges the support from the National Natural Science Foundation of China [Grants 72242106, 72188101, and 72521001]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04259 .
+
+#### Operations Research
+- Rating: ABS 4*
+- Articles: 1
+
+- [Online Decisions with (Biased) Offline Data](https://doi.org/10.1287/opre.2025.2135)
+  - DOI: 10.1287/opre.2025.2135
+  - Authors: Hyun-Soo Ahn; Mengzhenyu Zhang; Zijin Zhang
+  - Affiliations: Stephen M. Ross School of Business, University of Michigan, Ann Arbor, Michigan 48109; School of Management, University College London, London E14 5AA, United Kingdom; Carroll School of Management, Boston College, Chestnut Hill, Massachusetts 02467
+  - Published: 2026-10-15
+  - Crossref journal: Operations Research
+  - Abstract:
+    Making Better Decisions with Imperfect Historical Data Historical data can provide valuable information for online decision making, but its usefulness may be limited when the environment has changed. In “Online Decisions with (Biased) Offline Data,” Ahn, Zhang, and Zhang study how firms can combine potentially biased offline data with newly collected online observations in two canonical operations management problems: dynamic inventory decisions and dynamic pricing. The authors develop two online learning policies that balance the benefits of historical information against the risk of relying on data from a different distribution. The soft-switch policy automatically adjusts the reliance on offline and online data without requiring prior knowledge of the degree of bias. The hard-switch policy instead uses information about the magnitude of the distributional shift to determine when to rely primarily on online data. Both policies achieve optimal regret up to a logarithmic factor, whereas the analysis quantifies how the value of offline data depends on its size and bias.
+
+## ABS 4
+
+### Economics
+
+#### Econometric Theory
+- Rating: ABS 4
+- Articles: 3
+
+- [JACKKNIFE EMPIRICAL LIKELIHOOD FOR INFINITE-ORDER                     <i>U</i>                     -STATISTICS](https://doi.org/10.1017/s0266466626100681)
+  - DOI: 10.1017/s0266466626100681
+  - Authors: Qing Wang; Yichuan Zhao; Ting Zhang
+  - Affiliations: Wellesley College; Georgia State University; University of Georgia
+  - Published: 2026-10-16
+  - Crossref journal: Econometric Theory
+  - Abstract:
+    Infinite-order U -statistics play a vital role in modern statistics. However, given their degree k n $k_n$ k Subscript n depends on the sample size n , quantifying their variability is quite challenging, as fixed-degree theories cannot be directly adopted. In this article, we propose a jackknife empirical likelihood (EL) framework that can be used to construct confidence intervals for an infinite-order U -statistic. We establish sufficient conditions for the limiting chi-squared distribution of the JEL ratio statistic and introduce an efficient partition-sampling realization for practical implementation. To evaluate the performance of the proposed methodology, we conduct simulation studies in the context of subsampling-based ensemble methods and the maximum test, respectively, comparing its performance with four competing methods. The simulation studies yield satisfactory results across the board. Finally, we demonstrate the practical application of our method using a United States Forest Service timber auctions dataset to predict the highest bid at an auction.
+
+- [ON THE RELATION BETWEEN DISCRETE- AND CONTINUOUS-TIME AFFINE OPTION PRICING MODELS](https://doi.org/10.1017/s0266466626100607)
+  - DOI: 10.1017/s0266466626100607
+  - Authors: Maciej Augustyniak; Alexandru Badescu; Jean-François Bėgin; Sarath Kumar Jayaraman
+  - Affiliations: University of Montreal; University of Calgary; Simon Fraser University
+  - Published: 2026-10-15
+  - Crossref journal: Econometric Theory
+  - Abstract:
+    This article studies the weak convergence of discrete-time generalized autoregressive conditional heteroskedasticity (GARCH) and stochastic volatility (SV) option pricing models that allow for fat tails, multi-component volatilities, and non-monotonic pricing kernels. We introduce a general affine framework that enables the simultaneous derivation of new diffusion limits for Gaussian and inverse Gaussian GARCH models based on distributional invariant parametric convergence rates. When restricted to one-component specifications, our limits yield non-degenerate bivariate diffusions, generalizing the existing results in the affine GARCH literature. By using alternative parametric convergence rates, we further provide a comprehensive classification of all possible limits for two classes of affine and non-affine discrete-time SV models. Specifically, we show that the canonical affine classes of models popularized in discrete and continuous time are not analogous to one another. Our theoretical results are supported by a series of numerical experiments that investigate the impact of parametric scaling assumptions and model features on the convergence of European option prices. Overall, we find that the new limiting diffusions produce option prices that are closest to their discrete-time counterparts sampled at daily frequency.
+
+- [ESTIMATION AND INFERENCE OF NONLINEAR AUTOREGRESSIVE DISTRIBUTED LAG MODELS WITH TIME TREND BY ORDINARY LEAST SQUARES](https://doi.org/10.1017/s0266466626100590)
+  - DOI: 10.1017/s0266466626100590
+  - Authors: Jin Seo Cho
+  - Affiliations: Yonsei University
+  - Published: 2026-10-15
+  - Crossref journal: Econometric Theory
+  - Abstract:
+    This study examines the large-sample behavior of an ordinary least squares (OLS) estimator within a correctly specified nonlinear autoregressive distributed lag (NARDL) model for nonstationary data. Although the OLS estimator suffers from an asymptotically singular matrix problem, it remains consistent for unknown model parameters and asymptotically follows a mixed normal distribution. Additionally, we examine the large-sample behavior of the standard Wald test, as defined by the OLS estimator, for asymmetries in long- and short-run NARDL parameters, and enhance this analysis with a super-consistent long-run parameter estimator. We then confirm the theory on the Wald test using Monte Carlo simulations. Finally, using U.S. GDP and exogenous fiscal shock data, we demonstrate the use of the OLS estimator and show statistical evidence of long- and short-run symmetries between the effects of tax increases and decreases on U.S. GDP.
+
+#### International Economic Review
+- Rating: ABS 4
+- Articles: 1
+
+- [Debt Aversion: Theory and Measurement](https://doi.org/10.1111/iere.70122)
+  - DOI: 10.1111/iere.70122
+  - Authors: David Albrecht; Thomas Meissner
+  - Affiliations: WZB Berlin Social Science Center Berlin Germany; Maastricht University Maastricht the Netherlands
+  - Published: 2026-10-15
+  - Crossref journal: International Economic Review
+  - Abstract:
+    ABSTRACT We propose a model of debt aversion and conduct an experiment with real debt and saving contracts to jointly elicit debt aversion and preferences over time, risk, and intertemporal losses. We find that 89% of participants are debt averse, which strongly influences their choices. The estimated “borrowing premium,” the compensation an average person requires to accept debt, is around 16% of the principal. Applying a validated survey module to a representative sample of German households, we find that debt aversion is both statistically and economically significantly associated with actual debt‐taking and financial health.
+
+#### Journal of International Economics
+- Rating: ABS 4
+- Articles: 1
+
+- [Love-for-variety: with an application to an Armington model of competitive trade](https://doi.org/10.1016/j.jinteco.2026.104345)
+  - DOI: 10.1016/j.jinteco.2026.104345
+  - Authors: Kiminori Matsuyama; Philip Ushchev
+  - Published: 2026-10-01
+  - Crossref journal: Journal of International Economics
+
+#### Journal of the American Statistical Association
+- Rating: ABS 4
+- Articles: 1
+
+- [Popularity Regression-Based Latent Space Model for Large-Scale Sparse Network Analysis](https://doi.org/10.1080/01621459.2026.2744404)
+  - DOI: 10.1080/01621459.2026.2744404
+  - Authors: Zhan Gao; Danyang Huang; Rui Pan; Hansheng Wang
+  - Affiliations: Guanghua School of Management, Peking University; Center for Applied Statistics and School of Statistics, Renmin University of China; School of Statistics and Mathematics, Central University of Finance and Economics
+  - Published: 2026-10-15
+  - Crossref journal: Journal of the American Statistical Association
+
+### Finance
+
+#### Journal of Money, Credit and Banking
+- Rating: ABS 4
+- Articles: 1
+
+- [Environmental Incidents and Sustainability Pricing Provisions](https://doi.org/10.1111/jmcb.70096)
+  - DOI: 10.1111/jmcb.70096
+  - Authors: HUYEN NGUYEN; SOCHIMA UZONWANNE
+  - Published: 2026-10-15
+  - Crossref journal: Journal of Money, Credit and Banking
+  - Abstract:
+    Abstract We investigate whether lenders use sustainability pricing provisions (SPPs) to manage borrower environmental risk. Using unexpected negative environmental incidents as shocks to environmental risk, we find that lenders are 10 percentage points less likely to include SPPs in loans to environmentally risky borrowers. Instead, they rely on conventional tools, including higher interest rates, stricter covenants, and collateral requirements. The effect weakens under strong institutional investor demand or when lenders can sell loans in secondary markets. Our study suggests that SPPs primarily help attract institutional investors rather than manage risk, with implications for the design and regulation of sustainability‐linked financial instruments.
+
+#### Review of Finance
+- Rating: ABS 4
+- Articles: 1
+
+- [Measuring Measurement Error](https://doi.org/10.1093/rof/rfag049)
+  - DOI: 10.1093/rof/rfag049
+  - Authors: N Aaron Pancost; Garrett Schaller
+  - Affiliations: University of Texas at Austin , McCombs School of Business; Colorado State University , College of Business
+  - Published: 2026-10-16
+  - Crossref journal: Review of Finance
+  - Abstract:
+    Abstract We collect 2,848 instrumental variable (IV) regressions from 391 papers published in top economics and finance journals and show that estimated IV coefficients are often much larger than their OLS counterparts, even when theory suggests they should be smaller. We derive meta-regression estimators that distinguish measurement error bias from omitted variable bias and simultaneity bias; applying our estimators to a set of 1,040 comparable regressions from 139 papers, we find that measurement error shrinks reported coefficients by about two to four times. Measurement error remains quantitatively important even after accounting for weak instruments, publication bias, instrument invalidity, and heterogeneous treatment effects. Our results suggest that measurement error is a severe, pervasive, and understated source of bias in economics and finance.
+
+### General Management, Ethics & CSR
+
+#### Journal of Management Studies
+- Rating: ABS 4
+- Articles: 1
+
+- [<scp>CEO</scp>                     Ideologically (In)Congruent Activism and Investor Reactions: An Attribution of                     <scp>CEO</scp>                     Intentions Perspective](https://doi.org/10.1111/joms.70175)
+  - DOI: 10.1111/joms.70175
+  - Authors: Miao Yun; Longwang Fu
+  - Affiliations: City University of Hong Kong; Shanghai Jiao Tong University
+  - Published: 2026-10-16
+  - Crossref journal: Journal of Management Studies
+  - Abstract:
+    Abstract The phenomenon of chief executive officers (CEOs) taking activism stances on contested sociopolitical issues is increasing, yet it remains unclear how observing investors discern CEO intentions behind activism engagements, thereby shaping their judgments and subsequent reactions. By relaxing the assumption that CEO activism is an unabashed expression of personal beliefs, we propose the concept of CEO ideologically (in)congruent activism and develop a framework wherein investors may attribute CEO intentions underlying incongruent (versus congruent) activism engagements as more organization‐driven (versus self‐driven) interest pursuits, thereby leading to more positive investor evaluations and reactions. Furthermore, we argue that the positive effect of CEO ideologically incongruent activism on investor reactions will be amplified when the CEO owns a higher level of stock ownership but weakened when the firm receives a greater corporate social responsibility (CSR) rating. We corroborate our propositions using a sample of CEO activism events for S&P 500 firms from 2012 to 2021. Our findings demonstrate the heterogeneity and critical influence of CEO intentions behind activism engagements and shed light on how investors integrate multi‐informational cues when evaluating and reacting to managerial incongruent behaviours.
+
+### Innovation
+
+#### Scientometrics
+- Rating: ABS 4
+- Articles: 2
+
+- [Measuring research-related academic performance in a comprehensive university: individual heterogeneity, institutional context, and multidimensional output profiles](https://doi.org/10.1007/s11192-026-05849-x)
+  - DOI: 10.1007/s11192-026-05849-x
+  - Authors: Claudiu Vasile Kifor; Horațiu Rusu; Ana-Maria Benedek; Ioan Sîrbu; Roxana Florența Săvescu
+  - Published: 2026-10-15
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract Assessing research-related academic performance remains a central challenge in scientometrics because scholarly output is multidimensional, unevenly distributed across individuals, and embedded in disciplinary and institutional contexts. This study examines the relative contribution of between-individual heterogeneity and institutional context to research-related academic performance in a Romanian comprehensive public university, using a five-year panel dataset comprising 444 academic staff members and 2,220 person-year observations from 2017 to 2021. Performance was measured through two complementary approaches: a relative performance indicator expressing each individual’s annual research score in relation to the benchmark for their current academic position, and a multidimensional activity profile based on 20 research-output indicators. Generalized linear mixed models, exploratory generalized additive models (GAM), and multivariate constrained ordination were used. The most parsimonious mixed model retained year, age, academic title, and study field and yielded a marginal R 2 of 23% and a conditional R 2 of 78%. Constrained ordination showed a similar pattern, with respondent identity explaining 49.79% of adjusted variation in activity profiles. Over time, output profiles shifted toward Q1/Q2 publications and independent citations. In the GAM analysis, work seniority was not associated with relative performance, whereas time since last promotion showed a nonlinear relationship, with performance increasing during the first years after promotion and declining thereafter. Overall, persistent between-individual differences accounted for the largest share of structured variation, while institutional, field-specific, and career-stage factors contributed to differences in the level and composition of academic output.
+
+- [Citation accuracy, citation noise, and citation bias: a foundation of citation analysis](https://doi.org/10.1007/s11192-026-05841-5)
+  - DOI: 10.1007/s11192-026-05841-5
+  - Authors: Lutz Bornmann; Christian Leibel
+  - Published: 2026-10-15
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract Citation analysis is widely used in research evaluation to assess the impact of scientific papers. These analyses rest on the assumption that citation decisions by authors are accurate, representing the flow of knowledge from cited to citing papers. However, in practice, researchers often cite for reasons that are not related to the fact that there has been (intellectual) input from previous papers. Citations made for rhetorical reasons or without reading the cited work compromise the value of citations as instrument for research evaluation. Past research on threats to the accuracy of citations has mainly focused on citation bias as the primary concern. In this paper, we argue that citation noise—the undesirable variance in citation decisions—represents an equally critical but underexplored challenge in citation analysis. We define and differentiate two types of citation noise: citation level noise and citation pattern noise. Each type of noise is described in terms of how it arises and the specific ways it can undermine the validity of citation-based research assessments. By conceptually differing citation noise from citation accuracy and citation bias, we propose a framework for the foundation of citation analysis. We discuss strategies and interventions to minimize citation noise, aiming to improve the reliability and validity of citation analysis in research evaluation. We recommend that the current professional reform movement in research evaluation such as the Coalition for Advancing Research Assessment (CoARA) pick up these strategies and interventions as an additional building block for careful, responsible use of bibliometric indicators in research evaluation.
+
+### Operations & Technology Management
+
+#### Production and Operations Management
+- Rating: ABS 4
+- Articles: 6
+
+- [Response efficiency versus response customization: An examination of firms’ responses to platform-empowered group complaints](https://doi.org/10.1177/10591478261498521)
+  - DOI: 10.1177/10591478261498521
+  - Authors: Zilong Liu; Xuequn Wang; Xin (Robert) Luo; Chaoqun Chu; Tingting Song
+  - Affiliations: Dongbei University of Finance and Economics; University of New Mexico; Hong Kong Metropolitan University; Shanghai Jiao Tong University
+  - Published: 2026-10-15
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    The rise of group complaints on digital platforms, where consumers can publicly voice collective concerns, presents significant challenges for firms’ service recovery operations. Prior research assessing service operations on digital platforms has focused primarily on individual complaints, and less is known about how firms respond to platform-empowered (PE) group complaints. We examine this question through the lens of a trade-off between response efficiency and response customization and argue that this trade-off evolves as group complaints develop over time. Based on a large-scale dataset from Tousu, a leading complaint platform in China, we find that group complaints paradoxically increase response time and decrease empathy and explanation in firms’ responses. Further analyses indicate that these effects depend on dynamic group size and dynamic need diversity. When dynamic need diversity is low, larger groups are associated with more standardized, efficiency-oriented responses, whereas when dynamic need diversity is high, larger groups are associated with slower but more customized responses. These findings extend research on service operations by showing how PE group complaints reshape firms’ complaint handling. Our study also provides operational guidance for managing group complaints more effectively.
+
+- [EXPRESS: Valuation Bottlenecks: Why Isn’t a Better Business Enough for a Higher Market Capitalization?](https://doi.org/10.1177/10591478261499473)
+  - DOI: 10.1177/10591478261499473
+  - Authors: Shumpei Iwao; Vatsal Mitesh Tailor; Qi Wu
+  - Published: 2026-10-15
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Firms often improve operations, disclosure, governance, or financing capacity without an immediate and proportional market-capitalization response. Could a single unresolved concern limit the market's response to improvements elsewhere in the firm? Classical multifactor and machine-learning models ask which risks or characteristics explain or predict returns. We ask whether the relatively weakest among several coexisting firm conditions receives disproportionate valuation weight. We model equity value as the lower envelope of lens-specific valuations. A hard minimum makes one lens locally binding; a soft minimum assigns continuous, state-dependent weights. We use exploratory factor analysis on 268 accounting characteristics to construct five firm-state lenses, with membership and weights determined by the loading structure rather than by an economic taxonomy, and rank each lens within industry, size, and quarter peers. We document a weakest lens effect : beyond the additive effects of all five lens ranks, a firm's weakest lens carries an incremental association with next-quarter returns, and it survives saturated joint rank-quintile controls. Gating the test at the bottom decile and then the bottom quintile of the peer distribution, the association is concentrated among firms whose weakest lens is weak against peers and not merely lowest within the firm. In baseline soft-min specifications, it fades steadily as the gate is widened. We then investigate whether analyst attention may help explain this pattern. We use large language models on 1.7 million earnings-call questions and find that, in baseline specifications, the weakest lens attracts a larger share of questions, especially when it is also weak among peers; this cross-sectional alignment is consistent with an attention channel as one possible explanation for the observed return pattern. The framework offers managers seeking to maximize market capitalization a new perspective on prioritizing scarce managerial attention.
+
+- [EXPRESS: Pricing and Information Provision in Service Platforms with Heterogeneous Customers](https://doi.org/10.1177/10591478261498518)
+  - DOI: 10.1177/10591478261498518
+  - Authors: Xin Weng; Lijian Lu; Li Xiao
+  - Published: 2026-10-15
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Service platforms frequently employ virtual queues where customers have differing sensitivities to wait times and cannot see their precise positions in line. In these settings, providers often disclose waiting-time information to influence customers' decisions on whether to join or balk. A natural benchmark is to report the long-term average waiting time, yet whether this deterministic disclosure policy is optimal remains unclear when both pricing and customer participation are endogenous. This study develops a stylized theoretical framework to explore the joint structure of pricing and waiting-time information disclosure for service providers managing diverse customers in a virtual queue. The provider decides on both the service price and the waiting-time disclosure policy within a rational-expectations framework. Our findings reveal that the optimal disclosure strategy is captured by scaled Rademacher distributions, meaning at most two distinct announcement values are required. This reduces a complex infinite-dimensional problem to a more manageable finite-dimensional optimization task. Leveraging this framework, we derive the optimal strategies for pricing and disclosure, identifying scenarios where variability in announced waiting times is beneficial. Our analysis shows that noise is advantageous when customers can handle uncertain wait-time signals or initially perceive the service as quick. The optimal level of noise correlates with system congestion, offering the greatest benefits when there is a notable disparity between perceived and actual congestion levels. This provides significant advantages when disclosing waiting times with noise. These findings offer actionable insights for service platforms, guiding them in creating cohesive strategies that encompass pricing, information disclosure, and service configuration, ultimately enhancing customer experience and operational efficiency.
+
+- [EXPRESS: Multi-Self Presentation and Knowledge Contribution in Platform Operations: Evidence from a Natural Experiment](https://doi.org/10.1177/10591478261498550)
+  - DOI: 10.1177/10591478261498550
+  - Authors: Yingpeng Zhu; Zike Cao; Gen Li; Yi Yang; Liangfei Qiu
+  - Published: 2026-10-15
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Operations of online user-generated content (UGC) platforms often involve tackling under-provision , wherein users lack motivation to contribute sufficient content. We study a novel design deployed to address this issue: the integration of a proprietary social feature that allows users to post casual free-form content (e.g., casual social content) alongside standard formal content on the platform. Leveraging a quasi-experiment on a large Chinese online knowledge-sharing platform, we assess the effects of integrating such a social feature on users' formal knowledge contribution (i.e., writing answers to others' questions ). Using difference-in-differences (DiD) analyses paired with various matching strategies, such as propensity score matching and look-ahead propensity score matching, we find that users who adopt and frequently use the feature (i.e., high adopters) show a stronger incentive to contribute answers without compromising quality. These results are further validated by a set of robustness checks. Further mediation analysis suggests that such a complementary effect might be because of two mechanisms related to the integrated social feature's multi-self presentation function: First, the new feature increases high adopters' engagement on the platform and leads them to consume more knowledge content, which in turn facilitates knowledge contribution; Second, high adopters receive more social recognition benefits by building a more complete self through the integrated social feature, and such increased social recognition benefits further motivate more subsequent content contribution. Moreover, employing a text-mining approach to assess the semantic similarity between users' casual social content and their formal knowledge contributions, we find that the complementary effect is amplified for high adopters whose casual posts remain more closely connected to their formal knowledge domain (i.e., are more semantically aligned with their formal knowledge). Our results have novel implications for platform design and operations to motivate users to contribute valuable content.
+
+- [EXPRESS: Mind the Cost of Disturbance: Firm-Level Supply Chain Risk and the Bank Loan Cost](https://doi.org/10.1177/10591478261499809)
+  - DOI: 10.1177/10591478261499809
+  - Authors: Daxuan Cheng; Lei Gao; Yin Liao; Zheyao Pan
+  - Published: 2026-10-15
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    This study investigates whether and how supply chain risk, a core operational vulnerability, is priced in financial credit markets. Using a novel text-based firm-level measure, we show that elevated supply chain risk leads to higher loan interest spreads. Exploiting natural disasters as exogenous shocks to production networks, we provide causal evidence that shocks increase perceived supply chain fragility and, in turn, raise borrowing costs. These effects are amplified when lenders face greater private-information deficiency, and are further strengthened when external information production is more intensive — the former heightening lenders’ concern over supply chain exposure, the latter enhancing their capacity to recognize and price it. Critically, lenders treat supply chain fragility as a form of credit risk: firms with higher supply chain risk face increased default risk, and firms whose production networks are struck by supplier disasters face a higher probability of covenant violation and tighter covenant restrictions, signaling lenders’ anticipation of repayment difficulties. Our findings highlight a new financial consequence of operational risk, showing that supply chain disruption directly affects corporate financing outcomes.
+
+- [EXPRESS: From Institutional Expansion to Exposure-Driven Co-Evolution: Reinterpreting “Operations and Supply Chain Management in China”](https://doi.org/10.1177/10591478261499474)
+  - DOI: 10.1177/10591478261499474
+  - Authors: Yinghao Pan; Dingyi Tang; Jie Wu; Yuan Sun; Liangfei Qiu
+  - Published: 2026-10-15
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    This paper builds on and reinterprets Wu (2026a,b), which offers a comprehensive account of the rapid institutional, educational, and research development of Operations and Supply Chain Management (OSCM) in China. While the Institutional–Dynamic–Organizational (IDO) framework effectively captures domestic structural transformation, it under-theorizes a critical external driver of this evolution: international knowledge exposure and collaboration. To address this gap, we complement Wu’s analysis with a bibliometric study of published articles in Production and Operations Management from 1992 to 2026. The evidence shows that China’s growing presence in OSCM research is overwhelmingly collaboration-mediated, with China–U.S. co-authorship constituting the dominant channel of integration. The rise of China in top-tier OSCM journals is therefore not primarily an autonomous national trajectory, but a structurally embedded phenomenon within global co-authorship networks. Our findings suggest that China’s OSCM evolution cannot be fully explained by domestic institutional expansion, policy support, or educational scaling alone. Instead, it reflects a broader process of exposure-driven co-evolution within a globally integrated knowledge system. In this system, international collaboration is not merely a byproduct of scientific development but a central mechanism shaping the structure and trajectory of global OSCM knowledge production.
+
+### Operations Research & Management Science
+
+#### European Journal of Operational Research
+- Rating: ABS 4
+- Articles: 4
+
+- [Minimizing network development costs using reverse p-median models](https://doi.org/10.1016/j.ejor.2026.09.050)
+  - DOI: 10.1016/j.ejor.2026.09.050
+  - Authors: Jaehwan Jeong; Joyendu Bhadury
+  - Published: 2026-10-01
+  - Crossref journal: European Journal of Operational Research
+
+- [An exact aggregation–disaggregation method for a class of mixed-integer linear programs](https://doi.org/10.1016/j.ejor.2026.09.052)
+  - DOI: 10.1016/j.ejor.2026.09.052
+  - Authors: Jiarui Zhang; Alessio Trivella; Xiaojie Luan
+  - Published: 2026-10-01
+  - Crossref journal: European Journal of Operational Research
+
+- [A new perspective on multi-objective project scheduling problems: Evaluating with multiple reference profiles](https://doi.org/10.1016/j.ejor.2026.10.014)
+  - DOI: 10.1016/j.ejor.2026.10.014
+  - Authors: Ziyang Tang; Tom Servranckx; Mario Vanhoucke; Zhengwen He
+  - Published: 2026-10-01
+  - Crossref journal: European Journal of Operational Research
+
+- [2026 Editors’ awards for excellence in reviewing](https://doi.org/10.1016/j.ejor.2026.10.021)
+  - DOI: 10.1016/j.ejor.2026.10.021
+  - Published: 2026-10-01
+  - Crossref journal: European Journal of Operational Research
+
+### Organisation Studies
+
+#### Organization Studies
+- Rating: ABS 4
+- Articles: 5
+
+- [Media Review: The Ocean between Utopias and Dystopias](https://doi.org/10.1177/01708406261499498)
+  - DOI: 10.1177/01708406261499498
+  - Authors: Judith Christina Ströhle
+  - Published: 2026-10-16
+  - Crossref journal: Organization Studies
+
+- [Media Review: The Objects That Count Us](https://doi.org/10.1177/01708406261499495)
+  - DOI: 10.1177/01708406261499495
+  - Authors: Giada Baldessarelli
+  - Published: 2026-10-16
+  - Crossref journal: Organization Studies
+
+- [Media Review: Moving From Robust Identities to Ontological Differences in Organization Theory?](https://doi.org/10.1177/01708406261499488)
+  - DOI: 10.1177/01708406261499488
+  - Authors: Damian O'Doherty; Dennis Jancsary
+  - Published: 2026-10-16
+  - Crossref journal: Organization Studies
+
+- [Media Review: Homebound: Caste, Muslim Identity, and the Organizational Politics of Stigmatized Lives](https://doi.org/10.1177/01708406261499502)
+  - DOI: 10.1177/01708406261499502
+  - Authors: Shoaib Ahmed; Ritesh Kumar; Snehanjali Chrispal
+  - Published: 2026-10-16
+  - Crossref journal: Organization Studies
+
+- [Measuring Organizational Constructs in Large-Scale Text: An interpretive framework combining topic modeling and BERT](https://doi.org/10.1177/01708406261499506)
+  - DOI: 10.1177/01708406261499506
+  - Authors: Ana Alina Tudoran; Nicole Franziska Richter; Jeisson A. Higuera Reina; Surabhi Verma
+  - Published: 2026-10-16
+  - Crossref journal: Organization Studies
+  - Abstract:
+    Measuring organizational constructs in large-scale unstructured text requires methods that preserve interpretive depth while enabling systematic, per-document classification. Structural Topic Modeling (STM) supports interpretive depth by surfacing patterns that inform construct operationalization, but its topic proportions are not designed as standalone per-document construct measures; transformer-based models such as BERT can scale measurement but require construct operationalization grounded in interpretive work. We address this challenge through a two-stage framework in which STM and BERT play structurally distinct roles. Coding schemes are developed through qualitative interpretation and STM analysis; BERT is then fine-tuned to apply these schemes across documents. We formalize two research approaches—construct-guided and pattern-discovery—that provide principled paths from different theoretical starting points toward a shared methodological endpoint: validated, auditable per-document construct measures. We illustrate the framework using more than 20,000 employee reviews. The framework supports iterative construct validation, using computational diagnostics to guide interpretive refinement and producing document-level measures suitable for theory-informed organizational analysis.
+
+### Public Sector & Health Care
+
+#### Governance
+- Rating: ABS 4
+- Articles: 1
+
+- [Rethinking Multilevel Governance. By ArthurBenz. Cheltenham, UK: Edward Elgar Publishing, 2024. 208 pp. ISBN: 978‐1‐03‐530628‐2](https://doi.org/10.1111/gove.70158)
+  - DOI: 10.1111/gove.70158
+  - Authors: Miguel Matos Torres
+  - Affiliations: Kent Business School University of Kent Canterbury UK
+  - Published: 2026-10-15
+  - Crossref journal: Governance
+
+#### Public Management Review
+- Rating: ABS 4
+- Articles: 2
+
+- [Mapping empathy in policy work: how public servants understand and use it](https://doi.org/10.1080/14719037.2026.2749676)
+  - DOI: 10.1080/14719037.2026.2749676
+  - Authors: Assel Mussagulova; Colette Einfeld
+  - Affiliations: University of Sydney; Australian National University
+  - Published: 2026-10-16
+  - Crossref journal: Public Management Review
+
+- [One size does not fit all: management strategies to reduce turnover intention among public sector employees](https://doi.org/10.1080/14719037.2026.2748381)
+  - DOI: 10.1080/14719037.2026.2748381
+  - Authors: Evelyn Rodriguez-Plesa; Ana-Maria Dimand; Mohamad G. Alkadry; Sawsan Abutabenjeh
+  - Affiliations: University of Central Florida; Florida State University; University of Connecticut; United Arab Emirates University
+  - Published: 2026-10-15
+  - Crossref journal: Public Management Review
+
+### Social Sciences & Sociology
+
+#### Sociology
+- Rating: ABS 4
+- Articles: 1
+
+- [Elites in a high-trust society: Exploring the elite‒population trust gap](https://doi.org/10.1177/00380385261481662)
+  - DOI: 10.1177/00380385261481662
+  - Authors: Christoph Houman Ellersgaard; Caroline Ahler Christesen; Silas Harrebye; Trine Cosmus Nobel
+  - Affiliations: Department of Organization, Copenhagen Business School, Denmark; Department of Society and Business, Roskilde University, Denmark
+  - Published: 2026-10-15
+  - Crossref journal: Sociology
+  - Abstract:
+    While the legitimacy of key institutions of liberal democracy is under threat, we know little about differences in the trust placed in these institutions by elites and the population. We explore differences in trust between elites and the population (i.e. the elite–population trust gap) by combining a survey of 75 members of the power elite with data from the European Values Study in Denmark. Using principal component analysis, we construct a three-dimensional space of institutional trust in the population. The elite–population trust gap vastly exceeds trust gaps based on other socio-demographic factors (e.g. education), and almost no members of the power elite display a high degree of institutional mistrust. This trust gap is strongest in institutions in which elites themselves are embedded (e.g. the public sector, major companies), but insignificant when it comes to institutions not embedded within elite networks (e.g. social media, environmental organisations).
