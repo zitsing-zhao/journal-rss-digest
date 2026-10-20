@@ -21090,12 +21090,369 @@
       "abs_journal_title": "European Journal of Operational Research",
       "published_date": "2026-10-01",
       "first_seen": "2026-10-19T12:50:56.493919+00:00"
+    },
+    "10.1016/j.jbusvent.2026.106658": {
+      "title": "Competing against whom? Competitor identification and opportunity belief revision",
+      "journal": "Journal of Business Venturing",
+      "abs_journal_title": "Journal of Business Venturing",
+      "published_date": "2027-01-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1016/j.jfineco.2026.104387": {
+      "title": "Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act",
+      "journal": "Journal of Financial Economics",
+      "abs_journal_title": "Journal of Financial Economics",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1080/00343404.2026.2733301": {
+      "title": "Urban spatial structure and entrepreneurship: sectoral and developmental heterogeneities",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1111/irel.70051": {
+      "title": "Correction to “\n                    <scp>Integrated Strategies for Union Legitimacy</scp>\n                    (\n                    <scp>Re</scp>\n                    )\n                    <scp>Building</scp>\n                    : A\n                    <scp>Process Model</scp>\n                    ”",
+      "journal": "Industrial Relations: A Journal of Economy and Society",
+      "abs_journal_title": "Industrial Relations",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1093/rfs/hhag093": {
+      "title": "Optimal Information and Security Design",
+      "journal": "The Review of Financial Studies",
+      "abs_journal_title": "Review of Financial Studies",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1093/rfs/hhag092": {
+      "title": "How Private Equity Fuels Nonbank Lending",
+      "journal": "The Review of Financial Studies",
+      "abs_journal_title": "Review of Financial Studies",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.2308/tar-2025-0493": {
+      "title": "Productivity versus Efficiency: The Effect of Incentive Focus on Target Setting in Participative Budgets",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.2308/tar-2024-0836": {
+      "title": "How Black Accounting Faculty Exercise Agency to Navigate Career Advancement within Institutional Structures",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.2308/tar-2023-0659": {
+      "title": "Does Free Speech Law Contribute to Corporate Social Responsibility Behavior? Empirical Evidence",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1002/smj.70137": {
+      "title": "Investors' ideology and corporate symbolic and substantive climate actions",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1287/opre.2025.2250": {
+      "title": "Semibandit Learning for Monotone Stochastic Optimization",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1287/mnsc.2024.07966": {
+      "title": "Disagreement and Bond PEAD",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1287/mnsc.2025.03836": {
+      "title": "Conditional and Lenient Drug Approvals",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1287/isre.2024.1104": {
+      "title": "Technology-Mediated Services in Health Care: Evaluating Telehealth Delivery Models for Underserved Populations",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1287/isre.2025.2332": {
+      "title": "Does Private Equity Hurt or Improve Healthcare Value? New Evidence and Mechanisms",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1093/ej/ueag133": {
+      "title": "The Immigration Surplus Revisited",
+      "journal": "The Economic Journal",
+      "abs_journal_title": "Economic Journal",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1093/ej/ueag134": {
+      "title": "Networks of Dissent: Social Leaders and Protest in an Autocracy",
+      "journal": "The Economic Journal",
+      "abs_journal_title": "Economic Journal",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1177/00380385261455241": {
+      "title": "Symbolic governance and the spatial politics of disorder: Anti-social behaviour in Belfast’s ‘Holyland’",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1093/rof/rfag048": {
+      "title": "Insurance and Assurance: Government Interventions and Depositor Behavior in Crisis",
+      "journal": "Review of Finance",
+      "abs_journal_title": "Review of Finance",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1007/s10107-026-02428-z": {
+      "title": "Solutions of two-stage stochastic minimax problems",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1007/s10107-026-02430-5": {
+      "title": "Advances in progressive decoupling methodology for problem decomposition in optimization",
+      "journal": "Mathematical Programming",
+      "abs_journal_title": "Mathematical Programming",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1093/jrsssb/qkag137": {
+      "title": "Correction: Optimal inference of the mean outcome under optimal treatment regime",
+      "journal": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+      "abs_journal_title": "Journal of the Royal Statistical Society. Series B: Statistical Methodology",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1093/jeea/jvag065": {
+      "title": "National Wage Contracts, Monopsony, and Welfare in a North-South Economy,",
+      "journal": "Journal of the European Economic Association",
+      "abs_journal_title": "Journal of the European Economic Association",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1093/jopart/muag031": {
+      "title": "Balancing risk communication and accountability concerns in risk management: A study of major public project investments",
+      "journal": "Journal of Public Administration Research and Theory",
+      "abs_journal_title": "Journal of Public Administration Research and Theory",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1093/jeg/lbag066": {
+      "title": "Polycrisis and global production networks: a framework for understanding industry dynamics in times of accumulated uncertainty",
+      "journal": "Journal of Economic Geography",
+      "abs_journal_title": "Journal of Economic Geography",
+      "published_date": "2026-10-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.2308/tar-2024-0214": {
+      "title": "Internal Control over Financial Reporting and Mortgage Fraud",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1016/j.lrp.2026.102696": {
+      "title": "A Design Science Approach to Scaling Platform Business Models",
+      "journal": "Long Range Planning",
+      "abs_journal_title": "Long Range Planning",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1016/j.ejor.2026.10.031": {
+      "title": "Managing supply chain tensions: The strategic interaction between promoted listings and manufacturer encroachment",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1016/j.ejor.2026.10.036": {
+      "title": "Exact decomposition algorithms for the student clustering problem",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1016/j.ejor.2026.10.035": {
+      "title": "Dynamic Capacity-Constrained Bin Packing for Capacity Batching: A New Framework for Multi-Stage Steel Production Scheduling",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1353/wp.2026.a1003946": {
+      "title": "When Does Civil Society Prevent Violence? Civic Networks, Demography, and Communal Conflict in Côte d'Ivoire",
+      "journal": "World Politics",
+      "abs_journal_title": "World Politics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1353/wp.2026.a1003943": {
+      "title": "The Paradox of Imperial Taxation: How Diversity Shaped Fiscal Development in the Ottoman Empire",
+      "journal": "World Politics",
+      "abs_journal_title": "World Politics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1353/wp.2026.a1003945": {
+      "title": "Renewing Democracy: How Exposure to Electoral Turnovers Reinforces Citizens' Democratic Support",
+      "journal": "World Politics",
+      "abs_journal_title": "World Politics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1353/wp.2026.a1003947": {
+      "title": "Referees",
+      "journal": "World Politics",
+      "abs_journal_title": "World Politics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1353/wp.2026.a1003944": {
+      "title": "Political Socialization In Authoritarian Regimes: Sites and Everyday Experiences for Young People in Zimbabwe",
+      "journal": "World Politics",
+      "abs_journal_title": "World Politics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1353/wp.2026.a1003942": {
+      "title": "Framing Democracy: How Elites' Discourse Shapes Citizens' Understandings of Democracy and Enables Backsliding",
+      "journal": "World Politics",
+      "abs_journal_title": "World Politics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/18374": {
+      "title": "Collective Attention Configurations in Open-Source Software Development: Interlacing for High Performance1",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-09-12",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/19247": {
+      "title": "Immersion in Online Interaction Rituals: The Paradoxical Role of Time-Synchronized Comments on Video Platforms",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-08-19",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/19274": {
+      "title": "Quo Vadis (IT) Strategy? Rethinking Strategy Within Digital Logic",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-08-08",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/19158": {
+      "title": "Outcome Over Process: Advancing Both Fairness and Performance in Crowdfunding Through ML-Assisted Promotion",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/19720": {
+      "title": "How Generative AI Transforms Questioning Behavior on Q&amp;A Platforms: Evidence from a Natural Experiment with Pilot Usage of ChatGPT",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-08-03",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/19531": {
+      "title": "Detecting and Correcting Estimation Bias Caused by Content Deletion in User-generated Content Studies",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-07-25",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/19632": {
+      "title": "Intelligent Approach to Discovering a New Functional Model Quantifying the Long-Tail Distribution of Online Markets",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-07-08",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/19337": {
+      "title": "From Monologue to Dialogue: Remaking Public Service Communication with\n                    <i>Celebrity-as-a-Service</i>",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-06-29",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/19712": {
+      "title": "Cross-Platform Links: Blessing or Curse?",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-06-29",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/19126": {
+      "title": "A Generalist Activity Paradox: Individual Performance and Collective Production Efficiency on Open Innovation Platforms",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-06-27",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/19117": {
+      "title": "Reconceptualizing Patient Engagement with Mobile Healthcare Apps: A Computationally Intensive Theory Development for Patient Engagement Networks",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-05-12",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/16819": {
+      "title": "Innovation Orientation in New Product A Unified Framework of Backward-Looking and Forward-Looking Perspectives",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-04-15",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/19254": {
+      "title": "“Phygital” Experiences: Optimization, Tailoring, and Pricing Contract Strategies on Online Platforms1",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-02-13",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2026/18349": {
+      "title": "Digital Resilience as a Process of Relational Resourcing1",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2026-01-31",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.25300/misq/2025/18827": {
+      "title": "Alert for Alerts: How Investment Price Tracking Alerts Affect Retail Investors1",
+      "journal": "MIS Quarterly",
+      "abs_journal_title": "MIS Quarterly: Management Information Systems",
+      "published_date": "2025-12-26",
+      "first_seen": "2026-10-20T11:18:03.940926+00:00"
     }
   },
-  "last_run": "2026-10-19T12:50:56.493919+00:00",
+  "last_run": "2026-10-20T11:18:03.940926+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-10-18",
-    "end_date": "2026-10-19"
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-20"
   }
 }
