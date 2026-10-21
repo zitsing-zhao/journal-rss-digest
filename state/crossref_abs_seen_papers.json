@@ -21447,12 +21447,229 @@
       "abs_journal_title": "MIS Quarterly: Management Information Systems",
       "published_date": "2025-12-26",
       "first_seen": "2026-10-20T11:18:03.940926+00:00"
+    },
+    "10.1007/s11192-026-05873-x": {
+      "title": "Mutualism in socio-semantic networks: structural correlates of publication output across ecosystem approaches to health",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-10-21",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1007/s11192-026-05851-3": {
+      "title": "FOS: a large-scale temporal graph benchmark for scientific interdisciplinary link prediction",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-10-21",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1017/s0266466626100693": {
+      "title": "A BOOTSTRAP SPECIFICATION TEST FOR SEMIPARAMETRIC MODELS WITH GENERATED REGRESSORS",
+      "journal": "Econometric Theory",
+      "abs_journal_title": "Econometric Theory",
+      "published_date": "2026-10-21",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.2308/tar-2024-0048": {
+      "title": "IPOs and Foreign Tax Structures",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.2308/tar-2025-0183": {
+      "title": "Balancing Act: How Unaffiliated Analysts Navigate Private Information Disadvantages",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1086/744577": {
+      "title": "Welfare and the Act of Choosing",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1086/744576": {
+      "title": "Implementing an Optimal Tax Plan with Short Term Debt",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1177/10422587261485958": {
+      "title": "Belief Traps Hinder Small Business Climate Action",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1086/744321": {
+      "title": "The Evolutionary Dynamics of Cultural Change(As Told Through the Birth and Brutal, Blackened Death of Metal Music)",
+      "journal": "American Journal of Sociology",
+      "abs_journal_title": "American Journal of Sociology",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1177/00018392261495943": {
+      "title": "Book Review: Maja Bak Herrie. Thinking Through Data: How Outliers, Aggregates, and Patterns Shape Perception Bak HerrieM (2025). Thinking through data: How outliers, aggregates, and patterns shape perception. Stanford University Press. 166 pp. ISBN 9781503641891",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.5465/amr.2026.0377": {
+      "title": "Taking a Note from Music: Conceptual Sampling and the Creative Logic of Theory Development",
+      "journal": "Academy of Management Review",
+      "abs_journal_title": "Academy of Management Review",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1177/09500170261462746": {
+      "title": "Scarring the Life Course: Early Career Precarity and Long-Term Fertility Outcomes in Japan",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1002/sej.70062": {
+      "title": "When machines learn with organizations:\n                    <scp>AI</scp>\n                    ‐enabled knowledge creation and entrepreneurship",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1002/sej.70053": {
+      "title": "Framing the unknowable: The role of language and frame multiplicity in early‐stage startup pitches",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1177/01708406261499508": {
+      "title": "Media Review: Disintegrated Organizing and The Problem of Integrative Capacity in Collective Action",
+      "journal": "Organization Studies",
+      "abs_journal_title": "Organization Studies",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1177/01708406261499510": {
+      "title": "Local Faces of Global Employment Practices: Media Discourses on Uberization of Labor and Institutional Adaptation",
+      "journal": "Organization Studies",
+      "abs_journal_title": "Organization Studies",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1080/01621459.2026.2750273": {
+      "title": "Variable Selection for Additive Global Fréchet Regression",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1080/01621459.2026.2749128": {
+      "title": "Semi-supervised Clustering Through Representation Learning of High-dimensional Count Data",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1080/01621459.2026.2747635": {
+      "title": "Modeling Amplitude and Phase Variation of Multivariate Random Processes in Metric Spaces*",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1080/01621459.2026.2749694": {
+      "title": "Confounder-robust causal discovery and inference in Perturb-seq using proxy and instrumental variables",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1080/01621459.2026.2743752": {
+      "title": "Bayesian Statistical Methods: With Applications to Machine Learning, 2nd ed.",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1080/01621459.2026.2743983": {
+      "title": "A Spatial Interference Approach to Account for Mobility in Air Pollution Studies with Multivariate Continuous Treatments",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1080/01621459.2026.2749698": {
+      "title": "A Generalized Tangent Approximation based Variational Inference Framework for Strongly Super-Gaussian Likelihoods",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1086/744574": {
+      "title": "The Left Misunderstood: How Voters’ Perceptions of What Matters to the Left Benefit the Right",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1086/744573": {
+      "title": "The Distinctive Nature of Non-Partisanship: How Independents Pursue and Prioritize Political Information",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1086/744575": {
+      "title": "The Climate Tribunate. Using conflict-focused democratic innovation to address the climate crisis",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1093/sf/soag151": {
+      "title": "Structuralizing the stress process: states as contextual determinants of stress and mental health",
+      "journal": "Social Forces",
+      "abs_journal_title": "Social Forces",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1093/sf/soag150": {
+      "title": "Leaving together: social influence and church decline",
+      "journal": "Social Forces",
+      "abs_journal_title": "Social Forces",
+      "published_date": "2026-10-20",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1016/j.jacceco.2026.101956": {
+      "title": "Unaffiliated Component Auditors and Audit Fee Models: The Case of Lowballing",
+      "journal": "Journal of Accounting and Economics",
+      "abs_journal_title": "Journal of Accounting and Economics",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1016/j.jet.2026.106271": {
+      "title": "Poverty-Reducing Income Taxation with Endogenous Income",
+      "journal": "Journal of Economic Theory",
+      "abs_journal_title": "Journal of Economic Theory",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
+    },
+    "10.1016/j.ejor.2026.10.019": {
+      "title": "A problem-based scenario reduction approach for stochastic chemotherapy planning",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-21T11:33:25.713935+00:00"
     }
   },
-  "last_run": "2026-10-20T11:18:03.940926+00:00",
+  "last_run": "2026-10-21T11:33:25.713935+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-10-19",
-    "end_date": "2026-10-20"
+    "start_date": "2026-10-20",
+    "end_date": "2026-10-21"
   }
 }
