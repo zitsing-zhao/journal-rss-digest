@@ -21909,12 +21909,390 @@
       "abs_journal_title": "European Journal of Operational Research",
       "published_date": "2026-10-01",
       "first_seen": "2026-10-22T11:33:30.671481+00:00"
+    },
+    "10.1016/j.respol.2026.105650": {
+      "title": "Editorial Board",
+      "journal": "Research Policy",
+      "abs_journal_title": "Research Policy",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1016/j.jfineco.2026.104386": {
+      "title": "Do long-term yields help to estimate short-term risk premia?",
+      "journal": "Journal of Financial Economics",
+      "abs_journal_title": "Journal of Financial Economics",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1016/j.jeconom.2026.106348": {
+      "title": "An identification-and dimensionality-robust test for instrumental variables models",
+      "journal": "Journal of Econometrics",
+      "abs_journal_title": "Journal of Econometrics",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1093/rfs/hhag091": {
+      "title": "The Rise of Alternatives",
+      "journal": "The Review of Financial Studies",
+      "abs_journal_title": "Review of Financial Studies",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1287/isre.2023.0461": {
+      "title": "“Generate” the Future of Work through AI: Empirical Evidence from Online Labor Markets",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1287/isre.2025.1970": {
+      "title": "Mobile Location-based Recommendation Systems and Local Businesses: Evidence from the Restaurant Industry",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1287/isre.2024.0917": {
+      "title": "Campaigns That Click: Unleashing the Power of Push Notifications on Mobile Apps",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1177/00018392261500415": {
+      "title": "Book Review: Joel Gehman, Paula Jarzabkowski, Ann Langley, and Haridimos Tsoukas (Eds). Organizing beyond Organizations for the Common Good: Confronting Societal Challenges through Process Studies GehmanJ.JarzabkowskiP.LangleyA.TsoukasH. (Eds.). (2025). Organizing beyond organizations for the common good: Confronting societal challenges through process studies. Oxford University Press. 272 pp. ISBN 9780198956648",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1093/rof/rfag036": {
+      "title": "The Economics of Data Unions: Optimal Data Sharing and Coordination",
+      "journal": "Review of Finance",
+      "abs_journal_title": "Review of Finance",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1177/10591478261503666": {
+      "title": "EXPRESS: When Good Practices Go Too Far: Overshooting in Organizational Culture",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1177/10591478261504131": {
+      "title": "EXPRESS: What Drives Physician Efficiency? Evidence from Emergency Department Operations",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1177/10591478261503688": {
+      "title": "EXPRESS: Participation Governance in Consumer and AI Co-creation: Whether to Intervene and How to Design It",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1177/10591478261504130": {
+      "title": "EXPRESS: Harnessing Renewable Portfolio Standards for Sustainable Futures: An Empirical Examination of Spillover Effects",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1177/10591478261502836": {
+      "title": "EXPRESS: From Chit-Chat to Conversion: Cost-Efficient Conversational Recommendation via Retrospective Learning and Isolated Reflection",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1108/ijopm-10-2025-1084": {
+      "title": "Biased by sustainability? How cognitive biases shape procurement decisions under information equivocality",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1111/1467-8551.70118": {
+      "title": "Recomposing Management Education Under Climate Crisis: Towards a Composting Heuristic for Epistemic Change",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1111/bjir.70083": {
+      "title": "Follow the Money: The State and the Architecture of Union Funding",
+      "journal": "British Journal of Industrial Relations",
+      "abs_journal_title": "British Journal of Industrial Relations",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1017/s0020818326101544": {
+      "title": "War and Welfare in Colonial Algeria – ERRATUM",
+      "journal": "International Organization",
+      "abs_journal_title": "International Organization",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1111/ajps.70088": {
+      "title": "Learning traps",
+      "journal": "American Journal of Political Science",
+      "abs_journal_title": "American Journal of Political Science",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.2308/tar-2024-0576": {
+      "title": "Enabling Employee Adaptability to Change: The Joint Effect of Compensation Contract and Process Accountability",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.2308/tar-2024-0063": {
+      "title": "Capital Market Pressure and Racial Inequality in Labor Violations",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1287/mnsc.2025.02844": {
+      "title": "Why Zoning Is Too Restrictive",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1287/mnsc.2020.02865": {
+      "title": "Information Transparency, Choice Confidence, and Customer Retention: Field and Laboratory Evidence from Markets for Credence Goods",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1287/mnsc.2024.07419": {
+      "title": "From Winning to Giving: The Effect of Gold Medals in Crowdsourcing Contests",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1287/mnsc.2025.00954": {
+      "title": "From Bytes to Bites: Examining the Online and Offline Spillover Impacts of Online Food Delivery Platform Subscriptions",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.5465/amr.2023.0182": {
+      "title": "Breaking the Silence: Developing an Organizational Mental Health Capability",
+      "journal": "Academy of Management Review",
+      "abs_journal_title": "Academy of Management Review",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.5465/amle.2025.0165": {
+      "title": "No PhD Students Were Harmed in the Making of this Paper: A Care–Power Approach to Explain the Persistence of Suffering in Business Schools’ Doctoral Programs",
+      "journal": "Academy of Management Learning &amp; Education",
+      "abs_journal_title": "Academy of Management Learning and Education",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.5465/amj.2025.0366": {
+      "title": "“We’re Not Handling Cases, We’re Shaping Lives”: How Lawyers Preserve Professional Authority and Advance Social Responsibility via Moral Identity-Based Client Persuasion",
+      "journal": "Academy of Management Journal",
+      "abs_journal_title": "Academy of Management Journal",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1093/ej/ueag131": {
+      "title": "Professional Networks and the Labour Market Assimilation of Immigrants",
+      "journal": "The Economic Journal",
+      "abs_journal_title": "Economic Journal",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1093/ej/ueag135": {
+      "title": "Cognitive ability, risk preferences and errors",
+      "journal": "The Economic Journal",
+      "abs_journal_title": "Economic Journal",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1111/risa.70394": {
+      "title": "Risk Assessment of an Illegal Laboratory in Reedley, California, Using Geospatial Analysis of Open‐Source Epidemic Intelligence Data",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1111/risa.70384": {
+      "title": "Issue Information",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1080/14719037.2026.2749668": {
+      "title": "Threat perception, issue knowledge, and citizen coproduction preferences: evidence from a national public survey on environmental health",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1080/14719037.2026.2750928": {
+      "title": "The blurred line between ends and means: how frontline workers factor production attributes into results in performance evaluations",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1080/14719037.2026.2738181": {
+      "title": "Assessing performance in collaborative governance networks: testing the Productivity Performance Matrix",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1177/10591478261503670": {
+      "title": "EXPRESS: Interoperability Meets Accountability: How Data Interoperability and Experiential Quality Influence Malpractice Lawsuits",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1177/10591478261503661": {
+      "title": "EXPRESS: Do You Lose When You Sell Loose? Impact of Unpackaged Sales on Profit and Waste",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1093/jrsssb/qkag134": {
+      "title": "Semiparametric learning from open-set label shift data",
+      "journal": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+      "abs_journal_title": "Journal of the Royal Statistical Society. Series B: Statistical Methodology",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1093/jrsssb/qkag135": {
+      "title": "Correction to: “Linear regression and its inference on noisy network-linked data”",
+      "journal": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+      "abs_journal_title": "Journal of the Royal Statistical Society. Series B: Statistical Methodology",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1111/jmcb.70092": {
+      "title": "Corporate Tax Changes and Credit Costs",
+      "journal": "Journal of Money, Credit and Banking",
+      "abs_journal_title": "Journal of Money, Credit and Banking",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1093/sf/soag155": {
+      "title": "Review of “Family Legal Vulnerability: How Immigration Policy Shapes the Lives of Latino College Students”",
+      "journal": "Social Forces",
+      "abs_journal_title": "Social Forces",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1111/ajps.70090": {
+      "title": "Structure and agency in emancipatory reform: A blueprint from a Black union",
+      "journal": "American Journal of Political Science",
+      "abs_journal_title": "American Journal of Political Science",
+      "published_date": "2026-10-22",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1162/rest.a.1879": {
+      "title": "The Female Sensitivity Hypothesis: Evidence From Experimental Economics",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1162/rest.a.1880": {
+      "title": "The Equilibrium Effect of Information in Consumer Credit Markets: Public Records and Credit Redistribution",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1162/rest.a.1876": {
+      "title": "Tax Incentives and Return Migration",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1162/rest.a.1878": {
+      "title": "Structuring Cash Transfers: Cash Flow Preferences, Seasonality, and Financial Decisions in Rural Kenya",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1162/rest.a.1873": {
+      "title": "Parental Response to Fetal Shocks and Macroeconomic Volatility",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1162/rest.a.1877": {
+      "title": "Is American Soft Power a Casualty of the Trade War? Evidence from U.S. Movie Viewership in China",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1162/rest.a.1882": {
+      "title": "How Credible Are the Findings from Online Experiments?",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1162/rest.a.1874": {
+      "title": "Hostility, Population Sorting, and Backwardness: Quasi-Experimental Evidence from the Red Army after WWII",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1162/rest.a.1881": {
+      "title": "Contracting Structures in Public Procurement: Evidence from Donor-Funded Electrification in Kenya",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1162/rest.a.1875": {
+      "title": "Blended Finance and Female Entrepreneurship",
+      "journal": "Review of Economics and Statistics",
+      "abs_journal_title": "Review of Economics and Statistics",
+      "published_date": "2026-10-16",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1016/j.jfi.2026.101238": {
+      "title": "Behavioral signals and credit pricing: Evidence from credit cards",
+      "journal": "Journal of Financial Intermediation",
+      "abs_journal_title": "Journal of Financial Intermediation",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1016/j.ejor.2026.10.029": {
+      "title": "Strategic introduction of manufacturer’s suggested retail price in a dual-channel supply chain",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-23T11:23:03.267245+00:00"
     }
   },
-  "last_run": "2026-10-22T11:33:30.671481+00:00",
+  "last_run": "2026-10-23T11:23:03.267245+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-10-21",
-    "end_date": "2026-10-22"
+    "start_date": "2026-10-22",
+    "end_date": "2026-10-23"
   }
 }
