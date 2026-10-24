@@ -22287,12 +22287,194 @@
       "abs_journal_title": "European Journal of Operational Research",
       "published_date": "2026-10-01",
       "first_seen": "2026-10-23T11:23:03.267245+00:00"
+    },
+    "10.1016/j.respol.2026.105638": {
+      "title": "Industrial policy in times of market power",
+      "journal": "Research Policy",
+      "abs_journal_title": "Research Policy",
+      "published_date": "2027-01-01",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1016/j.jwb.2026.101789": {
+      "title": "Extreme environmental distance and global sustainability engagement: Evidence from the United Nations Global Compact",
+      "journal": "Journal of World Business",
+      "abs_journal_title": "Journal of World Business",
+      "published_date": "2027-01-01",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1016/j.jeconom.2026.106349": {
+      "title": "Practical estimation methods for high-dimensional multivariate stochastic volatility models",
+      "journal": "Journal of Econometrics",
+      "abs_journal_title": "Journal of Econometrics",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1016/j.jeconom.2026.106347": {
+      "title": "Nickell meets Stambaugh: A tale of two biases in panel predictive regressions",
+      "journal": "Journal of Econometrics",
+      "abs_journal_title": "Journal of Econometrics",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1108/ijopm-04-2026-0616": {
+      "title": "Leveraging digital capabilities for supply chain recovery and renewal: the mediating roles of spontaneous and creative improvisation",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-10-27",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1007/s11192-026-05880-y": {
+      "title": "Intelligent patent infringement analysis methods based on patent-function-principle-structure network",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1007/s11192-026-05875-9": {
+      "title": "CiteSeq2vec: a framework for citation recommendation via semantic embedding of full-text citation sequences",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1111/1911-3846.70096": {
+      "title": "Measurement Error, Manipulation, and the Value of Short‐Term Performance in Job Retention",
+      "journal": "Contemporary Accounting Research",
+      "abs_journal_title": "Contemporary Accounting Research",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1111/1467-8551.70117": {
+      "title": "‘I'm Not Smoking; I'm Just Vaping’: Deciphering the Reasons for and Against Vaping and Intention to Quit Among Young Consumers",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1093/sf/soag152": {
+      "title": "Religion and early fertility in the United States: changes during the second demographic transition",
+      "journal": "Social Forces",
+      "abs_journal_title": "Social Forces",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1287/opre.2024.0991": {
+      "title": "Real-Time Solution of Quadratic Optimization Problems with Banded Matrices and Indicator Variables",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1287/opre.2023.0682": {
+      "title": "Optimize-via-Estimate: How to Make Finite-Sample Corrections for Sampling Uncertainty in Data-Driven Optimization",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1287/opre.2024.1196": {
+      "title": "Online Allocation with Heterogeneous Supply and Minimum Workload Guarantees",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1287/opre.2025.1811": {
+      "title": "On the Maximization of Long-Run Conditional Value-at-Risk for Markov Decision Processes",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1287/mnsc.2024.07249": {
+      "title": "Looking Under the Hood of Commodity Currency Predictability",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1287/mnsc.2025.03426": {
+      "title": "Bargaining and Contract Forms in Distribution Channels: Why Do Slotting Fees Arise and Linear Contracts Persist?",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1111/ehr.70159": {
+      "title": "Concentration and convergence: Regional productivity in Türkiye, 1950–2020",
+      "journal": "The Economic History Review",
+      "abs_journal_title": "Economic History Review",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1002/sej.70052": {
+      "title": "“Borrowing intelligence to build a business”: The promise of open‐source\n                    <scp>AI</scp>\n                    for entrepreneurship",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1111/risa.70345": {
+      "title": "An Integrated Risk‐Informed Optimization Framework for Disinformation Interdiction in Coupled Information‐Physical Networks",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1080/14719037.2026.2750929": {
+      "title": "Nudging citizens to use chatbots: an information and default option approach",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1080/01621459.2026.2742483": {
+      "title": "A Factor Model Based Time-Varying Auto-Align Overlapping Clustering",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1111/irel.70050": {
+      "title": "How Peer Working Hours Shape Individual Preferences: Experimental Evidence From Germany",
+      "journal": "Industrial Relations: A Journal of Economy and Society",
+      "abs_journal_title": "Industrial Relations",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1080/0960085x.2026.2747940": {
+      "title": "Seeing is believing: how (X)AI-augmented advice guides human evidence accumulation in perceptual decision-making",
+      "journal": "European Journal of Information Systems",
+      "abs_journal_title": "European Journal of Information Systems",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1080/00076791.2026.2744166": {
+      "title": "Government control of Britain’s railways 1993-2014: A systems of provision approach",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-10-23",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1016/j.ejor.2026.10.023": {
+      "title": "Secretary problems with random number of candidates: How prior distributional information helps",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1016/j.ejor.2026.10.030": {
+      "title": "Accepting returns from competing e-tailer: The role of selling mode",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-10-01",
+      "first_seen": "2026-10-24T10:42:27.869249+00:00"
     }
   },
-  "last_run": "2026-10-23T11:23:03.267245+00:00",
+  "last_run": "2026-10-24T10:42:27.869249+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-10-22",
-    "end_date": "2026-10-23"
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-24"
   }
 }
