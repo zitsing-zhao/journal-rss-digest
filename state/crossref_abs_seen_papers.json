@@ -22469,12 +22469,54 @@
       "abs_journal_title": "European Journal of Operational Research",
       "published_date": "2026-10-01",
       "first_seen": "2026-10-24T10:42:27.869249+00:00"
+    },
+    "10.1016/j.respol.2026.105630": {
+      "title": "Peer benchmarking and digital upgrading: Field experiments on business websites",
+      "journal": "Research Policy",
+      "abs_journal_title": "Research Policy",
+      "published_date": "2027-01-01",
+      "first_seen": "2026-10-25T12:30:54.303438+00:00"
+    },
+    "10.1177/00031224261495117": {
+      "title": "What Do “Most People” Believe? Race, Gender, and the Generalized Other",
+      "journal": "American Sociological Review",
+      "abs_journal_title": "American Sociological Review",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-25T12:30:54.303438+00:00"
+    },
+    "10.1111/ehr.70163": {
+      "title": "Patently peculiar: Patents and innovation in the United Kingdom of the Netherlands",
+      "journal": "The Economic History Review",
+      "abs_journal_title": "Economic History Review",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-25T12:30:54.303438+00:00"
+    },
+    "10.1007/s11192-026-05881-x": {
+      "title": "Why retracted papers continue to be cited: direct survey evidence complements citation-pattern analysis",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-25T12:30:54.303438+00:00"
+    },
+    "10.1007/s11192-026-05809-5": {
+      "title": "The open catalogue of global scientific academies: organizational identity, web presence, and scholarly communication infrastructure",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-25T12:30:54.303438+00:00"
+    },
+    "10.1007/s11192-026-05856-y": {
+      "title": "Decoding funded research: comparative analysis of topic models and uncovering the effect of gender and geographic location",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-10-24",
+      "first_seen": "2026-10-25T12:30:54.303438+00:00"
     }
   },
-  "last_run": "2026-10-24T10:42:27.869249+00:00",
+  "last_run": "2026-10-25T12:30:54.303438+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-10-23",
-    "end_date": "2026-10-24"
+    "start_date": "2026-10-24",
+    "end_date": "2026-10-25"
   }
 }
