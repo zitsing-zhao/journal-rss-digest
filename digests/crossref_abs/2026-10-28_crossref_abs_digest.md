@@ -1,0 +1,445 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-10-28
+
+Generated at: 2026-10-28 13:59 UTC
+Crossref date mode: `created`
+Window: `2026-10-27` to `2026-10-28`
+New papers: 41
+
+## ABS 4*
+
+### Accounting
+
+#### Accounting Review
+- Rating: ABS 4*
+- Articles: 1
+
+- [The Signaling Role of Seemingly Myopic Investment Behavior](https://doi.org/10.2308/tar-2024-0559)
+  - DOI: 10.2308/tar-2024-0559
+  - Authors: Cyrus Aghamolla; Vivian W. Fang; Renhui Fu
+  - Affiliations: Rice University; Indiana University Bloomington; Shanghai Jiao Tong University
+  - Published: 2026-10-26
+  - Crossref journal: The Accounting Review
+  - Abstract:
+    ABSTRACT This paper analytically and empirically investigates managerial investment responses to negative shocks in firm value. In the model, managers are privately informed about the shocks’ persistence, and those facing transitory shocks strategically underinvest to boost earnings and signal financial strength to investors. The model also predicts counter-signaling: firms with strong fundamentals do not need to cut investment to convey strength. We exploit the 2003 mutual fund trading scandal as a plausibly exogenous source of price pressure. Consistent with signaling, we find that firms with greater tainted-fund ownership are more likely to meet or narrowly beat analyst forecasts by cutting R&D, and that this behavior is associated with more favorable earnings announcement returns and better long-run performance. Consistent with counter-signaling, these firms are less likely to cut R&D when they beat analyst forecasts by a wide margin. Cross-sectional tests also support the model’s comparative statics. Data Availability: All data used in the study are publicly available from the sources cited in the text. JEL Classifications: C73; D82; G23; G31; G34.
+
+#### Journal of Accounting and Economics
+- Rating: ABS 4*
+- Articles: 1
+
+- [Diversification versus Consumption Motives for Early Exercise of Employee Stock Options](https://doi.org/10.1016/j.jacceco.2026.101957)
+  - DOI: 10.1016/j.jacceco.2026.101957
+  - Authors: Kevin J. Murphy; Marshall Vance
+  - Published: 2026-10-01
+  - Crossref journal: Journal of Accounting and Economics
+
+### Finance
+
+#### Journal of Financial Economics
+- Rating: ABS 4*
+- Articles: 2
+
+- [Innovation booms, easy financing, and human capital accumulation](https://doi.org/10.1016/j.jfineco.2026.104381)
+  - DOI: 10.1016/j.jfineco.2026.104381
+  - Authors: Johan Hombert; Adrien Matray
+  - Published: 2026-12-01
+  - Crossref journal: Journal of Financial Economics
+
+- [Are direct lenders more like banks or arm’s-length investors?](https://doi.org/10.1016/j.jfineco.2026.104397)
+  - DOI: 10.1016/j.jfineco.2026.104397
+  - Authors: Young Soo Jang
+  - Published: 2026-12-01
+  - Crossref journal: Journal of Financial Economics
+
+### General Management, Ethics & CSR
+
+#### Journal of Management
+- Rating: ABS 4*
+- Articles: 1
+
+- [Winning at Defense by Playing Offense: Discrediting by Target Firms in Activist Hedge Fund Campaigns](https://doi.org/10.1177/01492063261479303)
+  - DOI: 10.1177/01492063261479303
+  - Authors: Matthias Brauer; Marc J. Mertens; Louis Vandepoele
+  - Affiliations: University of Mannheim; Copenhagen Business School
+  - Published: 2026-10-28
+  - Crossref journal: Journal of Management
+  - Abstract:
+    Prior research highlights the far-reaching strategic and governance consequences for firms targeted in activist hedge fund (AHF) campaigns. Yet, how target firm executives and directors can effectively defend against these campaigns remains underexplored. Drawing on impression management (IM) theory, we reason that executives and directors use discrediting in their public rebuttal letters to negatively influence shareholders’ evaluations of AHFs’ reputation. To nuance this prediction, we develop a taxonomy distinguishing between source-focused discrediting, which directly attacks AHFs’ reputation, and message-focused discrediting, which challenges the validity of AHFs’ claims to indirectly tarnish their reputation. We theorize that both discrediting subtypes enhance target firms’ defense success, particularly when deployed in combination. Adopting a temporal perspective on IM theory, we further argue that the effectiveness of discrediting diminishes as more time elapses between an AHF’s public attack and executives and directors’ rebuttal. A manual content analysis of 841 rebuttal letters issued during U.S. AHF campaigns (2000–2023) provides robust support for these predictions. Beyond contributing to shareholder activism research by offering new insights into the determinants of campaign outcomes, our study advances IM theory by conceptualizing discrediting as a multidimensional influence tactic and exploring its effectiveness and temporal dynamics in adversarial contexts.
+
+### International Business & Area Studies
+
+#### Journal of International Business Studies
+- Rating: ABS 4*
+- Articles: 2
+
+- [Unpacking the micro–macro transmission mechanism: how home-country culture selectively shapes cognitive orientations in entrepreneurial internationalization](https://doi.org/10.1057/s41267-026-00915-1)
+  - DOI: 10.1057/s41267-026-00915-1
+  - Authors: Razieh Rosie Sadraei; Vahid J. Sadeghi; Andrew Delios
+  - Published: 2026-10-27
+  - Crossref journal: Journal of International Business Studies
+  - Abstract:
+    Abstract International business accounts treat national culture as a country-level antecedent that shifts average export propensity uniformly, leaving the individual-level mechanisms producing within-country heterogeneity in internationalization intensity unspecified. We address this micro–macro transmission gap using social cognitive theory, examining how individualism versus collectivism and risk avoidance versus tolerance selectively recalibrate three cognitive orientations in entrepreneurial export decisions: perceived self-efficacy, perceived opportunity availability, and fear of failure. Our multilevel analysis of 40,529 observations across 41 countries spanning 2010–2019 reveals divergent rather than uniform moderation: individualism amplifies self-efficacy and opportunity availability beliefs through the social validation pathway, while risk avoidance constrains opportunity availability beliefs and fear of failure through the anticipatory self-regulation and outcome expectancy pathways. Fear of failure’s directional relationship with internationalization is contingent on the expectations of failure costs that the home-country cultural environment establishes through the outcome expectancy pathway, rather than being uniformly inhibitory as prior frameworks assume. These findings advance international business microfoundations theory by specifying the observable transmission pathways through which national cultural dimensions produce heterogeneous export intensity outcomes within the same national context. For policymakers, the findings imply that interventions to strengthen self-efficacy or opportunity awareness work best when calibrated to a country’s cultural profile.
+
+- [Correction: National identity rhetoric under bilateral geopolitical tensions: evidence from Taiwanese MNEs](https://doi.org/10.1057/s41267-026-00918-y)
+  - DOI: 10.1057/s41267-026-00918-y
+  - Authors: Jin-Su Kang; Sunghoon Kim; Chuan-Kai Lee
+  - Published: 2026-10-27
+  - Crossref journal: Journal of International Business Studies
+
+### Operations Research & Management Science
+
+#### Management Science
+- Rating: ABS 4*
+- Articles: 2
+
+- [Selection into Financial Education and Effects on Portfolio Choice](https://doi.org/10.1287/mnsc.2024.08268)
+  - DOI: 10.1287/mnsc.2024.08268
+  - Authors: Irina Gemmo; Pierre-Carl Michaud; Olivia S. Mitchell
+  - Affiliations: Department of Finance, HEC Montréal, Montréal, Quebec H3T 2A7, Canada; Department of Applied Economics, HEC Montréal, Montréal, Quebec H3T 2A7, Canada; and National Bureau of Economic Research, Cambridge, Massachusetts 02138; National Bureau of Economic Research, Cambridge, Massachusetts 02138; and Business Economics and Public Policy Department, the Wharton School of the University of Pennsylvania, Philadelphia, Pennsylvania 19104
+  - Published: 2026-10-27
+  - Crossref journal: Management Science
+  - Abstract:
+    We study the impact of a financial education program on portfolio choices in a setting that allows us to examine both participation decisions and differences in program benefits across individuals. We directly elicit willingness to pay for financial education and show that individuals with higher financial literacy, greater confidence in applying new knowledge, and higher expected returns are willing to pay more. Using incentivized portfolio allocation tasks, we develop outcome measures tailored to individual risk preferences and show that financial education improves decision quality along these dimensions. The program increases the share of participants who experience an improvement by 20 percentage points, corresponding to average gains of 3.2 percentage points of initial wealth. Individuals with the highest willingness to participate benefit disproportionately from the program, with important implications for the design and evaluation of financial education initiatives. By isolating a specific investment skill in a setting with voluntary participation, our design sheds light on how selection into financial education shapes measured program effects and informs the assessment of broader workplace and public training programs. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Funding: The authors thank the Pension Research Council of Wharton School at the University of Pennsylvania, as well as the Retirement and Savings Institute at HEC Montréal, for generous research funding. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.08268 .
+
+- [Navigating the Rugged Data Landscape: The Impact of Data-Extrapolation Technologies on Knowledge Production](https://doi.org/10.1287/mnsc.2023.04115)
+  - DOI: 10.1287/mnsc.2023.04115
+  - Authors: Soomi Kim
+  - Affiliations: Columbia Business School, New York, New York 10027
+  - Published: 2026-10-27
+  - Crossref journal: Management Science
+  - Abstract:
+    Data-extrapolation technologies enable progress by importing and applying empirical patterns from one domain to another. Their reliance on empirical patterns, however, is also their limitation: these tools can only be applied where data are abundant. Using the setting of structural biology, I investigate the impact of a data-extrapolation technology on innovation. I exploit the variation in prior data availability to compare areas in which the tool was usable to those in which it was not. I find that the tool increased the quantity of research in data-rich areas: the resulting output yielded limited biological insights but was methodologically rigorous and contributed to downstream research. This paper was accepted by Toby Stuart, entrepreneurship and innovation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04115 .
+
+#### Operations Research
+- Rating: ABS 4*
+- Articles: 2
+
+- [Location-Allocation of Emergency Service Systems in Light Traffic](https://doi.org/10.1287/opre.2024.1272)
+  - DOI: 10.1287/opre.2024.1272
+  - Authors: Xin Wang; Weiliang Liu; Loon Ching Tang; Zhisheng Ye
+  - Affiliations: Department of Industrial Systems Engineering and Management, National University of Singapore, Singapore 117576; Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Hong Kong
+  - Published: 2026-10-27
+  - Crossref journal: Operations Research
+  - Abstract:
+    Light-Traffic Asymptotics for Emergency Service Planning Timely emergency response depends on where rescue teams are stationed and which areas they serve—decisions that shape response times and uncertainty in each team’s service durations and availability. In “Location-Allocation of Emergency Service Systems in Light Traffic,” Xin Wang, Weiliang Liu, Loon Ching Tang, and Zhisheng Ye use light-traffic asymptotics to explicitly capture these decision-dependent effects in tractable queueing-based location-allocation optimization models. The key innovation is to turn limiting queueing behavior as call arrival rates approach zero into explicit approximations for performance losses associated with calls that have to wait. These approximations connect queueing performance to planning decisions, enabling mixed-integer linear programming formulations with theoretical guarantees on solution quality in the light-traffic regime. In simulations using Singapore lift-trap rescue data, the optimized plans reduced projected annual late rescues by about 70% relative to the existing arrangement.
+
+- [Fulfillment by Platform: Competition and Upstream Market Power](https://doi.org/10.1287/opre.2022.0399)
+  - DOI: 10.1287/opre.2022.0399
+  - Authors: Amandeep Singh; Jiding Zhang; Senthil Veeraraghavan
+  - Affiliations: Foster School of Business, University of Washington, Seattle, Washington 98195; W. P. Carey School of Business, Arizona State University, Tempe, Arizona 85281; Wharton School, University of Pennsylvania, Philadelphia, Pennsylvania 19104
+  - Published: 2026-10-27
+  - Crossref journal: Operations Research
+  - Abstract:
+    Fulfillment by Platform: Competition and Upstream Market Power E-commerce platforms increasingly offer fulfillment services that promise faster delivery and easier access to customers. This study shows that these services create a trade-off. Using transaction-level data from a major online marketplace, the authors find that platform fulfillment improves the customer experience and raises consumer welfare, but it also changes competition among sellers. Because fulfillment through the platform adds costs for merchants, smaller sellers with thinner margins must raise prices more than larger sellers. As a result, large merchants gain share while smaller merchants lose ground, increasing upstream market concentration. The findings matter for regulators, platforms, and merchants because they show that a service that benefits consumers can still weaken competition on the seller side. The paper provides rare empirical evidence from both sides of an e-commerce marketplace and highlights why platform policies should be evaluated not only by customer benefits, but also by their effects on market structure.
+
+### Political Science
+
+#### American Political Science Review
+- Rating: Not ABS-rated; grouped with ABS 4*
+- Articles: 3
+
+- [PSR volume 120 issue 4 Cover and Front matter](https://doi.org/10.1017/s0003055425101135)
+  - DOI: 10.1017/s0003055425101135
+  - Published: 2026-10-28
+  - Crossref journal: American Political Science Review
+
+- [PSR volume 120 issue 4 Cover and Back matter](https://doi.org/10.1017/s0003055425101147)
+  - DOI: 10.1017/s0003055425101147
+  - Published: 2026-10-28
+  - Crossref journal: American Political Science Review
+
+- [Economic Self-Interest and Support for Redistribution: New Evidence Using Election Results Data](https://doi.org/10.1017/s000305542610207x)
+  - DOI: 10.1017/s000305542610207x
+  - Authors: JIEUN LEE; E. GRANT BALDWIN; G. AGUSTIN MARKARIAN; BENJAMIN J. NEWMAN
+  - Affiliations: University of California, Riverside; University of California, Los Angeles; Loyola University Chicago
+  - Published: 2026-10-28
+  - Crossref journal: American Political Science Review
+  - Abstract:
+    A formidable corpus of scholarship explores the role of economic self-interest in shaping public support for redistribution. One striking feature of this literature is its near-exclusive reliance on reported preferences in surveys, with little-to-no research analyzing revealed preferences in the form of actual voting on redistribution. Leveraging eight redistributive ballot initiatives across six American states and a total of 73,053 observations of revealed support for redistribution, we uncover consistent evidence that the economic standing of precinct voters is systematically related to their support for redistribution. We find that lower- to upper-middle-income precincts are each significantly more supportive of redistribution than upper-income precincts, with pronounced decreases in support associated with the increasing prevalence of high-income households subject to proposed tax increases. Finally, we observe the largest class differential in support for redistribution in more heavily Republican precincts.
+
+## ABS 4
+
+### Business & Economic History
+
+#### Business History Review
+- Rating: ABS 4
+- Articles: 7
+
+- [State Ownership and the History of Capitalism](https://doi.org/10.1017/s0007680526102256)
+  - DOI: 10.1017/s0007680526102256
+  - Authors: Aldo Musacchio
+  - Affiliations: Brandeis University and NBER
+  - Published: 2026-10-28
+  - Crossref journal: Business History Review
+  - Abstract:
+    Abstract Dominant narratives in economics and the history of capitalism treat state ownership and state capitalism as deviations from privately organized market capitalism. This article synthesizes historical scholarship to explain how public enterprises became permanent features of capitalism by addressing persistent failures in capital markets, infrastructure provision, and industrial coordination. It traces four stages, from nineteenth-century network integration and wartime entrepreneurship to postwar industrial ecosystem building and the reinvention of state ownership through privatization and governance reform. This perspective explains resilience through both enduring coordination problems and accumulated organizational capabilities. The article also extends the history of managerial capitalism by showing how state-owned enterprises fostered professional management, technical expertise, and internal labor markets, often before comparable private firms emerged. Especially in late-industrializing economies, public enterprises helped build the organizational foundations of private-sector development. State ownership thus emerges as an enduring organizational form through which capitalism itself developed and evolved.
+
+- [Shaken and Stirred: Martini &amp; Rossi and the Cycles of Globalization](https://doi.org/10.1017/s0007680526102190)
+  - DOI: 10.1017/s0007680526102190
+  - Authors: Sophus A. Reinert; Lorena Barale
+  - Affiliations: Harvard Business School; Archivist and Independent Scholar
+  - Published: 2026-10-28
+  - Crossref journal: Business History Review
+  - Abstract:
+    Abstract This article draws from Martini & Rossi’s archives to trace the company’s history from its beginnings in Piedmont, Italy, in the mid-nineteenth century to its global expansion in the twentieth century. Martini & Rossi shaped cocktail culture globally, and its history sheds light on how entrepreneurs and firms prospered through cycles of globalization and deglobalization. Just as skilled management and new technologies facilitated vermouth production at home, innovations in salesmanship allowed the company to penetrate new markets abroad. The article highlights how Martini & Rossi emerged as a pioneering multinational and created one of the first global alcohol brands during the first era of global capitalism. It also examines the strategies firms could adopt amid increasing protectionism following the onset of the Great War in 1914, adding nuance to our understanding of how macroeconomic processes of globalization and deglobalization are experienced and navigated by individual companies.
+
+- [Self-Making and Self-“Unmaking”: Defining Success in the US](https://doi.org/10.1017/s0007680526102153)
+  - DOI: 10.1017/s0007680526102153
+  - Authors: Jennifer Black
+  - Affiliations: Misericordia University
+  - Published: 2026-10-28
+  - Crossref journal: Business History Review
+
+- [Editors’ Note](https://doi.org/10.1017/s0007680526102207)
+  - DOI: 10.1017/s0007680526102207
+  - Published: 2026-10-28
+  - Crossref journal: Business History Review
+
+- [BHR volume 100 issue 2 Cover and Front matter](https://doi.org/10.1017/s0007680525100913)
+  - DOI: 10.1017/s0007680525100913
+  - Published: 2026-10-28
+  - Crossref journal: Business History Review
+
+- [BHR volume 100 issue 2 Cover and Back matter](https://doi.org/10.1017/s0007680525100925)
+  - DOI: 10.1017/s0007680525100925
+  - Published: 2026-10-28
+  - Crossref journal: Business History Review
+
+- [Announcements](https://doi.org/10.1017/s0007680526102244)
+  - DOI: 10.1017/s0007680526102244
+  - Published: 2026-10-28
+  - Crossref journal: Business History Review
+
+### Economics
+
+#### Economic Journal
+- Rating: ABS 4
+- Articles: 1
+
+- [Motherhood and Constraints during Job Search](https://doi.org/10.1093/ej/ueag137)
+  - DOI: 10.1093/ej/ueag137
+  - Authors: Arnaud Philippe; Daphné Skandalis
+  - Affiliations: University of Bristol; University of Copenhagen
+  - Published: 2026-10-27
+  - Crossref journal: The Economic Journal
+  - Abstract:
+    Abstract Why do women’s labour earnings drop upon motherhood? We shed new light on this question by analysing the changes in job search behaviour associated with motherhood. We exploit data on the job applications sent on a popular online platform linked with administrative registers for 350,000 involuntarily unemployed workers in France. After losing their job, mothers have a 11.7% lower probability to find a job than similar women without children and send 12.2% fewer job applications. To explore the underlying mechanisms, we analyse the timing of job applications. Unlike other women, mothers’ rate of applications decreases by about 20.5% in the hours when there is no school. Moreover, the French reform that introduced school on Wednesday in 2014 led mothers to send more applications on Wednesdays. Our results highlight that childcare creates constraints on the timing of job search activities for mothers. We finally provide suggestive evidence that these constraints decrease their return-to-search, and thereby contribute to their lower application and job finding rates.
+
+#### Journal of the American Statistical Association
+- Rating: ABS 4
+- Articles: 4
+
+- [Sensitivity Analysis for the Test-Negative Design](https://doi.org/10.1080/01621459.2026.2754151)
+  - DOI: 10.1080/01621459.2026.2754151
+  - Authors: Soumyabrata Kundu; Peng Ding; Jingshu Wang; Xinran Li
+  - Affiliations: Department of Statistics, University of Chicago; Department of Statistics, University of California
+  - Published: 2026-10-27
+  - Crossref journal: Journal of the American Statistical Association
+
+- [POLAR: A Pessimistic Model-based Policy Learning Algorithm for Dynamic Treatment Regimes](https://doi.org/10.1080/01621459.2026.2755097)
+  - DOI: 10.1080/01621459.2026.2755097
+  - Authors: Ruijia Zhang; Xiangyu Zhang; Zhengling Qi; Yue Wu; Yanxun Xu
+  - Affiliations: Department of Applied Mathematics and Statistics, Johns Hopkins University; School of Business, The George Washington University
+  - Published: 2026-10-27
+  - Crossref journal: Journal of the American Statistical Association
+
+- [Multivariate Poisson intensity estimation via low-rank tensor decomposition](https://doi.org/10.1080/01621459.2026.2751234)
+  - DOI: 10.1080/01621459.2026.2751234
+  - Authors: Haotian Xu; Carlos Misael Madrid Padilla; Oscar Hernan Madrid Padilla; Daren Wang
+  - Affiliations: Department of Mathematics and Statistics, Auburn University; Department of Statistics, Washington University in St. Louis; Department of Statistics, University of California; Department of Mathematics, University of California
+  - Published: 2026-10-27
+  - Crossref journal: Journal of the American Statistical Association
+
+- [A Tail Likelihood Ratio Method for Large-scale Causal Mediation Tests in Epigenome-Wide Studies](https://doi.org/10.1080/01621459.2026.2751737)
+  - DOI: 10.1080/01621459.2026.2751737
+  - Authors: Haoyu Yang; Ruoyu Wang; Yuzhou Lin; Xihong Lin
+  - Affiliations: Department of Biostatistics at Harvard T.H. Chan School of Public Health; PhD student in the Department of Statistics, Harvard University; Professor of Biostatistics at Harvard T.H. Chan School of Public Health and Professor of Statistics at Harvard University
+  - Published: 2026-10-27
+  - Crossref journal: Journal of the American Statistical Association
+
+#### Journal of the Royal Statistical Society. Series B: Statistical Methodology
+- Rating: ABS 4
+- Articles: 1
+
+- [Asymptotic theory of the quadratic assignment procedure for dyadic data analysis](https://doi.org/10.1093/jrsssb/qkag136)
+  - DOI: 10.1093/jrsssb/qkag136
+  - Authors: Lei Shi; Peng Ding
+  - Affiliations: Division of Biostatistics, University of California, Berkeley , Berkeley ,; Department of Statistics, University of California, Berkeley , Berkeley ,
+  - Published: 2026-10-27
+  - Crossref journal: Journal of the Royal Statistical Society Series B: Statistical Methodology
+  - Abstract:
+    Abstract The quadratic assignment procedure (QAP) is a popular tool for analysing dyadic data in medical and social sciences. To test the association between 2 dyadic measurements represented by 2 symmetric matrices, QAP calculates the p-value by permuting the units, or equivalently, by permuting the rows and columns of 1 matrix in the same way. Its extension to the regression setting, known as the multiple regression QAP, has also gained popularity, especially in psychometrics. However, the statistical theory for QAP has not been fully established in the literature. We fill the gap in this paper. We formulate the dyadic models underlying various QAPs. We derive (a) the asymptotic sampling distributions of some canonical test statistics and (b) the corresponding asymptotic permutation distributions induced by QAP under strong and weak null hypotheses. Task (a) relies on applying the theory of U-statistics, and task (b) relies on applying the theory of double-indexed permutation statistics. Our asymptotic theory combines tasks (a) and (b), and suggests that we must use properly studentized statistics in QAP to ensure that it is finite-sample exact under the strong null hypothesis and preserves the asymptotic type I error rate under the weak null hypothesis.
+
+### HRM & Employment Studies
+
+#### Industrial Relations
+- Rating: ABS 4
+- Articles: 1
+
+- [From Gender Antagonism to Inclusive Solidarity? Trade Union Membership and Attitudes Toward Women's Employment](https://doi.org/10.1111/irel.70052)
+  - DOI: 10.1111/irel.70052
+  - Authors: Jianxuan Lei
+  - Affiliations: Department of Work and Organizations, Carlson School of Management University of Minnesota Minneapolis Minnesota USA
+  - Published: 2026-10-27
+  - Crossref journal: Industrial Relations: A Journal of Economy and Society
+  - Abstract:
+    ABSTRACT Why and to what extent do union members differ from non‐members in attitudes toward women's employment? This study argues that a masculinized conception of work has historically underpinned gender antagonism in trade unionism, and that the rise of right‐wing populism may have hindered recent progress toward gender equality among union members. Analyzing the European Values Study data, I find that union members hold more egalitarian attitudes toward women's employment than non‐members on average. This relationship further varies across individual and institutional characteristics. After the financial crisis, however, the positive association has weakened particularly in countries where right‐wing populism is influential.
+
+### Information Management
+
+#### Information Systems Journal
+- Rating: ABS 4
+- Articles: 1
+
+- [Regulatory Resilience: How Organisations Overcome Regulation‐Induced Resistance to Digital Transformation](https://doi.org/10.1111/isj.70067)
+  - DOI: 10.1111/isj.70067
+  - Authors: Antonia Wurzer; Carolin Vollenberg; Ralf Plattfaut; Jan vom Brocke
+  - Affiliations: University of Liechtenstein Vaduz Liechtenstein; University of Duisburg‐Essen Duisburg Germany; University of Münster Münster Germany
+  - Published: 2026-10-27
+  - Crossref journal: Information Systems Journal
+  - Abstract:
+    ABSTRACT Digital Transformation (DT) has become a strategic imperative for organisations to stay competitive. Yet, it often faces resistance. Regulation is often argued to be one source of resistance. However, regulation can also drive transformation: its role is multifaceted and especially its management in the context of DT is underexplored. Drawing on an empirical case study of an organisation undergoing large‐scale DT in a highly regulated industry, we conceptualise Regulatory Resilience as a socio‐technical organisational capability that enables organisations to dynamically respond to regulation‐induced resistance while leveraging regulatory forces for DT. Our findings reveal five distinct mechanisms through which Regulatory Resilience operates to mitigate the effects of both stable and volatile regulation and transform regulatory pressure into a capability‐building process. This study contributes to Information Systems research by challenging the view of regulation as a static, exogenous hurdle, repositioning it instead as a constitutive force that organisations actively manage through sociotechnical means. By identifying the specific mechanisms through which organisations reconcile regulatory pressures with innovation, we advance theory on the interrelated dynamics of resistance and resilience showing that Regulatory Resilience not only enables DT but is itself strengthened by DT's technological and organisational conditions, requiring organisations to deliberately cultivate it to sustain transformation.
+
+### Innovation
+
+#### Journal of Informetrics
+- Rating: ABS 4
+- Articles: 1
+
+- [The world in the stacks: a quantitative study of geographic and language representation in the Library of Congress book collection](https://doi.org/10.1016/j.joi.2026.101886)
+  - DOI: 10.1016/j.joi.2026.101886
+  - Authors: Hongyu Zhou; Kai Li; Raf Guns; Brian Dobreski; Tim C.E. Engels
+  - Published: 2026-12-01
+  - Crossref journal: Journal of Informetrics
+
+### Operations & Technology Management
+
+#### Journal of Supply Chain Management
+- Rating: ABS 4
+- Articles: 1
+
+- [Shared Policy Commitments in the Buyer Ego‐Network and Buyer Financial Performance: A Multiplex Network Perspective](https://doi.org/10.1111/jscm.70036)
+  - DOI: 10.1111/jscm.70036
+  - Authors: Jesus Diego; Maria J. Montes‐Sancho; Zhaohui Wu
+  - Affiliations: Department of Information Systems, Supply Chain Management &amp; Decision Support NEOMA Business School Reims France; Department of Business Administration Universidad Carlos III de Madrid Madrid Spain; College of Business Oregon State University Corvallis Oregon USA
+  - Published: 2026-10-27
+  - Crossref journal: Journal of Supply Chain Management
+  - Abstract:
+    ABSTRACT Public commitments to sustainability policies have become common practice among buyer and supplier companies facing growing sustainability imperatives. Firms often pursue these commitments to address societal expectations and comply with institutional norms rather than to achieve efficiency, frequently endorsing them without a comprehensive assessment of their performance implications. Within the supply chain, when multiple firms commit to similar policies, alignment emerges across network members through shared policy commitments. Such shared commitments differ from traditional buyer–supplier coordinated alignment by introducing an additional layer of complexity beyond contractual dynamics, with potential performance consequences. Adopting an embeddedness perspective, the authors analyze 240 multiplex ego networks that capture both shared policy commitments and structural ties. Results show that shared policy commitments within a buyer ego‐network, between a buyer and its direct suppliers or among those suppliers, are positively associated with the focal buyer's financial performance, with each direction's association conditional on the level of the other. However, the findings also reveal a curvilinear relationship: buyer performance declines as network members' commitments become increasingly centered on the same policies. Network interconnectedness through contractual ties serves as a moderator, unlocking additional benefits of shared commitments. This study provides theoretical and practical insights for managing shared commitments in the buyer ego‐network while avoiding over‐embeddedness.
+
+#### Production and Operations Management
+- Rating: ABS 4
+- Articles: 3
+
+- [EXPRESS: Tactical Workforce Planning and Deployment with Timing Coordination Requirements](https://doi.org/10.1177/10591478261499798)
+  - DOI: 10.1177/10591478261499798
+  - Authors: Gang Li; Anantaram Balakrishnan
+  - Published: 2026-10-27
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    We address a tactical planning problem facing organizations that must perform geographically dispersed jobs with timing dependencies using appropriate teams of workers and equipment. This Tactical Workforce Planning and Deployment (TWPD) problem, which is motivated by the annual planning and budgeting activity for rail infrastructure maintenance and upgrades, requires making simultaneous decisions on resource sizing and selection, resource-to-job assignment, and resource repositioning to complete all jobs while minimizing resource and transportation costs. Key challenges include timing coordination among jobs, varying resource capabilities, and sequence-dependent changeover costs. Prior scheduling and routing models often focus on short-term decisions, assuming a given set of resources, and do not incorporate complex timing coordination requirements. We propose a large-scale optimization model, with strong timing coordination constraints, that integrates all the features of the TWPD problem. To solve this difficult problem, we propose three new families of valid inequalities to further strengthen the model and develop problem reduction procedures as well as an optimization-based multi-stage algorithm to identify good initial feasible solutions. Our Composite method applies these acceleration strategies before initiating an exact branch-and-bound solution procedure. To test the effectiveness of this method, we first apply it to real data sets for track maintenance from a leading railroad company and compare its performance with a method that uses a standard solver without our enhancements. We find that our method dramatically outperforms the standard method. We also test our method on many randomly generated problems to validate its superior performance and identify problem features that make this problem difficult to solve. When compared to a manual tactical plan, our method quickly generates a near-optimal solution that saves over 15% in annual total cost, demonstrating the practical value and viability of our model and method. We conclude by discussing some managerial implications and insights from our results.
+
+- [EXPRESS: Optimal Return Policies with Heterogeneous Search Rewards](https://doi.org/10.1177/10591478261504549)
+  - DOI: 10.1177/10591478261504549
+  - Authors: Fangruo Chen; Weitao Ren; Wenqiang Xiao
+  - Published: 2026-10-27
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    This paper studies return policy design for an online seller serving consumers who can resolve product-fit uncertainty through costly pre-purchase search, with search rewards varying across consumers. Return policies shape not only post-purchase return behavior but also ex-ante search and purchase decisions, thereby generating endogenous consumer segmentation. One might expect that inexpensive search would reduce the seller's incentive to offer a generous refund. In our baseline model, however, we show that full refund outperforms no refund when search costs are sufficiently low. We trace this result to a fundamental trade-off in implementing a full-refund policy: the search-relief effect versus the return-inducing effect. Full refund substitutes for search by allowing consumers who would otherwise search to purchase directly and evaluate fit after purchase, thereby removing their search-based information advantage and restoring the seller's pricing power. However, it also induces returns from consumers who would otherwise purchase without search and keep the product, sacrificing the revenue generated by their tolerance for misfit. When search costs are sufficiently low, most consumers would otherwise search, and the search-relief effect therefore dominates the return-inducing effect. As search costs fall further, full refund can also achieve a win-win outcome, indicating that pre-purchase search may be socially inefficient. These findings explain when and why sellers may optimally discourage ex-ante search in favor of ex-post product evaluation.
+
+- [EXPRESS: Design and Pricing of Online Dating Subscriptions](https://doi.org/10.1177/10591478261505531)
+  - DOI: 10.1177/10591478261505531
+  - Authors: Titing Cui; Michael L. Hamilton
+  - Published: 2026-10-27
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Online dating is now the most common way for new couples in the U.S. to meet, with more than 30% of U.S. adults having used a dating app and with global industry revenues exceeding three billion dollars annually. Most dating apps monetize primarily through subscription pricing, offering users fixed periods of access to paid features for recurring fees. However, applying subscription pricing to online dating apps presents some unique challenges. Unlike other digital services, users' valuations of dating app services typically decline with use, as continued participation can be costly in terms of both time and emotional effort, and repeated renewals signal unsuccessful app-mediated searches. Moreover, users who achieve their goal of finding a partner subsequently exit the platform, creating an apparent tension between providing value by successfully matching users and a dating app’s goal of generating profit and sustaining a large userbase of paying subscribers. Given these unique challenges and the transient nature of user engagement with dating apps, it is interesting to note that leading U.S. dating apps, such as Hinge and Bumble, have begun offering increasingly long subscription options, including lifetime subscriptions. In this paper, we analyze the performance of subscription pricing strategies with varying period lengths for online dating platforms. We propose a natural model of dating app monetization and use it to evaluate how subscription length affects both profit and steady-state userbase size. We find that suitably priced lifetime subscriptions can Pareto-dominate all finite-period subscriptions over both objectives, providing a compelling explanation for their emerging use. We then extend our analysis to subscription menus with two options and show that offering one short-term subscription option and one lifetime option guarantees approximately 59.4% of the optimal two-option menu performance.
+
+### Operations Research & Management Science
+
+#### European Journal of Operational Research
+- Rating: ABS 4
+- Articles: 1
+
+- [The undirected circular facility layout problem](https://doi.org/10.1016/j.ejor.2026.10.037)
+  - DOI: 10.1016/j.ejor.2026.10.037
+  - Authors: Anja Fischer; Louisa Semrau
+  - Published: 2026-10-01
+  - Crossref journal: European Journal of Operational Research
+
+### Political Science
+
+#### International Organization
+- Rating: Not ABS-rated; grouped with ABS 4
+- Articles: 1
+
+- [When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Issuance](https://doi.org/10.1017/s0020818326101507)
+  - DOI: 10.1017/s0020818326101507
+  - Authors: Monica Widmann
+  - Affiliations: Seton Hall University
+  - Published: 2026-10-28
+  - Crossref journal: International Organization
+  - Abstract:
+    Abstract Sovereign green bonds typically appear only after corporate green bond issuance has accumulated—a sequence at odds with the policy consensus that sovereign borrowing anchors debt market development. I argue that the inversion reflects market building by global investment banks. The four banks that authored the Green Bond Principles in 2014 used early private corporate transactions to build the verification practices, pricing conventions, and investor networks needed for a functioning market, then served as lead managers when sovereigns entered, transferring accumulated expertise across the public–private divide. States entered a market whose institutional infrastructure they did not design. The Cox proportional hazards model shows that accumulated corporate issuance significantly accelerates sovereign entry, while government agency issuance delays it by substituting for direct sovereign participation. A bank-level triangulation shows that founding-bank presence at sovereign entry reflects green-bond-specific expertise transfer rather than general dominance in sovereign debt underwriting. The findings identify financial intermediaries as a distinct channel through which sustainable finance reaches sovereign borrowers and show how privately constructed market conditions shape the terms on which states engage with global climate finance.
+
+### Public Sector & Health Care
+
+#### Journal of Public Administration Research and Theory
+- Rating: ABS 4
+- Articles: 1
+
+- [Sick of change? Sickness absence following ownership conversions in Norwegian kindergartens](https://doi.org/10.1093/jopart/muag036)
+  - DOI: 10.1093/jopart/muag036
+  - Authors: Håvard Thorsen Rydland; Dag Arne Christensen
+  - Affiliations: NORCE Research AS , Bergen,
+  - Published: 2026-10-28
+  - Crossref journal: Journal of Public Administration Research and Theory
+  - Abstract:
+    Abstract The expansion of mixed-provider welfare systems has intensified debates about the consequences of public, nonprofit, and for-profit provision. Existing research focuses primarily on efficiency, service quality, and citizens' outcomes, while less is known about ownership conversions’ consequences for employees. We depart from research suggesting that ownership conversions can disrupt employee-organization value congruence as well as change the incentive structures. Leveraging population-wide administrative data from Norwegian childcare services (2015-2019), we examine whether ownership conversions are associated with changes in employee sickness absence. Using a staggered difference-in-differences design, we find that sickness absence increases following nonprofit-to-for-profit conversions. At the same time, public-to-for-profit transitions show little consistent relationship with sickness absence. These findings suggest that employee responses to ownership change are shaped less by the public-private divide than by differences in organizational missions and values. More broadly, the study highlights organizational value congruence as a potential mechanism linking ownership arrangements to employee well-being, and suggests that the nonprofit-for-profit boundary may be more consequential for employees than the conventional public-private divide.
+
+### Social Sciences & Sociology
+
+#### Social Forces
+- Rating: Not ABS-rated; grouped with ABS 4
+- Articles: 2
+
+- [Review of “Disposable Workers: The Transformation of Employment”](https://doi.org/10.1093/sf/soag154)
+  - DOI: 10.1093/sf/soag154
+  - Authors: Arne L Kalleberg
+  - Affiliations: University of North Carolina at Chapel Hill
+  - Published: 2026-10-28
+  - Crossref journal: Social Forces
+
+- [Beyond economic bargaining power? Work-related internal migration and subjective well-being in couples](https://doi.org/10.1093/sf/soag153)
+  - DOI: 10.1093/sf/soag153
+  - Authors: Elias Hofmann; Nico Stawarz; Nicolai Netz; Heiko Rüger
+  - Affiliations: Federal Institute for Population Research (BiB) , Wiesbaden ,; University of Hamburg (UHH) , Hamburg ,; German Centre for Higher Education Research and Science Studies (DZHW) , Hannover ,; Johannes Gutenberg University Mainz (JGU) , Mainz ,
+  - Published: 2026-10-28
+  - Crossref journal: Social Forces
+  - Abstract:
+    Abstract Bargaining theory posits that both partners’ utility shapes couples’ migration decisions. Yet, most empirical tests focus on individual incomes, thus overlooking non-economic factors in couples’ deliberations about spatial mobility. We argue that considering holistic indicators of utility, such as subjective well-being, can advance our understanding of couples’ decision-making. Using data from the German Socio-Economic Panel (SOEP, 1991–2021) and fixed effects panel regressions, we analyze changes in life satisfaction following work-related internal migration on both individual and dyadic levels. Moreover, we examine whether these changes depend on shifts in partners’ economic bargaining power (EBP, defined as female partners’ share of total household labor income), thereby evaluating the common assumption that couples’ bargaining centers around income. Our results show that, on average, both partners experience increases in their life satisfaction following migration. Distinguishing whether women’s EBP remains unchanged, decreases, or increases with migration, we find that women’s life satisfaction gains are only weakly related to changes in their EBP. In contrast, men’s life satisfaction only increases if their partner’s EBP decreases or remains unchanged, but not if it increases—a pattern consistent with the notion of gendered expectations about the within-couple income distribution hampering men’s well-being gains. Overall, our findings suggest that well-being is an important factor in couples’ migration decision-making and that income-based measures of bargaining power provide only an incomplete account of partners’ bargaining positions.
+
+#### Socio-Economic Review
+- Rating: ABS 4
+- Articles: 1
+
+- [Protestantism and insurance—an elective affinity? A multilevel comparative-historical analysis of the confessional insurance gap](https://doi.org/10.1093/ser/mwag062)
+  - DOI: 10.1093/ser/mwag062
+  - Authors: Sebastian Kohl
+  - Affiliations: Department of Sociology, Free University Berlin , Berlin 14195,
+  - Published: 2026-10-27
+  - Crossref journal: Socio-Economic Review
+  - Abstract:
+    Abstract While there are many studies and theories about the rise of social insurance and the public welfare state, the prior emergence and growth of private life and nonlife insurance are largely understudied, mostly due to a lack of data. This article fills this gap by testing whether there is an elective affinity between the rise and evolution of private insurance and Protestantism that is irreducible to typical factors external to religion (gross domestic product, education, demography, public welfare). Drawing on multiple new datasets, the paper tests whether Catholic–Protestant differences in insurance demand persist when controlling for standard covariates external to religion across nineteen OECD countries (1870–2020), across states in the confessionally mixed federations of Germany, Switzerland and the USA (1876–2020) as well as across US counties and European cities around 1909. The article finds Lutheran and Reformed Protestant areas to have had higher private insurance penetration and density than Catholic ones, controlling for standard covariates. This relationship is more pronounced in life than nonlife branches, more pronounced for insurance demand than insurance company activity, and more consistently found in Europe than within the USA. More generally, the article suggests that the confessional insurance gap may provide a missing empirical link to better understand the emergence of Alpine and Maritime insurance cultures, different premodern poor-ethics traditions and the different worlds of modern welfare states and pension systems.
+
+#### Sociology
+- Rating: ABS 4
+- Articles: 1
+
+- [Racial pain, academic profit: Methodological reparations for race research under whiteness](https://doi.org/10.1177/00380385261477604)
+  - DOI: 10.1177/00380385261477604
+  - Authors: Fatima Khan
+  - Affiliations: School of Sociology and Criminology, Manchester Metropolitan University, UK
+  - Published: 2026-10-27
+  - Crossref journal: Sociology
+  - Abstract:
+    This article examines how whiteness (as epistemology and as property) structures marketised, racially stratified universities, generating ethical and methodological contradictions in white-led research on race-stratified issues. Ethically, it theorises a structural racial conflict of interest: scholars insulated from racial harm are positioned by whiteness to lead research on race-stratified issues beyond the academy and convert its products into academic profit. Methodologically, it argues that whiteness in white-led qualitative race research collapses credibility at the points of elicitation and recognition, rendering canonical standards of rigour structurally unattainable. As reparation for these conditions, the article introduces Critical Race Participatory Research (CRPR) organised around four auditable commitments: racial-colonial literacy, reflexivity on interest convergence, de-fetishising impact, and participation as praxis, not profit. It repurposes governance mechanisms to redistribute power, enforce accountability, and counter racial extractivism. Although grounded in the UK, the analysis and CRPR commitments travel across Global North research economies wherever whiteness structures research leadership.
