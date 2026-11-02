@@ -13,12 +13,11 @@ This workflow searches Crossref every day for new records in ABS/AJG 2024 4* and
 
 ## Email Layout
 
-The email is sent as multipart text plus HTML. Mail clients that support HTML show:
+The email is sent as multipart text plus HTML. The HTML layout follows the NBER "New This Week" working-paper email: a single 600px column with a blue masthead, a grey panel, and two numbered passes over the same papers.
 
-- a compact header with the date window and Crossref filter mode
-- summary cards for total papers, AJG 4*, AJG 4, abstracts, and affiliations
-- grouped sections by AJG rating and journal
-- paper cards with title link, DOI, authors, affiliations, publication date, journal, and abstract
+- a date line, paper count, heading, and one-paragraph note on the Crossref window and date mode
+- a numbered index of every paper (title link, authors, journal), with a small label wherever the ABS tier or field changes
+- a blue rule, then the same numbered papers again with rating, publication date, DOI, affiliations, and the full abstract
 - saved HTML, Markdown, and CSV digest files for archiving or further analysis
 
 ## Local Dry Run
@@ -49,7 +48,7 @@ The `issn` field is the key field Crossref uses. Keep it in `NNNN-NNNN` format w
 
 Optionally add `"alt_issns": ["NNNN-NNNN"]` with the journal's other ISSN (print or electronic). The journal is then matched on any of its ISSNs. This matters for Elsevier journals, whose Crossref records usually carry only the print ISSN, so querying the electronic ISSN alone returns nothing.
 
-For a journal without an ABS rating, leave `ajg_2024` empty and set `"tier": "4*"` or `"4"`. The tier only decides which section of the digest the journal appears in; the digest labels it as not ABS-rated. The digest is organised as ABS 4* and ABS 4 sections, each split by field, with a side navigation bar linking to every section and field.
+For a journal without an ABS rating, leave `ajg_2024` empty and set `"tier": "4*"` or `"4"`. The tier only decides which section of the digest the journal appears in; the digest labels it as not ABS-rated. The digest lists ABS 4* papers before ABS 4 papers, ordered by field and journal within each tier.
 
 To regenerate the config from a new Excel list:
 

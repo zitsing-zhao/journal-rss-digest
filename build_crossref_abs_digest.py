@@ -143,31 +143,6 @@ FIELD_NAMES = {
     "STRAT": "Strategy",
 }
 
-# Short labels for the side navigation; ABS field codes where they are already short.
-FIELD_ABBREVIATIONS = {
-    "ACCOUNT": "ACCOUNT",
-    "BUS HIST & ECON HIST": "BUS HIST",
-    "ECON": "ECON",
-    "ENT-SBM": "ENT-SBM",
-    "ETHICS-CSR-MAN": "ETHICS-CSR",
-    "FINANCE": "FINANCE",
-    "HRM&EMP": "HRM&EMP",
-    "IB&AREA": "IB&AREA",
-    "INFO MAN": "INFO MAN",
-    "INNOV": "INNOV",
-    "MDEV&EDU": "MDEV&EDU",
-    "OPS&TECH": "OPS&TECH",
-    "OR&MANSCI": "OR&MANSCI",
-    "ORG STUD": "ORG STUD",
-    "POL SCI": "POL SCI",
-    "PSYCH (WOP-OB)": "PSYCH",
-    "PUB SEC": "PUB SEC",
-    "REGIONAL STUDIES, PLANNING AND ENVIRONMENT": "REGIONAL",
-    "SOC SCI": "SOC SCI",
-    "STRAT": "STRAT",
-}
-FIELD_ABBREVIATION_BY_NAME = {FIELD_NAMES[code]: abbr for code, abbr in FIELD_ABBREVIATIONS.items()}
-
 Grouped = dict[str, dict[str, dict[str, list[dict[str, str]]]]]
 
 
@@ -195,13 +170,6 @@ def rating_text(record: dict[str, str]) -> str:
     if record.get("abs_ajg2024"):
         return f"ABS {record['abs_ajg2024']}"
     return f"Not ABS-rated; grouped with ABS {record_tier(record)}"
-
-
-def slug(*parts: str) -> str:
-    # Mail sanitizers (e.g. Gmail) drop ids that do not start with a letter, so always prefix.
-    text = "-".join(parts).lower().replace("*", "star")
-    text = "".join(ch if ch.isalnum() else "-" for ch in text)
-    return "sec-" + "-".join(part for part in text.split("-") if part)
 
 
 def group_records(records: list[dict[str, str]]) -> Grouped:
@@ -290,92 +258,76 @@ def h(value: str) -> str:
     return html.escape(value or "", quote=True)
 
 
-def short_text(value: str, limit: int = 900) -> str:
-    value = " ".join((value or "").split())
-    if len(value) <= limit:
-        return value
-    return value[: limit - 1].rstrip() + "..."
+# Palette and type modelled on the NBER "New This Week" working-paper email.
+BRAND_BLUE = "#0057b8"
+LINK_BLUE = "#0563c1"
+PANEL_GREY = "#f1f1f1"
+TEXT = "#333333"
+MUTED = "#666666"
+SANS = "Arial,Helvetica,sans-serif"
+SERIF = "Georgia,'Times New Roman',Times,serif"
 
 
-def anchored(anchor_id: str, text: str) -> str:
-    # The target wraps the heading text: mail sanitizers strip empty anchors, and some
-    # clients honour only one of id / name, so set both.
-    return f'<a id="{h(anchor_id)}" name="{h(anchor_id)}" style="color:inherit;text-decoration:none;">{h(text)}</a>'
+def long_date(value: date) -> str:
+    return f"{value:%B} {value.day}, {value.year}"
 
 
-def build_nav_html(grouped: Grouped) -> str:
-    blocks: list[str] = []
-    for tier, fields in grouped.items():
-        tier_count = sum(len(items) for journals in fields.values() for items in journals.values())
-        field_links = "".join(
-            f"""
-            <tr><td style="padding:3px 0 3px 12px;font:13px Arial,sans-serif;line-height:1.35;">
-              <a href="#{slug(tier, field)}" title="{h(field)}" style="color:#0b5cab;text-decoration:none;">{h(FIELD_ABBREVIATION_BY_NAME.get(field, field))}</a>
-              <span style="color:#8a99a8;">({sum(len(items) for items in journals.values())})</span>
-            </td></tr>
-            """
-            for field, journals in fields.items()
-        )
-        blocks.append(
-            f"""
-            <tr><td style="padding:14px 0 4px;font:700 14px Arial,sans-serif;">
-              <a href="#{slug(tier)}" style="color:#0f2f4a;text-decoration:none;">{h(tier_label(tier))}</a>
-              <span style="font-weight:400;color:#8a99a8;">({tier_count})</span>
-            </td></tr>
-            {field_links}
-            """
-        )
-    return f"""
-    <div class="nav-inner" style="position:sticky;top:12px;padding:6px 16px 16px;background:#ffffff;border:1px solid #d9e2ec;border-radius:8px;">
-      <div style="padding-top:10px;font:700 11px Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#637487;">Contents</div>
-      <table role="presentation" width="100%" cellpadding="0" cellspacing="0">{''.join(blocks)}</table>
-    </div>
-    """
-
-
-def build_paper_html(item: dict[str, str]) -> str:
-    title = item.get("title") or "(untitled)"
-    url = item.get("url", "").strip()
-    linked_title = (
-        f'<a href="{h(url)}" style="color:#0b5cab;text-decoration:none;">{h(title)}</a>'
-        if url
-        else h(title)
-    )
-    meta_parts = [
-        item.get("published_date", ""),
-        f"DOI: {item.get('doi', '')}" if item.get("doi") else "",
-        item.get("journal", ""),
-    ]
-    meta = " | ".join(part for part in meta_parts if part)
-    abstract = short_text(item.get("abstract", ""))
+def numbered_row(number: int, body: str, padding: str) -> str:
     return f"""
     <tr>
-      <td style="padding:16px 0;border-top:1px solid #edf2f7;">
-        <div style="font:700 16px Arial,sans-serif;line-height:1.35;color:#14324a;">{linked_title}</div>
-        {f'<div style="margin-top:6px;font:12px Arial,sans-serif;color:#637487;">{h(meta)}</div>' if meta else ''}
-        {f'<div style="margin-top:10px;font:13px Arial,sans-serif;line-height:1.45;color:#314154;"><strong>Authors:</strong> {h(item.get("authors", ""))}</div>' if item.get("authors") else ''}
-        {f'<div style="margin-top:6px;font:13px Arial,sans-serif;line-height:1.45;color:#314154;"><strong>Affiliations:</strong> {h(short_text(item.get("affiliations", ""), 450))}</div>' if item.get("affiliations") else ''}
-        {f'<div style="margin-top:10px;padding:10px 12px;background:#f6f8fb;border-left:3px solid #2b7bbb;font:13px Arial,sans-serif;line-height:1.5;color:#314154;">{h(abstract)}</div>' if abstract else ''}
-      </td>
-    </tr>
-    """
+      <td valign="top" width="26" style="width:26px;padding:{padding};font:700 14px {SANS};line-height:1.4;color:{TEXT};">{number}.</td>
+      <td valign="top" style="padding:{padding};font:14px {SANS};line-height:1.4;color:{TEXT};">{body}</td>
+    </tr>"""
 
 
-def build_journal_html(journal: str, items: list[dict[str, str]]) -> str:
+def paper_heading_html(item: dict[str, str]) -> str:
+    title = h(item.get("title") or "(untitled)")
+    url = item.get("url", "").strip()
+    linked = (
+        f'<a href="{h(url)}" style="color:{LINK_BLUE};text-decoration:underline;">{title}</a>'
+        if url
+        else title
+    )
+    journal = item.get("abs_journal_title") or item.get("journal") or ""
+    authors = item.get("authors", "")
+    lines = [linked]
+    if authors:
+        lines.append(h(authors))
+    if journal:
+        lines.append(f'<span style="color:{MUTED};font-style:italic;">{h(journal)}</span>')
+    return "<br>".join(lines)
+
+
+def paper_detail_html(item: dict[str, str]) -> str:
+    parts = [paper_heading_html(item)]
+    meta = " | ".join(
+        part
+        for part in (
+            rating_text(item),
+            item.get("published_date", ""),
+            f"DOI {item['doi']}" if item.get("doi") else "",
+        )
+        if part
+    )
+    parts.append(f'<div style="margin-top:4px;font:12px {SANS};line-height:1.4;color:{MUTED};">{h(meta)}</div>')
+    if item.get("affiliations"):
+        parts.append(
+            f'<div style="margin-top:4px;font:12px {SANS};line-height:1.4;color:{MUTED};">{h(item["affiliations"])}</div>'
+        )
+    abstract = " ".join((item.get("abstract") or "").split())
+    parts.append(f'<div style="margin-top:18px;font:700 14px {SANS};color:{TEXT};">Abstract:</div>')
+    if abstract:
+        parts.append(f'<div style="margin-top:12px;font:14px {SANS};line-height:1.4;color:{MUTED};">{h(abstract)}</div>')
+    else:
+        parts.append(
+            f'<div style="margin-top:12px;font:italic 14px {SANS};line-height:1.4;color:{MUTED};">Crossref did not supply an abstract.</div>'
+        )
+    return "".join(parts)
+
+
+def group_label_row(text: str) -> str:
     return f"""
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
-           style="margin:0 0 14px;background:#ffffff;border:1px solid #d9e2ec;border-radius:8px;">
-      <tr>
-        <td style="padding:15px 18px 4px;">
-          <div style="font:700 17px Arial,sans-serif;color:#0f2f4a;">{h(journal)}</div>
-          <div style="margin-top:5px;font:12px Arial,sans-serif;color:#637487;">
-            {h(rating_text(items[0]))} | Articles: {len(items)}
-          </div>
-        </td>
-      </tr>
-      <tr><td style="padding:0 18px 2px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0">{''.join(build_paper_html(item) for item in items)}</table></td></tr>
-    </table>
-    """
+    <tr><td colspan="2" style="padding:22px 0 2px;font:700 12px {SANS};letter-spacing:.06em;text-transform:uppercase;color:{BRAND_BLUE};">{h(text)}</td></tr>"""
 
 
 def build_html_email(
@@ -387,91 +339,51 @@ def build_html_email(
     mode: str,
 ) -> str:
     total = len(records)
-    abstract_count = sum(bool(record.get("abstract")) for record in records)
-    affiliation_count = sum(bool(record.get("affiliations")) for record in records)
-    rating_counts: dict[str, int] = {}
-    for record in records:
-        rating = record_tier(record)
-        rating_counts[rating] = rating_counts.get(rating, 0) + 1
-
-    stat_cards = [
-        ("New papers", str(total)),
-        ("ABS 4*", str(rating_counts.get("4*", 0))),
-        ("ABS 4", str(rating_counts.get("4", 0))),
-        ("With abstracts", str(abstract_count)),
-        ("With affiliations", str(affiliation_count)),
-    ]
-    stat_html = "".join(
-        f"""
-        <td class="stat" style="padding:0 8px 12px 0;">
-          <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
-                 style="background:#ffffff;border:1px solid #d9e2ec;border-radius:8px;">
-            <tr><td style="padding:12px 14px 4px;font:12px Arial,sans-serif;color:#5b6b7a;">{h(label)}</td></tr>
-            <tr><td style="padding:0 14px 12px;font:700 24px Arial,sans-serif;color:#0f2f4a;">{h(value)}</td></tr>
-          </table>
-        </td>
-        """
-        for label, value in stat_cards
-    )
-
     grouped = group_records(records)
-    nav_html = build_nav_html(grouped) if records else ""
 
-    if not records:
-        content_html = """
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
-               style="background:#ffffff;border:1px solid #d9e2ec;border-radius:8px;">
-          <tr><td style="padding:22px;font:15px Arial,sans-serif;color:#314154;">
-            No new papers were found for this run.
-          </td></tr>
-        </table>
+    # Flat, continuously numbered list as in the NBER email, in tier -> field -> journal order,
+    # with a light label wherever the tier or field changes.
+    ordered: list[tuple[str, dict[str, str]]] = []
+    for tier, fields in grouped.items():
+        for field, journals in fields.items():
+            label = f"{tier_label(tier)} · {field}"
+            for items in journals.values():
+                ordered.extend((label, item) for item in items)
+
+    index_rows: list[str] = []
+    detail_rows: list[str] = []
+    previous_label = ""
+    for number, (label, item) in enumerate(ordered, start=1):
+        if label != previous_label:
+            index_rows.append(group_label_row(label))
+            previous_label = label
+        index_rows.append(numbered_row(number, paper_heading_html(item), "14px 0 0"))
+        detail_rows.append(numbered_row(number, paper_detail_html(item), "36px 0 0"))
+
+    if records:
+        content_html = f"""
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0">{''.join(index_rows)}</table>
+        <div style="margin:36px 0 0;border-top:2px solid {BRAND_BLUE};font-size:0;line-height:0;">&nbsp;</div>
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0">{''.join(detail_rows)}</table>
         """
     else:
-        sections: list[str] = []
-        for tier, fields in grouped.items():
-            field_blocks: list[str] = []
-            for field, journals in fields.items():
-                journal_html = "".join(build_journal_html(journal, items) for journal, items in journals.items())
-                field_blocks.append(
-                    f"""
-                    <tr><td style="padding:10px 0 8px;font:700 15px Arial,sans-serif;color:#2b5f8a;border-bottom:2px solid #d9e2ec;">
-                      {anchored(slug(tier, field), field)}
-                    </td></tr>
-                    <tr><td style="padding-top:12px;">{journal_html}</td></tr>
-                    """
-                )
-            sections.append(
-                f"""
-                <tr><td style="padding:22px 0 8px;font:700 20px Arial,sans-serif;color:#0f2f4a;">
-                  {anchored(slug(tier), tier_label(tier))}
-                </td></tr>
-                {''.join(field_blocks)}
-                """
-            )
-        content_html = f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0">{"".join(sections)}</table>'
+        content_html = f'<p style="margin:24px 0 0;font:14px {SANS};color:{TEXT};">No new papers were found for this run.</p>'
 
     error_html = ""
     if errors:
         items = "".join(f"<li>{h(error)}</li>" for error in errors)
         error_html = f"""
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0"
-               style="margin-top:16px;background:#fff7ed;border:1px solid #fed7aa;border-radius:8px;">
-          <tr><td style="padding:16px 18px;font:13px Arial,sans-serif;line-height:1.5;color:#7c2d12;">
-            <strong>Crossref errors</strong>
-            <ul style="margin:8px 0 0 18px;padding:0;">{items}</ul>
-          </td></tr>
-        </table>
+        <div style="margin-top:36px;padding-top:14px;border-top:1px solid #cccccc;font:12px {SANS};line-height:1.5;color:{MUTED};">
+          <strong style="color:{TEXT};">Crossref errors</strong>
+          <ul style="margin:6px 0 0 18px;padding:0;">{items}</ul>
+        </div>
         """
 
-    if nav_html:
-        body_html = f"""
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>
-          <td class="nav" width="170" valign="top" style="width:170px;padding-right:18px;">{nav_html}</td>
-          <td class="main" valign="top">{content_html}{error_html}</td>
-        </tr></table>
-        """
-    else:
-        body_html = f"{content_html}{error_html}"
+    window = long_date(date.fromisoformat(end_date))
+    if start_date != end_date:
+        window = f"{long_date(date.fromisoformat(start_date))} to {window}"
+    heading = "New Today" if (date.fromisoformat(end_date) - date.fromisoformat(start_date)).days <= 1 else "New This Period"
+    paper_word = "paper" if total == 1 else "papers"
 
     return f"""<!doctype html>
 <html>
@@ -479,40 +391,42 @@ def build_html_email(
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-      html {{ scroll-behavior: smooth; }}
-      a[name] {{ scroll-margin-top: 16px; }}
-      .nav a:hover {{ text-decoration: underline !important; }}
-      @media (max-width: 720px) {{
-        .nav, .main {{ display: block !important; width: 100% !important; padding-right: 0 !important; }}
-        .nav-inner {{ position: static !important; margin-bottom: 16px; }}
-        .stat {{ display: inline-block !important; width: 46% !important; }}
+      @media (max-width: 620px) {{
+        .panel {{ padding-left: 16px !important; padding-right: 16px !important; }}
       }}
     </style>
   </head>
-  <body style="margin:0;padding:0;background:#eef3f7;">
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#eef3f7;">
+  <body style="margin:0;padding:0;background:#ffffff;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#ffffff;">
       <tr>
-        <td align="center" style="padding:24px 12px;">
-          <table role="presentation" width="1000" cellpadding="0" cellspacing="0"
-                 style="max-width:1000px;width:100%;background:#f8fafc;border-radius:12px;">
+        <td align="center" style="padding:16px 0;">
+          <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:100%;max-width:600px;">
             <tr>
-              <td style="padding:28px 30px;background:#0f2f4a;color:#ffffff;border-radius:12px 12px 0 0;">
-                <div style="font:700 24px Arial,sans-serif;line-height:1.25;">Daily ABS 4*/4 Crossref Digest</div>
-                <div style="margin-top:8px;font:14px Arial,sans-serif;line-height:1.45;color:#dbeafe;">
-                  {h(start_date)} to {h(end_date)} | mode: {h(mode)} | generated {h(generated_at.strftime('%Y-%m-%d %H:%M UTC'))}
+              <td align="center" style="padding:16px 20px;background:{BRAND_BLUE};font:700 30px {SERIF};letter-spacing:-.5px;color:#ffffff;">
+                ABS 4*/4 Digest
+              </td>
+            </tr>
+            <tr>
+              <td class="panel" style="padding:20px 40px 40px;background:{PANEL_GREY};">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td style="font:14px {SANS};color:{TEXT};">{h(long_date(generated_at.date()))}</td>
+                    <td align="right" style="font:14px {SANS};color:{MUTED};">{total} new {paper_word}</td>
+                  </tr>
+                </table>
+                <div style="margin-top:28px;font:700 22px {SERIF};line-height:1.3;color:{TEXT};">{heading}: The Latest ABS 4*/4 Journal Articles</div>
+                <div style="margin-top:12px;font:14px {SANS};line-height:1.4;color:{MUTED};">
+                  New papers in ABS/AJG 2024 4* and 4 journals registered with Crossref ({h(mode)} date) for {h(window)}.
+                  Abstracts and affiliations appear only when Crossref supplies them.
                 </div>
+                {content_html}
+                {error_html}
               </td>
             </tr>
             <tr>
-              <td style="padding:22px 22px 8px;">
-                <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>{stat_html}</tr></table>
-              </td>
-            </tr>
-            <tr><td style="padding:0 22px 24px;">{body_html}</td></tr>
-            <tr>
-              <td style="padding:16px 24px;background:#e7eef5;font:12px Arial,sans-serif;line-height:1.45;color:#536475;border-radius:0 0 12px 12px;">
-                The Markdown and CSV versions are attached. Abstracts and affiliations appear only when Crossref supplies them.
-                Journals without an ABS rating (political science, some sociology) are grouped with the ABS tier matching their standing in their field.
+              <td style="padding:16px 40px;font:12px {SANS};line-height:1.5;color:{MUTED};">
+                The Markdown and CSV versions are attached. Journals without an ABS rating (political science, some sociology)
+                are grouped with the ABS tier matching their standing in their field.
               </td>
             </tr>
           </table>
