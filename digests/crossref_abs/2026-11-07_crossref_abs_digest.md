@@ -1,0 +1,196 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-11-07
+
+Generated at: 2026-11-07 13:54 UTC
+Crossref date mode: `created`
+Window: `2026-11-06` to `2026-11-07`
+New papers: 18
+
+## ABS 4*
+
+### Operations Research & Management Science
+
+#### Management Science
+- Rating: ABS 4*
+- Articles: 1
+
+- [Generative Artificial Intelligence and Sales Productivity: Field Experiments in Online Retail](https://doi.org/10.1287/mnsc.2026.00623)
+  - DOI: 10.1287/mnsc.2026.00623
+  - Authors: Lu Fang; Zhe Yuan; Kaifu Zhang; Dante Donati; Miklos Sarvary
+  - Affiliations: School of Management, Zhejiang University of Finance and Economics, Hangzhou 310018 China; and Laboratory for Human-AI Collaboration and Digital Intelligence Innovation, Zhejiang University, Hangzhou 310058 China; Center for Research of Private Economy, School of Economics, Future Regional Development Laboratory, and Academy of Financial Research, Zhejiang University, Hangzhou 310058 China; Individual Researcher; Columbia Business School, Columbia University, New York, New York 10027
+  - Published: 2026-11-06
+  - Crossref journal: Management Science
+  - Abstract:
+    We quantify the short-term impact of generative artificial intelligence (GenAI) on sales performance through a series of large-scale randomized field experiments involving millions of users and products at a leading crossborder online retail platform. Over 2023–2024, the platform integrated GenAI into seven business workflows spanning customer service, consumer-product matching, advertising, and seller services. We find that GenAI adoption increases sales in most workflows, with effects ranging from no detectable impact to 16.3% depending on GenAI’s marginal contribution relative to baseline firm practices. Across the four GenAI applications with positive sales effects, the implied annual incremental value is roughly $5 per consumer—an economically meaningful impact given the retailer’s scale and the early stage of GenAI adoption. The gains operate primarily through higher conversion rates rather than larger cart values, consistent with GenAI improving the shopping experience by reducing search, information, communication, and personalization frictions. Importantly, these effects are not associated with worse postpurchase outcomes as product return rates and customer ratings do not deteriorate. Finally, we document substantial demand-side heterogeneity, with larger gains for less experienced consumers. Our findings provide novel, large-scale causal evidence on how GenAI shapes sales productivity in online retail, highlighting both its immediate value and broader potential. This paper was accepted by Jean-Pierre Dube, marketing. Funding: L. Fang acknowledges financial support from the National Natural Science Foundation of China [Grants 72501258 and 72192803], the Major Special Project in Philosophy and Social Sciences of the Ministry of Education of China [Grant 2026JZDZ020], the National Social Science Fund of China [Grant 22&ZD081]. Z. Yuan acknowledges financial support from the National Key Research and Development Project [Grant 2024YFB3312900], the National Natural Science Foundation of China [Grants 72141305 and 72203202], the National Social Science Fund of China [Grants 26ZDA030 and 25&ZD149], and the Fundamental Research Funds for the Central Universities. K. Zhang, D. Donati, and M. Sarvary have no funding to report. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2026.00623 .
+
+## ABS 4
+
+### Economics
+
+#### Journal of Econometrics
+- Rating: ABS 4
+- Articles: 1
+
+- [The canonical decomposition of factor models: weak factors are everywhere](https://doi.org/10.1016/j.jeconom.2026.106353)
+  - DOI: 10.1016/j.jeconom.2026.106353
+  - Authors: Philipp Gersing; Matteo Barigozzi; Christoph Rust; Manfred Deistler
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Econometrics
+
+#### Journal of Economic Perspectives
+- Rating: ABS 4
+- Articles: 11
+
+- [Trust Violations in Research Universities](https://doi.org/10.1257/jep.20251484)
+  - DOI: 10.1257/jep.20251484
+  - Authors: William G. Howell
+  - Affiliations: William G. Howell is Dean of the School of Government and Policy and Professor of Political Science, Johns Hopkins University, Baltimore, Maryland. His email address is .
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    By nearly twice as much as in any other institution that Gallup tracks, public trust in research universities has fallen over the past decade. The causes are not only external. This essay examines two violations of trust that originate within the academy: research that is driven by political advocacy, and a professoriate whose range of ideological viewpoints has narrowed, especially in the humanities and social sciences. The first subordinates the pursuit of truth to political aims; the second erodes the diversity of perspectives that checks individual biases and lets research correct itself. Both break faith with the arguments originally advanced for tenure and academic freedom. Restoring trust demands a renewed commitment to disinterested inquiry and the cultivation of intellectual pluralism—objectives, both, that are best adopted voluntarily, without state censor or interference, and promptly.
+
+- [The Why and How of Foreign Aid](https://doi.org/10.1257/jep.20251476)
+  - DOI: 10.1257/jep.20251476
+  - Authors: Dean Karlan
+  - Affiliations: Dean Karlan is the Frederic Esser Nemmers Distinguished Professor of Economics and Finance, Kellogg School of Management at Northwestern University, Evanston, Illinois. He served as Chief Economist, US Agency for International Development (USAID) from November 2022 to February 2025 and is the founder of Innovations for Poverty Action. His email address is
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    Foreign aid has become a melting pot of motivations and policies, where differently motivated actors often converge on recommended policies while the similarly motivated diverge. Breaking down the “why” and the “how” can illuminate real tensions and reveal false ones. The “why” asks which problems to tackle and who benefits: the recipient, the donor through economic, political, or soft-power returns, or everyone through global public goods. The “how” asks which strategy most cost-effectively addresses a chosen problem. Evidence is central to the “how”: Use it where it exists, produce it where it does not. In particular, approaches that improve state capacity to use and generate evidence can satisfy multiple objectives: strengthen recipient countries, benefit donors, and provide a global public good of knowledge. Ultimately, the “how” is not a linear process, but rather an iterative one of learning, adopting, adapting, repeating, and then sharing so others can learn as well.
+
+- [The Role of Private Debt in the Financial Ecosystem](https://doi.org/10.1257/jep.20251482)
+  - DOI: 10.1257/jep.20251482
+  - Authors: Victoria Ivashina
+  - Affiliations: Victoria Ivashina is Professor of Business Administration, Harvard Business School, Boston, Massachusetts, and Research Associate, National Bureau of Economic Research, Cambridge, Massachusetts. Her email address is
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    This paper provides an introduction to the modern private debt market and examines its rapid expansion following the 2007–2009 global financial crisis. Traditionally, economists distinguished between public debt markets and private debt in the form of bank lending. In contemporary markets, however, “private debt” refers to credit originated and held by nonbank financial intermediaries, including private credit funds and business development companies. The paper reviews the key drivers of the sector’s growth; analyzes the distinctive features of private lending arrangements and funding structures; and discusses the implications for traditional banking, financial intermediation, and financial stability. While the sector’s rapid growth and increasing complexity warrant careful monitoring, the paper argues that private debt represents an important and likely durable component of modern financial markets.
+
+- [The Role of Organization in Firm-Sponsored Training](https://doi.org/10.1257/jep.20261508)
+  - DOI: 10.1257/jep.20261508
+  - Authors: David J. Deming; Raffaella Sadun; Christopher Stanton
+  - Affiliations: David J. Deming is Professor of Economics and Public Policy, Harvard University, Cambridge, Massachusetts.; Raffaella Sadun is Professors of Business Administration, Harvard Business School, Boston, Massachusetts.; Christopher Stanton is Professors of Business Administration, Harvard Business School, Boston, Massachusetts.
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    Some firms are more likely than others to invest in workers’ skills. We document this phenomenon and discuss its implications in light of models of firm-sponsored skills training. The data show that better managed firms, even in the same industries and labor markets, are more likely to train, while training clusters around either managerial or frontline worker development. We argue that organizational differences provide incentives for firms to train beyond traditional explanations that focus on labor market frictions. We illustrate how organizational heterogeneity can generate training investments through a knowledge hierarchy framework where top managers with different skills build bespoke organizations tailored to their unique needs. This, in turn, makes general skill firm specific, allowing firms to capture returns on training investment.
+
+- [The Meritocratic Consensus and Stratification in Higher Education](https://doi.org/10.1257/jep.20251487)
+  - DOI: 10.1257/jep.20251487
+  - Authors: Zachary Bleemer; Jesse Rothstein
+  - Affiliations: Zachary Bleemer is Assistant Professor of Economics, Princeton University, Princeton, New Jersey.; Jesse Rothstein is Professor of Public Policy and Economics and David Gardner Chair of Higher Education, University of California at Berkeley, Berkeley, California.
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    American colleges and universities are highly stratified by pre-college academic achievement, family background, and institutional resources. We study the meritocratic consensus in American higher education: Colleges that high-testing students (who are generally also from high-income families) attend spend dramatically more on instruction than do those that enroll lower-testing students. Stratification by test scores has been largely stable since the 1960s, but the stratification of instructional resources has risen sharply since 1970 at both private and public institutions. Nonacademic admissions criteria like athletics, legacy, and affirmative action are second-order in determining the allocation of students to universities. Potential economic justifications for the positive association of instructional expenditures with student prior achievement—q-complementarity between achievement and resources, convex social returns to high human capital, and incentives to invest in learning prior to college—have little empirical support. Resource stratification across universities has not increased in the past decade, largely due to increased public funding of universities that enroll lower-testing students through financial aid programs like California's CalGrant, but stratification within institutions is now rising swiftly.
+
+- [Systemic Cyber Risk: Linking Measurement, Market Incentives, and Policy](https://doi.org/10.1257/jep.20261513)
+  - DOI: 10.1257/jep.20261513
+  - Authors: Susan Athey; Neil Gandal; Tyler Moore
+  - Affiliations: Susan Athey is Professor of Economics, Graduate School of Business, Stanford University, Stanford, California.; Neil Gandal is Emeritus Professor of Economics, Tel Aviv University, Tel Aviv, Israel, and Professor of Cyber Studies, The University of Tulsa, Tulsa, Oklahoma.; Tyler Moore is Professor of Cybersecurity, The University of Tulsa, Tulsa, Oklahoma.
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    Many firms and sectors within the global economy heavily depend on a common set of critical technology products and software services, thereby consolidating risk across a small number of potential failure points. The widespread reliance on a limited set of products and services has given rise to many single points of system vulnerability. Such concentration of risk amplifies the potential fallout from security breaches, especially since attackers have strong incentives to attack such products and services. Despite the abundance of tools available to organizations and consumers for safeguarding their data against loss or compromise, advancements in individual defense measures have been more than counterbalanced by an increased susceptibility to systemic events. In this paper, we apply economic principles to the rising danger of systemic cyber risks. The paper is organized around four central economic lessons and uses case studies, new data, and policy discussion to develop and support them.
+
+- [Recommendations for Further Reading](https://doi.org/10.1257/jep.20261531)
+  - DOI: 10.1257/jep.20261531
+  - Authors: Timothy Taylor
+  - Affiliations: Timothy Taylor is Managing Editor, Journal of Economic Perspectives, based at Macalester College, Saint Paul, Minnesota.
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Perspectives
+
+- [Private Credit, Balance Sheets, and Financial Stability](https://doi.org/10.1257/jep.20261498)
+  - DOI: 10.1257/jep.20261498
+  - Authors: Gregor Matvos; Tomasz Piskorski; Amit Seru
+  - Affiliations: Gregor Matvos is Professor of Finance, Northwestern Kellogg School of Business, Evanston, Illinois; and Research Associates, National Bureau of Economic Research, Cambridge, Massachusetts.; Tomasz Piskorski is Professor of Finance and Real Estate, Columbia Business School, New York City, New York; and Research Associates, National Bureau of Economic Research, Cambridge, Massachusetts.; Amit Seru is Professor of Finance, Stanford Business School, as well as Senior Fellow, Hoover Institution, and Senior Fellow, Stanford Institute for Economic Policy Research, all at Stanford, California; and Research Associates, National Bureau of Economic Research, Cambridge, Massachusetts.
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    Private credit has become an important source of business financing, raising questions about financial stability. We examine these questions using comprehensive fund- and asset-level data on private credit funds, the dominant form of private credit. Four facts emerge. First, private credit funds are primarily equity financed, with equity accounting for 65–80 percent of assets, compared with about 10 percent for US banks. Second, they engage in little maturity transformation: Fund lives span eight to twelve years, while underlying loans typically mature within two to four years. Third, portfolios are diversified across industries, geographies, and credit strategies. Fourth, equity investors have earned average net annualized returns of about 10 percent after fees, with equity cushions historically absorbing losses before creditors. These findings suggest that private credit funds do not currently replicate balance-sheet structures associated with banking fragility. We conclude by discussing potential vulnerabilities related to liquidity provision, valuation contagion, and loss transmission through investor balance sheets.
+
+- [In Praise of the Bayesian Bootstrap](https://doi.org/10.1257/jep.20261514)
+  - DOI: 10.1257/jep.20261514
+  - Authors: Isaiah Andrews; Sarah Moon; Jesse M. Shapiro
+  - Affiliations: Isaiah Andrews is the Charles E. and Susan T. Harris Professor of Economics, Massachusetts Institute of Technology, Cambridge, Massachusetts. Andrews is also Research Associates at the National Bureau of Economic Research, Cambridge, Massachusetts.; Sarah Moon is a PhD candidate in economics, Massachusetts Institute of Technology, Cambridge, Massachusetts.; Jesse M. Shapiro is the George Gund Professor of Economics and Business Administration, Harvard University, Cambridge, Massachusetts. Shapiro is also Research Associates at the National Bureau of Economic Research, Cambridge, Massachusetts.
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    The key takeaways from this article will be the following: (i) Anytime you can bootstrap, you should! (ii) Use the Bayesian bootstrap instead of the nonparametric bootstrap. (iii) If the bootstrap distribution looks different from the “theoretical” (usually, normal) distribution, don’t (only) report a point estimate and standard error. (iv) Instead (or in addition), report the bootstrap distribution with a plot if you have space for it or an interval if you don’t. (v) Give the Bayesian bootstrap a Bayesian interpretation. (vi) You can use a bootstrap even with (multiway) clustering.
+
+- [Front Matter](https://doi.org/10.1257/jep.40.4.1)
+  - DOI: 10.1257/jep.40.4.1
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Perspectives
+
+- [Can Government Support for Innovation Create the Next Silicon Valley?](https://doi.org/10.1257/jep.20251493)
+  - DOI: 10.1257/jep.20251493
+  - Authors: E. Jason Baron; Shawn Kantor; Alexander Whalley
+  - Affiliations: Jason Baron is Assistant Professor of Economics, Duke University, Durham, North Carolina. Baron is a Faculty Research Fellow and Kantor is a Research Associate, National Bureau of Economic Research, Cambridge, Massachusetts.; Shawn Kantor is the L. Charles Hilton Jr. Distinguished Professor of Economics, Florida State University, Tallahassee, Florida.; Alexander Whalley is Professor of Economics, University of Calgary, Calgary, Alberta, Canada.
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Perspectives
+  - Abstract:
+    Can government support for innovation create the next Silicon Valley? We examine what public research and development can and cannot do to foster regional knowledge hubs. The historical record suggests that many successful hubs owe their origins partly to serendipity and favorable initial conditions. We then review causal evidence from universities, changes in intellectual property rules, new research institutions, wartime R&D, and the space race. Public R&D can raise local innovation, employment, and income, but the effects are heterogeneous, often modest relative to cost, and may partly reflect the relocation of firms and skilled workers from elsewhere. The evidence suggests a central role for complementary local inputs, including entrepreneurs, risk capital, skilled labor, firms, and institutions. Public R&D can help build a hub, but is unlikely to create one on its own.
+
+### Finance
+
+#### Journal of Financial Intermediation
+- Rating: ABS 4
+- Articles: 1
+
+- [Informational advantages of lending locally](https://doi.org/10.1016/j.jfi.2026.101235)
+  - DOI: 10.1016/j.jfi.2026.101235
+  - Authors: Kristle Romero Cortés
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Financial Intermediation
+
+#### Journal of Money, Credit and Banking
+- Rating: ABS 4
+- Articles: 1
+
+- [Financial Constraints, Wages, and Macroeconomic Implications](https://doi.org/10.1111/jmcb.70108)
+  - DOI: 10.1111/jmcb.70108
+  - Authors: HAMZEH ARABZADEH; ALMUT BALLEER; BRITTA GEHRKE
+  - Published: 2026-11-07
+  - Crossref journal: Journal of Money, Credit and Banking
+  - Abstract:
+    Abstract This paper investigates how firm‐level financial constraints affect individual wages and aggregate labor market dynamics during financial recessions. We derive testable predictions from competing theoretical mechanisms and assess them empirically using German administrative worker data matched to firm balance sheets. Embedding these microlevel estimates in a macroeconomic model with labor and financial frictions, we demonstrate how small ceteris paribus effects align with large aggregate dynamics. Tighter financial conditions amplify wage and unemployment volatility, weakening the tight link between wage rigidity and the volatility of unemployment discussed in the literature. Financial constraints reduce the effectiveness of hiring subsidies during recessions.
+
+### Innovation
+
+#### Scientometrics
+- Rating: ABS 4
+- Articles: 1
+
+- [Conceptual divergence analysis: LLM-assisted mapping of a researcher’s conceptual vocabulary against their curated literature](https://doi.org/10.1007/s11192-026-05883-9)
+  - DOI: 10.1007/s11192-026-05883-9
+  - Authors: Jina Lee; Zhuofan Li
+  - Published: 2026-11-07
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract Large language model (LLM)-based research tools often overlook a researcher-specific problem in manuscript writing: where does my use of a key theoretical term stand relative to the literature I want to address? We introduce Conceptual Divergence Analysis (CDA), an LLM-based retrieval-augmented generation pipeline to compare theoretical term usage in a researcher’s manuscripts with usage in a researcher-curated literature corpus. We propose reflective calibration as the individual-level scientometric function this workflow performs. We demonstrate CDA on two research programs, encompassing corpora of roughly 3,200 and 2,800 papers and four theoretical terms. The analyses reveal researcher-specific divergences consequential for theoretical positioning. In one case, the researcher draws a distinction the literature leaves underarticulated. In another case, CDA reveals how a term carries different meanings across disciplinary traditions, helping the researcher anticipate how different scholarly audiences may interpret its use. Register assignments are anchored to pre-computed clusters. An optional researcher-led validation step records the researcher’s judgment before revealing the model’s interpretation, making agreement or disagreement explicit. We release the complete pipeline as an open-source resource with a no-installation hosted demonstration on a public toy corpus, extending an individual-level tradition in scientometrics from citation structure to conceptual vocabulary.
+
+### Operations Research & Management Science
+
+#### European Journal of Operational Research
+- Rating: ABS 4
+- Articles: 1
+
+- [A logic-based Benders decomposition with reinforcement learning-guided check-and-cut for the double-stack railway loading problem](https://doi.org/10.1016/j.ejor.2026.10.048)
+  - DOI: 10.1016/j.ejor.2026.10.048
+  - Authors: Baoli Liu; Fei Wang; Di Wu; Xiaoju Zhang; Jianfeng Zheng; Liming Guo
+  - Published: 2026-11-01
+  - Crossref journal: European Journal of Operational Research
+
+### Organisation Studies
+
+#### Leadership Quarterly
+- Rating: ABS 4
+- Articles: 1
+
+- [Corrigendum to "Think political leader — think he or she? A multi-country test of a gender-fair language intervention to reduce gendered leadership stereotypes" [Leadersh. Quart. (2026) 101991]](https://doi.org/10.1016/j.leaqua.2026.102008)
+  - DOI: 10.1016/j.leaqua.2026.102008
+  - Authors: Kim Peters; Alma Jeftić; Timothy Ballard; Steven Zhou; Niklas K. Steffens; Ilke Inceoglu; Michelle K. Ryan; Renata Bongiorno; Alice Eagly; Patrícia Arriaga; Agustin Espinosa; Balazs Aczel; Adeyemi Adetula; Salvatore M. Aglioti; Ece Akca; Emine Akman Direkçi; Zahra Alizadeh; Itziar Alonso-Arbiol; Muhammad Fahizza Amru; John Andre; Raquel António; Uğur Arcagök; Nwadiogo Chisom Arinze; Romina Asadollahpour; Gayane Alberty Asatryan; Muhammed Sukru Aydin; Bülent Aykutoğlu; Parisa Azimisefat; Soufian Azouaghe; Sercan Balım; Gabriel Baník; Krystian Barzykowski; Maja Becker; Nora C.G. Benningstad; Julia Berenguer; Monika Bidzan-Wiącek; Bartosz Błaszczak; Ricardo Borges Rodrigues; Islam Borinca; Leanne Boucher; Sarah Boukarras; Mustapha Boulahya; Olcay Bozkuş-Demir; Mark J. Brandt; Fabrice Brodard; Hilmar Brohmer; Erin M. Buchanan; Jacek Buczny; Mehmet Fatih Bükün; Moa Bursell; Andrea Buscemi; Muhammad Mussaffa Butt; Angelica Caicedo-Moreno; Cinzia Calluso; Selin Metin Camgöz; Octav Sorin Candel; Thomas Castelain; Pablo Castro-Abril; Müge Cavdan; Trawin Chaleeraktrakoon; Abdelilah Charyate; Jennifer Chavanovanich; Mohammed Cherradi; Peilian Chi; Phatthanakit Chobthamkit; Shalini Choudhary; Çağla Çınar; Heather M. Claypool; Sharon Coen; W. Matthew Collins; Nadia Sarai Corral-Frías; Cleno Couto; Mioara Cristea; Wilson Cyrus-Lai; Anna Dalla Rosa; Trac Vu Dang; Maria Giovanna Devetag; Bojana M. Dinić; Terence D. Dores Cruz; Andrei Dumbravă; Julia Dykla-Bień; Clare Ellen Edge; Sina Eftekhari; Youssef El Mottaleb; Christian T. Elbæk; Cécile Emery; Simona Epure; Thomas R. Evans; Zuzanna Farny; Shameem Fatima; Mario Muhammad Noer Fauzan; Katharina Fellnhofer; Tommaso Feraco; Ángela Fernández-Canseco; Ludovic Ferrand; Paulo Roberto dos Santos Ferreira; Silvia Filippi; Sam Fluit; Raquel Meister Ko Freitag; Martha Frias-Armenta; Althea Frisanco; Katalin Füzér; Linda Isis Garcia-Estrada; Karla Alejandra Garduño-Realivazquez; Agata Gasiorowska; Janet Geipel; Sophie Gerdel; Isabella Giammusso; Vaitsa Giannouli; Konstantinos Giannoulis; Fenne J.J. Gijzen; Magali Ginet; Lola Girerd; Ilka Helene Gleibs; Hendrik Godbersen; Taylor Gogan; Leticia Horbach Gonçalves; Amélie Gourdon-Kanhukamwe; Franca Grafe; Hedy Greijdanus; Rashmi Gupta; Hande Guzel; Pascal Gygax; Constantinos Hadjichristidis; Soufiane Haffou; Marius Duhović Hafstad; Mina Hagen; Peter Halama; Emma Halfmann; Paul H.P. Hanel; Eric M. Hansen; Adriana Hanulíková; Samantha M. Harris; Claire M. Hart; Levke Henningsen; Pentti Henttonen; Gabriela Hofer; Caan Hollenbach; Xiaoya Huang; Joevarian Hudiyana; Kotomi Ideishi; Izabella Ilea; Hirotaka Imada; Moritz Ingendahl; Natalia C. Irrazabal; Chris Isloi; Izuchukwu Lawrence G. Ndukaihe; Lea Jakob; Kigobe Janeth; Hansori Jang; Candela I. Jantus; Juan Rafael Juarez; Nina M. Junker; Pavol Kačmár; Asahi Kanisawa; Alper Karababa; Muhammed Enes Karacoşkun; Gizem Karadeniz; Karlijn Massar; Ahmed Khaoudi; Ji Hye Kim; Mikyoung Kim; SeungMin Kim; Andrew Kloeden; Nadine Knab; Michal Kohút; Büşra Kök; Marta Kowal; Tomas Kratochvil; Clara Kulich; Eva Kundtová Klocová; Bahtım Kütük; Anna O. Kuzminska; Duc Anh La; Kelly Ka Lai Lam; Claus Lamm; Jose M. León-Pérez; Badolo Bawala Léopold; Savannah C. Lewis; Claire Linares; Delila Lisica; Zhiyu Liu; Morgana Lizzio-Wilson; Wilson López-López; Winnifred R. Louis; Jackson G. Lu; Jessica Mesmer-Magnus; Behrooz Mahmoodi-Bakhtiari; Annette Malapally; Klara Malinakova; Winfrida Saimon Malingumu; Nihal Mamatoğlu; Nguyen Duc Manh; Diego Manríquez-Robles; Efisio Manunta; João Mariano; Chloé Marie; Marco Marozzi; Magdalena A. Marszałek; Edurne Martinez-Moreno; Delphine Martinot; Marcel Martončik; Yuya Maruo; Katarina Mašić Đonlić; Buffie McCue-Quinn; Anahita Mehdinejad; Ezgi Mehmetoglu Comert; Zdenek Meier; Ewout H. Meijer; Ethan Meimoun; Yuliana G. Melkumyan; Julie Mellul; Irem Metin-Orta; Linaja Mikalonis; Alberto Mirisola; Katarina Mišetić; Michal Misiak; Maria Montefinese; Nicole Moore; Mahmoud Moradi; Eva Moreno-Bella; Lamya Mouhssine; Annakarina Mundorf; Houdaifa Nadif; Joaquin Navajas; Eduardo Navarrete; Brett H. Neely; Thuc Hien T. Nguyen; Thi Loan Nguyen; Elena-Gabriela Balint; Milica Ninković; J. Lukas Thürmer; Lukas Novak; Annika Nübold; Armelle Nugier; Ellen K. Nyhus; Boglarka Nyul; Brian A. O'Shea; William G. Obenauer; Chisom E. Ogbonnaya; Oluyinka Ojedokun; Josefine Østergaard R. Pedersen; Begum Otken; Tobias Otterbring; Nestor Motemba Ouoba; Fatih Özdemir; Asil Ali Özdoğru; Gökçe Özkılıçcı; Mariola Paruzel-Czachura; Freya L. Pedersen; Ivana Pedović; Marija Pejičić; Mehmet Peker; Sofia Pelica; Narumol Petchthip; Aino Petterson; Stefan Pfattheicher; Ivana Piterová; Ekaterina Pronizius; Oara Prundeanu; Katarzyna Pypno-Blajda; Alain Quiamzade; Jannes Luka Rebel; Sandrine Redersdorff; Sara Redlingshöfer; Sylwiusz Retowski; Andres Felipe Reyes; Azalea Reyes-Aguilar; Gianni Ribeiro; Gabriela Řičařová; Céline Robert; S. Craig Roberts; Marta A. Roczniewska; Jan Philipp Röer; Anette Rohmann; Erika J. Rosenberger; Robert M. Ross; Leopold Helmut Otto Roth; Susana Ruiz-Fernandez; Shawn M. Russell; Shaho Sabbar; Fatima Zahra Sahli; Guro R. Sanden; Costanza Scaffidi Abbate; Sarina J. Schäfer; Kathleen Schmidt; Julia Schnepf; Sebastian L. Schorch; Sofía Schwartz-Salazar; Karolina Aleksandra Scigala; Ingvild Müller Seljeseth; Esra Cansu Şen-Gümüştaş; Amir Sepehri; Astghik Serobyan; Shaul Shalvi; Anna Siegler; Michal Silberg; Slavka Silberg; Emina Sinanović; Samuel Liljaharju; Lea Skewes; Adam R. Smith; Çağlar Solak; Fatih Sonmez; Agnieszka Sorokowska; Piotr Sorokowski; Jakub Šrol; Franziska A. Stanke; Andreas Stenling; Ian D. Stephen; Julia Stern; Daniel Storage; Anna M. Studzińska; Jihyun Suh; Caterina Suitner; Barnabas Szaszi; Alicja Jadwiga Szmidka; Ewa Szumowska; Olivia B. Szwinge; Susanne Tafvelin; Ruri Takizawa; Hande Tasa; Theodosios Tasios; Peter Tavel; Julian Tejada; Ahmet Temel; Passagorn Tevichapong; Yukari Jessica Tham; Marija Todosijević; Natalia L. Tome; Fernando Tonini; Mathilde H. Tønnesen; Sergio C. Torres; Panagiota Tragantzopoulou; Bastien Trémolière; Jarno Tuominen; Jil Ullenboom; Özden Melis Uluğ; Andreea Ursu; Anna Elisabeth van ’t Veer; David C. Vaidis; Suzanne van Gils; Leigh Ann Vaughn; Marta Vercillo; Michelangelo Vianello; Maria Elena Villarreal Gonzalez; Orsolya Vincze; Vivian dos Santos Miranda; Susanne Vogel; Tomas Vojtisek; Ulrica von Thiele Schwarz; Marek Vranka; Bich-Phuong Vu; Radosław B.Walczak; Guilherme Welter Wendt; Rahmadina Syarafina Wibowo; James S. Williams; Mirella Wojciechowska; Pujith Niel Wood; Deborah J. Wu; Qingyang Wu; Mariel Pauliina Wuolio; Ziqian Xia; Tao Yang; Chunhui Yang; Jane Jingyao Yang; Jinquan Ye; Niyayesh Yousefi-Gerakouhi; Ümran Yüce-Selvi; Whinda Yustisia; Daniela Victoria Zaharia; Inesa Zayets; Agata Zdun-Ryżewska; Przemyslaw Zdybek; Xian Zhao; Wang Zheng; Janis H. Zickfeld; Radka Zidkova; Artur Ziółkowski
+  - Published: 2026-11-01
+  - Crossref journal: The Leadership Quarterly
