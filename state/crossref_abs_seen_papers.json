@@ -25682,12 +25682,138 @@
       "abs_journal_title": "Journal of Corporate Finance",
       "published_date": "2026-11-01",
       "first_seen": "2026-11-10T15:34:17.473596+00:00"
+    },
+    "10.1016/j.jfineco.2026.104400": {
+      "title": "The role of financial markets in the unraveling of credit",
+      "journal": "Journal of Financial Economics",
+      "abs_journal_title": "Journal of Financial Economics",
+      "published_date": "2027-01-01",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1016/j.leaqua.2026.102014": {
+      "title": "The dual challenge of contextualization in leadership research: A systematic review, critical assessment and future research agenda",
+      "journal": "The Leadership Quarterly",
+      "abs_journal_title": "Leadership Quarterly",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1016/j.joi.2026.101890": {
+      "title": "Generative AI adoption and scientific output: Quasi-experimental evidence on heterogeneous changes across 26 disciplines",
+      "journal": "Journal of Informetrics",
+      "abs_journal_title": "Journal of Informetrics",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1287/opre.2024.0747": {
+      "title": "Combinatorial Inference on the Optimal Assortment in Multinomial Logit Models",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-11-11",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1287/opre.2025.2498": {
+      "title": "Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-11-11",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1177/10591478261508621": {
+      "title": "EXPRESS: The Implications of Generic Responses in Online Customer Service Operations",
+      "journal": "Production and Operations Management",
+      "abs_journal_title": "Production and Operations Management",
+      "published_date": "2026-11-11",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1111/isj.70070": {
+      "title": "Navigating Institutional Friction in Digital Transformation: A Mechanism‐Based View",
+      "journal": "Information Systems Journal",
+      "abs_journal_title": "Information Systems Journal",
+      "published_date": "2026-11-11",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.2308/tar-2024-0646": {
+      "title": "Private Firm Disclosures and Public Firms' Debt Choice",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1287/mnsc.2024.06232": {
+      "title": "Uncertainty Attitudes, Subjective Beliefs, and Decisions Under Uncertainty",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1287/mnsc.2024.05007": {
+      "title": "Recommender Systems Under Privacy Protection",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1287/mnsc.2025.01919": {
+      "title": "Deadly Disease, Fear, and Ostracism in the Credit Market",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.5465/amj.2024.0699": {
+      "title": "Benefiting from Culture Wars: Resource Mobilization in Polarized Issue Domains",
+      "journal": "Academy of Management Journal",
+      "abs_journal_title": "Academy of Management Journal",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1177/09500170261482093": {
+      "title": "Differences in gender pension gaps in public and private pensions in West Germany: An analysis sensitive to interdependencies across the life course",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1007/s11192-026-05867-9": {
+      "title": "Team diversity and radical green innovation: a patent-based analysis of gender, geographic, and institutional effects",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1007/s11192-026-05897-3": {
+      "title": "Efficiency retention as a functional resilience metric in finite country-level scientific collaboration networks",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1111/irel.70053": {
+      "title": "Gender Gaps in\n                    <scp>AI</scp>\n                    Skill Acquisition and Labor Market Returns",
+      "journal": "Industrial Relations: A Journal of Economy and Society",
+      "abs_journal_title": "Industrial Relations",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1111/1911-3846.70101": {
+      "title": "The Effect of\n                    <scp>Non‐US</scp>\n                    Tax Authority Monitoring on Income Shifting by Affiliates of US Multinationals: Evidence From\n                    <scp>EDGAR</scp>\n                    Search Activity",
+      "journal": "Contemporary Accounting Research",
+      "abs_journal_title": "Contemporary Accounting Research",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
+    },
+    "10.1086/744871": {
+      "title": "Running in Context: Marginalization, Political Ambition, and Candidate Emergence",
+      "journal": "The Journal of Politics",
+      "abs_journal_title": "Journal of Politics",
+      "published_date": "2026-11-10",
+      "first_seen": "2026-11-11T15:08:04.011809+00:00"
     }
   },
-  "last_run": "2026-11-10T15:34:17.473596+00:00",
+  "last_run": "2026-11-11T15:08:04.011809+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-11-09",
-    "end_date": "2026-11-10"
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-11"
   }
 }
