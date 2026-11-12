@@ -1,0 +1,443 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-11-12
+
+Generated at: 2026-11-12 15:57 UTC
+Crossref date mode: `created`
+Window: `2026-11-11` to `2026-11-12`
+New papers: 41
+
+## ABS 4*
+
+### Accounting
+
+#### Journal of Accounting Research
+- Rating: ABS 4*
+- Articles: 1
+
+- [The Role of Supply Chains in Climate Disclosure](https://doi.org/10.1111/1475-679x.70096)
+  - DOI: 10.1111/1475-679x.70096
+  - Authors: Pietro Bonetti; Yang (Ellen) EN; Igor Kadach; Gaizka Ormazabal
+  - Affiliations: IESE Business School; IESE Business School, CEPR, &amp; ECGI
+  - Published: 2026-11-11
+  - Crossref journal: Journal of Accounting Research
+  - Abstract:
+    ABSTRACT We examine the role of supply chains in shaping the public disclosure of climate information. We leverage a unique empirical setting enabled by CDP—the leading platform for corporate climate risk reporting—which allows customers to demand climate‐related information from their suppliers. Using a large international sample of customer–supplier pairs, we find a positive association between customers’ information demand and suppliers’ public disclosure on the CDP. While the estimated association is modest on average, it exhibits substantial cross‐sectional variation reflecting the disclosure incentives of both customers and suppliers as well as their relative bargaining power. We also find descriptive evidence consistent with one potential implication of the documented association for corporate decision‐making: shifts in supply network relationships toward greener and more transparent suppliers. Overall, our findings contribute to ongoing debates on how to foster climate disclosure.
+
+### Economics
+
+#### Journal of Political Economy
+- Rating: ABS 4*
+- Articles: 2
+
+- [Two-Sided Search in International Markets](https://doi.org/10.1086/744914)
+  - DOI: 10.1086/744914
+  - Authors: Jonathan Eaton; David Jinkins; James Tybout; Daniel Yi Xu
+  - Published: 2026-11-11
+  - Crossref journal: Journal of Political Economy
+
+- [Beliefs and the Incentive Effects of Preferential College Admissions: Evidence from an Experiment and a Structural Model](https://doi.org/10.1086/744916)
+  - DOI: 10.1086/744916
+  - Authors: Michela Maria Tincani; Fabian Kosse; Enrico Miglino
+  - Published: 2026-11-11
+  - Crossref journal: Journal of Political Economy
+
+### General Management, Ethics & CSR
+
+#### Journal of Management
+- Rating: ABS 4*
+- Articles: 1
+
+- [Multimarket Contact and Long-Term Oriented Language in Competition](https://doi.org/10.1177/01492063261494471)
+  - DOI: 10.1177/01492063261494471
+  - Authors: He Gao; Tieying Yu; Hyun-Soo Woo; Albert A. Cannella
+  - Affiliations: University of Delaware; Boston College; The University of Mississippi; Texas A&amp;M University
+  - Published: 2026-11-12
+  - Crossref journal: Journal of Management
+  - Abstract:
+    Corporate disclosure has long served as a strategic tool for managing the perceptions of audiences that shape a firm’s access to resources. Prior research has largely focused on why firms use disclosure to engage capital-market constituents such as investors and analysts, leaving open the question of when and why firms disclose for competitive purposes. Focusing on the temporal orientation of competitive strategy communication, we examine how multimarket contact (MMC) shapes firms’ use of long-term oriented language (LTL). We argue that greater MMC raises the risk of cross-market retaliation, strengthening firms’ incentives to signal a restrained competitive posture through LTL, particularly when competitive capacity is visibly constrained by poor financial performance or analyst downgrade revisions. Using a sample of 36 U.S. manufacturing firms across six industries from 2015 to 2024, we find evidence generally consistent with our predictions.
+
+### Innovation
+
+#### Research Policy
+- Rating: ABS 4*
+- Articles: 1
+
+- [Quantifying undetected severe misconduct in medical research](https://doi.org/10.1016/j.respol.2026.105660)
+  - DOI: 10.1016/j.respol.2026.105660
+  - Authors: Katrin Hussinger; Maikel Pellens
+  - Published: 2027-01-01
+  - Crossref journal: Research Policy
+
+### Operations Research & Management Science
+
+#### Operations Research
+- Rating: ABS 4*
+- Articles: 2
+
+- [Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment](https://doi.org/10.1287/opre.2025.1935)
+  - DOI: 10.1287/opre.2025.1935
+  - Authors: Matthew Brun; Thomas Lee; Dirk Lauinger; Xin Chen; Xu Andy Sun
+  - Affiliations: Massachusetts Institute of Technology, Operations Research Center, Cambridge, Massachusetts, 02139-4307, United States; Massachusetts Institute of Technology, Institute for Data, Systems, & Society, Cambridge, Massachusetts, United States; Massachusetts Institute of Technology, Sloan School of Management, Cambridge, Massachusetts, United States; Texas A&M University, Department of Electrical and Computer Engineering, College Station, Texas, United States; Massachusetts Institute of Technology, Sloan School of Management, Cambridge, Massachusetts, 02142, United States
+  - Published: 2026-11-12
+  - Crossref journal: Operations Research
+  - Abstract:
+    Security-constrained unit commitment with alternating current optimal power flow (SCUC-ACOPF) is a central problem in power grid operations that optimizes commitment and dispatch of generators under a physically accurate power transmission model while encouraging robustness against component failures. SCUC-ACOPF requires solving large-scale problems that involve multiple time periods and networks with thousands of buses within strict time limits. In this work, we study a detailed SCUC-ACOPF model with a rich set of features of modern power grids, including price-sensitive load, reserve products, transformer controls, and energy-limited devices. We propose a decomposition scheme and a penalty alternating direction method to find high-quality solutions to this model. Our methodology leverages spatial and temporal decomposition, separating the problem into a set of mixed-integer linear programs for each bus and a set of continuous nonlinear programs for each time period. To improve the performance of the algorithm, we introduce a variety of heuristics, including restrictions of temporal linking constraints, a second-order cone relaxation, and a contingency screening algorithm. We quantify the quality of feasible solutions through a dual bound from a second-order cone program. To evaluate our algorithm, we use large-scale test cases from Challenge 3 of the U.S. Department of Energy s Grid Optimization Competition that resemble real power grid data under a variety of operating conditions and decision horizons. The experiments yield feasible solutions with an average optimality gap of 1.33%, demonstrating that this approach generates near-optimal solutions within stringent time limits.
+
+- [A General Framework for Importance Sampling with Markov Random Walks](https://doi.org/10.1287/opre.2024.1034)
+  - DOI: 10.1287/opre.2024.1034
+  - Authors: Cheng-Der Fuh; Yanwei Jia; Steven Kou
+  - Affiliations: Taoyuan, Taiwan; Hong Kong, China; BOSTON UNIVERSITY, Questrom School of Business, Boston, Massachusetts, United States
+  - Published: 2026-11-12
+  - Crossref journal: Operations Research
+  - Abstract:
+    Although stochastic models driven by latent Markov processes are widely used, the classical importance sampling methods based on the exponential tilting for these models suffer from difficulties in computing associated eigenvalues and eigenfunctions and the plausibility of the indirect asymptotic large deviation regime for the variance of the estimator. We propose an importance sampling framework that twists the observable and latent processes separately using a link function that directly minimizes the estimator’s variance. An optimal link function is chosen within the locally asymptotically normal family. We show the logarithmic efficiency of the estimator. As applications, we estimate an overflow probability under a pandemic model and the CoVaR, a measurement of the co-dependent financial systemic risk; both are beyond the scope of traditional importance sampling methods due to nonlinear features.
+
+### Political Science
+
+#### American Journal of Political Science
+- Rating: Not ABS-rated; grouped with ABS 4*
+- Articles: 1
+
+- [America's most “far‐reaching institution”: The work and legacies of the Freedmen's Bureau](https://doi.org/10.1111/ajps.70096)
+  - DOI: 10.1111/ajps.70096
+  - Authors: Michael Albertus; Jon Rogowski
+  - Affiliations: Professor, Department of Political Science University of Chicago Chicago Illinois USA
+  - Published: 2026-11-12
+  - Crossref journal: American Journal of Political Science
+  - Abstract:
+    Abstract Reconstruction was the American state's first sustained peacetime intervention into local communities, and the Freedmen's Bureau was its most important component. What was the social impact of this program? Using an original data set on Freedmen's Bureau operations, we link the distribution and duration of Bureau offices to local socioeconomic outcomes. We find that the Bureau had positive effects for both Black and White residents of counties that hosted offices. Moreover, these effects were accompanied by the development of local administrative capacity and moderated by office longevity. The effects persisted for decades, though the magnitude attenuated for Blacks and increased for Whites as Jim Crow deepened and local government increasingly oriented policy benefits toward Whites. The findings indicate the importance of bureaucratic organization for policy implementation and suggest the 19th‐century federal government played a larger and more successful—albeit unequal—role in citizens’ lives than commonly believed.
+
+## ABS 4
+
+### Accounting
+
+#### Contemporary Accounting Research
+- Rating: ABS 4
+- Articles: 1
+
+- [Intertemporal Dynamics of Cost Asymmetry](https://doi.org/10.1111/1911-3846.70097)
+  - DOI: 10.1111/1911-3846.70097
+  - Authors: Eti Einhorn; Efrat Shust
+  - Affiliations: Coller School of Management Tel Aviv University Tel Aviv‐Yafo Israel; The Department of Management and Economics The Open University of Israel Ra'anana Israel
+  - Published: 2026-11-11
+  - Crossref journal: Contemporary Accounting Research
+  - Abstract:
+    ABSTRACT We study the intertemporal dynamics of asymmetric cost behavior in a competitive setting. Our analysis delves into the primitives of cost asymmetry and explores its dynamic evolution over time. The analysis yields the result that cost behavior is asymmetric by default and path‐dependent, transpiring as cost stickiness following prior resource expansion and taking the form of cost anti‐stickiness after previous resource contraction. The analysis further suggests that the magnitude of cost asymmetry, either stickiness or anti‐stickiness, is decreasing in demand uncertainty and competition intensity, increasing in adjustment costs and time discounting, and greater for small demand shocks than for large demand shocks. By highlighting cost asymmetry as a dynamic, rather than static, phenomenon, and by providing new, testable predictions regarding the direction and magnitude of cost asymmetry across firms and over time, our results offer theoretical grounding for the empirical cost asymmetry literature and may also help investors and other stakeholders interpret cost behavior in light of firms' recent history of expansion or contraction and their competitive environment.
+
+#### Review of Accounting Studies
+- Rating: ABS 4
+- Articles: 1
+
+- [Auditors’ (non)responses to public warnings of audit risk: evidence from short-selling campaigns](https://doi.org/10.1007/s11142-026-09996-7)
+  - DOI: 10.1007/s11142-026-09996-7
+  - Authors: Dan Li; Shiva Rajgopal; Suraj Srinivasan; Wuyang Zhao
+  - Published: 2026-11-12
+  - Crossref journal: Review of Accounting Studies
+
+### Business & Economic History
+
+#### Economic History Review
+- Rating: ABS 4
+- Articles: 1
+
+- [Whether and when: Women's work, birth spacing, and parity progression in late‐nineteenth‐century Derbyshire](https://doi.org/10.1111/ehr.70166)
+  - DOI: 10.1111/ehr.70166
+  - Authors: Emma Diduch
+  - Affiliations: Cambridge Group for the History of Population and Social Structure, Department of Geography University of Cambridge Cambridge UK
+  - Published: 2026-11-11
+  - Crossref journal: The Economic History Review
+  - Abstract:
+    Abstract Women's labour force participation features prominently in discussions of low birth rates and the Second Demographic Transition, and has also been hypothesized to have played a role in falling marital fertility during the First Demographic Transition. Historical data have been lacking, however, to assess these theories robustly and to distinguish between the effects of women's work on birth intervals and parity progression. This paper uses a split‐population cure model to analyse stopping and spacing by couples in late‐nineteenth‐century Derbyshire, using linked census data to demonstrate the association between women's occupations before marriage and subsequent marital fertility. Combining these linked census records and the 1911 census fertility survey, complete birth histories have been reconstructed for women who married from the 1880s onwards. The results suggest that couples in this period were controlling their fertility from the beginning of marriage via a combination of stopping and spacing, and that spacing births played a greater role in the low fertility of female textile workers than it did amongst some other occupational groups. These results provide more concrete evidence for the importance of women's labour force participation and birth spacing during the fertility transition in England and Wales.
+
+### Economics
+
+#### Journal of the American Statistical Association
+- Rating: ABS 4
+- Articles: 1
+
+- [Expected Shortfall Regression via Optimization](https://doi.org/10.1080/01621459.2026.2750972)
+  - DOI: 10.1080/01621459.2026.2750972
+  - Authors: Yuanzhi Li; Shushu Zhang; Xuming He
+  - Affiliations: University of Michigan; Washington University in St. Louis
+  - Published: 2026-11-11
+  - Crossref journal: Journal of the American Statistical Association
+
+#### Quantitative Economics
+- Rating: ABS 4
+- Articles: 12
+
+- [Worker‐side discrimination: Beliefs and preferences](https://doi.org/10.3982/qe2409)
+  - DOI: 10.3982/qe2409
+  - Authors: Md Moshi Ul Alam; Mehreen Mookerjee; Sanket Roy
+  - Affiliations: Department of Economics, Clark University; College of Interdisciplinary Studies, Zayed University; School of Business Administration, Department of Economics, American University of Sharjah
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+  - Abstract:
+    When agents choose among options with unobserved attributes to maximize expected utility, their choices conflate preferences with beliefs about those attributes. We develop a novel theory‐driven identification strategy for such settings, showing that compensating differentials separately identify beliefs from preferences. Noting that workers' preferences and beliefs shape labor market outcomes, yet remain understudied, we apply our method to provide the first evidence on the distribution of workers' preferences over manager gender, and their beliefs about managers' mentoring ability. In the absence of information on manager mentoring ability, workers are indifferent to manager gender. However, upon receiving information on manager mentorship ability, workers prefer to work for female managers, willing to forgo 1.7% of average annual wages. Hence, absent additional information, workers believe female managers are worse mentors (1.6% wage equivalent). Nonparametric estimates of the distributions reveal that 76% prefer female managers with mentoring information, and 67% believe male managers are better mentors absent information. Machine learning algorithms show that individuals with higher education are less likely to hold such beliefs. These beliefs are primarily driven by perceptions that women are less competent. Evidence suggests these beliefs are biased, highlighting scope for information‐based policy interventions.
+
+- [Standard errors when a regressor is randomly assigned](https://doi.org/10.3982/qe2933)
+  - DOI: 10.3982/qe2933
+  - Authors: Denis Chetverikov; Jinyong Hahn; Zhipeng Liao; Andres Santos
+  - Affiliations: Department of Economics, University of California, Los Angeles
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+  - Abstract:
+    We show that the OLS variance formula simplifies when values of the regressor of interest are assigned randomly and independently of other regressors. When the regressor of interest is independent not only of other regressors but also of the error term, the homoscedastic variance formula is valid even if regression errors are correlated. When the error term is heteroscedastic with respect to the regressor of interest, the variance formula has to be adjusted not only for heteroscedasticity but also for correlation structure of the error term. However, even in the latter case, some simplifications are possible.
+
+- [School choice, skill measures, and graduation](https://doi.org/10.3982/qe2826)
+  - DOI: 10.3982/qe2826
+  - Authors: María Elena Ortega-Hesles; Marco Pariguana
+  - Affiliations: Independent researcher; WZB Berlin Social Science Center
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+  - Abstract:
+    This paper studies the effects of combining skill measures to construct the priority order in a centralized education market. We use data from Mexico City, where seat rationing relies solely on a one‐shot exam score. We first show that admission to the most oversubscribed schools decreases graduation among marginally admitted students, but this effect is heterogeneous. It decreases with the one‐shot exam score among inframarginal students and is negative for marginal students with low GPAs but null for those with high GPAs. We then use a model of school choice and graduation to study the equity and efficiency of counterfactual priority orders that combine the one‐shot exam score and GPA. Greater weight on GPA increases access to the most oversubscribed schools for girls and low‐SES students. However, assigning roughly equal weight to both skill measures maximizes their graduation rates at these schools.
+
+- [Intrahousehold inequality and savings in retirement](https://doi.org/10.3982/qe2462)
+  - DOI: 10.3982/qe2462
+  - Authors: Minsu Chang; Ami Ko
+  - Affiliations: Department of Economics, Seoul National University; Department of Economics, Georgetown University
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+  - Abstract:
+    The distribution of resources between spouses and the extent to which household savings reflect each spouse's motives are fundamental to analyzing married retirees' welfare. We provide one of the first quantitative assessments of intrahousehold inequality in bargaining power and its implications for consumption allocation during marriage, savings, and welfare in old age. To do so, we estimate a dynamic collective model of retired couples with individual‐specific preferences and relative bargaining power, in which spouses jointly choose consumption, saving, care arrangements, and housing in the face of health and mortality shocks. We find that wives' mean consumption shares are close to parity in retirement, although there is substantial dispersion. We also find meaningful gender differences in saving motives and preferences: wives have stronger precautionary motives due to their longer life expectancy and higher long‐term care risk, while men exhibit greater bequest motives toward children. Consequently, our estimated collective model shows that reforms to old‐age social insurance have different welfare effects for wives and husbands, revealing distributional consequences that would be obscured under a unitary framework.
+
+- [Identification of daily oil price shocks and their uncertainties via conditional heteroskedasticity](https://doi.org/10.3982/qe3028)
+  - DOI: 10.3982/qe3028
+  - Authors: Shu Wang
+  - Affiliations: Chair of Econometrics, University of Göttingen
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+  - Abstract:
+    This paper develops a daily structural VAR for identifying oil price shocks from conditional heteroskedasticity and quantifies the transmission of their time‐varying uncertainty. Identification exploits volatility clustering and spillovers in a structural GARCH specification and the complete identified set is derived. We derive covariance impulse response functions and introduce a time‐varying forecast error variance decomposition (TV‐FEVD) that allows for a decomposition of short‐horizon forecast uncertainty across episodes. We study the asymptotic properties of a two‐step quasi‐maximum likelihood estimator and demonstrate via extensive simulations the robustness of the estimator across a wide range of data‐generating distributions. Empirically, the model identifies three daily shocks with distinct first‐ and second‐order transmission. TV‐FEVD shows that oil‐price forecast uncertainty in early 2020 shifted from aggregate business‐cycle uncertainty, as pandemic news affected expected economic conditions, to oil‐market tightness risk during the Saudi–Russia price war and production cuts.
+
+- [Frontmatter of Quantitative Economics Vol. 17 Iss. 4](https://doi.org/10.3982/qe174fm)
+  - DOI: 10.3982/qe174fm
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+
+- [Finite‐state Markov chain approximations: A hidden Markov approach](https://doi.org/10.3982/qe2425)
+  - DOI: 10.3982/qe2425
+  - Authors: Eva F. Janssens; Sean McCrary
+  - Affiliations: Department of Economics, University of Michigan; Department of Economics, The Ohio State University
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+  - Abstract:
+    This paper proposes a novel finite‐state Markov chain approximation method for Markov processes with continuous support, providing both an optimal grid and a transition probability matrix. The method can be used for multivariate processes and processes with time‐varying components. It is based on minimizing the information loss between a hidden Markov model and the true data‐generating process. We provide sufficient conditions under which this information loss can be made arbitrarily small, provided enough grid points are used. We compare our method to existing methods through the lens of an asset‐pricing model and a life‐cycle consumption‐savings model. We find that our method can lead to more parsimonious discretizations and more accurate solutions, and that the discretization matters for the welfare costs of risk, marginal propensities to consume, and the amount of wealth inequality a life‐cycle model can generate.
+
+- [Finite‐sample auction inference using transaction prices](https://doi.org/10.3982/qe2777)
+  - DOI: 10.3982/qe2777
+  - Authors: David M. Kaplan; Xin Liu
+  - Affiliations: Department of Economics, University of Missouri; School of Economic Sciences, Washington State University
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+  - Abstract:
+    We first provide inference on the quantile function of the bid distribution in first‐price or descending auctions, and the quantile function of the value distribution in second‐price or ascending auctions, with a known number of bidders with symmetric independent private values. Specifically, we provide finite‐sample, nonparametric, tuning parameter‐free, uniform confidence bands for these quantile functions when observing only the transaction price. We also show how these bands can be used to construct confidence intervals for many counterfactuals and economic quantities that are functionals of the value distribution. Some confidence intervals inherit the same properties of our bands, besides having conservative instead of exact coverage, while others require asymptotic arguments and/or tuning parameters. Even if the observed number of bidders varies across auctions, our bands' finite‐sample coverage is exact, assuming exogenous participation. With a fixed number of bidders, we also derive uniform confidence bands robust to auction‐level unobserved heterogeneity. This includes new partial identification results that bound the bid or value quantile function in terms of the transaction price quantile function. Empirically, our new methodology is applied to timber auction data to examine heterogeneity across appraisal value and number of bidders, which helps assess the combination of symmetric independent private values and exogenous participation, and to provide confidence intervals for the optimal reserve price and the economic benefit of running the auction instead of a random lottery.
+
+- [Fertility, child gender, and parental migration decision: Evidence from China](https://doi.org/10.3982/qe2667)
+  - DOI: 10.3982/qe2667
+  - Authors: Zibin Huang; Lin Lin; Junsen Zhang
+  - Affiliations: College of Business, Shanghai University of Finance and Economics; School of Labor and Human Resources, Renmin University of China; School of Economics, Zhejiang University
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+  - Abstract:
+    We study how the number and gender of children affect rural‐to‐urban parental migration in China. Exploiting variation from the “1.5‐child policy,” which allowed a second birth only if the first‐born was a girl, we separately identify the causal effects of fertility and child gender based on a novel semiparametric method. Using the 2010 population census, we find that an additional child increases the likelihood of joint parental migration by 12.1%, while the presence of a son raises it by a further 11.6%. These comparable magnitudes show that gender matters as much as fertility in shaping migration decisions. The results suggest that the higher financial demands of larger families—especially those with boys—outweigh the emotional costs of separation, motivating parents to migrate. Traditional IV estimates would be severely downward biased if only the number of children were considered.
+
+- [Decomposing the rise in markups](https://doi.org/10.3982/qe2832)
+  - DOI: 10.3982/qe2832
+  - Authors: Has Vlokhoven
+  - Affiliations: Department of Economics, Tilburg University
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+  - Abstract:
+    A recent literature argues that the rise in aggregate markups is due to economic activity reallocating toward high‐markup firms rather than an increase in firm‐level markups. I show that standard decomposition methods used to analyze this phenomenon can estimate a nonzero reallocation effect even when the joint distribution of markups and market shares is time‐invariant. This is due to churning in the firm‐level distribution of markups and market shares. Empirically, I find that a large and positive reallocation effect is found by standard decomposition methods when the distribution is time‐invariant. I propose a new decomposition, which gives that the rise in the aggregate markup mainly comes from changes in the markup distribution rather than changes in the market share distribution.
+
+- [Backmatter of Quantitative Economics Vol. 17 Iss. 4](https://doi.org/10.3982/qe174bm)
+  - DOI: 10.3982/qe174bm
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+
+- [A nonparametric test for diurnal variation in spot correlation processes](https://doi.org/10.3982/qe2690)
+  - DOI: 10.3982/qe2690
+  - Authors: Kim Christensen; Ulrich Hounyo; Zhi Liu
+  - Affiliations: Department of Economics and Business Economics, Aarhus University; Center for Research in Energy: Economics and Markets (CoRE), Aarhus University; Danish Finance Institute (DFI); Department of Economics, University at Albany, State University of New York; Department of Mathematics, Faculty of Science and Technology, University of Macau
+  - Published: 2026-01-01
+  - Crossref journal: Quantitative Economics
+  - Abstract:
+    The association between log‐price increments of exchange‐traded equities, as measured by their spot correlation estimated from high‐frequency data, exhibits a pronounced upward‐sloping and almost piecewise linear relationship at the intraday horizon. There is notably lower—on average less positive—correlation in the morning than in the afternoon. We develop a nonparametric testing procedure to detect such variation in a correlation process. The test statistic has a known distribution under the null hypothesis, whereas it diverges under the alternative. We run a Monte Carlo simulation to discover the finite sample properties of the test statistic, which are close to the large sample predictions, even for small sample sizes and realistic levels of diurnal variation. In an application, we implement the test on a high‐frequency dataset covering the stock market over an extended period. The test leads to rejection of the null most of the time. This suggests diurnal variation in the correlation process is a nontrivial effect in practice. We show how conditioning information about macroeconomic news and corporate earnings announcements affects the intraday correlation curve.
+
+### Finance
+
+#### Journal of Money, Credit and Banking
+- Rating: ABS 4
+- Articles: 2
+
+- [The Added Bonus of Foreign Investments: Global Mutual Funds and Multinational Firm Returns](https://doi.org/10.1111/jmcb.70107)
+  - DOI: 10.1111/jmcb.70107
+  - Authors: Wei Jiao
+  - Affiliations: Rutgers School of Business‐Camden Rutgers University
+  - Published: 2026-11-11
+  - Crossref journal: Journal of Money, Credit and Banking
+  - Abstract:
+    Abstract This paper uses global mutual funds to study foreign information dissemination across countries into multinationals’ stock prices. To invest internationally, these funds collect information from foreign countries where they invest. Such foreign information helps funds invest in U.S. multinationals operating in those same foreign countries. Global funds overweight and outperform on the selected multinationals’ stocks. They exploit market‐level, industry‐level, and firm‐specific foreign information. The trading activities of these funds accelerate the incorporation of foreign information into the selected multinationals’ prices. Our findings suggest that global mutual funds are important mechanisms for information dissemination into multinationals’ asset prices in global markets.
+
+- [Liquidity, Collateral Quality, and Interest Rates                     <sup>a</sup>](https://doi.org/10.1111/jmcb.70109)
+  - DOI: 10.1111/jmcb.70109
+  - Authors: JUNG‐HYUN AHN; VINCENT BIGNON; RÉGIS BRETON; ANTOINE MARTIN
+  - Published: 2026-11-11
+  - Crossref journal: Journal of Money, Credit and Banking
+  - Abstract:
+    Abstract This paper analyzes how collateral quality shocks affect banks' liquidity management and the risk‐free rate. We develop a model where banks manage liquidity through near‐cash assets and marketable securities subject to idiosyncratic and/or aggregate shocks. Collateral quality deterioration leads to nonmonotonic changes in liquidity holdings: moderate declines reduce cash holdings via lower market returns, while severe declines cause precautionary hoarding and market freezes. Reduced collateral quality depresses the risk‐free rate. Liquidity regulation and negative interest rate policies can mitigate these effects. Our findings highlight the risks of collateral quality shocks and the importance of policy complementarities in addressing liquidity issues.
+
+### HRM & Employment Studies
+
+#### Work, Employment and Society
+- Rating: ABS 4
+- Articles: 1
+
+- [On the front line: An appraisal and an invitation](https://doi.org/10.1177/09500170261496256)
+  - DOI: 10.1177/09500170261496256
+  - Authors: Gerbrand Tholen
+  - Affiliations: Department of Sociology, City St George’s, University of London, UK
+  - Published: 2026-11-12
+  - Crossref journal: Work, Employment and Society
+  - Abstract:
+    This editorial marks 17 years of the On the Front Line (OtFL) section in Work, Employment and Society (WES), to reflect on its distinctive contribution to the sociology of work. It traces the section’s major thematic strands, including precarity and insecurity, gender and identity, collective action, care work and race and racism. It further identifies storytelling, emotional depth and reduced analytical mediation as the section’s defining qualities, illustrated through accounts of in-work poverty, NHS burnout and truck driving. The editorial closes by inviting new contributions.
+
+### Innovation
+
+#### Journal of Product Innovation Management
+- Rating: ABS 4
+- Articles: 1
+
+- [Exploration Across Incompatible Technologies: How Firms Organize Flexibility for Innovation](https://doi.org/10.1111/jpim.70062)
+  - DOI: 10.1111/jpim.70062
+  - Authors: Yong H. Kim; Ziyi Chen; Chang Hyun Kim; Toby Li
+  - Affiliations: Mays Business School Texas A&amp;M University College Station Texas USA; Faculty of Business and Economics The University of Melbourne Carlton Victoria Australia; China Europe International Business School Shanghai People's Republic of China
+  - Published: 2026-11-11
+  - Crossref journal: Journal of Product Innovation Management
+  - Abstract:
+    ABSTRACT Firms often face multiple emerging technologies that evolve in parallel yet share limited architectural compatibility. In such settings, firms may concentrate innovation on one trajectory or pursue flexibility by maintaining engagement across multiple trajectories. We theorize that flexibility can improve innovation performance, but that these benefits depend on organizational structures that facilitate deep, trajectory‐specific learning and effective coordination. We argue that focused subsidiaries enable deep expertise within individual technologies, external collaborations provide access to complementary expertise beyond firm boundaries, and organizational modularity reduces the coordination burdens associated with pursuing multiple trajectories. Using 40‐year longitudinal data from the flat‐panel display industry, we find that the benefits of a flexibility strategy for innovation performance are substantially greater when firms have more focused subsidiaries, engage in more external collaboration, or exhibit higher organizational modularity. These findings are consistent across three complementary dimensions of innovation performance: patent impact, patent monetary value, and new product introductions. When these organizational arrangements are limited, the relationship between flexibility and innovation performance is substantially weaker. Our study demonstrates how organizational design enables firms to realize the innovation benefits of flexibility across architecturally incompatible technological trajectories.
+
+#### Scientometrics
+- Rating: ABS 4
+- Articles: 1
+
+- [Development and validation of the research collaboration scale: an expectancy-value theory approach](https://doi.org/10.1007/s11192-026-05871-z)
+  - DOI: 10.1007/s11192-026-05871-z
+  - Authors: Sedat Yazıcı; Hatice Yildiz Durak; Nilüfer Atman Uslu; Ümmühan Avcı
+  - Published: 2026-11-12
+  - Crossref journal: Scientometrics
+
+### Operations & Technology Management
+
+#### Production and Operations Management
+- Rating: ABS 4
+- Articles: 1
+
+- [EXPRESS: The Effect of State-Mandated Employment Certificates on Child Labor Violations in the United States](https://doi.org/10.1177/10591478261509729)
+  - DOI: 10.1177/10591478261509729
+  - Authors: Jiacong (Fred) Bao; Ashish Kabra
+  - Published: 2026-11-11
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    The number of minors involved in child labor violations in the United States more than tripled from 2017 to 2025. Compounding this issue, several state legislatures have recently weakened child labor protection laws. A key component of these laws is whether employers are required to obtain an employment certificate when hiring minors under 18 years of age, which typically requires a parent’s signature and is issued by a school. Proponents of loosening child labor regulations argue that there is a lack of evidence demonstrating the effectiveness of these laws in reducing child labor violations. In this study, we examine the effect of state-mandated employment certificates on reducing child labor violations. We find that the requirement leads to an average of 13.3% fewer violation cases (not statistically significant), 31.8% fewer minors involved in child labor violations, and 34.9% lower civil penalties per minor, indicating reduced severity of violations that do occur. The negative effects on the number of cases and minors persist after addressing endogeneity concerns, as assessed using two novel instrumental variables. Furthermore, we find a positive relationship between the number of unaccompanied migrant children released to a state and the incidence and severity of child labor violations, suggesting that this demographic is particularly vulnerable to labor exploitation. We identify two key mechanisms driving the effectiveness of employment certificates. First, they act as a legal deterrent for employers, as the documented acknowledgment of regulations makes it more difficult to claim ignorance. This is reflected in the higher rate of violations categorized as “willful” in certificate-mandate states. Second, they enhance stakeholder awareness and monitoring. Compliance improves for requirements explicitly documented in the certificates but not for those less visible. Moreover, among common certificate features, parental consent shows the strongest protective effect, suggesting the importance of active oversight and awareness. To our knowledge, this study is the first to provide quantitative evidence for the efficacy of mandating employment certificates in reducing child labor violations. It highlights the critical role of state policies in protecting minor workers and aims to enrich the discourse on child labor regulation and policy implementation.
+
+### Operations Research & Management Science
+
+#### European Journal of Operational Research
+- Rating: ABS 4
+- Articles: 2
+
+- [Prelim p. 2; First issue - Editorial Board](https://doi.org/10.1016/s0377-2217(26)00913-6)
+  - DOI: 10.1016/s0377-2217(26)00913-6
+  - Published: 2027-02-01
+  - Crossref journal: European Journal of Operational Research
+
+- [Risk budgeting under general risk measures](https://doi.org/10.1016/j.ejor.2026.10.049)
+  - DOI: 10.1016/j.ejor.2026.10.049
+  - Authors: Vali Asimit; Liang Peng; Radu Tunaru; Feng Zhou
+  - Published: 2026-11-01
+  - Crossref journal: European Journal of Operational Research
+
+### Organisation Studies
+
+#### Organization Studies
+- Rating: ABS 4
+- Articles: 6
+
+- [Street Fights and Court Battles: Incumbent mobilization and the timing of regulatory bans against platform entrants](https://doi.org/10.1177/01708406261508714)
+  - DOI: 10.1177/01708406261508714
+  - Authors: Bilgehan Uzunca; Pinar Ozcan
+  - Published: 2026-11-11
+  - Crossref journal: Organization Studies
+  - Abstract:
+    In this paper, we examine how incumbent-led mobilization against Uber’s platform entry in Europe relates to regulatory bans, public attention, and consumer-side uptake. Combining hand-coded data on taxi-sector tactics and frames with first regulatory bans, Uber app downloads, and Google search interest across 22 European countries from 2012 to 2020, we identify a differentiated temporal pattern. Private tactics are strongly associated with first-ban hazard in the short window following mobilization, whereas lawsuits are positively associated over a longer window. The frames incumbents deploy also matter: legitimacy-challenge frames portraying UberPop as incompatible with lawful and fair competition are more consistently associated with bans than compliance-dispute frames focused on tax or labor obligations. At the same time, private tactics and lawsuits coincide with immediate increases in app downloads and Google search interest, indicating an attention spillover from incumbent contestation. Lawsuit-related download elevations display marginally greater persistence than those associated with private tactics, although this difference is not stronger early after entry. Taken together, the findings show that incumbent mobilization in platform markets can be associated with regulatory bans and consumer-side uptake of the entrants they seek to exclude at the same time. The results establish temporal association, although the direction of influence within this process cannot be isolated.
+
+- [Patience and Organization Studies: Festina lente](https://doi.org/10.1177/01708406261508703)
+  - DOI: 10.1177/01708406261508703
+  - Authors: Mark van Vuuren; Boris H. J. M. Brummans
+  - Published: 2026-11-11
+  - Crossref journal: Organization Studies
+  - Abstract:
+    Modern organizations often valorize speed and immediacy, treating acceleration as the dominant temporal logic of organizational life. Challenging this logic remains difficult, however, because organization studies lacks a well-developed conceptual language for alternative ways of engaging with time. We propose patience as one such alternative. Building on recent work on Eigenzeit, we argue that organizations can partially uncouple from external temporal pressures and develop forms of relative temporal autonomy that enable the orchestration of differentiated temporalities. While Eigenzeit highlights how organizations establish and sustain a temporality of their own amid complex temporal demands, less attention has been paid to the pacing through which this temporality is enacted in everyday organizational life. We therefore foreground pacing as the practical means by which organizations enact and sustain their own temporality. Within this context, patience emerges as a particular mode of pacing grounded in purposeful deceleration. To make this mode of pacing analytically visible, we identify four manifestations of organizational patience: waiting, restraining, forbearing, and persisting. Drawing on insights from the sociology of time, organization studies, and philosophy, we show how these manifestations represent distinct ways of pacing organizational activities by holding time open, delaying intervention, staying with difficulty, and sustaining engagement over time. By reframing patience as a distinctive mode of pacing rather than passive inactivity, we show how organizations cultivate and sustain an Eigenzeit through practices that contribute to the orchestration of competing temporal demands. This perspective advances organization studies by illuminating how temporal orchestration is accomplished through everyday organizational interactions and how patience enables organizations to sustain resilience and meaningful engagement in the face of acceleration pressures.
+
+- [Media Review: The Experience of Everyday-Extremeness in Warfare](https://doi.org/10.1177/01708406261508707)
+  - DOI: 10.1177/01708406261508707
+  - Authors: Kijan Vakilzadeh; Richard O'Quinn
+  - Published: 2026-11-11
+  - Crossref journal: Organization Studies
+
+- [Healing As Organizing in Solidarity Spaces: An Affective Perspective on Post-disaster Recovery](https://doi.org/10.1177/01708406261508698)
+  - DOI: 10.1177/01708406261508698
+  - Authors: Chaïma Sophia Benzekri
+  - Published: 2026-11-11
+  - Crossref journal: Organization Studies
+  - Abstract:
+    This paper examines how community-led solidarity initiatives enable healing in the aftermath of disaster. Drawing on a two-year qualitative study in post-explosion Beirut, it explores how solidarity spaces function as relational structures of repair – sites where material response and affective recovery are not separate processes but mutually constitutive ones. While post-disaster organizing research has emphasized resource mobilization and agility, and disaster studies has identified the importance of community-led recovery, neither has fully explored how organizing enables healing to unfold collectively. Addressing this gap, the study makes two contributions. First, it reframes solidarity spaces as generative holding environments: relational infrastructures that simultaneously contain suffering and enable the emergence of new social arrangements. Second, it conceptualizes healing as organizing: a distributed, collective, and enacted process through which communities transform suffering into agency. Healing, in this account, is not an individual psychological process nor an outcome that follows organizing; it is the very practice through which recovery unfolds, as participants become agents of their own material and affective transformation through acts of solidarity.
+
+- [Consider the Dashboard: Exploring a visual medium of datafication](https://doi.org/10.1177/01708406261508704)
+  - DOI: 10.1177/01708406261508704
+  - Authors: Felix Diefenhardt
+  - Published: 2026-11-11
+  - Crossref journal: Organization Studies
+  - Abstract:
+    Dashboards are central to contemporary organizations aiming to ‘datafy’ decision making and management practices. As one of the primary media through which people engage with digital data in organizational contexts, dashboards shape how data is accessed and perceived. Despite their ubiquity, there is limited understanding of how dashboards mediate data visibility and influence observers’ perceptions of the data. Drawing on theories of mediation and diagrammatics, this paper analyzes the ‘generic form’ shared by all dashboards. It then identifies the modes of observation encouraged by dashboards, revealing how they position their observers. While grounded in theoretical arguments, the analysis incorporates empirical examples from a study on the datafication of Human Resource Management. The paper makes two key contributions. It emphasizes the critical role of visual forms in datafication processes, and it highlights the organizational implications of the use of a specific kind of visual medium: the dashboard.
+
+- [Black pragmatism and organization studies](https://doi.org/10.1177/01708406261508712)
+  - DOI: 10.1177/01708406261508712
+  - Authors: Jared M. Poole
+  - Published: 2026-11-11
+  - Crossref journal: Organization Studies
+  - Abstract:
+    I argue for Black pragmatism’s usefulness to organization studies by intervening in debates about the normative foundations of stakeholder theory. Tracing three braided themes within Black pragmatism (tragicomic hope, critical temper, and democratic faith), I show how they both illuminate neglected aspects of the pragmatist themes of inquiry, abduction, and community that have influenced organization studies and extend those concepts to open new avenues of inquiry. I suggest that Black pragmatism reveals how the libertarian assumptions of stakeholder theory are inconsistent with its pragmatist commitments, and that this weakness even applies to recent attempts to center stakeholder theory upon marginalized stakeholders.
+
+### Regional Studies, Planning & Environment
+
+#### Regional Studies
+- Rating: ABS 4
+- Articles: 2
+
+- [Soft spatial imaginaries as a regional dynamic capability](https://doi.org/10.1080/00343404.2026.2741181)
+  - DOI: 10.1080/00343404.2026.2741181
+  - Authors: Andrew G. McClelland; Duncan Shaw
+  - Affiliations: The University of Manchester, Manchester, UK
+  - Published: 2026-11-11
+  - Crossref journal: Regional Studies
+
+- [Regional development trajectories and the political geography of the far-right](https://doi.org/10.1080/00343404.2026.2741179)
+  - DOI: 10.1080/00343404.2026.2741179
+  - Authors: Alexander Schallmeiner
+  - Affiliations: Johannes Kepler University Linz
+  - Published: 2026-11-11
+  - Crossref journal: Regional Studies
+
+### Strategy
+
+#### Global Strategy Journal
+- Rating: ABS 4
+- Articles: 1
+
+- [Issue Information](https://doi.org/10.1002/gsj.70011)
+  - DOI: 10.1002/gsj.70011
+  - Published: 2026-11-11
+  - Crossref journal: Global Strategy Journal
