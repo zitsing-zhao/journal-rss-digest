@@ -26564,12 +26564,61 @@
       "abs_journal_title": "American Journal of Sociology",
       "published_date": "2026-09-01",
       "first_seen": "2026-11-14T14:04:05.704111+00:00"
+    },
+    "10.1016/j.jbusvent.2026.106664": {
+      "title": "Understanding multi-level dynamics in rural entrepreneurial ecosystems: A conceptual framework and research agenda",
+      "journal": "Journal of Business Venturing",
+      "abs_journal_title": "Journal of Business Venturing",
+      "published_date": "2027-01-01",
+      "first_seen": "2026-11-15T14:40:48.222884+00:00"
+    },
+    "10.1016/j.joi.2026.101891": {
+      "title": "Navigating team dynamics: the temporal configuration of collaborative knowledge strategies in scientific funding projects from the perspective of knowledge ecology",
+      "journal": "Journal of Informetrics",
+      "abs_journal_title": "Journal of Informetrics",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-11-15T14:40:48.222884+00:00"
+    },
+    "10.1080/0960085x.2026.2755604": {
+      "title": "You cannot not communicate: opt-out features and targeting with ML-based recommender systems",
+      "journal": "European Journal of Information Systems",
+      "abs_journal_title": "European Journal of Information Systems",
+      "published_date": "2026-11-15",
+      "first_seen": "2026-11-15T14:40:48.222884+00:00"
+    },
+    "10.1093/ej/ueag147": {
+      "title": "Carbon emissions regulation, input-output networks, and firm dynamics: The case of a low-carbon-zone pilot in China",
+      "journal": "The Economic Journal",
+      "abs_journal_title": "Economic Journal",
+      "published_date": "2026-11-14",
+      "first_seen": "2026-11-15T14:40:48.222884+00:00"
+    },
+    "10.1016/j.ejor.2026.11.005": {
+      "title": "The Bin Packing Problem with Setups: Formulations, structural properties and computational insights",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-15T14:40:48.222884+00:00"
+    },
+    "10.1016/j.ejor.2026.11.013": {
+      "title": "Integer linear programming formulations for a multiple bin size dual bin packing problem to optimize wood reuse",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-15T14:40:48.222884+00:00"
+    },
+    "10.1016/j.ejor.2026.11.015": {
+      "title": "Dynamic programming for exact time-slot scheduling within heuristic routing: A matheuristic for the multi-profit orienteering problem",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-15T14:40:48.222884+00:00"
     }
   },
-  "last_run": "2026-11-14T14:04:05.704111+00:00",
+  "last_run": "2026-11-15T14:40:48.222884+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-11-13",
-    "end_date": "2026-11-14"
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-15"
   }
 }
