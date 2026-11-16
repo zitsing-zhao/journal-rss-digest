@@ -26613,12 +26613,96 @@
       "abs_journal_title": "European Journal of Operational Research",
       "published_date": "2026-11-01",
       "first_seen": "2026-11-15T14:40:48.222884+00:00"
+    },
+    "10.1287/opre.2022.0205": {
+      "title": "Exploration Optimization for Dynamic Assortment Personalization under Linear Preferences",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-11-16",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
+    },
+    "10.1080/00343404.2026.2750385": {
+      "title": "Emergence of relatedness: offshore oil and gas and offshore wind energy in Esbjerg",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-11-16",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
+    },
+    "10.1080/00343404.2026.2756777": {
+      "title": "Economic resilience and pandemic response",
+      "journal": "Regional Studies",
+      "abs_journal_title": "Regional Studies",
+      "published_date": "2026-11-16",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
+    },
+    "10.1080/01621459.2026.2751578": {
+      "title": "Uniform-over-dimension location tests for multivariate and high-dimensional data",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-16",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
+    },
+    "10.1002/job.70134": {
+      "title": "One Meeting That Should Not Be an Email: Manager–Direct Report One‐on‐One Meetings and Employee Engagement",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-11-15",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
+    },
+    "10.1111/iere.70120": {
+      "title": "Human Capital as a Driver of Automation: Theory and Evidence From China's College Expansion",
+      "journal": "International Economic Review",
+      "abs_journal_title": "International Economic Review",
+      "published_date": "2026-11-15",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
+    },
+    "10.1111/irel.70054": {
+      "title": "Who Benefits From Robots? Gender and Technology on the Shop Floor",
+      "journal": "Industrial Relations: A Journal of Economy and Society",
+      "abs_journal_title": "Industrial Relations",
+      "published_date": "2026-11-15",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
+    },
+    "10.1111/gove.70161": {
+      "title": "Negotiating Competing Expectations—Chiefs and Mineral Governance in Ghana",
+      "journal": "Governance",
+      "abs_journal_title": "Governance",
+      "published_date": "2026-11-15",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
+    },
+    "10.1111/1467-8551.70126": {
+      "title": "Unethical Leadership and Employee Creative Unethicality—Do Dark Personalities Matter?",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-11-15",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
+    },
+    "10.1016/j.jinteco.2026.104351": {
+      "title": "Fiscal cyclicality and the information channel of government spending shocks",
+      "journal": "Journal of International Economics",
+      "abs_journal_title": "Journal of International Economics",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
+    },
+    "10.1016/j.ejor.2026.11.007": {
+      "title": "Joint supply boat and drone scheduling for shore-to-ship delivery considering battery constraints",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
+    },
+    "10.1037/apl0001432": {
+      "title": "Acknowledgment",
+      "journal": "Journal of Applied Psychology",
+      "abs_journal_title": "Journal of Applied Psychology",
+      "published_date": "2026-01-01",
+      "first_seen": "2026-11-16T16:56:18.819082+00:00"
     }
   },
-  "last_run": "2026-11-15T14:40:48.222884+00:00",
+  "last_run": "2026-11-16T16:56:18.819082+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-11-14",
-    "end_date": "2026-11-15"
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-16"
   }
 }
