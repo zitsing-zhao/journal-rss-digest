@@ -26830,12 +26830,250 @@
       "abs_journal_title": "European Journal of Operational Research",
       "published_date": "2026-11-01",
       "first_seen": "2026-11-17T16:52:18.496869+00:00"
+    },
+    "10.1016/j.aos.2026.101667": {
+      "title": "Role conflict, growth mindset, and financial misreporting",
+      "journal": "Accounting, Organizations and Society",
+      "abs_journal_title": "Accounting, Organizations and Society",
+      "published_date": "2027-06-01",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1016/j.joi.2026.101892": {
+      "title": "Wrong field, wrong baseline, wrong performance rankings: Why publication-level normalization matters in research assessment exercises",
+      "journal": "Journal of Informetrics",
+      "abs_journal_title": "Journal of Informetrics",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1108/ijopm-06-2026-0893": {
+      "title": "CEOs’ job-hopping experience and supply chain relationships: insights from the attention-based view",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1093/restud/rdag125": {
+      "title": "From Design to Disclosure",
+      "journal": "Review of Economic Studies",
+      "abs_journal_title": "Review of Economic Studies",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1287/orsc.2023.18274": {
+      "title": "Influence Without Authority: Bottom-Up Normalization of Organizational Corruption",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1287/isre.2024.1510": {
+      "title": "Online Review Generation in the Digital Age: A Meta-Analytic Study of Online Review Behavior",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1287/isre.2022.0466": {
+      "title": "Decision Considerations Influencing Information Systems Modularity: A Multimethod Study of LEGO",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.5465/amj.2024.1009": {
+      "title": "The Consequences of Pay Standing under Pay Range Transparency",
+      "journal": "Academy of Management Journal",
+      "abs_journal_title": "Academy of Management Journal",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1111/risa.70413": {
+      "title": "Risk Assessment and Mitigation for International Multimodal Container Transport Networks Under Compound Flood and Tropical Cyclone Events",
+      "journal": "Risk Analysis",
+      "abs_journal_title": "Risk Analysis",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1080/14719037.2026.2765325": {
+      "title": "Why do ‘public service satisfaction surveys’ dissatisfy many people? A process model of the implementation paradox emerging when policy implementation meets co-production fatigue",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1080/14719037.2026.2758287": {
+      "title": "Building contract management capacity in government organizations: contrasting priorities of public and vendor managers",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1177/01708406261511728": {
+      "title": "Temporal Intuition and Organization Studies: Surfacing Intangible Time from a Sea Kayak",
+      "journal": "Organization Studies",
+      "abs_journal_title": "Organization Studies",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1177/01708406261511705": {
+      "title": "Perspectives: A Tale of Three Plots: Advancing narrative theorising in organisation and management research",
+      "journal": "Organization Studies",
+      "abs_journal_title": "Organization Studies",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1177/01708406261511707": {
+      "title": "Constituting Technological Stigma: The Oscillating Stigmatization of Internal Combustion Engine Scooters",
+      "journal": "Organization Studies",
+      "abs_journal_title": "Organization Studies",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1111/1911-3846.70102": {
+      "title": "The Impact of Mandatory Audit Firm Rotation on Competitive Pricing Strategies for New Audit Engagements: Evidence From the European Union",
+      "journal": "Contemporary Accounting Research",
+      "abs_journal_title": "Contemporary Accounting Research",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1080/00076791.2026.2755747": {
+      "title": "The moral turn in business history: Practical moral knowledge and the study of business",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-11-18",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1093/qje/qjag059": {
+      "title": "Earnings Instability",
+      "journal": "The Quarterly Journal of Economics",
+      "abs_journal_title": "Quarterly Journal of Economics",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1002/smj.70143": {
+      "title": "Silent female representation and tech entrepreneurial project evaluation: The role of evaluators' genders",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1002/smj.70144": {
+      "title": "Should birds of a feather flock together: How public criticism shapes pressures for sustainability conformity and differentiation",
+      "journal": "Strategic Management Journal",
+      "abs_journal_title": "Strategic Management Journal",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1287/mnsc.2024.06826": {
+      "title": "The Asymmetry in Responsible Investing Preferences and Beliefs",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1287/mnsc.2025.01487": {
+      "title": "Opinion Trumps Fact: Entry and Competition in Online Political News",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1287/mnsc.2023.00747": {
+      "title": "Human Performance at Solving 0-1 Knapsack Problems: Results from a Large-Scale Field Experiment",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1287/mnsc.2025.01479": {
+      "title": "Does Feedback Enhance Diversity in Selection Decisions?",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1287/mnsc.2024.06801": {
+      "title": "Corporate Contributions to Ballot Measure Campaigns: Real Effects and Valuation",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1287/mnsc.2024.07308": {
+      "title": "Connectors and Influencers",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1002/sej.70066": {
+      "title": "The entrepreneur as ecosystem architect: Economic foundations for strategic entrepreneurship in the age of\n                    <scp>AI</scp>",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1002/job.70135": {
+      "title": "From Dysfunction to Socially Embedded Adaptation: A Constructive Pathway for Jealousy Toward Creativity in the Workplace",
+      "journal": "Journal of Organizational Behavior",
+      "abs_journal_title": "Journal of Organizational Behavior",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1111/joms.70174": {
+      "title": "Place Matters: A Dynamic Multilevel Perspective on Stigma Management in French Elderly Care",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1111/joms.70194": {
+      "title": "May I Have Your Attention, Please? Debating the Ontology of Attention in Organizational Research",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1111/1467-8551.70127": {
+      "title": "From Managerial to Relational Epistemologies: Decolonizing Sustainability Education",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-11-17",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1016/j.jbusvent.2026.106662": {
+      "title": "Doing bad by doing good? The impact of philanthropy on perceptions of organizational leader morality and organizational trust and support",
+      "journal": "Journal of Business Venturing",
+      "abs_journal_title": "Journal of Business Venturing",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1016/j.lrp.2026.102701": {
+      "title": "Geopolitical Shockwaves: SME Growth and Resilience in times of Political Instability",
+      "journal": "Long Range Planning",
+      "abs_journal_title": "Long Range Planning",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1016/j.ejor.2026.11.010": {
+      "title": "Joint optimization of condition-based maintenance and load adjustment for a performance-based 1-out-of-2 pairs balanced system",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
+    },
+    "10.1016/j.ejor.2026.11.011": {
+      "title": "Capacity relocation and pricing to cope with customs tariffs",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-18T16:23:40.613498+00:00"
     }
   },
-  "last_run": "2026-11-17T16:52:18.496869+00:00",
+  "last_run": "2026-11-18T16:23:40.613498+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-11-16",
-    "end_date": "2026-11-17"
+    "start_date": "2026-11-17",
+    "end_date": "2026-11-18"
   }
 }
