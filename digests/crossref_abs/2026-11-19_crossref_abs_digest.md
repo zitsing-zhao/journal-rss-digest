@@ -1,0 +1,485 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-11-19
+
+Generated at: 2026-11-19 16:31 UTC
+Crossref date mode: `created`
+Window: `2026-11-18` to `2026-11-19`
+New papers: 45
+
+## ABS 4*
+
+### Accounting
+
+#### Accounting, Organizations and Society
+- Rating: ABS 4*
+- Articles: 1
+
+- [Bringing culture back in: An institutional analysis of budgeting and power in an emerging economy context](https://doi.org/10.1016/j.aos.2026.101676)
+  - DOI: 10.1016/j.aos.2026.101676
+  - Authors: Paromita Rakhi; Sven Modell
+  - Published: 2027-06-01
+  - Crossref journal: Accounting, Organizations and Society
+
+### Economics
+
+#### Econometrica
+- Rating: ABS 4*
+- Articles: 17
+
+- [Why Are the Wealthiest so Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality](https://doi.org/10.3982/ecta23194)
+  - DOI: 10.3982/ecta23194
+  - Authors: Joachim Hubmer; Elin Halvorsen; Sergio Salgado; Serdar Ozkan
+  - Affiliations: Department of Economics, University of Pennsylvania; Research Department, Statistics Norway; The Wharton School, University of Pennsylvania; Research Division, FRB of St. Louis; Department of Economics, Southern Methodist University
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    We study the lifecycle dynamics of wealth inequality using 1993–2019 Norwegian administrative panel data on wealth and income. Employing a novel budget‐constraint approach, we decompose the excess wealth of the top 0.1% households relative to the median between ages 45 and 64 into higher saving rates (36%), inheritances (31%), returns (28%), and labor income (5%). One‐quarter of the wealthiest—the “New Money”—start with negative wealth on average but accumulate rapidly through high labor income and exceptionally high saving rates and returns. The “Old Money” inherit substantial wealth and grow it through above‐average though more modest saving and returns. We use these dynamic facts to evaluate five standard wealth inequality models. Although these models match cross‐sectional wealth concentration, they fail to reproduce the distinct dynamics of New and Old Money. A heterogeneous entrepreneurship model with decreasing returns to scale technology and nonhomothetic preferences is consistent with the observed dynamics.
+
+- [Two‐Sided Markets Shaped by Platform‐Guided Search](https://doi.org/10.3982/ecta22288)
+  - DOI: 10.3982/ecta22288
+  - Authors: Kwok Hao Lee; Leon Musolff
+  - Affiliations: Department of Strategy and Policy, National University of Singapore (NUS) Business School; Business Economics and Public Policy Department, The Wharton School, The University of Pennsylvania
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    This paper investigates concerns that vertically integrated platforms like Amazon steer demand toward their own offers via algorithmic prominence, potentially harming consumers. On Amazon, for each product, the Buybox prominence algorithm selects one seller to feature, influencing which offers consumers consider. Using novel Amazon sales and Buybox (prominence) data, we estimate a structural model capturing the effects of such algorithmic prominence on consumer choices, seller pricing, and entry. We find that the platform can indeed steer demand as 95% of consumers consider only the Buybox offer. The Buybox is highly price‐elastic (−21), but skews toward Amazon's own offers, which are featured as frequently as observably similar offers priced 5% cheaper. Still, as consumers prefer these offers, this skew does not amount to self‐preferencing in the sense of harming consumers: consumer surplus is roughly maximized at the estimated Amazon Buybox advantage, which balances higher prices against showing consumers their preferred offers.
+
+- [The Social Learning Barrier](https://doi.org/10.3982/ecta24769)
+  - DOI: 10.3982/ecta24769
+  - Authors: Florian Brandl
+  - Affiliations: Institute for Microeconomics, Department of Economics, University of Bonn
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    Long‐lived agents interact repeatedly in a social network. In each period, each agent observes a private signal, chooses an action, and then observes the actions of her neighbors. We show that the learning rate of the slowest‐learning agent is capped by a constant that depends only on the distribution of the most informative private signal, but not on the number of agents, the network structure, correlations between the private signals, or the agents' strategies. For equilibrium learning with rational agents, the same result bounds the learning rate of every agent in any equilibrium under a broad class of conditions. The result is driven by an information‐theoretic tradeoff between optimal action choices and information revelation.
+
+- [Putting the ‘Finance’ Into ‘Public Finance’: A Theory of Capital Gains Taxation](https://doi.org/10.3982/ecta24013)
+  - DOI: 10.3982/ecta24013
+  - Authors: Mark Aguiar; Benjamin Moll; Florian Scheuer
+  - Affiliations: Department of Economics, Princeton University; Department of Economics, London School of Economics; Department of Economics, University of Zurich
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    Standard optimal capital tax theory abstracts from modeling asset prices, making it unsuitable for thinking about capital gains and wealth taxation. We study optimal redistributive taxation in an environment with asset‐price movements, adopting the modern finance view that asset prices fluctuate not only because of changing cash flows, but also due to other factors (“discount rates”). We show that a combination of realization‐based capital gains and cash flow taxes implements the optimal allocation regardless of the source of asset‐price fluctuations. Moreover, the capital gains tax avoids distortions in portfolio choice (the so‐called lock‐in effect) by targeting total net trades rather than gains from selling individual assets. These results stand in contrast to the classic Haig–Simons comprehensive income tax concept as well as recent proposals for wealth or accrual‐based capital gains taxes.
+
+- [Production Function Estimation With Factor‐Augmenting Technology: An Application to Markups](https://doi.org/10.3982/ecta19299)
+  - DOI: 10.3982/ecta19299
+  - Authors: Mert Demirer
+  - Affiliations: Sloan School of Management, Massachusetts Institute of Technology
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    I develop a new method for estimating production functions with labor‐augmenting technology and apply it to markup estimation. The method imposes limited parametric restrictions and generalizes prior approaches that rely on the CES production function. I first extend the canonical Olley–Pakes framework assumptions to multidimensional productivity and then develop an identification strategy based on a control variable approach and first‐order conditions. I use this method to estimate output elasticities and markups in manufacturing industries in the US and four developing countries. I find that neglecting labor‐augmenting productivity underestimates capital elasticity, overestimates variable input elasticity, and overestimates markups in all countries.
+
+- [Optimal Formula Instruments](https://doi.org/10.3982/ecta24250)
+  - DOI: 10.3982/ecta24250
+  - Authors: Kirill Borusyak; Peter Hull
+  - Affiliations: Department of Agricultural and Resource Economics, University of California, Berkeley; Department of Economics, Brown University
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    When estimating the effects of treatments defined by complex formulas, researchers often use simple functions of exogenous shocks as instruments. A leading example is “simulated instruments” for public policy eligibility, which capture variation in state‐level policy generosity. We show how more powerful instruments can be constructed by incorporating heterogeneous shock exposure while using a recentering procedure to avoid bias. We characterize the asymptotically efficient instruments in this class and propose an algorithm for constructing feasible approximations to them. Compared to a simulated instrument approach, our approach yields a 44% smaller standard error on the private insurance crowd‐out effect of Medicaid enrollment from the 2014 Affordable Care Act expansions.
+
+- [Intermediate Input Substitutability](https://doi.org/10.3982/ecta21141)
+  - DOI: 10.3982/ecta21141
+  - Authors: Alessandra Peter; Cian Ruane
+  - Affiliations: Department of Economics, New York University; Irish Economic Analysis Division, Economics and Statistics Department, Central Bank of Ireland
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    We estimate long‐run elasticities of substitution between intermediate inputs for Indian manufacturing plants. India's trade liberalization in the early 1990s provides an ideal natural policy experiment, with permanent and heterogeneous tariff reductions inducing changes in relative prices which we use for identification. We find a high degree of substitutability at the plant‐level between 8 broad categories of material inputs, significantly above the Cobb–Douglas benchmark of 1. In contrast, when considering shorter time horizons or more transitory shocks to relative prices, we find evidence of much lower elasticities. Using our long‐run elasticities in a quantitative model, we find that misallocation of intermediate inputs causes a reduction in aggregate output of 29%–3.5 times larger relative to a standard calibration with complementary inputs.
+
+- [Informal Redistribution Through Work](https://doi.org/10.3982/ecta22079)
+  - DOI: 10.3982/ecta22079
+  - Authors: Elisa Macchi; Jeremia Stalder
+  - Affiliations: Department of Economics, Brown University; Department of Economics, University of St. Gallen
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    We investigate work as informal redistribution, leveraging field experiments and firm‐level survey data from Kampala, Uganda. Employers and workers consistently choose redistribution through work over cash transfers, revealing a willingness to pay for work. By randomizing work tasks—some designed to have zero marginal product—we find that production value does not explain these choices: employers pay for zero‐value work. These patterns are also inconsistent with other relational benefits, such as social image concerns or networking. Instead, motivations are normative. Experimental evidence reveals an internalized norm for redistribution through work rooted in incentive arguments on the demand side—as employers stop requiring work only when workers have verifiable emergencies—and in reciprocity and dignity from earning on the supply side. The norm shapes both the organization and measurement of production: failing to account for redistribution through work makes firms appear significantly larger and less productive than they are.
+
+- [Frontmatter of Econometrica 94 Iss. 6](https://doi.org/10.3982/ecta946fm)
+  - DOI: 10.3982/ecta946fm
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+
+- [From Predictive Algorithms to the Automatic Generation of Anomalies](https://doi.org/10.3982/ecta22958)
+  - DOI: 10.3982/ecta22958
+  - Authors: Sendhil Mullainathan; Ashesh Rambachan
+  - Affiliations: Department of Economics and Department of Electrical Engineering and Computer Science, MIT; NBER; Department of Economics, MIT
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    How can we extract theoretical insights from machine learning algorithms? We take a familiar lesson: researchers often turn intuition into theoretical insight by constructing “anomalies”—specific examples highlighting hypothesized flaws in a theory, such as the Allais paradox. We develop procedures that replace researchers' intuitions with predictive algorithms: given a predictive algorithm and a theory, our procedures automatically generate anomalies for that theory. We illustrate our procedures by generating anomalies for expected utility theory. Based on a neural network that accurately predicts lottery choices, we recover known anomalies for expected utility theory and discover novel ones. In incentivized experiments, subjects violate expected utility theory on these algorithmically generated anomalies at rates similar to the Allais paradox and common ratio effect.
+
+- [Extreme Value Theory With Heterogeneous Agents](https://doi.org/10.3982/ecta22276)
+  - DOI: 10.3982/ecta22276
+  - Authors: Sephorah Mangin
+  - Affiliations: Research School of Economics, Australian National University
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    Extreme value processes feature in any economic model in which agents receive a number of draws from some distribution of values and we examine the behavior of the maximum value in the limit as the number of draws becomes large. This paper asks: Do the average outcomes of such processes change when different agents receive a different number of draws? To answer this, we allow the number of draws an agent receives from the underlying distribution of values (e.g., productivities, ideas, or utility shocks) to be given by a search technology , which reflects heterogeneity in the expected number of draws across different types of agents. We derive a new class of extreme value distributions that generalizes the three standard distributions (Fréchet, Gumbel, Weibull) by incorporating heterogeneity across agents. We generalize a result from Gabaix, Laibson, Li, Li, Resnick, and de Vries (2016) regarding extreme value outcomes and consider applications to aggregate productivity, markups, and social networks.
+
+- [Correction to                     <i>‘General Equilibrium Effects of Cash Transfers: Experimental Evidence From Kenya’ by Dennis Egger, Johannes Haushofer, Edward Miguel, Paul Niehaus, and Michael Walker</i>](https://doi.org/10.3982/ecta22886)
+  - DOI: 10.3982/ecta22886
+  - Authors: Dennis Egger; Johannes Haushofer; Edward Miguel; Paul Niehaus; Michael Walker
+  - Affiliations: Department of Economics, Oxford University; Department of Economics, Brooks School of Public Policy, Cornell University; NBER; Busara Center for Behavioral Economics; Department of Economics, University of California, Berkeley; CEGA, University of California, Berkeley; Department of Economics, University of California, San Diego
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+
+- [Correction to                     <i>‘Dynamic Spatial General Equilibrium’ by Benny Kleinman, Ernest Liu, and Stephen Redding</i>](https://doi.org/10.3982/ecta25748)
+  - DOI: 10.3982/ecta25748
+  - Authors: Benny Kleinman; Ernest Liu; Stephen J. Redding; Tomohiro Uchiyama
+  - Affiliations: Department of Economics, Stanford University; NBER; Department of Economics, Princeton University; CEPR; Faculty of International Liberal Arts, Soka University
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+
+- [Comment on                     <i>‘Selection and Comparative Advantage in Technology Adoption’ by Tavneet Suri</i>](https://doi.org/10.3982/ecta21760)
+  - DOI: 10.3982/ecta21760
+  - Authors: Emilia Tjernström; Dalia Ghanem; Aleksandr Michuda; Oscar Barriga-Cabanillas; Travis J. Lybbert; Jeffrey D. Michler
+  - Affiliations: Department of Economics, Macquarie University; Monash Business School; Department of Agricultural and Resource Economics, University of California, Davis; Department of Economics, Swarthmore College; Poverty and Equity Global Practice, The World Bank; Department of Agricultural and Applied Economics, University of Arizona
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    This paper illustrates and addresses weak identification in the correlated random coefficient (CRC) model that Suri (2011) uses to study agricultural technology adoption. Using the publicly available data set, which differs slightly from the version used in Suri (2011), we obtain different point estimates for the paper's main CRC model. To understand why these differences are as large as they are, we recast the CRC model as a more general random coefficient model in which the returns to hybrid adoption are restricted to be linear in comparative advantage. This reveals that the key structural parameter in the CRC model ( ϕ ), which governs the relationship between baseline productivity and the returns to adoption, is prone to a weak‐identification problem. We then propose a procedure to conduct weak‐identification robust inference on ϕ using test inversion. Our weak‐identification robust confidence intervals contain the original Suri (2011) point estimates, which suggests that the difference in results may be attributable to a combination of minor data differences and weak identification.
+
+- [Coalitions in Repeated Games](https://doi.org/10.3982/ecta23921)
+  - DOI: 10.3982/ecta23921
+  - Authors: S. Nageeb Ali; Ce Liu
+  - Affiliations: Department of Economics, Pennsylvania State University; Department of Economics, Michigan State University
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    This paper proposes a framework and solution concept for repeated coalitional behavior. We model history‐dependent schemes that use continuation promises and punishments to deter coalitions from blocking. We evaluate the effectiveness of these schemes with and without transferable utility, and apply the framework to study the implications of wage transparency in labor markets.
+
+- [Backmatter of Econometrica Vol. 94 Iss. 6](https://doi.org/10.3982/ecta946bm)
+  - DOI: 10.3982/ecta946bm
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+
+- [An Exact                     <i>t</i>                     ‐Test](https://doi.org/10.3982/ecta22545)
+  - DOI: 10.3982/ecta22545
+  - Authors: Guillaume A. Pouliot
+  - Affiliations: Department of Economics, Rice University
+  - Published: 2026-01-01
+  - Crossref journal: Econometrica
+  - Abstract:
+    Multivariate linear regression and randomization‐based inference are two essential methods in statistics and econometrics. Nevertheless, the problem of producing a randomized test for the value of a single regression coefficient that is exactly valid when errors are exchangeable, and which is asymptotically valid for the best linear predictor, has remained elusive. In this paper, we produce a test that is exactly valid with exchangeable errors and which allows for general covariate designs; covariates may be continuous as well as discrete and may be correlated. The test is asymptotically valid when the errors are not exchangeable, in particular in the presence of conditional heteroskedasticity.
+
+### Finance
+
+#### Journal of Financial Economics
+- Rating: ABS 4*
+- Articles: 1
+
+- [Time-series efficient factors](https://doi.org/10.1016/j.jfineco.2026.104395)
+  - DOI: 10.1016/j.jfineco.2026.104395
+  - Authors: Sina Ehsani; Serhiy Kozak; Juhani Linnainmaa
+  - Published: 2027-01-01
+  - Crossref journal: Journal of Financial Economics
+
+### General Management, Ethics & CSR
+
+#### Journal of Management
+- Rating: ABS 4*
+- Articles: 1
+
+- [Examining Negative Asymmetry in Employee Social Networks: A Meta-Analysis](https://doi.org/10.1177/01492063261495910)
+  - DOI: 10.1177/01492063261495910
+  - Authors: Kameron M. Carter; Hamed Ghahremani; Eean R. Crawford; Prasad Balkundi; Robert J. Barrett
+  - Affiliations: Old Dominion University; Louisiana State University New Orleans; University of Iowa; University at Buffalo (SUNY); Midway University
+  - Published: 2026-11-19
+  - Crossref journal: Journal of Management
+  - Abstract:
+    Two decades have passed since Labianca and Brass introduced social ledger theory with its focal assumption of negative asymmetry—that the social liabilities created by negative workplace ties are more strongly related to employee outcomes than the social assets created by positive workplace ties. Yet widespread conclusions that negative workplace ties are more consequential have exceeded a surprisingly limited base of empirical tests. This article uses meta-analysis to examine this largely untested assumption by offering 22 original meta-analytic estimates drawn from 248 effect sizes across 71 samples representing 13,369 employees. At the bivariate level, both positive and negative ties have significant relationships with employee outcomes. However, evidence consistent with negative asymmetry emerged only for out-degree ties predicting task performance. In contrast, evidence more consistent with positive asymmetry emerged for in-degree ties predicting task performance and for both in-degree and out-degree ties predicting organizational attachment, although the relationships between in-degree ties and attachment are relatively small. Considerable variation exists around the effect sizes constituting these patterns, suggesting that future research is needed to consider moderating factors that may shift the relative importance of negative versus positive ties. We discuss the implications for refining social ledger theory and for helping practitioners managing social assets and liabilities in organizations.
+
+### Innovation
+
+#### Research Policy
+- Rating: ABS 4*
+- Articles: 1
+
+- [Corrigendum to “Where do ideas go? A spatial analysis of the patenting impact of publicly funded basic science” [Res. Policy (2026)105528]](https://doi.org/10.1016/j.respol.2026.105665)
+  - DOI: 10.1016/j.respol.2026.105665
+  - Authors: Laura Toschi; Federico Munari; Maurizio Sobrero; Hérica Morais Righi; Sebastiano Leonelli
+  - Published: 2026-11-01
+  - Crossref journal: Research Policy
+
+### Political Science
+
+#### American Political Science Review
+- Rating: Not ABS-rated; grouped with ABS 4*
+- Articles: 2
+
+- [The Limit of Nature: Thucydides and the Politics of Theory](https://doi.org/10.1017/s000305542610224x)
+  - DOI: 10.1017/s000305542610224x
+  - Authors: MARK D. FISHER
+  - Affiliations: Georgetown University
+  - Published: 2026-11-19
+  - Crossref journal: American Political Science Review
+  - Abstract:
+    This article reconsiders Thucydides’s role as a foundational theorist of human nature. Contrary to conventional readings, I argue that Thucydides approaches “nature” ( physis ) less as a universal principle of behavior than as a site of political and theoretical investigation. By distinguishing his authorial voice from those of his speakers, I demonstrate that his analysis consistently approaches human nature as a limit concept—a baseline and boundary of human capacity that emerges in moments of existential precarity—while introducing a more nuanced set of terms to describe the habitual behaviors of political groups. By nevertheless foregrounding the more robust and determinative concept of nature in moments of contentious deliberation, Thucydides encourages reflection on the political dynamics that generate essentialist theories in public discourse. His account thus serves as a helpful point of reference for thinking about how competitive, polarizing speech affects the substantive categories of political debate and analysis, and through them political action.
+
+- [How Sociotropic Aesthetic Judgments Drive Opposition to Dense Housing Development](https://doi.org/10.1017/s0003055426102226)
+  - DOI: 10.1017/s0003055426102226
+  - Authors: DAVID E. BROOCKMAN; CHRISTOPHER S. ELMENDORF; JOSHUA L. KALLA
+  - Affiliations: University of California, Berkeley; University of California, Davis; Yale University
+  - Published: 2026-11-19
+  - Crossref journal: American Political Science Review
+  - Abstract:
+    Voter opposition to dense housing development contributes to America’s housing shortage. Prevailing explanations emphasize homeowner self-interest and “NIMBYism.” We develop a theory of how sociotropic aesthetic judgments shape housing policy preferences and demonstrate its unique implications with a series of descriptive studies and experiments. First, people who choose to live in dense neighborhoods have an aesthetic taste for density, leading homeowners in already-dense areas to be more supportive of dense development both in their neighborhoods and elsewhere. Second, voters are more supportive of dense development when it is proposed in already-dense neighborhoods where it “fits”—even voters who live in those same dense neighborhoods. Finally, genuine aesthetic distaste for tall buildings is widespread and causally affects support for development. Our findings offer a new lens for understanding housing policy preferences and suggest novel solutions for addressing America’s housing shortage.
+
+### Psychology (Work, Org & OB)
+
+#### Journal of Applied Psychology
+- Rating: ABS 4*
+- Articles: 1
+
+- [Supplemental Material for Are Situational Judgment Tests Really Less Fakable? A Meta-Analysis](https://doi.org/10.1037/apl0001446.supp)
+  - DOI: 10.1037/apl0001446.supp
+  - Published: 2026-11-19
+  - Crossref journal: Journal of Applied Psychology
+
+### Social Sciences & Sociology
+
+#### American Journal of Sociology
+- Rating: ABS 4*
+- Articles: 1
+
+- [Reconfiguring Family Governance: The Transformation of American Child Welfare (1946–1985)​](https://doi.org/10.1086/745009)
+  - DOI: 10.1086/745009
+  - Authors: Matty Lichtenstein
+  - Published: 2026-11-18
+  - Crossref journal: American Journal of Sociology
+
+#### American Sociological Review
+- Rating: ABS 4*
+- Articles: 1
+
+- [Rising Wages and the Decline of Low-Wage Work](https://doi.org/10.1177/00031224261500693)
+  - DOI: 10.1177/00031224261500693
+  - Authors: Clem Aeppli; Soohyun Roh; Nathan Wilmers
+  - Affiliations: MIT
+  - Published: 2026-11-19
+  - Crossref journal: American Sociological Review
+  - Abstract:
+    From 2014 to 2024, the share of U.S. hourly workers paid below $15 in real terms fell by two-thirds, from 38 percent to 13 percent. Why? We first distinguish the entry and exit of employers—wherein high-paying employers have supplanted low-paying ones—from organizational changes among incumbent employers. Organizational changes can be imposed on employers by external constraints, like labor market tightness, or emerge from the pursuit of new opportunities. Using panel data drawn from administrative records and job reviews, we bring this framework to bear on the recent wage gains at the bottom of the labor market. Contrary to predictions of creative destruction, we can trace only a small amount of these wage gains to the disappearance of low-wage organizations. Instead, the main driver of rising pay was low- and middle-paying incumbent employers of low-wage occupations increasing pay. These gains in low-wage occupations were associated with tightening labor markets and increased minimum wages. But over and above these external constraints, employers also pursued new opportunities for reorganizing work in low-skill jobs. Notwithstanding organizational inertia, major gains for workers’ pay can come from changes in existing workplaces.
+
+### Strategy
+
+#### Strategic Management Journal
+- Rating: ABS 4*
+- Articles: 1
+
+- [Temporal tradeoffs and contracting dynamics in buyer–supplier agreements](https://doi.org/10.1002/smj.70142)
+  - DOI: 10.1002/smj.70142
+  - Authors: Jeffrey J. Reuer; Toby X. Li
+  - Affiliations: Mitch Daniels School of Business Purdue University West Lafayette Indiana USA; Mays Business School Texas A&amp;M University College Station Texas USA
+  - Published: 2026-11-18
+  - Crossref journal: Strategic Management Journal
+  - Abstract:
+    Abstract Research Summary We examine temporal tradeoffs and contracting dynamics in buyer–supplier agreements by investigating how suppliers' contractual terms change when contracting with initial clients versus new clients in the future. We use information economics and research on certifications in interorganizational relationships to delve into the mechanisms leading to potential improvements in suppliers' contractual terms. We situate the empirical analysis in the context of onshore oil and gas drilling projects to examine the liabilities for project‐related risks that startup drillers assume when contracting with client producers. Evidence indicates that when drillers initially work for prominent client producers, the drillers assume more risks in these first contracts, but fewer risks in subsequent agreements with other client producers. We argue and show that the degree to which a specific driller obtains better terms in future deals owing to its initial client's prominence will be attenuated when subsequent clients have more information on the value of the driller's resources and capabilities. Specifically, the resulting reduction in risks borne by the driller will be smaller when the driller was founded by a serial entrepreneur and when the subsequent client is vertically integrated into drilling operations. Managerial Summary This study examines the contracting dynamics that startups experience as suppliers in buyer–supplier agreements. Startups often bear more risk in initial deals to build credibility, especially when contracting with prominent clients, and such affiliations can then lead to improved terms for startups in subsequent contracts with other clients. However, this follow‐on benefit of working with a prominent client depends upon whether subsequent clients have more information on the startup's resources and capabilities. In particular, the risk‐reduction effect of working with an initial client that is prominent will be smaller for those startups founded by serial entrepreneurs. It will also be smaller when the subsequent client is vertically integrated into the value chain activities carried out by the startup. Using data from startups in the oil and gas drilling industry, we illustrate the dynamics and tradeoffs that startup drillers encounter when contracting with established client producers.
+
+## ABS 4
+
+### Economics
+
+#### Journal of Economic Theory
+- Rating: ABS 4
+- Articles: 1
+
+- [Shill-proof rules in object allocation problems with money](https://doi.org/10.1016/j.jet.2026.106276)
+  - DOI: 10.1016/j.jet.2026.106276
+  - Authors: Hiroki Shinozaki
+  - Published: 2026-11-01
+  - Crossref journal: Journal of Economic Theory
+
+#### Journal of International Economics
+- Rating: ABS 4
+- Articles: 1
+
+- [Fighting communism supporting collusion](https://doi.org/10.1016/j.jinteco.2026.104353)
+  - DOI: 10.1016/j.jinteco.2026.104353
+  - Authors: Sebastian Galiani; Jose Manuel Paz y Miño; Gustavo Torrens
+  - Published: 2026-11-01
+  - Crossref journal: Journal of International Economics
+
+#### Journal of the American Statistical Association
+- Rating: ABS 4
+- Articles: 1
+
+- [Watermarking Continuous Tabular Data Generation](https://doi.org/10.1080/01621459.2026.2750529)
+  - DOI: 10.1080/01621459.2026.2750529
+  - Authors: Hengzhi He; Peiyu Yu; Junpeng Ren; Ying Nian Wu; Guang Cheng
+  - Affiliations: Department of Statistics and Data Science, UCLA
+  - Published: 2026-11-19
+  - Crossref journal: Journal of the American Statistical Association
+
+### Finance
+
+#### Journal of Financial and Quantitative Analysis
+- Rating: ABS 4
+- Articles: 2
+
+- [Trended Momentum](https://doi.org/10.1017/s0022109026103275)
+  - DOI: 10.1017/s0022109026103275
+  - Authors: Charlie Xiaowu Cai; Peng Li; Kevin Keasey
+  - Affiliations: University of Liverpool Management School; University of Bath School of Management; University of Leeds Leeds University Business School
+  - Published: 2026-11-19
+  - Crossref journal: Journal of Financial and Quantitative Analysis
+  - Abstract:
+    Abstract Drawing on cognitive psychology and behavioral theories of pattern recognition and heuristic processing, we offer a new perspective on momentum by highlighting how clear price trends shape investor expectations. Trend clarity (TC) materially strengthens momentum returns: the highest trend-clarity quintile earns annualized returns of 12.68%, compared with 6.90% for a conventional momentum strategy. We also show that TC affects momentum trading intensity within Hong and Stein’s (1999) multiperiod return-chasing model. Additional tests indicate that trading on clear trends is a central feature of momentum, distinct from existing explanations and observable across asset classes and global markets.
+
+- [Prospect Theory and Currency Returns: Empirical Evidence](https://doi.org/10.1017/s0022109026103469)
+  - DOI: 10.1017/s0022109026103469
+  - Authors: Qi Xu; Roman Kozhan; Mark P. Taylor
+  - Affiliations: Zhejiang University: School of Economics and Academy of Financial Research; University of Warwick: Warwick Business School; Washington University in Saint Louis
+  - Published: 2026-11-19
+  - Crossref journal: Journal of Financial and Quantitative Analysis
+  - Abstract:
+    Abstract We empirically investigate the role of prospect theory in the foreign exchange market. A currency-level measure of prospect-theory value, constructed from the historical distribution of exchange rate returns, negatively forecasts future currency excess returns. A long–short strategy based on this measure yields approximately 5% per annum. Predictability is stronger when arbitrage is limited. Bank order flow is positively associated with prospect-theory value, with inter-dealer and proprietary trading primarily driving this relation. Funds trade against prospect-theory value, acting as arbitrageurs. Overall, our findings suggest that investors evaluate currencies based on historical return distributions, consistent with prospect theory.
+
+### Innovation
+
+#### Journal of Informetrics
+- Rating: ABS 4
+- Articles: 2
+
+- [The erosion of alphabetical author order in economics: Self-reported contribution shares and the limits of fractional counting](https://doi.org/10.1016/j.joi.2026.101893)
+  - DOI: 10.1016/j.joi.2026.101893
+  - Authors: Paul Donner; Przemysław Korytkowski
+  - Published: 2027-03-01
+  - Crossref journal: Journal of Informetrics
+
+- [A leaky pipeline in motion: Gender gaps in international academic mobility](https://doi.org/10.1016/j.joi.2026.101889)
+  - DOI: 10.1016/j.joi.2026.101889
+  - Authors: Yuhan Wei; Xinran Zhang; Alfred Tat-Kei Ho; Xiaohui Wang
+  - Published: 2027-03-01
+  - Crossref journal: Journal of Informetrics
+
+#### Quantitative Science Studies
+- Rating: ABS 4
+- Articles: 2
+
+- [Two margins of allocation and the trend in authorship inequality: Comment on Orhan, van Rossenberg, and Bal (2026)](https://doi.org/10.1162/qss.c.523)
+  - DOI: 10.1162/qss.c.523
+  - Authors: Christopher I. Rider
+  - Affiliations: Ross School of Business, University of Michigan
+  - Published: 2026-11-05
+  - Crossref journal: Quantitative Science Studies
+  - Abstract:
+    Abstract Orhan, van Rossenberg, and Bal (2026; hereafter ORB) report that authorship inequality in management, human resource management, and industrial-organizational psychology journals rose between 1980–1999 and 2000–2019. Their claim that “a small group of researchers has accumulated disproportionate influence over time” carries one intellectual burden, that advantage in obtaining publication opportunities increased; their interpretation of the rise as elite dominance carries a second, that the increase is inequitable. I address the first burden, on which the second depends. Because ORB compute Gini coefficients over researchers with at least one publication, they measure inequality in authorships (i.e., the intensive margin) conditional on publishing (i.e., the extensive margin), and because publication records include neither manuscript submissions nor editorial decisions, such records cannot establish that advantage increased. I demonstrate that inequality across the researchers who compete for publication opportunities rose if and only if that competing pool grew faster than field-specific thresholds of 1.2× to 2.8×, growth that publication records alone cannot substantiate. Meeting the first burden requires journal submission and decision data, which would also show whether authors differ in acceptance rates, in submissions, or in both, and so direct any intervention to its cause.
+
+- [Individual perception of bias in grant peer review strongly associated with openness towards the introduction of lotteries](https://doi.org/10.1162/qss.a.522)
+  - DOI: 10.1162/qss.a.522
+  - Authors: Christophe Heger
+  - Affiliations: Deutsches Zentrum für Hochschul- und Wissenschaftsforschung (DZHW)
+  - Published: 2026-11-05
+  - Crossref journal: Quantitative Science Studies
+  - Abstract:
+    Abstract This study of a representative sample of scientists at German universities and higher educa-tion institutions investigates researchers’ individual perception of bias in grant peer review and their openness towards the potential introduction of grant lotteries, as well as the poten-tial link between the two concepts. Indeed, bias in peer review is often cited in the theoretical debate on grant lotteries. But even though researchers are both very involved in and strongly affected by grant decision-making, there is not enough empirical evidence on their perspec-tive. I find that bias perception is very prevalent, openness is generally rare and researchers who perceive more bias in grant peer review are more open towards grant lotteries in a sub-stantial and statistically significant way.
+
+### Operations Research & Management Science
+
+#### Mathematical Programming
+- Rating: ABS 4
+- Articles: 1
+
+- [An interior-point algorithm for continuous nonlinearly constrained optimization with noisy function and derivative evaluations](https://doi.org/10.1007/s10107-026-02433-2)
+  - DOI: 10.1007/s10107-026-02433-2
+  - Authors: Frank E. Curtis; Shima Dezfulian; Andreas Waechter
+  - Published: 2026-11-18
+  - Crossref journal: Mathematical Programming
+  - Abstract:
+    Abstract An algorithm based on the interior-point methodology for solving continuous nonlinearly constrained optimization problems is proposed, analyzed, and tested. The distinguishing feature of the algorithm is that it presumes that only noisy values of the objective and constraint functions and their first-order derivatives are available. The algorithm is based on a combination of a previously proposed interior-point algorithm that allows inexact subproblem solutions and recently proposed algorithms for solving bound- and equality-constrained optimization problems with only noisy function and derivative values. It is shown that the new interior-point algorithm drives a stationarity measure below a threshold that depends on bounds on the noise in the function and derivative values. The results of numerical experiments show that the algorithm is effective across a wide range of problems.
+
+### Organisation Studies
+
+#### Organization Studies
+- Rating: ABS 4
+- Articles: 2
+
+- [Bound to grow? How firms can thrive without growth in capitalist market environments](https://doi.org/10.1177/01708406261511695)
+  - DOI: 10.1177/01708406261511695
+  - Authors: Swantje Freund; Josua Oll; Joern Hoppmann
+  - Affiliations: University of Oldenburg, Germany; ETH Zurich, Switzerland
+  - Published: 2026-11-19
+  - Crossref journal: Organization Studies
+  - Abstract:
+    In capitalist market environments, firms face strong growth pressures resulting from improved access to external financing, economies of scale and scope, network effects and market power as well as enhanced career opportunities for employees. However, ecological and social challenges increasingly constrain unbounded firm growth, creating a tension between economic pressure and sustainability limits to growth. Yet, to date, both the extant literature on firm growth and the literature on post-growth and degrowth provide limited insights into how firms can thrive without growth in capitalist market environments that pressure them to grow. In this paper, we therefore investigate this question by drawing on an inductive, multiple-case study of firms pursuing different business models in the German information technology industry. We show that, to thrive without growth, firms can adopt four major strategies: patient capital, service, niche and mission orientation. Importantly, our analysis also reveals four underlying mechanisms—namely strengthening firms’ financial autonomy, using labour-intensive activities, differentiating products in the market and thriving on employee self-motivation—through which these non-growth strategies help firms compensate for the benefits typically associated with growth. By developing a theoretical framework that explicates the detailed mechanisms of how firms can thrive without growth within the dominant capitalist system, we make important contributions to the literatures on post- and degrowth and alternative forms of organising, as well as to the management literature on firm growth and non-growing firms.
+
+- [Ethical bricolage as ethics-as-practice in criminal organizations. The case of a drug dealing gang](https://doi.org/10.1177/01708406261511702)
+  - DOI: 10.1177/01708406261511702
+  - Authors: Thomas Sorreda; Xavier Philippe; Jean-Philippe Bouilloud
+  - Published: 2026-11-18
+  - Crossref journal: Organization Studies
+  - Abstract:
+    In this paper, we explore how ethics emerge in contexts of criminal organizations. To do so, we carried out a non-participant observation of a suburban drug dealing gang. Resorting to Lévi-Strauss’ concept of “bricolage”, we posit that actors assemble and recombine available moral resources in practice. We found that the criminals we studied resorted to various practices of ethical bricolage, which we define as a genuine mode of social organizing resulting from individuals collectively mobilizing and recombining available moral resources to promote situated ethical practices aimed at designing and maintaining a delineated moral territory. We contribute to the ethics-as-practice literature in discussing how, in organizations lacking social acceptability, ethical bricolage constitutes a mode of organizing, structuring the boundaries of a “man-made” acceptable life.
+
+### Psychology (Work, Org & OB)
+
+#### Work and Stress
+- Rating: ABS 4
+- Articles: 1
+
+- [When extra isn’t extra good: unravelling the complex impact of employee and leader vigour on emotional exhaustion and organisational commitment](https://doi.org/10.1080/02678373.2026.2765832)
+  - DOI: 10.1080/02678373.2026.2765832
+  - Authors: Pay Yee Shee; Jan de Jonge; Mohd Awang Idris
+  - Affiliations: University of Malaya; Eindhoven University of Technology; Utrecht University; Adelaide University
+  - Published: 2026-11-18
+  - Crossref journal: Work &amp; Stress
+
+### Public Sector & Health Care
+
+#### Journal of Public Administration Research and Theory
+- Rating: ABS 4
+- Articles: 1
+
+- [“Unseen and unheard”: Recognition and Its Role in Shaping Administrative Burden](https://doi.org/10.1093/jopart/muag033)
+  - DOI: 10.1093/jopart/muag033
+  - Authors: Noam Tarshish
+  - Affiliations: University of Haifa, Mount Carmel School of Social Work, , Haifa, 3498838,
+  - Published: 2026-11-19
+  - Crossref journal: Journal of Public Administration Research and Theory
+  - Abstract:
+    Abstract Administrative burden scholarship has identified psychological costs alongside learning and compliance costs, yet the category remains homogeneous, grouping stigma, diminished autonomy, and stress, without a shared organizing principle. This article advances a mechanism-level account centered on recognition, drawing on a qualitative case study of claiming disability benefits in Israel, based on in-depth interviews with 33 individuals (16 young adults with diagnosed mental health conditions and 17 social and outreach workers). We argue that recognition, and its denial, are part of the mechanism through which psychological costs are produced, and that whether an encounter carries a message about a person's standing sorts the category into three analytically distinct types. Affective costs are emotional responses to procedural load and involve no recognition; primary symbolic costs are emotional responses to status positioning; and secondary symbolic costs arise when procedural load itself carries a message about standing. The latter two, in which recognition is at stake, are traced through Honneth's three spheres of rights, solidarity, and care, each producing its own configuration of costs. The types differ in their causes and remedies, with affective costs calling for efficiency reforms and symbolic costs for recognition-oriented ones. Social workers emerge as allies who counter misrecognition, and drawing on these findings we propose bureaucratic recognition, the building of voice, certainty, and validation into procedural design, as a remedy for status-related costs. Finally, misrecognition both constitutes symbolic costs and compounds others, positioning status, alongside distribution, as a critical axis of administrative burden.
+
+#### Public Management Review
+- Rating: ABS 4
+- Articles: 3
+
+- [Captured governance and diagnostic infrastructures: evidence from municipalities dissolved for mafia infiltration](https://doi.org/10.1080/14719037.2026.2765333)
+  - DOI: 10.1080/14719037.2026.2765333
+  - Authors: Francesco Ambrosini; Ilaria Campagna; Federico Longhin; Antonio Parbonetti
+  - Affiliations: University of Padova; University of Trento; Rozes S.R.L. – University of Padova Spinoff
+  - Published: 2026-11-19
+  - Crossref journal: Public Management Review
+
+- [Public manager learning in citizens’ assemblies: phases, outcomes and knowledge institutionalization](https://doi.org/10.1080/14719037.2026.2764194)
+  - DOI: 10.1080/14719037.2026.2764194
+  - Authors: Precious Unegbu; Claire Dupont
+  - Affiliations: Ghent University
+  - Published: 2026-11-18
+  - Crossref journal: Public Management Review
+
+- [Beyond the bright-dark binary of co-production: a paradox lens on co-assessment](https://doi.org/10.1080/14719037.2026.2765743)
+  - DOI: 10.1080/14719037.2026.2765743
+  - Authors: Martina Pisarra; Marta Ingaggiati; Giovanni Barbato; Adina Iulia Dudau
+  - Affiliations: University of Milan; University of Glasgow Adam Smith Business School
+  - Published: 2026-11-18
+  - Crossref journal: Public Management Review
+
+### Social Sciences & Sociology
+
+#### Risk Analysis
+- Rating: ABS 4
+- Articles: 1
+
+- [When One Case Feels Riskier Than One Hundred Cases: A New Framing Effect in Risk Communication](https://doi.org/10.1111/risa.70390)
+  - DOI: 10.1111/risa.70390
+  - Authors: Xin Liu; Rui Zheng
+  - Affiliations: Faculty of Psychology Shandong Normal University Jinan China; State Key Laboratory of Cognitive Science and Mental Health Institute of Psychology Chinese Academy of Sciences Beijing China; Department of Psychology University of Chinese Academy of Sciences Beijing China
+  - Published: 2026-11-19
+  - Crossref journal: Risk Analysis
+  - Abstract:
+    ABSTRACT Time‐based rates are widely used in risk communication, yet little is known about how their framing shapes perception and behavior. This article distinguishes between two common frames of rate—the average‐time frame (e.g., “one death every 30 seconds”) and the average‐outcome frame (e.g., “two deaths every minute”). Four studies were conducted to examine the rate framing effects on perceived risk and behavioral intention. A pilot text analysis of Weibo posts showed that the average‐time frame was relatively more prevalent in COVID‐19 risk communication and generated higher user engagement. Across three studies ( N = 979), we found that the average‐time frame elicited higher perceived risk than the average‐outcome frame, and such a rate framing effect weakened as the objective risk level increased. Moreover, framing information in an average‐time format effectively promoted intentions to limit sedentary behavior. These findings identify a new framing effect in risk communication and offer practical implications for designing persuasive public health messages.
