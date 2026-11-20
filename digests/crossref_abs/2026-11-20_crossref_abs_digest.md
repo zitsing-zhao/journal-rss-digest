@@ -1,0 +1,454 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-11-20
+
+Generated at: 2026-11-20 16:03 UTC
+Crossref date mode: `created`
+Window: `2026-11-19` to `2026-11-20`
+New papers: 44
+
+## ABS 4*
+
+### Accounting
+
+#### Accounting Review
+- Rating: ABS 4*
+- Articles: 1
+
+- [Target Firm Material Contract Redactions and Valuation in Acquisitions](https://doi.org/10.2308/tar-2023-0169)
+  - DOI: 10.2308/tar-2023-0169
+  - Authors: Paul A. Griffin; Hyun A. Hong; Kyungran Lee; Jiwoo Ryou
+  - Affiliations: University of California, Davis; University of California, Riverside; NEOMA Business School; West Virginia University
+  - Published: 2026-11-19
+  - Crossref journal: The Accounting Review
+  - Abstract:
+    ABSTRACT We study whether and how the SEC’s confidential treatment program, which allows firms to redact proprietary information from material contracts, affects valuation in corporate acquisitions. We find that friendly acquisitions of redacting targets generate significantly higher positive announcement returns for both targets and acquirers compared with acquisitions of nonredacting targets. These positive returns are also more pronounced when targets are likelier to hold valuable proprietary information. In addition, friendly acquisitions of redacting targets achieve better long-term performance and recognize fewer subsequent goodwill impairments compared with acquisitions of nonredacting targets. Our findings of a robust association between target firm material contract redactions and target and acquirer announcement returns are consistent with a dual disclosure perspective, whereby redaction preserves target proprietary value, which is transferred privately to the acquirer through due diligence. Data Availability: Data are available from public sources identified in the paper; some require a subscription. JEL Classifications: D8; M41; M48.
+
+### Economics
+
+#### Journal of Political Economy
+- Rating: ABS 4*
+- Articles: 3
+
+- [Unemployment Benefits and Unemployment in the Great Recession: The Role of Equilibrium Effects](https://doi.org/10.1086/745090)
+  - DOI: 10.1086/745090
+  - Authors: Marcus Hagedorn; Fatih Karahan; Iourii Manovskii; Kurt Mitman
+  - Published: 2026-11-19
+  - Crossref journal: Journal of Political Economy
+
+- [Market Response to Racial Uprisings](https://doi.org/10.1086/745094)
+  - DOI: 10.1086/745094
+  - Authors: Bocar A. Ba; Roman Rivera; Alexander Whitefield
+  - Published: 2026-11-19
+  - Crossref journal: Journal of Political Economy
+
+- [Intermediate Input Prices and the Labor Share](https://doi.org/10.1086/745092)
+  - DOI: 10.1086/745092
+  - Authors: Juanma Castro-Vincenzi; Benny Kleinman
+  - Published: 2026-11-19
+  - Crossref journal: Journal of Political Economy
+
+### General Management, Ethics & CSR
+
+#### Administrative Science Quarterly
+- Rating: ABS 4*
+- Articles: 1
+
+- [Cooperative Needs and Competitive Opportunities: Lobbying for Technology and the Expropriation of Knowledge](https://doi.org/10.1177/00018392261498222)
+  - DOI: 10.1177/00018392261498222
+  - Authors: Michael Park
+  - Affiliations: INSEAD, France
+  - Published: 2026-11-19
+  - Crossref journal: Administrative Science Quarterly
+  - Abstract:
+    Despite the importance of regulations regarding new technologies, there has been limited research on the competitive dynamics that may unfold among firms engaged in lobbying. In this article, I explore the potential for knowledge expropriation when firms lobby for technology-related regulations. I propose a framework that distinguishes two processes underlying knowledge expropriation—knowledge leakage and uptake—and argue that employing lobbyists creates opportunities for both. Given the different roles of internal and external lobbyists, I predict that increases in internal lobbyists will lead to a greater risk of leakage, while increases in external lobbyists will give rise to more opportunities for uptake. I test these predictions on a unique dataset of U.S. firms that employed lobbyists to influence technology policy and the patents for which those firms applied. I use an embedding approach on the text of patents to directly detect both knowledge leakage and uptake. Overall, the results suggest that lobbying enables opportunities for knowledge expropriation because firms share information that is useful, reliable, timely, and therefore strategically valuable to competitors. In this way, my study identifies a new competitive dynamic at the intersection of firms’ political and innovation strategy.
+
+#### Journal of Management
+- Rating: ABS 4*
+- Articles: 3
+
+- [Why Time Management Leads to Well-Being (and Performance)](https://doi.org/10.1177/01492063261499657)
+  - DOI: 10.1177/01492063261499657
+  - Authors: Brad Aeon
+  - Affiliations: Highline
+  - Published: 2026-11-20
+  - Crossref journal: Journal of Management
+  - Abstract:
+    Time management is usually seen as a way to get more done. Yet research suggests that it is more strongly associated with well-being than with performance. Why time management improves well-being and why the benefits vary remain unclear. This article proposes three pathways linking time management to well-being and productivity. First, structure brings order to daily life by giving people a sense of control and predictability. Second, synchrony aligns activities with social and biological rhythms, reducing conflict and strengthening social ties. And third, concordance aligns activities with personal values and long-term goals, giving daily life meaning and strengthening the connection between present and future selves. These benefits depend on both individual practices and organizational conditions. Fragmented work, excessive demands on people’s time, and a focus on short-term results can obstruct the pathways. An imbalance among the pathways can also turn otherwise useful time management practices into sources of strain. By distinguishing these mechanisms and their limits, the framework helps explain why time management can improve well-being and productivity in some circumstances, have little effect in others, and sometimes make things worse.
+
+- [Stakeholder Governance](https://doi.org/10.1177/01492063261492634)
+  - DOI: 10.1177/01492063261492634
+  - Authors: Romain Boulongne; Ryan Federo; Ruth V. Aguilera; Pascual Berrone; Maurizio Zollo
+  - Affiliations: IESE Business School; Universitat Autònoma de Barcelona; Northeastern University; Imperial College London
+  - Published: 2026-11-20
+  - Crossref journal: Journal of Management
+  - Abstract:
+    Stakeholder governance has become central to debates about stakeholder capitalism, yet research remains fragmented about the configurations through which non-shareholder stakeholders gain authority and firms become credibly bound to stakeholder claims. We systematically review 171 articles in management and related fields to develop a framework organized around stakeholder authority (i.e., the participatory rights or recognized standing through which stakeholders can engage in governance), and firm commitment (i.e., the obligations organizations assume toward stakeholder claims in ways that are costly to reverse or ignore). We identify five recurring configurations: (a) disclosure and evaluation; (b) monitoring and verification; (c) contracting, formal rules, and adjudication; (d) governance rights; and (e) rule-making rights. These configurations generally move from informational authority and very weak firm commitment to constitutional authority and very strong firm commitment. We also identify two off-diagonal configurations—constrained authority and embedded commitment—that reveal how authority and commitment need not align. Our framework distinguishes stakeholder governance that remains largely symbolic from arrangements that create durable constraints on organizational discretion. We conclude by outlining a research agenda on institutional settings, organizational forms, transitions across governance configurations, and the implications of learning dynamics for stakeholder authority and commitment.
+
+- [It’s a System: Shareholder Activism, Corporate Harm, and the Role of Regulators, NGOs, and Media](https://doi.org/10.1177/01492063261481752)
+  - DOI: 10.1177/01492063261481752
+  - Authors: Mark R. DesJardine; Jinyuan Song; Yifan Wei
+  - Affiliations: Tuck School of Business, Dartmouth College; The University of Tennessee, Knoxville; Simon Fraser University
+  - Published: 2026-11-20
+  - Crossref journal: Journal of Management
+  - Abstract:
+    Research on shareholder activism has focused largely on the direct, dyadic relationship between activists and the firms they target, leaving open a broader question: When does activism actually change corporate behavior? We argue that the answer depends on the wider system of stakeholders surrounding the firm. Integrating stakeholder influence research with institutional theory, we theorize that shareholder demands more effectively motivate organizational change when other actors in the institutional environment reinforce the issues those demands raise. We test this in the context of environmental and social (E&S) shareholder proposals, asking whether they reduce firms’ stakeholder violations, which are regulator-sanctioned acts of misconduct that can harm non-shareholding stakeholders. Using data on E&S proposals at 428 U.S. firms from 2007 to 2021 , we find that proposals reduce stakeholder violations, and that this effect operates through managerial receptivity, defined as a firm’s behavioral pattern of engaging rather than resisting activist demands. Critically, this relationship is amplified when firms face greater scrutiny from two institutional pillars: regulative pressure from regulators and cultural-cognitive pressure from NGOs. By showing that non-shareholding stakeholders condition whether shareholder activism translates into reduced corporate harm, we move beyond the activist–firm dyad and offer a systems-level account of when, and through what mechanisms, shareholder activism succeeds in achieving its aims.
+
+### Innovation
+
+#### Research Policy
+- Rating: ABS 4*
+- Articles: 2
+
+- [Institutional reform and persistent innovation: Novel evidence from a quasi-natural experiment in pilot free trade zones](https://doi.org/10.1016/j.respol.2026.105654)
+  - DOI: 10.1016/j.respol.2026.105654
+  - Authors: Hao Wang; Ying Jiang
+  - Published: 2027-01-01
+  - Crossref journal: Research Policy
+
+- [Challenges, opportunities, and policies for dual use innovation](https://doi.org/10.1016/j.respol.2026.105658)
+  - DOI: 10.1016/j.respol.2026.105658
+  - Authors: Matthijs J. Janssen; Bart Hollants; Maryse M.H. Chappin; Ellen H.M. Moors
+  - Published: 2027-01-01
+  - Crossref journal: Research Policy
+
+### Operations Research & Management Science
+
+#### Management Science
+- Rating: ABS 4*
+- Articles: 1
+
+- [Sample Range as Subjective Variability and Implications for Experience-Based Decision Making](https://doi.org/10.1287/mnsc.2024.05050)
+  - DOI: 10.1287/mnsc.2024.05050
+  - Authors: Tianwei Liu; Benjamin Scheibehenne
+  - Affiliations: Department of Business and Economics, Karlsruhe Institute of Technology, 76131 Karlsruhe, Germany
+  - Published: 2026-11-19
+  - Crossref journal: Management Science
+  - Abstract:
+    Variance and standard deviation are common metrics of statistical variability in the management and decision-making literature. In everyday contexts, however, information about sample range prevails. Range is arguably easier to comprehend and compute than variance, yet it often yields equivalent judgments about variability. Hence, we reason that decision makers often rely on range to judge variability. We test this hypothesis across four behavioral experiments (total n = 1,093). When comparing the variability of two number sets, decision makers predominantly based their judgments on sample range rather than sample variance when the two metrics disagree (experiment 1). Sample range tends to increase with sample size, whereas sample variance does not. Consistent with the range as variability hypothesis, decision makers perceived distributions as more variable after observing larger samples (experiment 2). This perceived variability, in turn, influenced risky decisions, as larger sample sizes led to decreased valuations of uncertain rewards for risk-averse decision makers (experiment 3). In further support of the hypothesis, when asked to mentally simulate new samples from a previously experienced distribution, participants generated more numbers within the observed range and fewer numbers outside of it than the true distribution implies (experiment 4). To model the data, we propose a “cognitive fence” idea as a potential psychological explanation for how experience shapes subjective variability. We conclude by discussing implications for research on overconfidence, distributional learning, risk perception, and communication. This paper was accepted by Jack Soll, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05050 .
+
+#### Operations Research
+- Rating: ABS 4*
+- Articles: 5
+
+- [Statistical Efficiency of Distributional Temporal Difference Learning and Freedman’s Inequality in Hilbert Spaces](https://doi.org/10.1287/opre.2025.1639)
+  - DOI: 10.1287/opre.2025.1639
+  - Authors: Yang Peng; Liangyu Zhang; Zhihua Zhang
+  - Affiliations: Tsinghua University, Yau Mathematical Sciences Center, Beijing, Beijing, China; Shanghai University of Finance and Economics, School of Statistics and Data Science, Shanghai, China; Peking University, School of Mathematical Sciences, Beijing, Beijing, China
+  - Published: 2026-11-20
+  - Crossref journal: Operations Research
+  - Abstract:
+    Distributional reinforcement learning (DRL) has achieved empirical success in various domains. One core task in DRL is distributional policy evaluation, which involves estimating the return distribution η π for a given policy π. Distributional temporal difference (TD) learning has been accordingly proposed, which extends the classic TD learning in RL. In this paper, we focus on the non-asymptotic statistical rates of distributional TD learning. To facilitate theoretical analysis, we propose non-parametric distributional TD learning (NTD). For a γ-discounted tabular Markov decision process, we show that for NTD with a fixed-distribution generative model (at time t ∈ ℕ, sample one state s t ~ μ with μ min := min s∈S μ(s) > 0 and observe a single transition from s t ), we need Õ(ε −2 μ min −1 (1−γ) −3 ) interactions with the environment to achieve an ε-optimal estimator with high probability when the estimation error is measured by the supremum 1-Wasserstein distance. This sample complexity bound is minimax optimal up to logarithmic factors. In addition, we revisit categorical distributional TD learning (CTD), showing that the same non-asymptotic convergence bounds hold for CTD. We also extend our analysis to the more general setting where the data-generating process is Markovian. In the Markovian setting, we propose variance-reduced variants of NTD and CTD and show that both can achieve a sample complexity bound matching the state-of-the-art statistical results for classic policy evaluation. We validate our theoretical results through numerical experiments on an inventory management problem, illustrating the practical utility of distributional policy evaluation in risk-sensitive decision-making. To achieve the sharp statistical rates, we establish a novel Freedman’s inequality in Hilbert spaces. This new Freedman’s inequality would be of independent interest for statistical analysis of various infinite-dimensional online learning problems.
+
+- [Dual Active Learning for Reinforcement Learning from Human Feedback](https://doi.org/10.1287/opre.2025.1837)
+  - DOI: 10.1287/opre.2025.1837
+  - Authors: Pangpang Liu; Chengchun Shi; Will Wei Sun
+  - Affiliations: Purdue University, West Lafayette, Indiana, United States; LSE, London, London, United Kingdom of Great Britain and Northern Ireland; Purdue University, management, West Lafayette, Indiana, United States
+  - Published: 2026-11-20
+  - Crossref journal: Operations Research
+  - Abstract:
+    Aligning large language models (LLMs) with human preferences is critical to recent advances in generative artificial intelligence. Reinforcement learning from human feedback (RLHF) is widely applied to achieve this objective. A key step in RLHF is to learn the reward function from human feedback. However, human feedback is costly and time-consuming, making it essential to collect high-quality conversation data for human teachers to label. Additionally, different human teachers have different levels of expertise. It is thus critical to query the most appropriate teacher for their opinions. In this paper, we use offline reinforcement learning (RL) to formulate the alignment problem. Motivated by the idea of $D$-optimal design, we first propose a dual active reward learning algorithm for the simultaneous selection of conversations and teachers. Next, we apply pessimistic RL to solve the alignment problem, based on the learned reward estimator. Theoretically, we show that the reward estimator obtained through our proposed adaptive selection strategy achieves minimal generalized variance asymptotically, and prove that the sub-optimality of our pessimistic policy scales as $O(1/\sqrt{T})$ with a given sample budget $T$. Through simulations and experiments on LLMs, we demonstrate the effectiveness of our algorithm and its superiority over state-of-the-art.
+
+- [Column Elimination: An Iterative Approach to Solving Arc-Flow Formulations](https://doi.org/10.1287/opre.2024.1404)
+  - DOI: 10.1287/opre.2024.1404
+  - Authors: Anthony Karahalios; Willem-Jan Van Hoeve
+  - Affiliations: Naval Postgraduate School, Operations Research, Monterey, California, United States; Carnegie Mellon University, Tepper School of Business, Pittsburgh, Pennsylvania, United States
+  - Published: 2026-11-20
+  - Crossref journal: Operations Research
+  - Abstract:
+    We present column elimination as a general framework for solving problems whose solutions can be represented as a collection of decision sequences. We show how such problems can be modeled as arc-flow formulations, using a dynamic program to represent the set of feasible decision sequences and their costs, and an integer linear program over the corresponding state-transition graph. Because the exact arc-flow formulation can be exponentially large, we introduce relaxed dynamic programs to compactly represent a superset of the feasible decision sequences. Column elimination solves the exact model by starting with a relaxed dynamic program, which induces a relaxed arc-flow formulation, and iteratively refining the relaxation by eliminating infeasible sequences in optimal solutions. Doing so, we generalize earlier approaches that were developed for decision-diagram based network models. We apply our general column elimination framework to three new applications: the vehicle routing problem with time windows, the pickup-and-delivery problem with time windows, and the graph multicoloring problem. The computational results show that column elimination is competitive with or outperforms state-of-the-art methods, closing several previously open benchmark instances across these domains, including one vehicle routing problem with time windows on 1,000 locations.
+
+- [Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall](https://doi.org/10.1287/opre.2023.0247)
+  - DOI: 10.1287/opre.2023.0247
+  - Authors: Sainan Zhang; Erick Delage; Huifu Xu
+  - Affiliations: Shatin, Hong Kong; HEC Montréal, Management Sciences, Montreal, H3T 2A7, Canada; The Chinese University of Hong Kong, Department of Systems Engineering and Engineering Management, Hong Kong, Shatin, N.T., Shatin, N.T., Hong Kong
+  - Published: 2026-11-20
+  - Crossref journal: Operations Research
+  - Abstract:
+    This paper investigates the cumulative prospect theory (CPT)-based shortfall risk measure where the value (utility) function and the distortion (probability weighting) functions are ambiguous. We propose a worst-case CPT-based shortfall risk measure where the capital requirement is based on the worst-case value function and distortion functions from an ambiguity set constructed with user-specific information (e.g., preference between risky and certain lotteries) and well-known general information such as the S-shape of the value functions. When the underlying random loss is discretely distributed and parameters in pairs of lotteries remain undetermined, we demonstrate that the worst-case value function and the distortion functions have a piecewise linear structure. Based on this observation, we develop an adaptive preference elicitation approach extended from the well-known polyhedral method to simultaneously elicit the distortion functions and the positive and negative parts of the value function by solving a sequence of mixed-integer linear programs. Based on the elicited distortion, we design new queries to construct a feasible set of the holistic value functions. The proposed framework iteratively shrinks the ambiguity set through designed queries, yielding a computationally implementable robust CPT-based shortfall risk measure. To examine the in-sample and out-of-sample performance of the elicited CPT-based preference functions and the resulting preference robust shortfall risk measure, we conduct numerical experiments under an S-shaped value function and inverse S-shaped distortion functions and report the corresponding results.
+
+- [A Continuous-Knapsack-Based Framework for Constrained Static Assortment Optimization](https://doi.org/10.1287/opre.2026.2633)
+  - DOI: 10.1287/opre.2026.2633
+  - Authors: Hongbin Zhang; Yanzhi Li; Woonghee Tim Huh
+  - Affiliations: University of British Columbia, Vancouver, Canada; City University of Hong Kong, Kowloon, Hong Kong; The University of British Columbia, Sauder School of Business, Vancouver, Canada
+  - Published: 2026-11-20
+  - Crossref journal: Operations Research
+  - Abstract:
+    We consider the constrained static assortment optimization problem under the Multinomial Logit (MNL) model and its extensions, including the Customized Assortment Problem (CAP) and the joint assortment and pricing problem. Building on the knapsack formulation of MNL assortment planning, we introduce a novel concept, termed the modified reduced profit, defined as the maximum attainable value of the knapsack model for a given item set under a fixed no-purchase probability. We show that this modified reduced profit is a continuous-knapsack value function and is monotone and submodular. This structural property leads to a general approximation framework. In particular, if maximizing the continuous-knapsack value function over a downward-closed family L admits an α-approximation algorithm, then our MNL-THR algorithm achieves an α(1 − ϵ)-approximation through a geometric search over the no-purchase probability. As important special cases, cardinality, budget, and matroid constraints yield a (1 − 1/e)(1 − ϵ) guarantee. We further extend the framework to the CAP and the joint pricing and assortment problem, showing that the underlying submodularity structure is preserved. Finally, we develop faster approximation algorithms that avoid the geometric search and achieve a (1 − 1/e)/2 guarantee under the three commonly studied constraint families, providing a trade-off between computational efficiency and solution quality
+
+## ABS 4
+
+### HRM & Employment Studies
+
+#### Work, Employment and Society
+- Rating: ABS 4
+- Articles: 2
+
+- [When employers do relational work: Negotiations, discounts and gift labour in the creative industries](https://doi.org/10.1177/09500170261486999)
+  - DOI: 10.1177/09500170261486999
+  - Authors: Irena Grugulis; Dimitrinka Stoyanova Russell
+  - Affiliations: Leeds University Business School, University of Leeds, UK; Cardiff Business School, Cardiff University, UK
+  - Published: 2026-11-20
+  - Crossref journal: Work, Employment and Society
+  - Abstract:
+    What happens when employers engage in relational work? Relational work is work done for and with connections and kin, where motivations and rewards may stem from relational rather than market reasons. The existing literature acknowledges the workplace as a relational space but neglects employers as relational actors. Here, drawing on a qualitative study of UK film and TV production, we observe employers using relationships to discount rates and degrade working conditions. These relational markets were skewed by the asymmetries of power between employers and employees, with economic gains secured by employers and ‘immaterial’ gains allocated to employees. When employers and relationships were different, such as with charities and voluntary groups, ‘gifts’ of labour were offered. This article (a) develops our understanding of relational work by including employers as relational actors, and (b) following the relational work rationale, shows workers behaving differently depending on who their employer was.
+
+- [Book review: Justine Grønbæk Pors,                     <i>Inherited Time: A Hauntological History of Work in Educational Vocations</i>                     PorsJustine Grønbæk, Inherited Time: A Hauntological History of Work in Educational Vocations (eBook), Bristol University Press: Bristol, 2025; 150 pp.: ISBN: 978-1529233766, GBP 27.99.](https://doi.org/10.1177/09500170261504214)
+  - DOI: 10.1177/09500170261504214
+  - Authors: Jharna Suresh
+  - Affiliations: Jawaharlal Nehru University, India
+  - Published: 2026-11-20
+  - Crossref journal: Work, Employment and Society
+
+### Innovation
+
+#### Journal of Product Innovation Management
+- Rating: ABS 4
+- Articles: 1
+
+- [Opulent and Environmentally Responsible?: Brand‐ and Consumer‐Related Factors Shaping Consumer Responses to Sustainable Product Innovation Signals by Luxury Brands](https://doi.org/10.1111/jpim.70065)
+  - DOI: 10.1111/jpim.70065
+  - Authors: İsmail Erzurumlu; M. Billur Akdeniz
+  - Affiliations: Department of Marketing NEOMA Business School Rouen France; Department of Marketing Peter T. Paul College of Business and Economics, University of New Hampshire Durham New Hampshire USA
+  - Published: 2026-11-19
+  - Crossref journal: Journal of Product Innovation Management
+  - Abstract:
+    ABSTRACT Academic Summary Luxury and environmental sustainability often appear fundamentally at odds: luxury derives its value from exclusivity, symbolic aspiration, and resource‐intensive craftsmanship, while sustainability demands restraint, reduced environmental impact, and responsible production. Yet luxury brands such as LVMH and Gucci are increasingly introducing sustainable product innovations, seeking to align with evolving consumer expectations and regulatory demands. For consumers, this creates a genuine tension: does a sustainably produced luxury personal good elevate its desirability, or quietly erode what makes it special in the first place? Despite the urgency of this question for both consumers and brands navigating the luxury‐sustainability interface, research on consumer responses to sustainable product innovation in luxury personal goods remains limited. Drawing on signaling and cue‐diagnosticity theory, this study examines how, why, and when consumers respond to luxury brands'' environmentally sustainable product innovation. Across a pilot and three main experimental studies, it explores consumer responses to sustainability signals, particularly considering skepticism surrounding the sustainability–luxury interface. Results show that consumers have more positive attitudes, higher purchase intentions, and greater willingness to recommend luxury brands engaged in sustainable versus conventional product innovation. This effect is partially mediated by consumers' feelings of specialness, a proximal, state‐like psychological mechanism. Moreover, transparency as a brand‐level signal and socially responsible consumer behavior as a consumer‐level characteristic strengthen the effectiveness of sustainable product innovation signals. These findings advance understanding of how environmentally sustainable product innovation creates value in luxury markets by shaping consumers' interpretations, experiences, and responses. Managerial Summary Luxury brands face growing pressure to integrate sustainability into their products while preserving the exclusivity, prestige, and craftsmanship that define their appeal. This research offers practical guidance on how they can navigate this challenge through sustainable product innovation. Across four studies involving more than 2450 consumers, introducing eco‐innovative products improves consumer attitudes, increases purchase intentions, and strengthens willingness to recommend. A key insight is that consumers respond positively because sustainable product innovations make them feel special, unique, and privileged, reinforcing rather than undermining luxury's core appeal. Managers can cultivate these perceptions by embedding environmental sustainability into limited editions, exclusive collaborations, and bespoke offerings. Experiential storytelling highlighting material origins, craftsmanship processes, and environmental significance transforms these initiatives into emotionally engaging experiences rather than purely ethical propositions. Transparency is equally critical. When brands are transparent about their sustainability practices, the positive impact on consumer attitudes and purchase intentions is significantly stronger. These results offer clear guidance for luxury brand managers and innovation teams: integrate sustainable product innovation into new product development not as a trade‐off but as a source of differentiation, prioritize transparency to meet consumer demand for accountability, and tailor communications to eco‐conscious consumer segments, positioning the brand as a forward‐thinking leader in luxury innovation.
+
+#### Scientometrics
+- Rating: ABS 4
+- Articles: 3
+
+- [A metaphor-aware framework for sleeping patent status prediction using large language models and hierarchical feature tokenizer transformer](https://doi.org/10.1007/s11192-026-05900-x)
+  - DOI: 10.1007/s11192-026-05900-x
+  - Authors: Jianxin Zhu; Yutong Chuang; Zhinan Wang; Yanqi Zhao
+  - Published: 2026-11-20
+  - Crossref journal: Scientometrics
+
+- [Identifying emerging research fields through semantic enhanced topic modeling: integrating BERTopic and large  language models for knowledge structure analysis](https://doi.org/10.1007/s11192-026-05893-7)
+  - DOI: 10.1007/s11192-026-05893-7
+  - Authors: Yi Zhang; Dacheng Song; Ningning Zhang; Ke Wen; Yifeng Zhang; Zefu Lin
+  - Published: 2026-11-19
+  - Crossref journal: Scientometrics
+
+- [Classifying research activity and impact indicators: leveraging LLMs and the ReAct taxonomy for in-context learning](https://doi.org/10.1007/s11192-026-05837-1)
+  - DOI: 10.1007/s11192-026-05837-1
+  - Authors: Joshua Eykens; Marianne Lykke; Birger Larsen; Rolf Hvidtfeldt
+  - Published: 2026-11-19
+  - Crossref journal: Scientometrics
+
+### Operations & Technology Management
+
+#### International Journal of Operations and Production Management
+- Rating: ABS 4
+- Articles: 1
+
+- [Impact pathways: flexibility on the factory floor – expanding gig labor research into the manufacturing context](https://doi.org/10.1108/ijopm-02-2026-0259)
+  - DOI: 10.1108/ijopm-02-2026-0259
+  - Authors: Joshua R. Schumm; Vaishnavi Ayyalasomayajula; Zoe Schumm; Michael J. Dwyer
+  - Affiliations: University of Wyoming Department of Management and Marketing, , , ,; Texas State University Department of Management, , , ,; Pennsylvania State University Erie The Behrend College Department of Project and Supply Chain Management, , , ,; Texas A&M International University Department of Transportation and International Logistics, , , ,
+  - Published: 2026-11-24
+  - Crossref journal: International Journal of Operations &amp; Production Management
+  - Abstract:
+    Purpose Manufacturers have begun to experiment with gig labor due to persistent workforce shortages. This article develops impact pathways that specify what manufacturers must resolve for gig labor to function as an effective flexibility lever, and where operations and supply chain management (OSCM) research can advance implementation. Design/methodology/approach We conducted 13 semi-structured interviews, 11 with manufacturing executives and two with CEOs of manufacturing-focused gig labor platforms. Transcripts were analyzed with a Gioia-style coding process. Findings We identify four impact pathways shaping whether gig labor can work in manufacturing: (1) designing flexible workflows for gig labor integration; (2) building plant-level legitimacy for hybrid core–gig workforces; (3) enablement of gig labor through platform mediation; and (4) governing the manufacturing gig labor supply chain. The pathways highlight implications for managers, platform designers, and policymakers. Managers should modularize suitable tasks, design quality into processes, and make the benefits of gig labor visible to incumbent workers. Platforms should embed skills-based matching without increasing income instability, and policymakers should assess whether safety, liability, and worker-classification rules fit flexible arrangements. Originality/value Gig labor research, developed mainly in consumer-facing platform settings, rests on a largely unexamined plug-and-play assumption in which tasks arrive pre-bounded, gig workers operate apart from a permanent workforce, workers are interchangeable, and governance is a two-party relationship between platform and worker. This article shows where each premise breaks down in a manufacturing context and offers a future research agenda for OSCM.
+
+#### Production and Operations Management
+- Rating: ABS 4
+- Articles: 6
+
+- [EXPRESS: The Role of Synchrony in the Interpersonal Effectiveness of Operations Management](https://doi.org/10.1177/10591478261511648)
+  - DOI: 10.1177/10591478261511648
+  - Authors: Vaneet Kaur; David A. Waldman; Salome Opoku; Shardul Phadnis
+  - Published: 2026-11-20
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    To achieve a more central role in the top management of firms, the evolution of operations managers involves transitioning from largely isolated technical expertise into leadership excellence that is characterized by interpersonal effectiveness. Grounded in the rich behavioral Operations Management (OM) literature, this conceptual study draws on insights from neuroscience. We argue that success in this expanded role depends on balancing OM’s traditional focus on analytical rigor and the intuitive/emotional demands of senior leadership through a framework that integrates intrapersonal and interpersonal synchrony. Intrapersonal synchrony involves the neural capacity that enables a manager to achieve the cognitive and behavioral attributes that are associated with interpersonal synchrony. We explore how interventions like neurofeedback, along with organizational and cultural context factors, can help to develop or maximize these two forms of synchrony. Thus, an alignment of individual capacity, along with a supportive organizational and cultural context, is likely to help operations managers to move beyond a rigid analytic approach toward a broader strategic perspective based on interpersonal effectiveness, and thereby transcend technical gatekeeping and be more integrated into the strategic efforts of firms. In doing so, the study highlights the potential of neuroscience to provide insights into human aspects of managerial decision-making, which have been recognized in OM since the field’s inception over a century ago.
+
+- [EXPRESS: Financing Selection Under Procurement Decentralization with a Quality-Uncertain Supplier](https://doi.org/10.1177/10591478261511680)
+  - DOI: 10.1177/10591478261511680
+  - Authors: Zhiping Lin; Qi Zhang; Di Xu; Ruixia Shi; Gangshu (George) Cai
+  - Published: 2026-11-20
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    This article investigates how financing choice interacts with outsourcing structure and endogenous quality when a capital-constrained supplier exerts unobservable effort to improve component quality. We consider two common outsourcing structures: consignment, in which the OEM contracts directly with the supplier while outsourcing assembly to a contract manufacturer (CM), and turnkey (i.e., procurement decentralization), in which the CM intermediates component procurement. In each structure, the supplier can be financed either by a bank (bank finance) or by its downstream buyer (buyer finance). Our analysis delivers several main insights. First, we identify a Supplier’s Collateral Paradox : a higher collateral value can reduce the supplier’s equilibrium profit even as it improves product quality and increases total supply chain profit, because downstream firms exploit the supplier’s improved reliability to extract surplus. Second, we establish a Financier’s Advantage : the downstream firm always prefers to provide buyer finance itself (the OEM under consignment and the CM under turnkey), whereas the supplier always prefers bank finance. Third, the performance implications of buyer finance depend critically on the outsourcing structure: under consignment, buyer finance strictly dominates bank finance by yielding higher equilibrium quality and greater supply chain efficiency, and the OEM fully extracts the CM’s surplus, while under turnkey, buyer finance improves quality and efficiency only when the supplier’s collateral is sufficiently high, whereas when collateral is low, bank finance can deliver higher quality and greater supply chain efficiency, reflecting the CM’s intermediary role and the resulting amplification of triple marginalization. Fourth, compared with the case without capital constraints, capital constraints alter the extent of firms’ relative procurement preferences between consignment and turnkey. We further demonstrate the robustness of these findings under five extensions—financing of effort cost, imperfect inspection, stochastic market demand, CM pricing power, and quality-dependent production cost. Overall, the results highlight that financing authority and outsourcing structure jointly shape incentives, surplus allocation, and quality outcomes in outsourced supply chains.
+
+- [EXPRESS: Estimating censored demand in family planning supply chains: forecast accuracy, inventory implications, and public health outcomes](https://doi.org/10.1177/10591478261511731)
+  - DOI: 10.1177/10591478261511731
+  - Authors: Harsha Chamara Hewage; Bahman Rostami-Tabar; Aris Syntetos; Federico Liberatore; Glenn R. Milano
+  - Published: 2026-11-20
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Lost sales due to stockouts and service interruptions create a major challenge for demand forecasting in family planning supply chains. When demand is censored, forecasts become biased, reinforcing cycles of understocking and unmet need. Existing models often ignore this distortion or treat all censoring mechanisms uniformly, limiting their decision relevance in operational settings. We propose the Truncated Conformal Kalman Filter (TCKF), a novel forecasting framework that integrates a Tobit Kalman Filter with conformal prediction. Unlike existing approaches, TCKF explicitly distinguishes between partial censoring (stockouts) and full censoring (interruptions or no-stock-received periods), enabling context-sensitive state updates. It also adapts to prolonged uncertainty through dynamic process-noise inflation and generates distribution-free prediction intervals, avoiding restrictive assumptions about error distributions. We evaluate performance using both synthetic and real-world data from the family planning program in Côte d’Ivoire, and we assess the impact on public health outcomes. Across both settings, TCKF consistently outperforms benchmark methods in forecast accuracy, considering both point and probabilistic forecasts, as well as in downstream inventory performance. Moreover, our results show how improvements in forecast accuracy can translate into better product availability and enhanced public health outcomes. This work bridges a critical gap between forecasting and inventory control and offers a scalable solution for supply chains facing censored demand.
+
+- [EXPRESS: Crossing platforms, connecting modalities: A multisource and multimodal interactive neural network for enhanced revenue prediction in service operations](https://doi.org/10.1177/10591478261511722)
+  - DOI: 10.1177/10591478261511722
+  - Authors: Jie Mu; Jian Xu; Hengyun Li; Liangfei Qiu; Xiaowei Mei
+  - Published: 2026-11-20
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Demand and revenue prediction is critical in the hotel industry, where fixed capacity and perishable inventory make profitability highly dependent on the effective alignment of pricing, staffing, and procurement decisions with expected market demand and financial outcomes. Accurate forecasts, therefore, serve as a foundation for service operations, enabling managers to balance cost efficiency with service quality. Online reviews have become a valuable source of information for revenue prediction, as they capture customer perceptions of service quality and influence booking intentions. Beyond numerical ratings, reviews often combine textual narratives and visual content, offering rich multimodal signals about customers’ service experiences. Together, these cues provide more comprehensive insights into consumer evaluations than either modality alone. Yet most existing approaches still rely primarily on numerical indicators or text, overlooking both the visual dimension of reviews and the complementary perspectives available across platforms. This narrow focus reduces predictive accuracy and weakens the operational relevance of current models. To address this gap, this paper uses consumer multimodal reviews as the primary data source and examines hotel revenue prediction through the lens of the consumer purchase decision process. We propose a theoretical framework based on this process to guide the design of our prediction model, thereby enhancing the accuracy of RevPAR predictions. The resulting model, termed the multisource and multimodal interactive neural network (MMINN), leverages cross-platform multimodal reviews to predict hotel RevPAR with greater precision. Our findings show that integrating textual and visual information and capturing their interactions improves prediction accuracy. Incorporating cross-platform reviews further enhances predictive power by using a cross-attention mechanism to fuse multisource features. Moreover, focusing on multigranular customer attention-related factors at both the review and platform levels allows the model to capture differences in the informational contributions of different reviews and platforms, which further strengthens revenue prediction. This research provides actionable insights for hotels by supporting revenue management, staffing, marketing, and investment strategies while enhancing competitiveness and customer satisfaction, thereby generating potential economic value for hotels. It also contributes to the service operations and revenue management literature by demonstrating the value of multisource multimodal data integration for advancing revenue prediction.
+
+- [EXPRESS: Assessing the Quality of Illegal Copies and its Impact on Revenues and Distribution](https://doi.org/10.1177/10591478261512192)
+  - DOI: 10.1177/10591478261512192
+  - Authors: Anthony Koschmann; Yi Qian
+  - Published: 2026-11-20
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    Conventional wisdom holds that illegal copies cannibalize legitimate sales, even though previous research has found mixed effects, with illegal copies acting as both a substitute and a complement. Yet relatively little is known about how variation in piracy quality affects market outcomes over a product’s lifecycle. Building on product uncertainty and production quality, we propose that higher quality copies benefit sales when product uncertainty is higher (during product launch) but hurt sales when product uncertainty is lower (during post-launch). We examine this question in the context of motion pictures by constructing an objective measure of piracy quality from technical signals embedded in pirated files, combining this data with box office performance, screen availability, and online piracy activity. An econometric framework jointly models movie screens, revenues, illegal downloads, and available illegal copies with piracy quality in both the launch and post-launch periods. We find that at launch, when less information is known about a movie, higher quality illegal copies demonstrate a positive sampling effect on revenues. In the post-launch period, however, higher quality illegal copies exhibit a negative substitution effect on revenues. The findings have operations implications, as producers can alleviate product uncertainty through some higher quality samples at product launch, while diluting the piracy market with lower quality post-launch.
+
+- [EXPRESS: A Framework Addressing Supply Chain Carbon Emissions: Measurement, Reporting, and Reduction](https://doi.org/10.1177/10591478261511699)
+  - DOI: 10.1177/10591478261511699
+  - Authors: Jing Wu; Yilin Shi; Yi Liao
+  - Published: 2026-11-20
+  - Crossref journal: Production and Operations Management
+  - Abstract:
+    This paper honors Professor Christopher S. Tang’s seminal contributions to sustainable operations management by examining the pivotal yet underappreciated role of supply chains in global carbon emissions. Despite the critical importance of supply chains in contributing to overall carbon footprints, current efforts to address these emissions are often overshadowed by more visible direct emissions (Scope 1) and energy-related emissions (Scope 2). To bridge this gap, we propose an integrated measurement-reporting-reduction framework for managing supply chain carbon emissions (upstream Scope 3). Drawing on the literature, we introduce methodologies for carbon measurement (e.g., EEIO models, LCA, machine learning, and blockchain), determinants and consequences of disclosure, and strategies for reduction. In addition, we present case studies of two industrial firms, Tongwei (a Chinese photovoltaic leader) and Siemens (a German multinational technology firm), to illustrate how firms with distinct institutional contexts implement the framework in practice, highlighting the strengths, challenges, and implications. We conclude with research questions on whether disclosure mandates and carbon border measures lead to real abatement or merely shift emissions across suppliers and borders.
+
+### Organisation Studies
+
+#### Organizational Research Methods
+- Rating: ABS 4
+- Articles: 1
+
+- [Do Organizational Researchers Report Their Priors? Reporting Guidelines for Bayesian Methods](https://doi.org/10.1177/10944281261491765)
+  - DOI: 10.1177/10944281261491765
+  - Authors: Lau Holgersen
+  - Affiliations: Aarhus University
+  - Published: 2026-11-20
+  - Crossref journal: Organizational Research Methods
+  - Abstract:
+    Bayesian methods are increasingly used in management and organizational research, yet the prior distributions on which they depend are often poorly reported. A systematic review of 89 empirical Bayesian studies across 15 leading journals (2001–2025) finds that more than a third do not disclose specific prior distributions and only half of those that mention priors justify their specific choices. In response, we offer seven reporting guidelines for authors, reviewers, and editors that span the specification, justification, and evaluation of priors, organized as a guide from considering Bayesian methods through to reporting priors. Each is grounded in a gap this review documents or in an established methodological practice. As Bayesian adoption broadens in this field, these checkpoints offer a minimum standard for ensuring that prior assumptions remain visible and evaluable.
+
+### Psychology (Work, Org & OB)
+
+#### Journal of Organizational Behavior
+- Rating: ABS 4
+- Articles: 1
+
+- [Multiple Sources, Mixed Signals: How Supervisor and Coworker Undermining (In)congruence Affects Employee Deviance](https://doi.org/10.1002/job.70137)
+  - DOI: 10.1002/job.70137
+  - Authors: Michael S. Cole; Shannon G. Taylor; Nikolaos Dimotakis; Artemis Boulamatsi; Xin Zhao; Xinxin Lu
+  - Affiliations: Department of Management and Leadership, Neeley School of Business Texas Christian University Fort Worth Texas USA; Department of Management, Barry S. Miller College of Business University of Central Florida Orlando Florida USA; Department of Management, Spears School of Business Oklahoma State University Stillwater Oklahoma USA; Department of Business Administration, Business School of Hunan University Hunan University Changsha China
+  - Published: 2026-11-20
+  - Crossref journal: Journal of Organizational Behavior
+  - Abstract:
+    ABSTRACT Although studies have shown that employee well‐being and work behavior are affected by incongruent mistreatment over time, from a single perpetrator, and across targets, there is comparatively less research examining the effects of mistreatment incongruence across sources (i.e., multiple perpetrators). This raises novel and important questions about how and why supervisors and coworkers, as two salient sources of potential mistreatment, jointly influence employee well‐being and behavior. Drawing on ambivalence theory, we propose that undermining incongruence across sources—that is, the divergence between the levels of undermining that employees experience from supervisor and coworker referent groups—influences employee well‐being and behavior. We test our predictions with two field studies that employ within‐person and between‐person designs. In Study 1, we demonstrate that the effects of supervisor–coworker undermining incongruence on employee CWB are transmitted by reduced feelings of thriving (or languishing). In Study 2, we constructively replicate and extend these findings by demonstrating that the effects of undermining incongruence on employees' thriving and CWB are driven by felt ambivalence. Implications for theory and research are discussed.
+
+#### Work and Stress
+- Rating: ABS 4
+- Articles: 2
+
+- [Physical fatigue predicts increases in work-to-family conflict: facet-specific evidence across two studies](https://doi.org/10.1080/02678373.2026.2765841)
+  - DOI: 10.1080/02678373.2026.2765841
+  - Authors: Jesse S. Michel
+  - Affiliations: Auburn University
+  - Published: 2026-11-20
+  - Crossref journal: Work &amp; Stress
+
+- [The work-family interface and psychological recovery from work: a meta-analysis on two intertwined topics](https://doi.org/10.1080/02678373.2026.2765834)
+  - DOI: 10.1080/02678373.2026.2765834
+  - Authors: Ana Isabel Sanz-Vergel; Alejandro Díaz-Guerra; Alfredo Rodriguez-Muñoz; Mirko Antino
+  - Affiliations: University of East Anglia; Complutense University of Madrid
+  - Published: 2026-11-19
+  - Crossref journal: Work &amp; Stress
+
+### Social Sciences & Sociology
+
+#### Sociology
+- Rating: ABS 4
+- Articles: 11
+
+- [The silence of women’s bodies in the workplace: How epistemic injustice maintains norms of the disembodied ideal academic worker](https://doi.org/10.1177/00380385261491232)
+  - DOI: 10.1177/00380385261491232
+  - Authors: Katherine J. C. Sang; Jennifer Remnant; Katriona Myhill; Thomas Calvard; James Richards
+  - Affiliations: Edinburgh Business School, Heriot-Watt University, UK; Strathclyde Business School, University of Strathclyde, UK; University of Edinburgh Business School, University of Edinburgh, UK
+  - Published: 2026-11-20
+  - Crossref journal: Sociology
+  - Abstract:
+    The paper draws on literature on the ideal worker, epistemic injustice and menstrual health at work. We develop theorising regarding people who menstruate at work, highlighting how epistemic injustice in healthcare is translated into epistemic injustice in workplaces and compounded by constructions of the ideal worker. We investigate these issues using qualitative data relating to menstruating employees working in UK Higher Education (HE), showing how distinct ‘burdens of proof’ operate on subjugated and marginalised workers. Women are not expected to prove menstruation, but their symptoms are often dismissed or ignored facing pressures to self-silence to better to conform to the ideal academic worker. Contrastingly, women with gynaecological health conditions are required to evidence their conditions via formal diagnosis to legitimise their deviation from ideal worker norms, despite challenges accessing appropriate healthcare. As such, women face epistemic injustices at work and in healthcare, which ultimately reinforces marginalisation.
+
+- [The precarious privilege of international capital in France](https://doi.org/10.1177/00380385261497646)
+  - DOI: 10.1177/00380385261497646
+  - Authors: Anne-Sophie Delval; Maxime Behar
+  - Affiliations: University of Lausanne, Switzerland; University of Strasbourg, France
+  - Published: 2026-11-20
+  - Crossref journal: Sociology
+  - Abstract:
+    This article examines the precarious privilege of international capital among French graduates navigating transnational professional fields. Drawing on interviews with 42 French alumni of the College of Europe and Swiss Hospitality Management Schools, it analyses how international capital’s value is contested across early career trajectories. While international education and mobility are often framed as assets for privileged groups, their professional returns remain uncertain. The article advances precarious privilege to capture situations in which recognised markers of privilege – international credentials, cosmopolitan dispositions, and mobility resources – coexist with economic and symbolic instability. Focusing on labour market entry and return migration to France, it shows that international capital may generate symbolic distinction at the point of educational acquisition but becomes fragile within nationally structured regimes of recognition. The findings contribute to debates on transnational social reproduction by demonstrating the challenges encountered in the convertibility of internationalisation.
+
+- [Principles of a field theory-based sociology of artificial intelligence](https://doi.org/10.1177/00380385261491623)
+  - DOI: 10.1177/00380385261491623
+  - Authors: Zheng Liu
+  - Affiliations: University of Bristol, UK
+  - Published: 2026-11-20
+  - Crossref journal: Sociology
+  - Abstract:
+    Current sociological analysis of artificial intelligence (AI) appears to be overly empirically driven, extensively examining its applications and impacts, while lacking the capacity to properly theorise AI’s social nature and genesis. This paper addresses this gap by advancing a new, field theory-based framework for analysing AI – not as a technological artefact but as a socially-embedded practice shaped by power struggles over capital in various fields of AI innovation. This framework comprises four organising principles: shifting the analytical focus to the social practice of AI innovation; examining how AI innovation is shaped by competition over innovational capital and legitimacy; analysing the field of AI innovation as a multidimensional space of interrelated subfields; and situating the analysis of AI innovation within the broader field of geopolitical power struggle. By applying field theory to the analysis of AI, this framework advances both the sociological study of AI and the development of field theory in the technological age.
+
+- [‘Does that mean I’m actually old?’: Infrastructural rupture and the social constitution of ageing in digital societies](https://doi.org/10.1177/00380385261491616)
+  - DOI: 10.1177/00380385261491616
+  - Authors: Ben Kerrane; Chihling Liu
+  - Affiliations: Manchester Metropolitan University Business School, UK; Lancaster University Management School, Lancaster University, UK
+  - Published: 2026-11-19
+  - Crossref journal: Sociology
+  - Abstract:
+    This paper examines how everyday encounters with digital technology shape the negotiation of ageing, identity, and finitude in later life. Drawing on qualitative interviews with 20 older adults in the United Kingdom and theorised through Simone de Beauvoir’s account of ageing-as-rupture, we suggest that digital infrastructures increasingly constitute a site through which ageing is socially constituted. We introduce the concept of ‘infrastructural rupture’ to describe the existential disruption generated by digital systems – impersonal, iterative, and structurally embedded in everyday life. Our analysis demonstrates how technological competence operates as moral capital through which older adults defer identification with ‘old age’, and how episodes of digital disruption render finitude salient. We further show that the capacity to repair rupture is stratified by class and shaped by gender, advancing sociological understandings of ageing, recognition, and digital life.
+
+- [On normative reflexivity](https://doi.org/10.1177/00380385261487066)
+  - DOI: 10.1177/00380385261487066
+  - Authors: Galen Watts; Tariq Modood
+  - Affiliations: Sociology and Legal Studies, University of Waterloo, ON, Canada; Sociology, Politics, and Public Policy, University of Bristol, UK
+  - Published: 2026-11-19
+  - Crossref journal: Sociology
+  - Abstract:
+    Debates about normativity have long shaped sociological self-understanding, often crystallizing into oppositions between value-free science and ethically engaged critique. This article argues this binary framing obscures a more fundamental issue: not whether sociology is normative, but how normativity is handled within sociological practice. We introduce normative reflexivity as a disciplinary virtue, understood as the capacity and willingness to recognize, articulate, justify, and revise the value assumptions that shape sociological inquiry. Drawing on Michael Burawoy’s fourfold typology of professional, policy, critical, and public sociology, we show that each variety institutionalizes a distinctive configuration of epistemic and ethical values, and integrates normativity into different levels and stages of the research process. When cultivated, normative reflexivity supports transparency, accountability, and pluralistic engagement; when absent, each sociological type tends toward characteristic pathological forms. We contend that much that ails contemporary sociology can be chalked up to a failure to institutionalize this vital virtue.
+
+- [Negotiating post-military identities: Identity verification and wellbeing across the military to civilian transition](https://doi.org/10.1177/00380385261491245)
+  - DOI: 10.1177/00380385261491245
+  - Authors: Rebecca O’Hanlon; Chris Mackintosh; Ben Ives
+  - Affiliations: Department of Sport, Exercise and Health, University of the West of Scotland, Glasgow, UK; Manchester Metropolitan University, Institute of Sport, UK
+  - Published: 2026-11-19
+  - Crossref journal: Sociology
+  - Abstract:
+    Despite growing academic interest in the military to civilian transition, sociological exploration is limited. While it is recognised that adjusting to civilian life is not a simple shift from one fixed identity to another, the underpinning mechanisms and wellbeing implications remain underexplored. Drawing on in-depth narrative interviews with 10 military veterans, conducted as part of an 18-month ethnography, this paper advances sociological understanding of the military to civilian transition by examining the multiple identities beyond the military/civilian dichotomy. We identify four strategies employed by veterans to navigate identity disruption, focusing on identity verification and subsequent implications for wellbeing. Underpinned by a symbolic interactionist theory frame, our analysis suggests that these strategies prolong the emotional distress associated with enacting the military identity in civilian life. This highlights the complex nature of identity negotiation across the transition and offers important implications for supporting veterans in developing post-service identities that facilitate positive wellbeing.
+
+- [Invisible cost of visibility: Emotional aspects of the relationship between migrants and identity documents in Spain](https://doi.org/10.1177/00380385261491628)
+  - DOI: 10.1177/00380385261491628
+  - Authors: Gülce Şafak Özdemir; Luisa Faustini Torres; Sevda Tunaboylu
+  - Affiliations: Harvard University, USA; University of Birmingham, UK; Automous University of Barcelona, Spain; Pompeu Fabra University, Barcelona, Spain; University of Barcelona, Spain; McGill University, Canada
+  - Published: 2026-11-19
+  - Crossref journal: Sociology
+  - Abstract:
+    Drawing on 23 interviews with migrants in Barcelona, we examine how migrants develop complex emotional relationships with their identity documents (IDs), particularly passports and residence permits. These documents become emotionally charged while simultaneously mediating migrants’ experiences of visibility to the state. While prior research has examined the bureaucratic and legal aspects of IDs, this article fills a gap by exploring the emotional dimensions of migrant–document relationships. We introduce the concept of ‘invisible costs’ to capture the often-overlooked emotional burdens of identification that emerge through the process of becoming visible to the state. By moving beyond a bureaucratic and legal reading of IDs, we show how they embody both negative (anger, anxiety, fear) and positive (hope, relief, satisfaction, happiness) emotions that, in turn, affect migrants’ behaviour.
+
+- [Community studies, whiteness and the politics of method in post-industrial Britain](https://doi.org/10.1177/00380385261504354)
+  - DOI: 10.1177/00380385261504354
+  - Authors: Sacha Hilhorst
+  - Affiliations: University of Manchester, UK; London School of Economics and Political Science, UK
+  - Published: 2026-11-19
+  - Crossref journal: Sociology
+  - Abstract:
+    Many sociological concepts were forged through studies of industrial communities. Mid-20th-century studies of those who lived near and worked in car factories, aluminium works or pits yielded insights into community, class and culture. Recent years have seen a return of the (post-)industrial community study, as researchers draw on the method to understand shifting identities and political subjectivities in now-deindustrialised places. Yet, the methodological legacy of the community study is a troubling one. Taking the tools of anthropology, social scientists turned the ethnographic gaze onto ‘ordinary’ inhabitants of the British Isles, eliding the imperial entanglements of everyday life and rehearsing an idiom of whiteness and respectability. The methodological foundations of research on post-industrial communities render it at risk of doing the same. Outlining dilemmas from my own study of a former steelmaking town, this paper develops Bhambra’s concept of ‘methodological whiteness’ and draws lessons from the history of the community study.
+
+- [Book review: Ryan Davey,                     <i>The Personal Life of Debt: Coercion, Subjectivity and Inequality in Britain</i>                     DaveyRyan, The Personal Life of Debt: Coercion, Subjectivity and Inequality in Britain, Bristol University Press: Bristol, 2025; 224 pp.: ISBN: 9781529239423](https://doi.org/10.1177/00380385261504357)
+  - DOI: 10.1177/00380385261504357
+  - Authors: Lianqing Jia
+  - Affiliations: Hangzhou Dianzi University, China
+  - Published: 2026-11-19
+  - Crossref journal: Sociology
+
+- [Between person and god: Reversible asymmetrical intimacy, memory and noise in human–AI love](https://doi.org/10.1177/00380385261489174)
+  - DOI: 10.1177/00380385261489174
+  - Authors: Liang Ge
+  - Affiliations: Sociology Department, University of Manchester, UK
+  - Published: 2026-11-19
+  - Crossref journal: Sociology
+  - Abstract:
+    This article introduces reversible asymmetrical intimacy as a concept for understanding human–AI love as practised on Xingye, China’s leading AI companion application. Drawing on a 19-month digital ethnography, including 25 interviews with women-identifying users, I suggest AI love is organised through three interrelated operations: asymmetry , as users both make and depend on the beloved (the creature/god axis); reversibility , as the relation is structurally open to deletion, rollback, restart and memory editing; and intimacy , as a materially organised, routinised and affectively consequential form of attachment. Extending and challenging Giddens’s pure relationship and Jamieson’s intimacy-as-practice, I name a mode of attachment in which continuity is not accumulated but curated, and conflict need not be endured but may be rewound. Memory is the infrastructure sustaining the beloved, while censorship and content moderation are not external to AI love but constitutive conditions of it: the beloved is always also governed and revocable.
+
+- [Adaptive meritocracy: Legitimation strategies under rentier capitalism](https://doi.org/10.1177/00380385261489188)
+  - DOI: 10.1177/00380385261489188
+  - Authors: Gerbrand Tholen
+  - Affiliations: Department of Sociology and Criminology, City St George’s, University of London, UK
+  - Published: 2026-11-19
+  - Crossref journal: Sociology
+  - Abstract:
+    Meritocratic beliefs have proven surprisingly durable despite wealth being increasingly derived from asset ownership rather than productive contribution, creating a fundamental legitimation challenge for a paradigm that traditionally links rewards to skill, effort, talent and foresight. Through analysis of inherited wealth and cryptocurrency, the article demonstrates how meritocracy adapts to rentier capitalism not by inventing new virtues but by stretching existing ones to cover labour that manages, defends, maintains and legitimates claims over existing assets. Drawing on existing empirical studies, the analysis identifies consistent symbolic work across both forms of rentiership. Yet the two cases resolve this shared pressure differently. Meritocratic belief persists not despite rentier capitalism but through this situated legitimation work, advancing understanding of ideological durability under conditions of deepening inequality.
