@@ -27691,12 +27691,236 @@
       "abs_journal_title": "Journal of Product Innovation Management",
       "published_date": "2026-11-19",
       "first_seen": "2026-11-20T16:03:48.957474+00:00"
+    },
+    "10.1016/j.jbusvent.2026.106667": {
+      "title": "Dismantling organized crime's “protective umbrella”: How the downfall of corrupt officials fuels urban entrepreneurship in China",
+      "journal": "Journal of Business Venturing",
+      "abs_journal_title": "Journal of Business Venturing",
+      "published_date": "2027-01-01",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1108/ijopm-01-2026-0153": {
+      "title": "Too lean? Exploring the nonlinear environmental implications of Factory Physics",
+      "journal": "International Journal of Operations &amp; Production Management",
+      "abs_journal_title": "International Journal of Operations and Production Management",
+      "published_date": "2026-11-24",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1177/01492063261501111": {
+      "title": "Cognitive Ambidexterity: Balancing Algorithmic Efficiency and Contextual Judgement in AI-Enabled Decision Systems",
+      "journal": "Journal of Management",
+      "abs_journal_title": "Journal of Management",
+      "published_date": "2026-11-21",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1177/00031224261498245": {
+      "title": "“Sit Nice!”: Peer Culture, Teacher Capacity, and Joint Socialization Efforts in Preschool",
+      "journal": "American Sociological Review",
+      "abs_journal_title": "American Sociological Review",
+      "published_date": "2026-11-21",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1007/s11142-026-10001-4": {
+      "title": "Disclosing work-from-home flexibility to compete for talent? Evidence from job postings",
+      "journal": "Review of Accounting Studies",
+      "abs_journal_title": "Review of Accounting Studies",
+      "published_date": "2026-11-21",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.2308/tar-2024-0581": {
+      "title": "The Effect of Cost Elasticity Choice on Loss Reversal",
+      "journal": "The Accounting Review",
+      "abs_journal_title": "Accounting Review",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1086/745091": {
+      "title": "Deterrence or Backlash? Arrests and the Dynamics of Domestic Violence",
+      "journal": "Journal of Political Economy",
+      "abs_journal_title": "Journal of Political Economy",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1177/10422587261500357": {
+      "title": "War and Entrepreneurship: A Synthetic Control Study of the Russia-Ukraine Conflict",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1177/00018392261502412": {
+      "title": "Book Review: Fayolle, A., Le Pontois, S., &amp; Pelly, R. D. M. (Eds.). Big questions and great answers in entrepreneurship research: Discussing up-to-date methodological and philosophical issues FayolleA.Le PontoisS.PellyR. D. M. (Eds.). (2024). Big questions and great answers in entrepreneurship research: Discussing up-to-date methodological and philosophical issues.Edward Elgar Publishing. 376 pp. ISBN 978 1 80088 865 4",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.5465/amr.2024.0336": {
+      "title": "Organizational Goal Hierarchies in the Age of Artificial Intelligence: A Dynamic Behavioral Perspective",
+      "journal": "Academy of Management Review",
+      "abs_journal_title": "Academy of Management Review",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1177/00380385261484085": {
+      "title": "Trends in sociology research methods in the 21st century: Automated journal article coding using large language models",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/01621459.2026.2763643": {
+      "title": "Simultaneous Confidence Bands for Time-Varying Hazard Ratios with Interval-Censored Data",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/01621459.2026.2760596": {
+      "title": "Robust Causal Inference for EHR-based Studies of Point Exposures with Missingness in Eligibility Criteria",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/01621459.2026.2764375": {
+      "title": "Optimal individualized treatment regimes for survival data with competing risks",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/01621459.2026.2760593": {
+      "title": "Online Learning of Functional Principal Component Analysis for Multidimensional Functional Data",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/01621459.2026.2758421": {
+      "title": "Nonparametric efficient causal estimation of the intervention-specific expected number of recurrent events with continuous-time targeted maximum likelihood and highly adaptive lasso estimation",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/01621459.2026.2763830": {
+      "title": "Neyman-Pearson and equal opportunity: when economic efficiency meets societal fairness in classification",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/01621459.2026.2762129": {
+      "title": "Interactively Exploring High-Dimensional Data and Models in R.",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/01621459.2026.2762132": {
+      "title": "High-Dimensional Probability: An Introduction with Applications in Data Science, 2nd ed.",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/01621459.2026.2763634": {
+      "title": "Deep Learning for Individual Heterogeneity*",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/01621459.2026.2762546": {
+      "title": "Bayesian Deep Generative Models for Multiplex Networks with Multiscale Overlapping Clusters",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/01621459.2026.2761034": {
+      "title": "A robust regression approach to synthetic control with interference",
+      "journal": "Journal of the American Statistical Association",
+      "abs_journal_title": "Journal of the American Statistical Association",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1080/00076791.2026.2724768": {
+      "title": "Competitive advantages of family firms: A historical management perspective on a Spanish chocolatier",
+      "journal": "Business History",
+      "abs_journal_title": "Business History",
+      "published_date": "2026-11-20",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1016/j.jinteco.2026.104352": {
+      "title": "Communication costs, direct flights and international trade",
+      "journal": "Journal of International Economics",
+      "abs_journal_title": "Journal of International Economics",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1016/j.jet.2026.106277": {
+      "title": "Efficiency with Political Power Dynamics and Costly Policy Change",
+      "journal": "Journal of Economic Theory",
+      "abs_journal_title": "Journal of Economic Theory",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1016/j.jet.2026.106248": {
+      "title": "Aggregation in networks",
+      "journal": "Journal of Economic Theory",
+      "abs_journal_title": "Journal of Economic Theory",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1016/j.jeconom.2026.106354": {
+      "title": "Testing strong exogeneity in proxy SVARs with internal synthetic proxies",
+      "journal": "Journal of Econometrics",
+      "abs_journal_title": "Journal of Econometrics",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1016/j.jcorpfin.2026.103111": {
+      "title": "The supply chain of credit: Collateral-based easing and firms' trade credit provision",
+      "journal": "Journal of Corporate Finance",
+      "abs_journal_title": "Journal of Corporate Finance",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1016/j.jcorpfin.2026.103109": {
+      "title": "Good news, better credit? The role of internet media tone in trade credit financing",
+      "journal": "Journal of Corporate Finance",
+      "abs_journal_title": "Journal of Corporate Finance",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1016/j.jcorpfin.2026.103110": {
+      "title": "Climate extrapolation and relative asset prices: Evidence from Bordeaux Premier Cru wine auctions",
+      "journal": "Journal of Corporate Finance",
+      "abs_journal_title": "Journal of Corporate Finance",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1016/j.ejor.2026.11.012": {
+      "title": "Optimising intermodal transportation and last-mile delivery: A decomposition approach",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
+    },
+    "10.1016/j.ejor.2026.11.016": {
+      "title": "An efficient mixed-integer linear programming formulation for solving influence diagrams",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-21T15:18:10.976565+00:00"
     }
   },
-  "last_run": "2026-11-20T16:03:48.957474+00:00",
+  "last_run": "2026-11-21T15:18:10.976565+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-11-19",
-    "end_date": "2026-11-20"
+    "start_date": "2026-11-20",
+    "end_date": "2026-11-21"
   }
 }
