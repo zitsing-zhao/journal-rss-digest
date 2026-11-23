@@ -2,8 +2,8 @@ name: Daily ABS Crossref Digest
 
 on:
   schedule:
-    - cron: "7,27,47 6 * * *"
-    - cron: "7,27,47 7 * * *"
+    - cron: "7,27,47 1 * * *"
+    - cron: "7,27,47 2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -30,7 +30,7 @@ jobs:
           local_hour="$(TZ=Europe/Berlin date -d "$(date -u +%Y-%m-%d) ${scheduled_utc_hour}:${scheduled_utc_minute} UTC" +%H)"
           echo "Scheduled UTC: ${scheduled_utc_hour}:${scheduled_utc_minute}; Europe/Berlin hour: ${local_hour}"
 
-          if [ "$local_hour" = "08" ]; then
+          if [ "$local_hour" = "03" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
