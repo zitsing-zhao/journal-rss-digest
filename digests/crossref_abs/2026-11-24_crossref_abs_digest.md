@@ -1,0 +1,167 @@
+# Daily ABS 4*/4 Crossref Digest - 2026-11-24
+
+Generated at: 2026-11-24 12:26 UTC
+Crossref date mode: `created`
+Window: `2026-11-23` to `2026-11-24`
+New papers: 12
+
+## ABS 4*
+
+### Information Management
+
+#### Information Systems Research
+- Rating: ABS 4*
+- Articles: 1
+
+- [Understanding the Prompting Effects of Chain-of-Thought on Human Collaboration with Generative AI](https://doi.org/10.1287/isre.2024.1314)
+  - DOI: 10.1287/isre.2024.1314
+  - Authors: Xusen Cheng; Lu Gao; Qiguang Yang; Xin (Robert) Luo
+  - Affiliations: Renmin University of China, School of Information, Beijing, China; Renmin University of China, School of Journalism and Communication, Beijing, China; Hong Kong Metropolitan University, Lee Shau Kee School of Business and Administration, Hong Kong, Hong Kong
+  - Published: 2026-11-24
+  - Crossref journal: Information Systems Research
+  - Abstract:
+    It is well established that Chain-of-Thought (CoT) reasoning improves model performance in Generative Artificial Intelligence (GenAI). Far less understood is whether presenting CoT reasoning in AI-enabled interfaces enhances users’ perceived trust in GenAI’s competence in performing tasks. Drawing on the Heuristic-Systematic Model, we develop a theoretical framework in which CoT presence and quality trigger either heuristic perceptions of transparency or systematic perceptions of diagnosticity and germane cognitive load, with distinct mechanisms across task-difficulty conditions. Across a series of online experiments, we identify two key findings. First, high-quality CoT consistently enhances perceived trust in GenAI’s ability to generate correct outputs, regardless of task difficulty. Notably, under high-difficulty conditions, users’ trust in GenAI is primarily driven by the greater germane cognitive load perceived from high-quality CoT, whereas under low-difficulty conditions, trust is primarily driven by perceived transparency or diagnosticity. Second, low-quality CoT reduces users’ competence trust in GenAI that generates incorrect outputs only under low-difficulty conditions and only when users engage in careful processing, operating through perceived diagnosticity. Yet, under high-difficulty conditions, low-quality CoT amplifies trust via perceived transparency. By disentangling the cognitive pathways through which CoT shapes competence trust in GenAI and by identifying task difficulty as a critical boundary condition, these findings deepen our understanding of transparent reasoning in AI interfaces and offer valuable insights for deploying CoT in GenAI systems.
+
+### Operations Research & Management Science
+
+#### Operations Research
+- Rating: ABS 4*
+- Articles: 1
+
+- [Spoofing and Manipulating Order Books with Learning Algorithms](https://doi.org/10.1287/opre.2025.1889)
+  - DOI: 10.1287/opre.2025.1889
+  - Authors: Alvaro Cartea; Patrick Chang; Gabriel Garcia Arenas
+  - Affiliations: University of Oxford, Mathematics, Oxford, United Kingdom of Great Britain and Northern Ireland; University of Oxford, Oxford, United Kingdom of Great Britain and Northern Ireland; Oxford, United Kingdom of Great Britain and Northern Ireland
+  - Published: 2026-11-24
+  - Crossref journal: Operations Research
+  - Abstract:
+    We propose a dynamic model of the limit order book to derive conditions to test whether it is optimal to manipulate the order book. Our results show that as a market maker becomes more tolerant to bearing inventory risk, optimal strategies that manipulate the book occur more frequently. Manipulation helps to revert inventory to an optimal level and to execute round-trip trades with limit orders at a higher probability than was otherwise likely to occur. Spoofing is a special case of quote-based manipulation where the market maker prefers that the manipulative limit orders are not filled. Overall, if certain conditions hold, then the optimal trading strategy is to manipulate the limit order book. We use high-frequency data to check our conditions and show that the conditions for manipulation hold in Nasdaq’s limit order book.
+
+## ABS 4
+
+### Economics
+
+#### Journal of the European Economic Association
+- Rating: ABS 4
+- Articles: 1
+
+- [The Costs and Benefits of Guest Worker Programs: Experimental Evidence from the India-UAE Migration Corridor,](https://doi.org/10.1093/jeea/jvag075)
+  - DOI: 10.1093/jeea/jvag075
+  - Authors: Suresh Naidu; Yaw Nyarko; Shing-Yi Wang
+  - Affiliations: Columbia University ,; New York University ,; University of Pennsylvania ,
+  - Published: 2026-11-23
+  - Crossref journal: Journal of the European Economic Association
+  - Abstract:
+    Abstract We estimate the returns to temporary, legal migration using a randomized experiment with Indian applicants for construction jobs in the UAE. Individuals who migrate doubled their earnings. However, migrants paid substantial upfront costs to labor intermediaries and reported significant falls in well-being. We extrapolate linear marginal treatment effects for workers who declined the offer and find they would have similar pecuniary returns to migration but would experience larger drops in well-being. We estimate that accounting for the fall in well-being and the intermediary costs reduce the welfare gains of temporary migration to the UAE to one-half of the pecuniary gains alone.
+
+### General Management, Ethics & CSR
+
+#### Journal of Management Studies
+- Rating: ABS 4
+- Articles: 1
+
+- [Coming Clean on Hidden Ties: How Transparency in Related‐Party Transactions Shapes Business Group Internal Organization](https://doi.org/10.1111/joms.70191)
+  - DOI: 10.1111/joms.70191
+  - Authors: Marina Gama; Rodrigo DeMello; Aldo Musacchio; Tobias Parente
+  - Affiliations: São Paulo School of Business Administration (FGV‐SP); Bentley University; Brandeis University; University of São Paulo (PPGA/FEA‐USP)
+  - Published: 2026-11-24
+  - Crossref journal: Journal of Management Studies
+  - Abstract:
+    Abstract This study demonstrates that transparency reforms trigger organizational restructuring within pyramidal business groups rather than simply eliminating opacity. Building on pyramidal ownership theory, we argue that enhanced disclosure alters the relative value of security benefits and diversion across hierarchical layers and jurisdictions. Exploiting the 2008 Brazilian reform of related‐party transaction disclosure as a natural experiment and leveraging a unique dataset covering both publicly traded and privately owned business groups, we show that increased transparency shapes the top layers of the pyramid to maximize security benefits. At the same time, to partially offset the loss of private benefits of control due to increased diversion costs, we find that groups increase the number of offshore affiliates to relocate diversion‐prone activities to jurisdictions with weaker disclosure regimes. These findings contribute to related literature by demonstrating that transparency reforms trigger organizational adaptation across both hierarchical and geographic dimensions.
+
+### HRM & Employment Studies
+
+#### British Journal of Industrial Relations
+- Rating: ABS 4
+- Articles: 1
+
+- [Knowledge‐Based Industry Sectoral Regimes and Internal Labour Flexibility: The Visibility and Adjustment of Overtime During Systemic Disruption in the United Kingdom](https://doi.org/10.1111/bjir.70087)
+  - DOI: 10.1111/bjir.70087
+  - Authors: Ramin Taghinejad; Ali Intezari; Peyman Akhavan; Adam Pawliczek
+  - Affiliations: Faculty of Management Prague University of Economics and Business Jindřichův Hradec Czech Republic; UQ Business School, Faculty of Business, Economics and Law The University of Queensland Brisbane Queensland Australia; London College of Contemporary Arts Global University Systems London UK; Department of Management Moravian Business College Olomouc Olomouc Czech Republic
+  - Published: 2026-11-23
+  - Crossref journal: British Journal of Industrial Relations
+  - Abstract:
+    ABSTRACT Understanding how firms adjust labour input during economic disruptions requires attention not only to employment changes but also to the internal mechanisms through which work is reorganised. Although industrial relations research distinguishes between internal and external labour flexibility, less is known about how industry sectoral regimes are associated with observable differences in internal working‐time adjustment. This study examines whether manufacturing and knowledge‐intensive services (KIS) differ in their reliance on recorded paid overtime as an observable form of internal working‐time adjustment and whether this difference changes during systemic disruption. Using UK regional panel data from 2016 to 2025, we measure overtime dependence (OD) as the ratio of paid overtime hours to total paid hours. Fixed‐effects models with region and year effects examine sectoral differences, whereas dynamic specifications assess persistence in overtime utilisation. The analysis focuses on the 2020–2021 COVID‐19 period, with alternative periods used for robustness analysis. The results show that manufacturing exhibits substantially higher OD than KIS, but this difference narrows significantly during the 2020–2021 systemic disruption period, driven primarily by a sharper contraction in manufacturing OD. Alternative temporal specifications provide additional evidence on the timing and robustness of this change. Lower recorded paid overtime in KIS should not be interpreted as lower labour flexibility, because adjustment may occur through alternative mechanisms not observed in the present data. The study contributes to industrial relations research by conceptualising recorded paid overtime as an observable indicator of one internal working‐time adjustment margin rather than a comprehensive measure of labour flexibility.
+
+### Innovation
+
+#### Quantitative Science Studies
+- Rating: ABS 4
+- Articles: 4
+
+- [The Geography of Nobel Prize Nomination, 1901–1975](https://doi.org/10.1162/qss.a.526)
+  - DOI: 10.1162/qss.a.526
+  - Authors: Chad M. Topaz; Anvi Kurongonayini; Bennett Ptak; Arden Fluehr; Ariana Mendible; Rachel Roca; Nancy Rodríguez; Lu Xian; Régan Schwartz; Jude Higdon
+  - Affiliations: QSIDE Institute; Williams College; University of Colorado–Boulder; Seattle University; Michigan State University; University of Michigan; Bennington College
+  - Published: 2026-11-26
+  - Crossref journal: Quantitative Science Studies
+  - Abstract:
+    Abstract Nobel laureates are concentrated in a few countries, yet where geographic sorting enters the prize’s selection pipeline remains unknown. From archival, parliamentary, and web sources we construct a five-layer network built around the nomination records of five prizes, 1901–1975, with 512,793 edges and 8,133 identified participants. Although Swedish and Norwegian bodies administer the prizes, the nominators who actually took part were geographically diverse. Within that pool, however, nominators chose same-country nominees 4.85 times as often as random matching would predict. This homophily ratio ranges by discipline from 8.58 in Literature to 3.01 in Physics. With matching restricted to the same prize and year, the ratio is still 3.3. The continent-level ratio rose through the 1940s and stayed elevated as the nominee pool kept diversifying. A model that adjusts for how many nominations each country sent and received yields a roughly fifteenfold same-country premium, still sevenfold after adjusting for shared language. Nominations that crossed geographic regions flowed asymmetrically, with Northern America the dominant net importer. A nominee’s same-country nomination share was negatively associated with eventually winning the prize. In sum, across the stages we can observe, geographic sorting concentrates at the discretionary nomination decision, beyond what the nominator pool’s composition predicts.
+
+- [Preprints Without Curation Are Increasingly Cited by Journals](https://doi.org/10.1162/qss.a.527)
+  - DOI: 10.1162/qss.a.527
+  - Authors: Chiaki Miura; Ichiro Sakata
+  - Affiliations: Department of Engineering, Technology Management and Innovations, The University of Tokyo, Bunkyo, Tokyo 113-0033, Japan
+  - Published: 2026-11-26
+  - Crossref journal: Quantitative Science Studies
+  - Abstract:
+    Abstract The recent strain on peer review systems necessitates publicizing knowledge before formal review. Citing a preprint was traditionally permitted only if marked as provisional and under review; now, preprints remaining only on servers (non-curated preprints) are cited without such indication. Linking six major preprint servers to the world’s largest bibliographic reference database and restricting to top-journal citations, we compare citation rates with a null model of authors indifferent between preprints and vetted articles. Preprints are cited 5-10 times less often than their share of the literature predicts, yet journal articles are increasingly likely to cite preprints, a rise robust since 2013 and exceeding what exponential submission growth alone would produce. Confounding factors (faster publishing cycles, a few highly cited preprints) cannot explain this shift. Unexpectedly, the COVID-19 pandemic did not amplify this growth but coincided with a deceleration in citation rates. These findings indicate a structural shift in citing behavior: preprints are increasingly perceived as credible regardless of later publication status, motivating attention to how citation conventions and journal policies should accommodate their expanding role. Our evidence comes from biology, where preprint adoption has expanded rapidly beyond arXiv’s strongholds of physics and mathematics; generalizability to other disciplines remains open.
+
+- [Multi-source, multi-level, graph-based institutional collaboration indicators for research assessment with Ricgraph](https://doi.org/10.1162/qss.a.524)
+  - DOI: 10.1162/qss.a.524
+  - Authors: Rik D.T. Janssen
+  - Affiliations: Utrecht University, Utrecht, the Netherlands
+  - Published: 2026-11-24
+  - Crossref journal: Quantitative Science Studies
+  - Abstract:
+    Abstract Researchers rarely work alone: they work with colleagues within and between organizations on all organizational levels. They collaborate on a variety of research results beyond traditional publications. However, collaboration indicators in research assessment usually rely on a single source, focus on top-level institutions, and may focus on journal articles only. This limits what can be seen about collaborations within organizations, and for results such as data sets and software. This article introduces a multi-source, multi-level, graph-based approach to collaboration indicators using Ricgraph (Research in context graph). Publications, data sets, software, persons, and organizational information from multiple systems are integrated into a single graph. Collaborations are defined as shared research results connecting organizations via persons. They are quantified on top-level organization, as well as on faculty and departmental level, providing a concrete operationalization of multi-source, multi-level collaboration indicators for science-of-science research. Combining multiple sources substantially increases the observed coverage of collaborations, especially for data set and software collaborations (&gt;400% for sources in this article, compared to a single source). Multi-level collaborations overviews reveal patterns that are invisible at the top-level alone. These results illustrate how multi-source, multi-level, graph-based collaboration indicators can complement citation-based metrics in responsible research assessment and institutional evaluation.
+
+- [Between Policy and Proposal: A Quantitative Analysis of Research Data Management in DFG Individual Grants (2017–2025)](https://doi.org/10.1162/qss.a.525)
+  - DOI: 10.1162/qss.a.525
+  - Authors: Richard Heidler; Jan Rohden; Christoph Funk
+  - Affiliations: Information Management, Deutsche Forschungsgemeinschaft, Germany; Scientific Library Services and Information Systems, Deutsche Forschungsgemeinschaft, Germany
+  - Published: 2026-11-24
+  - Crossref journal: Quantitative Science Studies
+  - Abstract:
+    Abstract Research funding agencies increasingly require researchers to describe how they will manage and share research data, yet little is known about how such policy requirements are reflected in grant proposals. This paper examines how research data management (RDM) is documented in proposals submitted to the German Research Foundation’s (DFG) Individual Research Grants Program between 2017 and 2025, and how these descriptions evolve over time and across disciplines. To address this question, we combine Natural Language Processing (NLP), Machine Learning (ML), and repository linking to analyze a large corpus of proposal texts. This approach enables a systematic assessment of RDM sections and the identification of referenced repositories. The results show growing awareness of RDM, reflected in longer, more substantive statements and increasing repository references. We also find disciplinary differences in how RDM is articulated, pointing to varying levels of maturity across fields. A marked shift in proposal documentation following the introduction of a DFG checklist in 2021 suggests that policy instruments are associated with changes in how RDM is documented in proposals. Overall, the findings indicate that funding agencies may shape how RDM is articulated in proposals through guidance-based approaches, providing insights into the monitoring and design of Open Science policies.
+
+#### Scientometrics
+- Rating: ABS 4
+- Articles: 1
+
+- [Successive h-indices using OpenAlex](https://doi.org/10.1007/s11192-026-05899-1)
+  - DOI: 10.1007/s11192-026-05899-1
+  - Authors: Nicholas Stearns Selby
+  - Published: 2026-11-24
+  - Crossref journal: Scientometrics
+  - Abstract:
+    Abstract I apply Schubert’s successive h-index framework to OpenAlex, computing h $$_{2}$$ 2 for 22,980 institutions and h 3 for 214 countries across 13.3 million researchers. The overall institution-level ranking is substantially shaped by biomedical field representation: Medicine accounts for 24% of the author pool and institutions without a large biomedical program are in general structurally disadvantaged, though the overall ranking is not reducible to biomedical representation alone. Field-specific decomposition is more informative: according to this metric, Wageningen University leads Agricultural & Biological Sciences and the University of Chinese Academy of Sciences leads Environmental Science, Materials Science, and Engineering; Carnegie Mellon leads Computer Science from 159th; Brazil holds two of the world’s top-six dental-research institutions by field h $$_{2}$$ 2 . I normalize for group size using Egghe’s Lotkaian scaling and find that Italy and Japan tie on h 3 despite a 6 $$\times$$ × difference in institutional scale.
+
+### Psychology (Work, Org & OB)
+
+#### Work and Stress
+- Rating: ABS 4
+- Articles: 1
+
+- [Transitions in bullying exposure over time: A person-based analysis examining how role conflict and clarity relate to face-to-face and cyberbullying target profiles](https://doi.org/10.1080/02678373.2026.2766412)
+  - DOI: 10.1080/02678373.2026.2766412
+  - Authors: Samuel Farley; Iain Coyne; Madeline Carter; Neill Thompson
+  - Affiliations: Sheffield University Management School, University of Sheffield; Loughborough Business School, Loughborough University; School of Psychology, Northumbria University
+  - Published: 2026-11-23
+  - Crossref journal: Work &amp; Stress
+
+### Social Sciences & Sociology
+
+#### Sociology
+- Rating: ABS 4
+- Articles: 1
+
+- [‘The dutiful mum thing’: Family solidarity in the context of Turner Syndrome](https://doi.org/10.1177/00380385261504329)
+  - DOI: 10.1177/00380385261504329
+  - Authors: Kriss Fearon
+  - Affiliations: De Montfort University, Leicester, UK
+  - Published: 2026-11-24
+  - Crossref journal: Sociology
+  - Abstract:
+    Intrafamilial egg donation enables an infertile woman to have a genetically-linked child using eggs from a female relative. This practice provides a lens to scrutinise current practices of family solidarity; the social expectation that family members will support each other. Families affected by Turner Syndrome, a chromosome condition usually resulting in infertility, offer a unique perspective on how perceptions of family solidarity influence attitudes to intrafamilial donation. This article explores attitudes to sister and maternal egg donation, drawn from a qualitative study exploring reproductive choices in 19 women with Turner Syndrome and 11 mothers of girls with Turner Syndrome. It shows how reproductive technologies can reshape expectations about family solidarity and maternal responsibility, demonstrating the delicate balance between creating genetically-connected family and maintaining family harmony.

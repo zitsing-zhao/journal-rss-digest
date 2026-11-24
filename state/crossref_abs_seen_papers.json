@@ -28174,12 +28174,96 @@
       "abs_journal_title": "Journal of Corporate Finance",
       "published_date": "2026-11-01",
       "first_seen": "2026-11-23T19:11:59.838726+00:00"
+    },
+    "10.1162/qss.a.526": {
+      "title": "The Geography of Nobel Prize Nomination, 1901–1975",
+      "journal": "Quantitative Science Studies",
+      "abs_journal_title": "Quantitative Science Studies",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
+    },
+    "10.1162/qss.a.527": {
+      "title": "Preprints Without Curation Are Increasingly Cited by Journals",
+      "journal": "Quantitative Science Studies",
+      "abs_journal_title": "Quantitative Science Studies",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
+    },
+    "10.1287/opre.2025.1889": {
+      "title": "Spoofing and Manipulating Order Books with Learning Algorithms",
+      "journal": "Operations Research",
+      "abs_journal_title": "Operations Research",
+      "published_date": "2026-11-24",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
+    },
+    "10.1287/isre.2024.1314": {
+      "title": "Understanding the Prompting Effects of Chain-of-Thought on Human Collaboration with Generative AI",
+      "journal": "Information Systems Research",
+      "abs_journal_title": "Information Systems Research",
+      "published_date": "2026-11-24",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
+    },
+    "10.1177/00380385261504329": {
+      "title": "‘The dutiful mum thing’: Family solidarity in the context of Turner Syndrome",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-11-24",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
+    },
+    "10.1007/s11192-026-05899-1": {
+      "title": "Successive h-indices using OpenAlex",
+      "journal": "Scientometrics",
+      "abs_journal_title": "Scientometrics",
+      "published_date": "2026-11-24",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
+    },
+    "10.1162/qss.a.524": {
+      "title": "Multi-source, multi-level, graph-based institutional collaboration indicators for research assessment with Ricgraph",
+      "journal": "Quantitative Science Studies",
+      "abs_journal_title": "Quantitative Science Studies",
+      "published_date": "2026-11-24",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
+    },
+    "10.1162/qss.a.525": {
+      "title": "Between Policy and Proposal: A Quantitative Analysis of Research Data Management in DFG Individual Grants (2017–2025)",
+      "journal": "Quantitative Science Studies",
+      "abs_journal_title": "Quantitative Science Studies",
+      "published_date": "2026-11-24",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
+    },
+    "10.1111/joms.70191": {
+      "title": "Coming Clean on Hidden Ties: How Transparency in Related‐Party Transactions Shapes Business Group Internal Organization",
+      "journal": "Journal of Management Studies",
+      "abs_journal_title": "Journal of Management Studies",
+      "published_date": "2026-11-24",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
+    },
+    "10.1080/02678373.2026.2766412": {
+      "title": "Transitions in bullying exposure over time: A person-based analysis examining how role conflict and clarity relate to face-to-face and cyberbullying target profiles",
+      "journal": "Work &amp; Stress",
+      "abs_journal_title": "Work and Stress",
+      "published_date": "2026-11-23",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
+    },
+    "10.1093/jeea/jvag075": {
+      "title": "The Costs and Benefits of Guest Worker Programs: Experimental Evidence from the India-UAE Migration Corridor,",
+      "journal": "Journal of the European Economic Association",
+      "abs_journal_title": "Journal of the European Economic Association",
+      "published_date": "2026-11-23",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
+    },
+    "10.1111/bjir.70087": {
+      "title": "Knowledge‐Based Industry Sectoral Regimes and Internal Labour Flexibility: The Visibility and Adjustment of Overtime During Systemic Disruption in the United Kingdom",
+      "journal": "British Journal of Industrial Relations",
+      "abs_journal_title": "British Journal of Industrial Relations",
+      "published_date": "2026-11-23",
+      "first_seen": "2026-11-24T12:26:27.072383+00:00"
     }
   },
-  "last_run": "2026-11-23T19:11:59.838726+00:00",
+  "last_run": "2026-11-24T12:26:27.072383+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-11-22",
-    "end_date": "2026-11-23"
+    "start_date": "2026-11-23",
+    "end_date": "2026-11-24"
   }
 }
