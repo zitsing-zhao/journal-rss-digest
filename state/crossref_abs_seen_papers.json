@@ -28552,12 +28552,278 @@
       "abs_journal_title": "Journal of Financial Intermediation",
       "published_date": "2026-10-01",
       "first_seen": "2026-11-25T11:16:15.735489+00:00"
+    },
+    "10.1016/j.respol.2026.105667": {
+      "title": "Does training in AI affect PhD students' careers? Evidence from France",
+      "journal": "Research Policy",
+      "abs_journal_title": "Research Policy",
+      "published_date": "2027-03-01",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1016/j.leaqua.2026.102015": {
+      "title": "Toward AI leadership: A systematic literature review of leadership behaviors enacted by conversational agents in psychosocial interventions",
+      "journal": "The Leadership Quarterly",
+      "abs_journal_title": "Leadership Quarterly",
+      "published_date": "2027-01-01",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1016/j.leaqua.2026.102012": {
+      "title": "Leader non-work-related personal resources: Literature review and integrative framework",
+      "journal": "The Leadership Quarterly",
+      "abs_journal_title": "Leadership Quarterly",
+      "published_date": "2027-01-01",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1016/j.leaqua.2026.102025": {
+      "title": "Editorial Board",
+      "journal": "The Leadership Quarterly",
+      "abs_journal_title": "Leadership Quarterly",
+      "published_date": "2026-12-01",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1093/restud/rdag130": {
+      "title": "Juking the Stats: Policing, Misreporting, and Policy Evaluation",
+      "journal": "Review of Economic Studies",
+      "abs_journal_title": "Review of Economic Studies",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1287/orsc.2024.19538": {
+      "title": "Democratic Organizing and Contemporary Managerial Talent Markets: Internal Promotion or External Hiring?",
+      "journal": "Organization Science",
+      "abs_journal_title": "Organization Science",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1177/10422587261496319": {
+      "title": "External Enablement Across Types of Environmental Change: Experimental Evidence on Onset Variance Effects",
+      "journal": "Entrepreneurship Theory and Practice",
+      "abs_journal_title": "Entrepreneurship Theory and Practice",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1007/s11142-026-10003-2": {
+      "title": "XBRL adoption and SEC monitoring",
+      "journal": "Review of Accounting Studies",
+      "abs_journal_title": "Review of Accounting Studies",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1017/s0020818326101519": {
+      "title": "The Dependence Dilemma: Engagement, Vulnerability, and the Politics of Derisking",
+      "journal": "International Organization",
+      "abs_journal_title": "International Organization",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1017/s0020818326101532": {
+      "title": "Territory Without Centralization: Conflicting Spatial Ideologies of the Shogunate, Domains, and Villages in Early Modern Japan",
+      "journal": "International Organization",
+      "abs_journal_title": "International Organization",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1017/s0020818325100933": {
+      "title": "INO volume 80 issue 4 Cover and Front matter",
+      "journal": "International Organization",
+      "abs_journal_title": "International Organization",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1017/s0020818325100945": {
+      "title": "INO volume 80 issue 4 Cover and Back matter",
+      "journal": "International Organization",
+      "abs_journal_title": "International Organization",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1017/s0007123426101835": {
+      "title": "Regional Deprivation, Individual Prospects, and Political Resentment",
+      "journal": "British Journal of Political Science",
+      "abs_journal_title": "British Journal of Political Science",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1017/s0007123426101860": {
+      "title": "Breaking into the Public Sphere: How Protest Tactics Shape Media Visibility",
+      "journal": "British Journal of Political Science",
+      "abs_journal_title": "British Journal of Political Science",
+      "published_date": "2026-11-26",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1287/mnsc.2025.01063": {
+      "title": "When GenAI Increases Inequality: Evidence from a University Debating Competition",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1287/mnsc.2024.04791": {
+      "title": "Scalable Just-in-Time Price Elasticity Estimation",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1287/mnsc.2024.09109": {
+      "title": "Online Job Selection: Reward Rate vs. Remaining Value",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1287/mnsc.2024.08930": {
+      "title": "Machine Learning Vast Dynamic Conditional Covariance Matrices: The Spirit of “Divide and Conquer”",
+      "journal": "Management Science",
+      "abs_journal_title": "Management Science",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1177/01492063261506258": {
+      "title": "Breaking Gender Norms: A Dynamic Perspective on Entering Gender-Atypical Occupations",
+      "journal": "Journal of Management",
+      "abs_journal_title": "Journal of Management",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1177/00018392261509195": {
+      "title": "Book Review: DiResta, R. Invisible rulers: The people who turn lies into reality DiRestaR. (2024). Invisible rulers: The people who turn lies into reality. PublicAffairs. 448 pp. ISBN 1541703375",
+      "journal": "Administrative Science Quarterly",
+      "abs_journal_title": "Administrative Science Quarterly",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1177/09500170261492924": {
+      "title": "The practical logic of professional aspiration among young Chinese actors",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1177/09500170261484735": {
+      "title": "Sorting inequality: The dynamics of occupational segregation and the Black–White earnings gap in Canada",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1177/09500170261497981": {
+      "title": "Desired and undesired identities: A study of Irish peacekeepers",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1177/09500170261497986": {
+      "title": "Agency, care and constraint: Maternal self-employment and the reframing of the adaptive woman",
+      "journal": "Work, Employment and Society",
+      "abs_journal_title": "Work, Employment and Society",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1111/1756-2171.70074": {
+      "title": "Issue Information",
+      "journal": "The RAND Journal of Economics",
+      "abs_journal_title": "RAND Journal of Economics",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1002/sej.70071": {
+      "title": "Parsimonious theorizing",
+      "journal": "Strategic Entrepreneurship Journal",
+      "abs_journal_title": "Strategic Entrepreneurship Journal",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1177/00380385261497599": {
+      "title": "‘Every one should be marked as happy’. Challenging normalisation and expanding the sociozoological imagination in a Qualitative Behaviour Assessment of laboratory mouse welfare",
+      "journal": "Sociology",
+      "abs_journal_title": "Sociology",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1080/14719037.2026.2769357": {
+      "title": "‘\n                    <i>The tech is easy. It’s those other pieces</i>\n                    ’: how civic tech builders of digital infrastructure collaborate with government and shape administrative burdens",
+      "journal": "Public Management Review",
+      "abs_journal_title": "Public Management Review",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1093/jopart/muag034": {
+      "title": "Reconfiguring Boundaries: Institutional Work and the Dynamic Construction of Hybridity in Local Government",
+      "journal": "Journal of Public Administration Research and Theory",
+      "abs_journal_title": "Journal of Public Administration Research and Theory",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1111/gove.70164": {
+      "title": "Linking Women’s Equality With Government Integrity: Can Gender Budgeting Curb Corruption?",
+      "journal": "Governance",
+      "abs_journal_title": "Governance",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1111/1467-8551.70128": {
+      "title": "Moral Licensing Revisited: CSR and Cybersecurity‐related Disclosure After COP21",
+      "journal": "British Journal of Management",
+      "abs_journal_title": "British Journal of Management",
+      "published_date": "2026-11-25",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1016/j.jacceco.2026.101958": {
+      "title": "Public Sentiment and Share Repurchases",
+      "journal": "Journal of Accounting and Economics",
+      "abs_journal_title": "Journal of Accounting and Economics",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1016/j.lrp.2026.102702": {
+      "title": "Trading Across the Taiwan Strait: How Salmon, Ants and Buffalo Navigate Geopolitical Uncertainty?",
+      "journal": "Long Range Planning",
+      "abs_journal_title": "Long Range Planning",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1016/j.jet.2026.106285": {
+      "title": "An Economic Model of Acculturation under Strategic Complements and Substitutes",
+      "journal": "Journal of Economic Theory",
+      "abs_journal_title": "Journal of Economic Theory",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1016/j.jcorpfin.2026.103116": {
+      "title": "Strengthening pledgee rights and stock price crash risk",
+      "journal": "Journal of Corporate Finance",
+      "abs_journal_title": "Journal of Corporate Finance",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1016/j.ejor.2026.11.017": {
+      "title": "Robust offline-network design and quantity-discount procurement for instant retailing with store fulfillment",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1016/j.ejor.2026.11.019": {
+      "title": "Optimal consumption, investment, and life insurance under a dynamic stochastic wealth constraint",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
+    },
+    "10.1016/j.ejor.2026.11.030": {
+      "title": "Generating strongly efficient target for measuring efficiency in integer-valued data envelopment analysis",
+      "journal": "European Journal of Operational Research",
+      "abs_journal_title": "European Journal of Operational Research",
+      "published_date": "2026-11-01",
+      "first_seen": "2026-11-26T10:50:04.850684+00:00"
     }
   },
-  "last_run": "2026-11-25T11:16:15.735489+00:00",
+  "last_run": "2026-11-26T10:50:04.850684+00:00",
   "last_mode": "created",
   "last_window": {
-    "start_date": "2026-11-24",
-    "end_date": "2026-11-25"
+    "start_date": "2026-11-25",
+    "end_date": "2026-11-26"
   }
 }
